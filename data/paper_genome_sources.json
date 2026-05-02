@@ -1,0 +1,4184 @@
+[
+  {
+    "paper_id": 1,
+    "genome_source_id": 1,
+    "genome_source_name": "DOE Joint Genome Institute (Populus trichocarpa genome)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 2,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 2,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 2,
+    "genome_source_id": 4,
+    "genome_source_name": "Gramene",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 2,
+    "genome_source_id": 5,
+    "genome_source_name": "RAP-DB",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 2,
+    "genome_source_id": 6,
+    "genome_source_name": "TIGR",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 2,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 2,
+    "genome_source_id": 8,
+    "genome_source_name": "PlantGDB",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 2,
+    "genome_source_id": 9,
+    "genome_source_name": "UniProt",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 3,
+    "genome_source_id": 10,
+    "genome_source_name": "CottonMD",
+    "canonical_group": "Cotton/CottonGen resources"
+  },
+  {
+    "paper_id": 3,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 3,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 4,
+    "genome_source_id": 12,
+    "genome_source_name": "National Genomics Data Center",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 5,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 6,
+    "genome_source_id": 13,
+    "genome_source_name": "PlantTFDB",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 6,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 6,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 8,
+    "genome_source_id": 14,
+    "genome_source_name": "MaizeDB",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 8,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 8,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 9,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 9,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 10,
+    "genome_source_id": 15,
+    "genome_source_name": "Potato genome database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 11,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 11,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 11,
+    "genome_source_id": 8,
+    "genome_source_name": "PlantGDB",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 11,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 11,
+    "genome_source_id": 13,
+    "genome_source_name": "PlantTFDB",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 12,
+    "genome_source_id": 16,
+    "genome_source_name": "Citrus Genome Database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 12,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 13,
+    "genome_source_id": 17,
+    "genome_source_name": "Banana Genome Hub",
+    "canonical_group": "Banana genome resources"
+  },
+  {
+    "paper_id": 13,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 14,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 14,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 14,
+    "genome_source_id": 18,
+    "genome_source_name": "Cotton Genome Project (CGP)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 15,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 16,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 17,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 17,
+    "genome_source_id": 19,
+    "genome_source_name": "Sol Genomics Network",
+    "canonical_group": "Sol Genomics Network"
+  },
+  {
+    "paper_id": 17,
+    "genome_source_id": 20,
+    "genome_source_name": "TFGD",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 17,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 18,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 18,
+    "genome_source_id": 21,
+    "genome_source_name": "WheatExp",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 19,
+    "genome_source_id": 22,
+    "genome_source_name": "CottonGen",
+    "canonical_group": "Cotton/CottonGen resources"
+  },
+  {
+    "paper_id": 19,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 19,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 19,
+    "genome_source_id": 23,
+    "genome_source_name": "NAU genome",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 19,
+    "genome_source_id": 24,
+    "genome_source_name": "ICR",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 19,
+    "genome_source_id": 25,
+    "genome_source_name": "IGI",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 20,
+    "genome_source_id": 19,
+    "genome_source_name": "Sol Genomics Network",
+    "canonical_group": "Sol Genomics Network"
+  },
+  {
+    "paper_id": 21,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 21,
+    "genome_source_id": 26,
+    "genome_source_name": "MBKbase",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 21,
+    "genome_source_id": 27,
+    "genome_source_name": "GenBank",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 22,
+    "genome_source_id": 28,
+    "genome_source_name": "Sweet orange genome database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 23,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 24,
+    "genome_source_id": 29,
+    "genome_source_name": "China National GeneBank",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 25,
+    "genome_source_id": 30,
+    "genome_source_name": "Joint Genome Institute (Citrus sinensis v1. 1) and C. sinensis Genome Annotation Project",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 26,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 26,
+    "genome_source_id": 4,
+    "genome_source_name": "Gramene",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 27,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 27,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 28,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 28,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 29,
+    "genome_source_id": 31,
+    "genome_source_name": "Sijimi' mango genome (unpublished)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 31,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 32,
+    "genome_source_id": 32,
+    "genome_source_name": "Alfalfa Genome Project",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 32,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 32,
+    "genome_source_id": 33,
+    "genome_source_name": "Medicago Genome",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 33,
+    "genome_source_id": 34,
+    "genome_source_name": "Pepper Genome Database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 33,
+    "genome_source_id": 35,
+    "genome_source_name": "Solanaceae Genomics Network",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 34,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 34,
+    "genome_source_id": 36,
+    "genome_source_name": "Spinach genome",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 34,
+    "genome_source_id": 37,
+    "genome_source_name": "Plant Transcription Factor Database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 35,
+    "genome_source_id": 35,
+    "genome_source_name": "Solanaceae Genomics Network",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 35,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 35,
+    "genome_source_id": 38,
+    "genome_source_name": "Micro-Tom Database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 36,
+    "genome_source_id": 39,
+    "genome_source_name": "Unpublished Sequencing Data",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 37,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 37,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 38,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 39,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 40,
+    "genome_source_id": 40,
+    "genome_source_name": "Peanut Genome Resource Database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 40,
+    "genome_source_id": 41,
+    "genome_source_name": "PeanutBase",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 40,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 40,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 41,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 41,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 41,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 42,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 43,
+    "genome_source_id": 42,
+    "genome_source_name": "Cruciferae database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 43,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 44,
+    "genome_source_id": 43,
+    "genome_source_name": "Genome Sequence Archive Database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 44,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 45,
+    "genome_source_id": 44,
+    "genome_source_name": "Figshare",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 45,
+    "genome_source_id": 41,
+    "genome_source_name": "PeanutBase",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 45,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 45,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 46,
+    "genome_source_id": 45,
+    "genome_source_name": "GDR",
+    "canonical_group": "Rosaceae databases"
+  },
+  {
+    "paper_id": 46,
+    "genome_source_id": 46,
+    "genome_source_name": "Apple GFDB",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 47,
+    "genome_source_id": 43,
+    "genome_source_name": "Genome Sequence Archive Database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 47,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 48,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 48,
+    "genome_source_id": 45,
+    "genome_source_name": "GDR",
+    "canonical_group": "Rosaceae databases"
+  },
+  {
+    "paper_id": 48,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 48,
+    "genome_source_id": 47,
+    "genome_source_name": "Octoploid cultivated strawberry genome reference",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 49,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 49,
+    "genome_source_id": 27,
+    "genome_source_name": "GenBank",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 53,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 53,
+    "genome_source_id": 22,
+    "genome_source_name": "CottonGen",
+    "canonical_group": "Cotton/CottonGen resources"
+  },
+  {
+    "paper_id": 54,
+    "genome_source_id": 48,
+    "genome_source_name": "Tea Plant Information Archive Database (TPIA)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 54,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 54,
+    "genome_source_id": 49,
+    "genome_source_name": "Rice Genome Annotation Project",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 54,
+    "genome_source_id": 19,
+    "genome_source_name": "Sol Genomics Network",
+    "canonical_group": "Sol Genomics Network"
+  },
+  {
+    "paper_id": 55,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 56,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 56,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 57,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 59,
+    "genome_source_id": 50,
+    "genome_source_name": "10])",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 60,
+    "genome_source_id": 51,
+    "genome_source_name": "alfalfa tool box",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 61,
+    "genome_source_id": 52,
+    "genome_source_name": "ICuGI database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 61,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 61,
+    "genome_source_id": 53,
+    "genome_source_name": "csgenome. sggw. pl",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 61,
+    "genome_source_id": 54,
+    "genome_source_name": "MELONOMICS",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 61,
+    "genome_source_id": 55,
+    "genome_source_name": "Prof. Hideo Matsumura (for bitter gourd)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 63,
+    "genome_source_id": 19,
+    "genome_source_name": "Sol Genomics Network",
+    "canonical_group": "Sol Genomics Network"
+  },
+  {
+    "paper_id": 63,
+    "genome_source_id": 56,
+    "genome_source_name": "PGSC DM v3. 4",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 63,
+    "genome_source_id": 57,
+    "genome_source_name": "Eggplant Genome release 2. 5. 1",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 63,
+    "genome_source_id": 58,
+    "genome_source_name": "Pepper cv CM334 release 1. 55",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 63,
+    "genome_source_id": 59,
+    "genome_source_name": "Coffee v1. 0)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 64,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 65,
+    "genome_source_id": 60,
+    "genome_source_name": "National Center For Gene Research (NCGR) (P_heterocycla_v1. 0)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 66,
+    "genome_source_id": 61,
+    "genome_source_name": "Kiwifruit Genome Database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 67,
+    "genome_source_id": 62,
+    "genome_source_name": "Cucurbit Genomics Database (Chinese long '9930' V3)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 68,
+    "genome_source_id": 63,
+    "genome_source_name": "BGI (genome assembly ASM465v1)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 69,
+    "genome_source_id": 64,
+    "genome_source_name": "CottonFGD",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 70,
+    "genome_source_id": 19,
+    "genome_source_name": "Sol Genomics Network",
+    "canonical_group": "Sol Genomics Network"
+  },
+  {
+    "paper_id": 71,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 72,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 73,
+    "genome_source_id": 65,
+    "genome_source_name": "PLAZA database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 74,
+    "genome_source_id": 45,
+    "genome_source_name": "GDR",
+    "canonical_group": "Rosaceae databases"
+  },
+  {
+    "paper_id": 75,
+    "genome_source_id": 66,
+    "genome_source_name": "PLAZA 4. 5 and Ensembl Plants",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 76,
+    "genome_source_id": 67,
+    "genome_source_name": "GenoScope (Brassica napus annotation_v5) and Ensembl Plants",
+    "canonical_group": "Brassica databases"
+  },
+  {
+    "paper_id": 77,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 78,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 79,
+    "genome_source_id": 68,
+    "genome_source_name": "'Samantha' reference genome (Zhang et al.",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 80,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 81,
+    "genome_source_id": 69,
+    "genome_source_name": "Lanzhou University (Wu et al.",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 82,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 82,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 83,
+    "genome_source_id": 70,
+    "genome_source_name": "Published sugarcane genome database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 84,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 85,
+    "genome_source_id": 71,
+    "genome_source_name": "CottonGen (TM-1 genome)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 86,
+    "genome_source_id": 49,
+    "genome_source_name": "Rice Genome Annotation Project",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 87,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 88,
+    "genome_source_id": 72,
+    "genome_source_name": "Tea Research Institute",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 88,
+    "genome_source_id": 73,
+    "genome_source_name": "Fujian Academy of Agricultural Sciences (PacBio sequencing)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 89,
+    "genome_source_id": 74,
+    "genome_source_name": "Genome Database for Brassicaceae (Brassica rapa v4. 0)",
+    "canonical_group": "Brassica databases"
+  },
+  {
+    "paper_id": 90,
+    "genome_source_id": 75,
+    "genome_source_name": "BRAD (Brassica rapa Genome Database)",
+    "canonical_group": "Brassica databases"
+  },
+  {
+    "paper_id": 91,
+    "genome_source_id": 76,
+    "genome_source_name": "Phalaenopsis equestris genome (publicly available",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 91,
+    "genome_source_id": 77,
+    "genome_source_name": "source not explicitly detailed)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 92,
+    "genome_source_id": 78,
+    "genome_source_name": "Dendrobium officinale genome (source not explicitly detailed)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 93,
+    "genome_source_id": 79,
+    "genome_source_name": "SoyBase",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 93,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 93,
+    "genome_source_id": 80,
+    "genome_source_name": "LegumeInfo",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 94,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 95,
+    "genome_source_id": 81,
+    "genome_source_name": "Phalaenopsis equestris genome (source not explicitly detailed)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 96,
+    "genome_source_id": 82,
+    "genome_source_name": "Rosa genome database (Figshare)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 97,
+    "genome_source_id": 83,
+    "genome_source_name": "Medicago genome database (V3. 5)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 99,
+    "genome_source_id": 84,
+    "genome_source_name": "MaizeSequence. org (B73 genome)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 100,
+    "genome_source_id": 85,
+    "genome_source_name": "MELONOMICS (CM_protein_v3. 5)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 101,
+    "genome_source_id": 49,
+    "genome_source_name": "Rice Genome Annotation Project",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 102,
+    "genome_source_id": 44,
+    "genome_source_name": "Figshare",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 103,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 104,
+    "genome_source_id": 86,
+    "genome_source_name": "TIGR rice pseudomolecules (version 4) and KOME cDNA database",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 105,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 105,
+    "genome_source_id": 87,
+    "genome_source_name": "Liu et al. 2014)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 106,
+    "genome_source_id": 86,
+    "genome_source_name": "TIGR rice pseudomolecules (version 4) and KOME cDNA database",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 107,
+    "genome_source_id": 88,
+    "genome_source_name": "Cotton Genome Project (CGP) for G. raimondii; G. hirsutum cDNA from mixed tissues",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 108,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 109,
+    "genome_source_id": 45,
+    "genome_source_name": "GDR",
+    "canonical_group": "Rosaceae databases"
+  },
+  {
+    "paper_id": 110,
+    "genome_source_id": 89,
+    "genome_source_name": "B. rapa genome database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 111,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 112,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 113,
+    "genome_source_id": 90,
+    "genome_source_name": "Rubber tree genome (USM & CATAS)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 113,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 113,
+    "genome_source_id": 91,
+    "genome_source_name": "EST)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 114,
+    "genome_source_id": 92,
+    "genome_source_name": "Ensembl Genomes (release 50)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 115,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 116,
+    "genome_source_id": 93,
+    "genome_source_name": "Banana Genome Database",
+    "canonical_group": "Banana genome resources"
+  },
+  {
+    "paper_id": 117,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 117,
+    "genome_source_id": 94,
+    "genome_source_name": "GenoScope",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 118,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 118,
+    "genome_source_id": 95,
+    "genome_source_name": "Rice Database Oryzabase-Shigen",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 119,
+    "genome_source_id": 96,
+    "genome_source_name": "DH-Pahang genome database (Banana Genome Hub)",
+    "canonical_group": "Banana genome resources"
+  },
+  {
+    "paper_id": 120,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 121,
+    "genome_source_id": 64,
+    "genome_source_name": "CottonFGD",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 121,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 122,
+    "genome_source_id": 97,
+    "genome_source_name": "MaizeSequence",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 122,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 122,
+    "genome_source_id": 98,
+    "genome_source_name": "PlnTFDB",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 123,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 124,
+    "genome_source_id": 99,
+    "genome_source_name": "Castanea Genome Database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 125,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 127,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 128,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 130,
+    "genome_source_id": 100,
+    "genome_source_name": "B73 maize sequencing database (MaizeSequence)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 130,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 131,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 132,
+    "genome_source_id": 101,
+    "genome_source_name": "Maize sequencing database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 132,
+    "genome_source_id": 102,
+    "genome_source_name": "MaizeGDB",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 132,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 133,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 134,
+    "genome_source_id": 19,
+    "genome_source_name": "Sol Genomics Network",
+    "canonical_group": "Sol Genomics Network"
+  },
+  {
+    "paper_id": 135,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 135,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 136,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 137,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 137,
+    "genome_source_id": 103,
+    "genome_source_name": "Spud DB",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 137,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 138,
+    "genome_source_id": 104,
+    "genome_source_name": "IWGSC RefSeq v1. 1",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 139,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 139,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 140,
+    "genome_source_id": 105,
+    "genome_source_name": "JGI Poplar genome v1. 1",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 140,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 141,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 141,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 142,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 143,
+    "genome_source_id": 45,
+    "genome_source_name": "GDR",
+    "canonical_group": "Rosaceae databases"
+  },
+  {
+    "paper_id": 144,
+    "genome_source_id": 106,
+    "genome_source_name": "Cucumber Genomics Database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 145,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 146,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 146,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 149,
+    "genome_source_id": 107,
+    "genome_source_name": "Medical Plant Genomics Resource (MGPR)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 150,
+    "genome_source_id": 12,
+    "genome_source_name": "National Genomics Data Center",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 151,
+    "genome_source_id": 97,
+    "genome_source_name": "MaizeSequence",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 151,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 152,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 153,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 154,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 155,
+    "genome_source_id": 19,
+    "genome_source_name": "Sol Genomics Network",
+    "canonical_group": "Sol Genomics Network"
+  },
+  {
+    "paper_id": 156,
+    "genome_source_id": 108,
+    "genome_source_name": "GreenPhyl v4",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 156,
+    "genome_source_id": 49,
+    "genome_source_name": "Rice Genome Annotation Project",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 156,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 157,
+    "genome_source_id": 109,
+    "genome_source_name": "JCVI M. truncatula Sequencing Project v4. 0",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 158,
+    "genome_source_id": 110,
+    "genome_source_name": "Cotton Genome Project",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 158,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 159,
+    "genome_source_id": 111,
+    "genome_source_name": "BRAD",
+    "canonical_group": "Brassica databases"
+  },
+  {
+    "paper_id": 160,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 161,
+    "genome_source_id": 106,
+    "genome_source_name": "Cucumber Genomics Database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 162,
+    "genome_source_id": 93,
+    "genome_source_name": "Banana Genome Database",
+    "canonical_group": "Banana genome resources"
+  },
+  {
+    "paper_id": 162,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 163,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 164,
+    "genome_source_id": 22,
+    "genome_source_name": "CottonGen",
+    "canonical_group": "Cotton/CottonGen resources"
+  },
+  {
+    "paper_id": 165,
+    "genome_source_id": 112,
+    "genome_source_name": "BRAD (Brassica database)",
+    "canonical_group": "Brassica databases"
+  },
+  {
+    "paper_id": 166,
+    "genome_source_id": 113,
+    "genome_source_name": "Potato Genome Sequencing Consortium (PGSC)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 167,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 168,
+    "genome_source_id": 114,
+    "genome_source_name": "S. arbutifolia genome sequence (paper in press)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 169,
+    "genome_source_id": 4,
+    "genome_source_name": "Gramene",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 169,
+    "genome_source_id": 104,
+    "genome_source_name": "IWGSC RefSeq v1. 1",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 170,
+    "genome_source_id": 112,
+    "genome_source_name": "BRAD (Brassica database)",
+    "canonical_group": "Brassica databases"
+  },
+  {
+    "paper_id": 171,
+    "genome_source_id": 115,
+    "genome_source_name": "IWGSC RefSeq v1. 0",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 172,
+    "genome_source_id": 97,
+    "genome_source_name": "MaizeSequence",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 173,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 174,
+    "genome_source_id": 116,
+    "genome_source_name": "IPK (barley genome Morex v2. 0)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 175,
+    "genome_source_id": 117,
+    "genome_source_name": "G. hirsutum genome database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 176,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 177,
+    "genome_source_id": 49,
+    "genome_source_name": "Rice Genome Annotation Project",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 178,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 179,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 179,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 180,
+    "genome_source_id": 118,
+    "genome_source_name": "Transcriptome databases (SRP068179",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 180,
+    "genome_source_id": 119,
+    "genome_source_name": "CRA000288)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 180,
+    "genome_source_id": 120,
+    "genome_source_name": "I. batatas genome database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 181,
+    "genome_source_id": 22,
+    "genome_source_name": "CottonGen",
+    "canonical_group": "Cotton/CottonGen resources"
+  },
+  {
+    "paper_id": 182,
+    "genome_source_id": 26,
+    "genome_source_name": "MBKbase",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 184,
+    "genome_source_id": 45,
+    "genome_source_name": "GDR",
+    "canonical_group": "Rosaceae databases"
+  },
+  {
+    "paper_id": 185,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 186,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 186,
+    "genome_source_id": 64,
+    "genome_source_name": "CottonFGD",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 187,
+    "genome_source_id": 13,
+    "genome_source_name": "PlantTFDB",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 187,
+    "genome_source_id": 121,
+    "genome_source_name": "Published Genome",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 188,
+    "genome_source_id": 122,
+    "genome_source_name": "Brassicaceae Database (BRAD)",
+    "canonical_group": "Brassica databases"
+  },
+  {
+    "paper_id": 189,
+    "genome_source_id": 123,
+    "genome_source_name": "Literature [10]",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 190,
+    "genome_source_id": 124,
+    "genome_source_name": "Plant Transcription Factor Database ver. 2. 0",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 190,
+    "genome_source_id": 125,
+    "genome_source_name": "Maize B73 genome (release 5b. 60)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 191,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 192,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 192,
+    "genome_source_id": 126,
+    "genome_source_name": "Southwest University Genome Database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 193,
+    "genome_source_id": 127,
+    "genome_source_name": "Joint Genome Institute (Phytozome)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 194,
+    "genome_source_id": 128,
+    "genome_source_name": "Grapevine database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 194,
+    "genome_source_id": 129,
+    "genome_source_name": "Vitis-URGI",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 194,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 195,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 195,
+    "genome_source_id": 130,
+    "genome_source_name": "International Tomato Annotation Group Release 2. 4 (SGN)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 196,
+    "genome_source_id": 49,
+    "genome_source_name": "Rice Genome Annotation Project",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 196,
+    "genome_source_id": 131,
+    "genome_source_name": "Ensembl Genomes",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 197,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 197,
+    "genome_source_id": 132,
+    "genome_source_name": "IWGSC",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 198,
+    "genome_source_id": 133,
+    "genome_source_name": "GigaDB (new version of the Moso bamboo genome annotation project)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 199,
+    "genome_source_id": 22,
+    "genome_source_name": "CottonGen",
+    "canonical_group": "Cotton/CottonGen resources"
+  },
+  {
+    "paper_id": 200,
+    "genome_source_id": 134,
+    "genome_source_name": "Cucurbit Genomics Database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 201,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 201,
+    "genome_source_id": 37,
+    "genome_source_name": "Plant Transcription Factor Database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 201,
+    "genome_source_id": 49,
+    "genome_source_name": "Rice Genome Annotation Project",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 201,
+    "genome_source_id": 8,
+    "genome_source_name": "PlantGDB",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 201,
+    "genome_source_id": 5,
+    "genome_source_name": "RAP-DB",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 202,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 203,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 203,
+    "genome_source_id": 37,
+    "genome_source_name": "Plant Transcription Factor Database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 203,
+    "genome_source_id": 49,
+    "genome_source_name": "Rice Genome Annotation Project",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 203,
+    "genome_source_id": 8,
+    "genome_source_name": "PlantGDB",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 203,
+    "genome_source_id": 5,
+    "genome_source_name": "RAP-DB",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 204,
+    "genome_source_id": 135,
+    "genome_source_name": "cucurbitagenome database (Version 2)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 205,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 206,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 207,
+    "genome_source_id": 136,
+    "genome_source_name": "Figshare (Zhongmu No. 4)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 208,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 209,
+    "genome_source_id": 45,
+    "genome_source_name": "GDR",
+    "canonical_group": "Rosaceae databases"
+  },
+  {
+    "paper_id": 210,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 211,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 212,
+    "genome_source_id": 132,
+    "genome_source_name": "IWGSC",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 212,
+    "genome_source_id": 49,
+    "genome_source_name": "Rice Genome Annotation Project",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 213,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 214,
+    "genome_source_id": 137,
+    "genome_source_name": "SolTub_3. 0 assembly for Solanum tuberosum (GCA_000226075. 1)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 215,
+    "genome_source_id": 10,
+    "genome_source_name": "CottonMD",
+    "canonical_group": "Cotton/CottonGen resources"
+  },
+  {
+    "paper_id": 216,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 217,
+    "genome_source_id": 138,
+    "genome_source_name": "Chickpea database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 218,
+    "genome_source_id": 139,
+    "genome_source_name": "Cucumber Genome Database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 219,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 219,
+    "genome_source_id": 49,
+    "genome_source_name": "Rice Genome Annotation Project",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 220,
+    "genome_source_id": 4,
+    "genome_source_name": "Gramene",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 220,
+    "genome_source_id": 49,
+    "genome_source_name": "Rice Genome Annotation Project",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 221,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 222,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 222,
+    "genome_source_id": 9,
+    "genome_source_name": "UniProt",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 222,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 223,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 223,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 223,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 223,
+    "genome_source_id": 37,
+    "genome_source_name": "Plant Transcription Factor Database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 224,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 225,
+    "genome_source_id": 140,
+    "genome_source_name": "ICRISAT",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 226,
+    "genome_source_id": 45,
+    "genome_source_name": "GDR",
+    "canonical_group": "Rosaceae databases"
+  },
+  {
+    "paper_id": 226,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 227,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 227,
+    "genome_source_id": 141,
+    "genome_source_name": "JCVI",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 228,
+    "genome_source_id": 139,
+    "genome_source_name": "Cucumber Genome Database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 228,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 228,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 228,
+    "genome_source_id": 49,
+    "genome_source_name": "Rice Genome Annotation Project",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 228,
+    "genome_source_id": 142,
+    "genome_source_name": "Maize Genome Database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 229,
+    "genome_source_id": 27,
+    "genome_source_name": "GenBank",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 230,
+    "genome_source_id": 143,
+    "genome_source_name": "KEA",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 230,
+    "genome_source_id": 144,
+    "genome_source_name": "NHX",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 231,
+    "genome_source_id": 49,
+    "genome_source_name": "Rice Genome Annotation Project",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 233,
+    "genome_source_id": 22,
+    "genome_source_name": "CottonGen",
+    "canonical_group": "Cotton/CottonGen resources"
+  },
+  {
+    "paper_id": 233,
+    "genome_source_id": 145,
+    "genome_source_name": "CGP-BGI",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 234,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 235,
+    "genome_source_id": 146,
+    "genome_source_name": "JGI (IWGSC v2. 1)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 235,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 236,
+    "genome_source_id": 112,
+    "genome_source_name": "BRAD (Brassica database)",
+    "canonical_group": "Brassica databases"
+  },
+  {
+    "paper_id": 237,
+    "genome_source_id": 34,
+    "genome_source_name": "Pepper Genome Database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 237,
+    "genome_source_id": 19,
+    "genome_source_name": "Sol Genomics Network",
+    "canonical_group": "Sol Genomics Network"
+  },
+  {
+    "paper_id": 239,
+    "genome_source_id": 19,
+    "genome_source_name": "Sol Genomics Network",
+    "canonical_group": "Sol Genomics Network"
+  },
+  {
+    "paper_id": 239,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 240,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 241,
+    "genome_source_id": 147,
+    "genome_source_name": "Safflower genome database (Accession: PRJNA399628)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 242,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 242,
+    "genome_source_id": 17,
+    "genome_source_name": "Banana Genome Hub",
+    "canonical_group": "Banana genome resources"
+  },
+  {
+    "paper_id": 243,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 244,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 245,
+    "genome_source_id": 148,
+    "genome_source_name": "IWGSC RefSeq V2. 0",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 246,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 247,
+    "genome_source_id": 149,
+    "genome_source_name": "Alfalfa Breeders Toolbox",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 248,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 248,
+    "genome_source_id": 131,
+    "genome_source_name": "Ensembl Genomes",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 249,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 250,
+    "genome_source_id": 150,
+    "genome_source_name": "In-house assembly (NCBI BioProject PRJNA1262668)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 251,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 253,
+    "genome_source_id": 22,
+    "genome_source_name": "CottonGen",
+    "canonical_group": "Cotton/CottonGen resources"
+  },
+  {
+    "paper_id": 253,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 253,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 254,
+    "genome_source_id": 151,
+    "genome_source_name": "Sugarcane Genome Hub",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 254,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 255,
+    "genome_source_id": 102,
+    "genome_source_name": "MaizeGDB",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 255,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 255,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 256,
+    "genome_source_id": 152,
+    "genome_source_name": "Pepper Genome Database (PepperBase)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 257,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 258,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 258,
+    "genome_source_id": 13,
+    "genome_source_name": "PlantTFDB",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 259,
+    "genome_source_id": 35,
+    "genome_source_name": "Solanaceae Genomics Network",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 259,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 260,
+    "genome_source_id": 19,
+    "genome_source_name": "Sol Genomics Network",
+    "canonical_group": "Sol Genomics Network"
+  },
+  {
+    "paper_id": 261,
+    "genome_source_id": 153,
+    "genome_source_name": "IPK barley genome database (Morex V2. 0 2019)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 261,
+    "genome_source_id": 4,
+    "genome_source_name": "Gramene",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 261,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 262,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 263,
+    "genome_source_id": 154,
+    "genome_source_name": "GigaScience Database (Eriobotrya japonica)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 263,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 263,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 264,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 265,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 265,
+    "genome_source_id": 6,
+    "genome_source_name": "TIGR",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 265,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 266,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 266,
+    "genome_source_id": 13,
+    "genome_source_name": "PlantTFDB",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 267,
+    "genome_source_id": 155,
+    "genome_source_name": "GigaScience Database (loquat)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 267,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 267,
+    "genome_source_id": 156,
+    "genome_source_name": "peach",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 267,
+    "genome_source_id": 157,
+    "genome_source_name": "strawberry)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 267,
+    "genome_source_id": 158,
+    "genome_source_name": "GDR (pear)",
+    "canonical_group": "Rosaceae databases"
+  },
+  {
+    "paper_id": 267,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 268,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 268,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 269,
+    "genome_source_id": 17,
+    "genome_source_name": "Banana Genome Hub",
+    "canonical_group": "Banana genome resources"
+  },
+  {
+    "paper_id": 270,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 270,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 270,
+    "genome_source_id": 6,
+    "genome_source_name": "TIGR",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 271,
+    "genome_source_id": 93,
+    "genome_source_name": "Banana Genome Database",
+    "canonical_group": "Banana genome resources"
+  },
+  {
+    "paper_id": 272,
+    "genome_source_id": 159,
+    "genome_source_name": "ChenopodiumDB",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 274,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 275,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 276,
+    "genome_source_id": 160,
+    "genome_source_name": "Genoscope Genome Browser",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 276,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 278,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 279,
+    "genome_source_id": 161,
+    "genome_source_name": "A. argyi Gene Database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 279,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 279,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 280,
+    "genome_source_id": 9,
+    "genome_source_name": "UniProt",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 280,
+    "genome_source_id": 162,
+    "genome_source_name": "UniParc",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 280,
+    "genome_source_id": 4,
+    "genome_source_name": "Gramene",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 281,
+    "genome_source_id": 163,
+    "genome_source_name": "Citrus sinensis Annotation Project",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 281,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 282,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 282,
+    "genome_source_id": 164,
+    "genome_source_name": "v10. 3",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 282,
+    "genome_source_id": 165,
+    "genome_source_name": "Plant Transcription Factor Database 3. 0",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 284,
+    "genome_source_id": 166,
+    "genome_source_name": "GigaDB",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 284,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 285,
+    "genome_source_id": 167,
+    "genome_source_name": "M. truncatula genome database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 285,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 285,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 286,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 286,
+    "genome_source_id": 168,
+    "genome_source_name": "BioProject: PRJNA601606)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 287,
+    "genome_source_id": 19,
+    "genome_source_name": "Sol Genomics Network",
+    "canonical_group": "Sol Genomics Network"
+  },
+  {
+    "paper_id": 288,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 289,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 289,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 289,
+    "genome_source_id": 169,
+    "genome_source_name": "IWGSC (INSDC Assembly GCA_900519105. 1)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 291,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 291,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 291,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 292,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 292,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 292,
+    "genome_source_id": 49,
+    "genome_source_name": "Rice Genome Annotation Project",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 293,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 293,
+    "genome_source_id": 79,
+    "genome_source_name": "SoyBase",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 294,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 294,
+    "genome_source_id": 170,
+    "genome_source_name": "Maize Full Length cDNA Library Database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 294,
+    "genome_source_id": 102,
+    "genome_source_name": "MaizeGDB",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 295,
+    "genome_source_id": 19,
+    "genome_source_name": "Sol Genomics Network",
+    "canonical_group": "Sol Genomics Network"
+  },
+  {
+    "paper_id": 296,
+    "genome_source_id": 171,
+    "genome_source_name": "GenBank (accession number GCA_002018215. 1)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 297,
+    "genome_source_id": 19,
+    "genome_source_name": "Sol Genomics Network",
+    "canonical_group": "Sol Genomics Network"
+  },
+  {
+    "paper_id": 298,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 299,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 300,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 300,
+    "genome_source_id": 172,
+    "genome_source_name": "IWGSC V2. 1",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 301,
+    "genome_source_id": 173,
+    "genome_source_name": "Apple GFDB database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 301,
+    "genome_source_id": 45,
+    "genome_source_name": "GDR",
+    "canonical_group": "Rosaceae databases"
+  },
+  {
+    "paper_id": 301,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 302,
+    "genome_source_id": 163,
+    "genome_source_name": "Citrus sinensis Annotation Project",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 303,
+    "genome_source_id": 174,
+    "genome_source_name": "pepper genome databases (Pepper Genome Database (Zunla-1); Pepper Genome Database (CM334))",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 304,
+    "genome_source_id": 19,
+    "genome_source_name": "Sol Genomics Network",
+    "canonical_group": "Sol Genomics Network"
+  },
+  {
+    "paper_id": 304,
+    "genome_source_id": 175,
+    "genome_source_name": "Release 2. 5)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 305,
+    "genome_source_id": 176,
+    "genome_source_name": "Malus domestica Genome v1. 0",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 305,
+    "genome_source_id": 45,
+    "genome_source_name": "GDR",
+    "canonical_group": "Rosaceae databases"
+  },
+  {
+    "paper_id": 306,
+    "genome_source_id": 132,
+    "genome_source_name": "IWGSC",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 306,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 306,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 307,
+    "genome_source_id": 177,
+    "genome_source_name": "whole-genome sequence (WGS) database of safflower",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 308,
+    "genome_source_id": 49,
+    "genome_source_name": "Rice Genome Annotation Project",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 308,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 309,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 310,
+    "genome_source_id": 178,
+    "genome_source_name": "wheat reference genome assembly (RefSeq v. 1. 1; IWGSC)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 311,
+    "genome_source_id": 132,
+    "genome_source_name": "IWGSC",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 312,
+    "genome_source_id": 22,
+    "genome_source_name": "CottonGen",
+    "canonical_group": "Cotton/CottonGen resources"
+  },
+  {
+    "paper_id": 313,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 314,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 315,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 315,
+    "genome_source_id": 179,
+    "genome_source_name": "PRJNA53913",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 315,
+    "genome_source_id": 180,
+    "genome_source_name": "PRJNA749652",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 315,
+    "genome_source_id": 181,
+    "genome_source_name": "PRJNA664445)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 315,
+    "genome_source_id": 182,
+    "genome_source_name": "NGDC (PRJCA005355)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 315,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 315,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 316,
+    "genome_source_id": 115,
+    "genome_source_name": "IWGSC RefSeq v1. 0",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 317,
+    "genome_source_id": 19,
+    "genome_source_name": "Sol Genomics Network",
+    "canonical_group": "Sol Genomics Network"
+  },
+  {
+    "paper_id": 317,
+    "genome_source_id": 183,
+    "genome_source_name": "v4. 0",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 318,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 319,
+    "genome_source_id": 8,
+    "genome_source_name": "PlantGDB",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 319,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 320,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 321,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 322,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 324,
+    "genome_source_id": 19,
+    "genome_source_name": "Sol Genomics Network",
+    "canonical_group": "Sol Genomics Network"
+  },
+  {
+    "paper_id": 325,
+    "genome_source_id": 19,
+    "genome_source_name": "Sol Genomics Network",
+    "canonical_group": "Sol Genomics Network"
+  },
+  {
+    "paper_id": 325,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 326,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 327,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 328,
+    "genome_source_id": 184,
+    "genome_source_name": "Ginkgo biloba Genome Database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 329,
+    "genome_source_id": 10,
+    "genome_source_name": "CottonMD",
+    "canonical_group": "Cotton/CottonGen resources"
+  },
+  {
+    "paper_id": 494,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 494,
+    "genome_source_id": 185,
+    "genome_source_name": "CTDB (chickpea genome)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 495,
+    "genome_source_id": 186,
+    "genome_source_name": "Citrus clementina genome database (cucurbitigenomics. org/blast) and NCBI",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 496,
+    "genome_source_id": 187,
+    "genome_source_name": "BoGDB (Korso genome)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 497,
+    "genome_source_id": 188,
+    "genome_source_name": "Tomato Gene Index (DFCI)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 497,
+    "genome_source_id": 19,
+    "genome_source_name": "Sol Genomics Network",
+    "canonical_group": "Sol Genomics Network"
+  },
+  {
+    "paper_id": 497,
+    "genome_source_id": 8,
+    "genome_source_name": "PlantGDB",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 498,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 498,
+    "genome_source_id": 189,
+    "genome_source_name": "MSU Rice Genome Annotation (Oryza sativa)",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 499,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 500,
+    "genome_source_id": 190,
+    "genome_source_name": "MSU RGAP (Release 7)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 500,
+    "genome_source_id": 5,
+    "genome_source_name": "RAP-DB",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 500,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 500,
+    "genome_source_id": 191,
+    "genome_source_name": "KOME",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 501,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 501,
+    "genome_source_id": 19,
+    "genome_source_name": "Sol Genomics Network",
+    "canonical_group": "Sol Genomics Network"
+  },
+  {
+    "paper_id": 501,
+    "genome_source_id": 8,
+    "genome_source_name": "PlantGDB",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 502,
+    "genome_source_id": 192,
+    "genome_source_name": "IWGI (Watermelon Genome Database)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 503,
+    "genome_source_id": 193,
+    "genome_source_name": "S. miltiorrhiza genome (unpublished draft)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 504,
+    "genome_source_id": 194,
+    "genome_source_name": "G. raimondii genome (Cotton Genome Project)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 505,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 506,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 507,
+    "genome_source_id": 19,
+    "genome_source_name": "Sol Genomics Network",
+    "canonical_group": "Sol Genomics Network"
+  },
+  {
+    "paper_id": 508,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 509,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 510,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 511,
+    "genome_source_id": 195,
+    "genome_source_name": "PGSC DM genome v3. 4",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 512,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 513,
+    "genome_source_id": 196,
+    "genome_source_name": "Linseed genome (http://www. linum. ca/)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 514,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 515,
+    "genome_source_id": 197,
+    "genome_source_name": "Greenphyl database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 516,
+    "genome_source_id": 198,
+    "genome_source_name": "Maize genome database (maizesequence. org)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 517,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 518,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 519,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 520,
+    "genome_source_id": 199,
+    "genome_source_name": "GDR (Rosaceae)",
+    "canonical_group": "Rosaceae databases"
+  },
+  {
+    "paper_id": 520,
+    "genome_source_id": 200,
+    "genome_source_name": "FEM?IASMA",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 521,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 522,
+    "genome_source_id": 201,
+    "genome_source_name": "Citrus genome database (http://citrus. hzau. edu. cn)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 523,
+    "genome_source_id": 202,
+    "genome_source_name": "Nicotiana tabacum genome (Huazhong Agric. Univ.)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 524,
+    "genome_source_id": 203,
+    "genome_source_name": "E. sibiricus genome (Sci. Data)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 525,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 526,
+    "genome_source_id": 204,
+    "genome_source_name": "CNGBdb (CNA0148166)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 527,
+    "genome_source_id": 205,
+    "genome_source_name": "Avocado West?Indian pure accession reference genome (Avocado Genome Consortium)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 528,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 529,
+    "genome_source_id": 206,
+    "genome_source_name": "GDR (Pyrus betulifolia genome)",
+    "canonical_group": "Rosaceae databases"
+  },
+  {
+    "paper_id": 530,
+    "genome_source_id": 45,
+    "genome_source_name": "GDR",
+    "canonical_group": "Rosaceae databases"
+  },
+  {
+    "paper_id": 530,
+    "genome_source_id": 27,
+    "genome_source_name": "GenBank",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 531,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 532,
+    "genome_source_id": 207,
+    "genome_source_name": "EnsemblPlants",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 532,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 532,
+    "genome_source_id": 208,
+    "genome_source_name": "etc.",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 534,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 537,
+    "genome_source_id": 209,
+    "genome_source_name": "A. agallocha genome (Das et al.",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 538,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 539,
+    "genome_source_id": 104,
+    "genome_source_name": "IWGSC RefSeq v1. 1",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 540,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 540,
+    "genome_source_id": 11,
+    "genome_source_name": "Ensembl Plants",
+    "canonical_group": "Ensembl Plants"
+  },
+  {
+    "paper_id": 541,
+    "genome_source_id": 210,
+    "genome_source_name": "Phytosome (https://phytozome-next. jgi. doe. gov/)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 542,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 543,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 544,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 545,
+    "genome_source_id": 211,
+    "genome_source_name": "Self-assembled high-quality chromosome-level reference genome of P. simonii",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 546,
+    "genome_source_id": 212,
+    "genome_source_name": "Pulse Crop Database (PCD) (Desi-type ICC4958)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 547,
+    "genome_source_id": 213,
+    "genome_source_name": "Spud DB (DM 1-3 516 R44)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 548,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 549,
+    "genome_source_id": 214,
+    "genome_source_name": "EnsemblPlants (M. esculenta v6. 1)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 550,
+    "genome_source_id": 215,
+    "genome_source_name": "Pepper Genome Database (PGD) C. chinense PI159236",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 551,
+    "genome_source_id": 216,
+    "genome_source_name": "Cucurbit Genomics Database (V3)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 552,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 553,
+    "genome_source_id": 217,
+    "genome_source_name": "Not applicable (cDNA cloning)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 554,
+    "genome_source_id": 218,
+    "genome_source_name": "Rice TIGR db",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 554,
+    "genome_source_id": 219,
+    "genome_source_name": "DDBJ",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 554,
+    "genome_source_id": 220,
+    "genome_source_name": "TMRI; Arabidopsis TIGR",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 554,
+    "genome_source_id": 221,
+    "genome_source_name": "MIPS",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 555,
+    "genome_source_id": 222,
+    "genome_source_name": "TIGR MtGI (Medicago truncatula Gene Index)",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 557,
+    "genome_source_id": 223,
+    "genome_source_name": "GDR database (Malus x domestica GDDH13 v1. 1)",
+    "canonical_group": "Rosaceae databases"
+  },
+  {
+    "paper_id": 558,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 558,
+    "genome_source_id": 6,
+    "genome_source_name": "TIGR",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 559,
+    "genome_source_id": 191,
+    "genome_source_name": "KOME",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 559,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 559,
+    "genome_source_id": 6,
+    "genome_source_name": "TIGR",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 560,
+    "genome_source_id": 191,
+    "genome_source_name": "KOME",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 560,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 560,
+    "genome_source_id": 6,
+    "genome_source_name": "TIGR",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 561,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 562,
+    "genome_source_id": 6,
+    "genome_source_name": "TIGR",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 562,
+    "genome_source_id": 191,
+    "genome_source_name": "KOME",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 562,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 563,
+    "genome_source_id": 224,
+    "genome_source_name": "JGI Populus v1. 1",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 564,
+    "genome_source_id": 225,
+    "genome_source_name": "TIGR v5",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 564,
+    "genome_source_id": 191,
+    "genome_source_name": "KOME",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 565,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 565,
+    "genome_source_id": 6,
+    "genome_source_name": "TIGR",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 565,
+    "genome_source_id": 226,
+    "genome_source_name": "JGI",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 566,
+    "genome_source_id": 8,
+    "genome_source_name": "PlantGDB",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 566,
+    "genome_source_id": 227,
+    "genome_source_name": "Maize Genome Browser",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 567,
+    "genome_source_id": 4,
+    "genome_source_name": "Gramene",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 567,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 568,
+    "genome_source_id": 228,
+    "genome_source_name": "DRYAD",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 568,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 569,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 569,
+    "genome_source_id": 226,
+    "genome_source_name": "JGI",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 569,
+    "genome_source_id": 6,
+    "genome_source_name": "TIGR",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 571,
+    "genome_source_id": 225,
+    "genome_source_name": "TIGR v5",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 571,
+    "genome_source_id": 191,
+    "genome_source_name": "KOME",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 572,
+    "genome_source_id": 229,
+    "genome_source_name": "TIGR wheat gene index",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 572,
+    "genome_source_id": 230,
+    "genome_source_name": "ESTs",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 573,
+    "genome_source_id": 225,
+    "genome_source_name": "TIGR v5",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 574,
+    "genome_source_id": 231,
+    "genome_source_name": "Pineapple genome",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 574,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 575,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 576,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 576,
+    "genome_source_id": 22,
+    "genome_source_name": "CottonGen",
+    "canonical_group": "Cotton/CottonGen resources"
+  },
+  {
+    "paper_id": 577,
+    "genome_source_id": 232,
+    "genome_source_name": "Cassava genome v4. 1",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 578,
+    "genome_source_id": 19,
+    "genome_source_name": "Sol Genomics Network",
+    "canonical_group": "Sol Genomics Network"
+  },
+  {
+    "paper_id": 579,
+    "genome_source_id": 134,
+    "genome_source_name": "Cucurbit Genomics Database",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 580,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 581,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 582,
+    "genome_source_id": 4,
+    "genome_source_name": "Gramene",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 582,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 583,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 584,
+    "genome_source_id": 233,
+    "genome_source_name": "TGACv1 wheat genome",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 585,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 585,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 586,
+    "genome_source_id": 234,
+    "genome_source_name": "IWGSC contigs",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 586,
+    "genome_source_id": 235,
+    "genome_source_name": "TGACv1",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 587,
+    "genome_source_id": 236,
+    "genome_source_name": "IWGSC RefSeq v1. 0 (Ensembl Plants)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 588,
+    "genome_source_id": 22,
+    "genome_source_name": "CottonGen",
+    "canonical_group": "Cotton/CottonGen resources"
+  },
+  {
+    "paper_id": 588,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 589,
+    "genome_source_id": 237,
+    "genome_source_name": "Durum wheat transcriptome (Krasileva et al. 2013)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 590,
+    "genome_source_id": 238,
+    "genome_source_name": "NGDC ginseng genome",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 591,
+    "genome_source_id": 239,
+    "genome_source_name": "Legume Information System (CDC frontier)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 592,
+    "genome_source_id": 240,
+    "genome_source_name": "Cucurbit Genomics Database (v1)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 593,
+    "genome_source_id": 241,
+    "genome_source_name": "Plaza2. 5",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 594,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 594,
+    "genome_source_id": 242,
+    "genome_source_name": "CsiDB",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 594,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 595,
+    "genome_source_id": 243,
+    "genome_source_name": "12x grape genome (PlantTFDB",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 595,
+    "genome_source_id": 9,
+    "genome_source_name": "UniProt",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 596,
+    "genome_source_id": 244,
+    "genome_source_name": "TIGR Rice Annotation release 5",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 597,
+    "genome_source_id": 3,
+    "genome_source_name": "NCBI",
+    "canonical_group": "NCBI"
+  },
+  {
+    "paper_id": 598,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 598,
+    "genome_source_id": 6,
+    "genome_source_name": "TIGR",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 599,
+    "genome_source_id": 245,
+    "genome_source_name": "RGAP TIGR v5",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 599,
+    "genome_source_id": 191,
+    "genome_source_name": "KOME",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 600,
+    "genome_source_id": 246,
+    "genome_source_name": "GenBank ESTs",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 600,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 601,
+    "genome_source_id": 247,
+    "genome_source_name": "B. juncea genome v2. 0",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 601,
+    "genome_source_id": 111,
+    "genome_source_name": "BRAD",
+    "canonical_group": "Brassica databases"
+  },
+  {
+    "paper_id": 601,
+    "genome_source_id": 248,
+    "genome_source_name": "B. rapa",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 601,
+    "genome_source_id": 249,
+    "genome_source_name": "B. nigra genomes",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 602,
+    "genome_source_id": 250,
+    "genome_source_name": "Maize genome (PlantGDB",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 602,
+    "genome_source_id": 251,
+    "genome_source_name": "MAGI",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 602,
+    "genome_source_id": 6,
+    "genome_source_name": "TIGR",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 602,
+    "genome_source_id": 252,
+    "genome_source_name": "B73 assembly)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 603,
+    "genome_source_id": 253,
+    "genome_source_name": "Grape genome (Genoscope",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 603,
+    "genome_source_id": 254,
+    "genome_source_name": "PN40024)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 604,
+    "genome_source_id": 255,
+    "genome_source_name": "JGI Populus trichocarpa genome",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 605,
+    "genome_source_id": 256,
+    "genome_source_name": "Populus trichocarpa Phytozome v2. 0",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 606,
+    "genome_source_id": 257,
+    "genome_source_name": "Grapevine genome (Genoscope",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 606,
+    "genome_source_id": 254,
+    "genome_source_name": "PN40024)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 607,
+    "genome_source_id": 258,
+    "genome_source_name": "Soybean Glyma1 model (Phytozome)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 608,
+    "genome_source_id": 258,
+    "genome_source_name": "Soybean Glyma1 model (Phytozome)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 609,
+    "genome_source_id": 259,
+    "genome_source_name": "Various (SUPERFAMILY",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 609,
+    "genome_source_id": 260,
+    "genome_source_name": "Plaza",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 609,
+    "genome_source_id": 7,
+    "genome_source_name": "Phytozome",
+    "canonical_group": "Phytozome"
+  },
+  {
+    "paper_id": 610,
+    "genome_source_id": 261,
+    "genome_source_name": "Arabidopsis TAIR9",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 610,
+    "genome_source_id": 262,
+    "genome_source_name": "rice RGAP",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 611,
+    "genome_source_id": 2,
+    "genome_source_name": "TAIR",
+    "canonical_group": "TAIR"
+  },
+  {
+    "paper_id": 611,
+    "genome_source_id": 263,
+    "genome_source_name": "JGI (poplar)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 611,
+    "genome_source_id": 264,
+    "genome_source_name": "TIGR (rice)",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 611,
+    "genome_source_id": 265,
+    "genome_source_name": "PlantGDB (maize)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 612,
+    "genome_source_id": 266,
+    "genome_source_name": "Transcriptome assembly (B. purpurascens)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 613,
+    "genome_source_id": 267,
+    "genome_source_name": "Maize B73 genome (maizegenome. org)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 614,
+    "genome_source_id": 268,
+    "genome_source_name": "Rice TIGR v4",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 614,
+    "genome_source_id": 269,
+    "genome_source_name": "Sorghum MIPS",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 615,
+    "genome_source_id": 270,
+    "genome_source_name": "Arabidopsis TAIR (T?DNA insertion lines)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 616,
+    "genome_source_id": 271,
+    "genome_source_name": "Grape genome (Genoscope PN40024)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 617,
+    "genome_source_id": 98,
+    "genome_source_name": "PlnTFDB",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 617,
+    "genome_source_id": 6,
+    "genome_source_name": "TIGR",
+    "canonical_group": "Rice genome resources"
+  },
+  {
+    "paper_id": 617,
+    "genome_source_id": 272,
+    "genome_source_name": "IRGSP",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 618,
+    "genome_source_id": 273,
+    "genome_source_name": "Medicago Mt1. 0 draft genome (MGSC)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 619,
+    "genome_source_id": 274,
+    "genome_source_name": "Tobacco GSRs (methylation filtration)",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 619,
+    "genome_source_id": 275,
+    "genome_source_name": "TGI",
+    "canonical_group": "Other"
+  },
+  {
+    "paper_id": 620,
+    "genome_source_id": 276,
+    "genome_source_name": "Rice TIGR release 5",
+    "canonical_group": "Rice genome resources"
+  }
+]

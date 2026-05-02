@@ -1,0 +1,210 @@
+{
+  "total_papers": 432,
+  "total_pdfs": 433,
+  "total_organisms": 244,
+  "total_gene_families": 242,
+  "total_journals": 116,
+  "total_tools": 861,
+  "rna_seq_rate": 67.1,
+  "qPCR_rate": 73.1,
+  "top_countries": [
+    {
+      "label": "China",
+      "count": 244
+    },
+    {
+      "label": "India",
+      "count": 55
+    },
+    {
+      "label": "Pakistan",
+      "count": 33
+    },
+    {
+      "label": "South Korea",
+      "count": 17
+    },
+    {
+      "label": "Unknown",
+      "count": 11
+    },
+    {
+      "label": "Bangladesh",
+      "count": 10
+    },
+    {
+      "label": "Brazil",
+      "count": 8
+    },
+    {
+      "label": "Turkey",
+      "count": 8
+    }
+  ],
+  "top_journals": [
+    {
+      "label": "BMC Genomics",
+      "count": 47
+    },
+    {
+      "label": "International Journal of Molecular Sciences",
+      "count": 35
+    },
+    {
+      "label": "BMC Plant Biology",
+      "count": 33
+    },
+    {
+      "label": "Frontiers in Plant Science",
+      "count": 32
+    },
+    {
+      "label": "Plants",
+      "count": 26
+    },
+    {
+      "label": "PLOS ONE",
+      "count": 21
+    },
+    {
+      "label": "Scientific Reports",
+      "count": 18
+    },
+    {
+      "label": "Molecular Biology Reports",
+      "count": 12
+    }
+  ],
+  "top_primary_organisms": [
+    {
+      "label": "Triticum aestivum L.",
+      "count": 45
+    },
+    {
+      "label": "Oryza sativa L.",
+      "count": 37
+    },
+    {
+      "label": "Glycine max L.",
+      "count": 23
+    },
+    {
+      "label": "Solanum lycopersicum L.",
+      "count": 19
+    },
+    {
+      "label": "Zea mays L.",
+      "count": 18
+    },
+    {
+      "label": "Arabidopsis thaliana",
+      "count": 16
+    },
+    {
+      "label": "Gossypium hirsutum L.",
+      "count": 14
+    },
+    {
+      "label": "Phaseolus vulgaris L.",
+      "count": 14
+    }
+  ],
+  "publications_by_year": [
+    {
+      "label": 2025,
+      "count": 98
+    },
+    {
+      "label": 2022,
+      "count": 39
+    },
+    {
+      "label": 2023,
+      "count": 32
+    },
+    {
+      "label": 2019,
+      "count": 27
+    },
+    {
+      "label": 2016,
+      "count": 25
+    },
+    {
+      "label": 2021,
+      "count": 24
+    },
+    {
+      "label": 2024,
+      "count": 23
+    },
+    {
+      "label": 2018,
+      "count": 21
+    },
+    {
+      "label": 2013,
+      "count": 20
+    },
+    {
+      "label": 2017,
+      "count": 20
+    },
+    {
+      "label": 2020,
+      "count": 16
+    },
+    {
+      "label": 2008,
+      "count": 15
+    },
+    {
+      "label": 2014,
+      "count": 15
+    },
+    {
+      "label": 2015,
+      "count": 14
+    },
+    {
+      "label": 2012,
+      "count": 12
+    },
+    {
+      "label": 2010,
+      "count": 8
+    },
+    {
+      "label": 2011,
+      "count": 7
+    },
+    {
+      "label": 2009,
+      "count": 5
+    },
+    {
+      "label": 2006,
+      "count": 3
+    },
+    {
+      "label": 2007,
+      "count": 3
+    },
+    {
+      "label": 2005,
+      "count": 2
+    },
+    {
+      "label": 2000,
+      "count": 1
+    },
+    {
+      "label": 2003,
+      "count": 1
+    },
+    {
+      "label": 2026,
+      "count": 1
+    }
+  ]
+}

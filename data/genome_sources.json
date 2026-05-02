@@ -1,0 +1,1382 @@
+[
+  {
+    "id": 1,
+    "name": "DOE Joint Genome Institute (Populus trichocarpa genome)",
+    "slug": "doe-joint-genome-institute-populus-trichocarpa-genome"
+  },
+  {
+    "id": 2,
+    "name": "TAIR",
+    "slug": "tair"
+  },
+  {
+    "id": 3,
+    "name": "NCBI",
+    "slug": "ncbi"
+  },
+  {
+    "id": 4,
+    "name": "Gramene",
+    "slug": "gramene"
+  },
+  {
+    "id": 5,
+    "name": "RAP-DB",
+    "slug": "rap-db"
+  },
+  {
+    "id": 6,
+    "name": "TIGR",
+    "slug": "tigr"
+  },
+  {
+    "id": 7,
+    "name": "Phytozome",
+    "slug": "phytozome"
+  },
+  {
+    "id": 8,
+    "name": "PlantGDB",
+    "slug": "plantgdb"
+  },
+  {
+    "id": 9,
+    "name": "UniProt",
+    "slug": "uniprot"
+  },
+  {
+    "id": 10,
+    "name": "CottonMD",
+    "slug": "cottonmd"
+  },
+  {
+    "id": 11,
+    "name": "Ensembl Plants",
+    "slug": "ensembl-plants"
+  },
+  {
+    "id": 12,
+    "name": "National Genomics Data Center",
+    "slug": "national-genomics-data-center"
+  },
+  {
+    "id": 13,
+    "name": "PlantTFDB",
+    "slug": "planttfdb"
+  },
+  {
+    "id": 14,
+    "name": "MaizeDB",
+    "slug": "maizedb"
+  },
+  {
+    "id": 15,
+    "name": "Potato genome database",
+    "slug": "potato-genome-database"
+  },
+  {
+    "id": 16,
+    "name": "Citrus Genome Database",
+    "slug": "citrus-genome-database"
+  },
+  {
+    "id": 17,
+    "name": "Banana Genome Hub",
+    "slug": "banana-genome-hub"
+  },
+  {
+    "id": 18,
+    "name": "Cotton Genome Project (CGP)",
+    "slug": "cotton-genome-project-cgp"
+  },
+  {
+    "id": 19,
+    "name": "Sol Genomics Network",
+    "slug": "sol-genomics-network"
+  },
+  {
+    "id": 20,
+    "name": "TFGD",
+    "slug": "tfgd"
+  },
+  {
+    "id": 21,
+    "name": "WheatExp",
+    "slug": "wheatexp"
+  },
+  {
+    "id": 22,
+    "name": "CottonGen",
+    "slug": "cottongen"
+  },
+  {
+    "id": 23,
+    "name": "NAU genome",
+    "slug": "nau-genome"
+  },
+  {
+    "id": 24,
+    "name": "ICR",
+    "slug": "icr"
+  },
+  {
+    "id": 25,
+    "name": "IGI",
+    "slug": "igi"
+  },
+  {
+    "id": 26,
+    "name": "MBKbase",
+    "slug": "mbkbase"
+  },
+  {
+    "id": 27,
+    "name": "GenBank",
+    "slug": "genbank"
+  },
+  {
+    "id": 28,
+    "name": "Sweet orange genome database",
+    "slug": "sweet-orange-genome-database"
+  },
+  {
+    "id": 29,
+    "name": "China National GeneBank",
+    "slug": "china-national-genebank"
+  },
+  {
+    "id": 30,
+    "name": "Joint Genome Institute (Citrus sinensis v1. 1) and C. sinensis Genome Annotation Project",
+    "slug": "joint-genome-institute-citrus-sinensis-v1-1-and-c-sinensis-genome-annotation-project"
+  },
+  {
+    "id": 31,
+    "name": "Sijimi' mango genome (unpublished)",
+    "slug": "sijimi-mango-genome-unpublished"
+  },
+  {
+    "id": 32,
+    "name": "Alfalfa Genome Project",
+    "slug": "alfalfa-genome-project"
+  },
+  {
+    "id": 33,
+    "name": "Medicago Genome",
+    "slug": "medicago-genome"
+  },
+  {
+    "id": 34,
+    "name": "Pepper Genome Database",
+    "slug": "pepper-genome-database"
+  },
+  {
+    "id": 35,
+    "name": "Solanaceae Genomics Network",
+    "slug": "solanaceae-genomics-network"
+  },
+  {
+    "id": 36,
+    "name": "Spinach genome",
+    "slug": "spinach-genome"
+  },
+  {
+    "id": 37,
+    "name": "Plant Transcription Factor Database",
+    "slug": "plant-transcription-factor-database"
+  },
+  {
+    "id": 38,
+    "name": "Micro-Tom Database",
+    "slug": "micro-tom-database"
+  },
+  {
+    "id": 39,
+    "name": "Unpublished Sequencing Data",
+    "slug": "unpublished-sequencing-data"
+  },
+  {
+    "id": 40,
+    "name": "Peanut Genome Resource Database",
+    "slug": "peanut-genome-resource-database"
+  },
+  {
+    "id": 41,
+    "name": "PeanutBase",
+    "slug": "peanutbase"
+  },
+  {
+    "id": 42,
+    "name": "Cruciferae database",
+    "slug": "cruciferae-database"
+  },
+  {
+    "id": 43,
+    "name": "Genome Sequence Archive Database",
+    "slug": "genome-sequence-archive-database"
+  },
+  {
+    "id": 44,
+    "name": "Figshare",
+    "slug": "figshare"
+  },
+  {
+    "id": 45,
+    "name": "GDR",
+    "slug": "gdr"
+  },
+  {
+    "id": 46,
+    "name": "Apple GFDB",
+    "slug": "apple-gfdb"
+  },
+  {
+    "id": 47,
+    "name": "Octoploid cultivated strawberry genome reference",
+    "slug": "octoploid-cultivated-strawberry-genome-reference"
+  },
+  {
+    "id": 48,
+    "name": "Tea Plant Information Archive Database (TPIA)",
+    "slug": "tea-plant-information-archive-database-tpia"
+  },
+  {
+    "id": 49,
+    "name": "Rice Genome Annotation Project",
+    "slug": "rice-genome-annotation-project"
+  },
+  {
+    "id": 50,
+    "name": "10])",
+    "slug": "10"
+  },
+  {
+    "id": 51,
+    "name": "alfalfa tool box",
+    "slug": "alfalfa-tool-box"
+  },
+  {
+    "id": 52,
+    "name": "ICuGI database",
+    "slug": "icugi-database"
+  },
+  {
+    "id": 53,
+    "name": "csgenome. sggw. pl",
+    "slug": "csgenome-sggw-pl"
+  },
+  {
+    "id": 54,
+    "name": "MELONOMICS",
+    "slug": "melonomics"
+  },
+  {
+    "id": 55,
+    "name": "Prof. Hideo Matsumura (for bitter gourd)",
+    "slug": "prof-hideo-matsumura-for-bitter-gourd"
+  },
+  {
+    "id": 56,
+    "name": "PGSC DM v3. 4",
+    "slug": "pgsc-dm-v3-4"
+  },
+  {
+    "id": 57,
+    "name": "Eggplant Genome release 2. 5. 1",
+    "slug": "eggplant-genome-release-2-5-1"
+  },
+  {
+    "id": 58,
+    "name": "Pepper cv CM334 release 1. 55",
+    "slug": "pepper-cv-cm334-release-1-55"
+  },
+  {
+    "id": 59,
+    "name": "Coffee v1. 0)",
+    "slug": "coffee-v1-0"
+  },
+  {
+    "id": 60,
+    "name": "National Center For Gene Research (NCGR) (P_heterocycla_v1. 0)",
+    "slug": "national-center-for-gene-research-ncgr-p-heterocycla-v1-0"
+  },
+  {
+    "id": 61,
+    "name": "Kiwifruit Genome Database",
+    "slug": "kiwifruit-genome-database"
+  },
+  {
+    "id": 62,
+    "name": "Cucurbit Genomics Database (Chinese long '9930' V3)",
+    "slug": "cucurbit-genomics-database-chinese-long-9930-v3"
+  },
+  {
+    "id": 63,
+    "name": "BGI (genome assembly ASM465v1)",
+    "slug": "bgi-genome-assembly-asm465v1"
+  },
+  {
+    "id": 64,
+    "name": "CottonFGD",
+    "slug": "cottonfgd"
+  },
+  {
+    "id": 65,
+    "name": "PLAZA database",
+    "slug": "plaza-database"
+  },
+  {
+    "id": 66,
+    "name": "PLAZA 4. 5 and Ensembl Plants",
+    "slug": "plaza-4-5-and-ensembl-plants"
+  },
+  {
+    "id": 67,
+    "name": "GenoScope (Brassica napus annotation_v5) and Ensembl Plants",
+    "slug": "genoscope-brassica-napus-annotation-v5-and-ensembl-plants"
+  },
+  {
+    "id": 68,
+    "name": "'Samantha' reference genome (Zhang et al.",
+    "slug": "samantha-reference-genome-zhang-et-al"
+  },
+  {
+    "id": 69,
+    "name": "Lanzhou University (Wu et al.",
+    "slug": "lanzhou-university-wu-et-al"
+  },
+  {
+    "id": 70,
+    "name": "Published sugarcane genome database",
+    "slug": "published-sugarcane-genome-database"
+  },
+  {
+    "id": 71,
+    "name": "CottonGen (TM-1 genome)",
+    "slug": "cottongen-tm-1-genome"
+  },
+  {
+    "id": 72,
+    "name": "Tea Research Institute",
+    "slug": "tea-research-institute"
+  },
+  {
+    "id": 73,
+    "name": "Fujian Academy of Agricultural Sciences (PacBio sequencing)",
+    "slug": "fujian-academy-of-agricultural-sciences-pacbio-sequencing"
+  },
+  {
+    "id": 74,
+    "name": "Genome Database for Brassicaceae (Brassica rapa v4. 0)",
+    "slug": "genome-database-for-brassicaceae-brassica-rapa-v4-0"
+  },
+  {
+    "id": 75,
+    "name": "BRAD (Brassica rapa Genome Database)",
+    "slug": "brad-brassica-rapa-genome-database"
+  },
+  {
+    "id": 76,
+    "name": "Phalaenopsis equestris genome (publicly available",
+    "slug": "phalaenopsis-equestris-genome-publicly-available"
+  },
+  {
+    "id": 77,
+    "name": "source not explicitly detailed)",
+    "slug": "source-not-explicitly-detailed"
+  },
+  {
+    "id": 78,
+    "name": "Dendrobium officinale genome (source not explicitly detailed)",
+    "slug": "dendrobium-officinale-genome-source-not-explicitly-detailed"
+  },
+  {
+    "id": 79,
+    "name": "SoyBase",
+    "slug": "soybase"
+  },
+  {
+    "id": 80,
+    "name": "LegumeInfo",
+    "slug": "legumeinfo"
+  },
+  {
+    "id": 81,
+    "name": "Phalaenopsis equestris genome (source not explicitly detailed)",
+    "slug": "phalaenopsis-equestris-genome-source-not-explicitly-detailed"
+  },
+  {
+    "id": 82,
+    "name": "Rosa genome database (Figshare)",
+    "slug": "rosa-genome-database-figshare"
+  },
+  {
+    "id": 83,
+    "name": "Medicago genome database (V3. 5)",
+    "slug": "medicago-genome-database-v3-5"
+  },
+  {
+    "id": 84,
+    "name": "MaizeSequence. org (B73 genome)",
+    "slug": "maizesequence-org-b73-genome"
+  },
+  {
+    "id": 85,
+    "name": "MELONOMICS (CM_protein_v3. 5)",
+    "slug": "melonomics-cm-protein-v3-5"
+  },
+  {
+    "id": 86,
+    "name": "TIGR rice pseudomolecules (version 4) and KOME cDNA database",
+    "slug": "tigr-rice-pseudomolecules-version-4-and-kome-cdna-database"
+  },
+  {
+    "id": 87,
+    "name": "Liu et al. 2014)",
+    "slug": "liu-et-al-2014"
+  },
+  {
+    "id": 88,
+    "name": "Cotton Genome Project (CGP) for G. raimondii; G. hirsutum cDNA from mixed tissues",
+    "slug": "cotton-genome-project-cgp-for-g-raimondii-g-hirsutum-cdna-from-mixed-tissues"
+  },
+  {
+    "id": 89,
+    "name": "B. rapa genome database",
+    "slug": "b-rapa-genome-database"
+  },
+  {
+    "id": 90,
+    "name": "Rubber tree genome (USM & CATAS)",
+    "slug": "rubber-tree-genome-usm-catas"
+  },
+  {
+    "id": 91,
+    "name": "EST)",
+    "slug": "est"
+  },
+  {
+    "id": 92,
+    "name": "Ensembl Genomes (release 50)",
+    "slug": "ensembl-genomes-release-50"
+  },
+  {
+    "id": 93,
+    "name": "Banana Genome Database",
+    "slug": "banana-genome-database"
+  },
+  {
+    "id": 94,
+    "name": "GenoScope",
+    "slug": "genoscope"
+  },
+  {
+    "id": 95,
+    "name": "Rice Database Oryzabase-Shigen",
+    "slug": "rice-database-oryzabase-shigen"
+  },
+  {
+    "id": 96,
+    "name": "DH-Pahang genome database (Banana Genome Hub)",
+    "slug": "dh-pahang-genome-database-banana-genome-hub"
+  },
+  {
+    "id": 97,
+    "name": "MaizeSequence",
+    "slug": "maizesequence"
+  },
+  {
+    "id": 98,
+    "name": "PlnTFDB",
+    "slug": "plntfdb"
+  },
+  {
+    "id": 99,
+    "name": "Castanea Genome Database",
+    "slug": "castanea-genome-database"
+  },
+  {
+    "id": 100,
+    "name": "B73 maize sequencing database (MaizeSequence)",
+    "slug": "b73-maize-sequencing-database-maizesequence"
+  },
+  {
+    "id": 101,
+    "name": "Maize sequencing database",
+    "slug": "maize-sequencing-database"
+  },
+  {
+    "id": 102,
+    "name": "MaizeGDB",
+    "slug": "maizegdb"
+  },
+  {
+    "id": 103,
+    "name": "Spud DB",
+    "slug": "spud-db"
+  },
+  {
+    "id": 104,
+    "name": "IWGSC RefSeq v1. 1",
+    "slug": "iwgsc-refseq-v1-1"
+  },
+  {
+    "id": 105,
+    "name": "JGI Poplar genome v1. 1",
+    "slug": "jgi-poplar-genome-v1-1"
+  },
+  {
+    "id": 106,
+    "name": "Cucumber Genomics Database",
+    "slug": "cucumber-genomics-database"
+  },
+  {
+    "id": 107,
+    "name": "Medical Plant Genomics Resource (MGPR)",
+    "slug": "medical-plant-genomics-resource-mgpr"
+  },
+  {
+    "id": 108,
+    "name": "GreenPhyl v4",
+    "slug": "greenphyl-v4"
+  },
+  {
+    "id": 109,
+    "name": "JCVI M. truncatula Sequencing Project v4. 0",
+    "slug": "jcvi-m-truncatula-sequencing-project-v4-0"
+  },
+  {
+    "id": 110,
+    "name": "Cotton Genome Project",
+    "slug": "cotton-genome-project"
+  },
+  {
+    "id": 111,
+    "name": "BRAD",
+    "slug": "brad"
+  },
+  {
+    "id": 112,
+    "name": "BRAD (Brassica database)",
+    "slug": "brad-brassica-database"
+  },
+  {
+    "id": 113,
+    "name": "Potato Genome Sequencing Consortium (PGSC)",
+    "slug": "potato-genome-sequencing-consortium-pgsc"
+  },
+  {
+    "id": 114,
+    "name": "S. arbutifolia genome sequence (paper in press)",
+    "slug": "s-arbutifolia-genome-sequence-paper-in-press"
+  },
+  {
+    "id": 115,
+    "name": "IWGSC RefSeq v1. 0",
+    "slug": "iwgsc-refseq-v1-0"
+  },
+  {
+    "id": 116,
+    "name": "IPK (barley genome Morex v2. 0)",
+    "slug": "ipk-barley-genome-morex-v2-0"
+  },
+  {
+    "id": 117,
+    "name": "G. hirsutum genome database",
+    "slug": "g-hirsutum-genome-database"
+  },
+  {
+    "id": 118,
+    "name": "Transcriptome databases (SRP068179",
+    "slug": "transcriptome-databases-srp068179"
+  },
+  {
+    "id": 119,
+    "name": "CRA000288)",
+    "slug": "cra000288"
+  },
+  {
+    "id": 120,
+    "name": "I. batatas genome database",
+    "slug": "i-batatas-genome-database"
+  },
+  {
+    "id": 121,
+    "name": "Published Genome",
+    "slug": "published-genome"
+  },
+  {
+    "id": 122,
+    "name": "Brassicaceae Database (BRAD)",
+    "slug": "brassicaceae-database-brad"
+  },
+  {
+    "id": 123,
+    "name": "Literature [10]",
+    "slug": "literature-10"
+  },
+  {
+    "id": 124,
+    "name": "Plant Transcription Factor Database ver. 2. 0",
+    "slug": "plant-transcription-factor-database-ver-2-0"
+  },
+  {
+    "id": 125,
+    "name": "Maize B73 genome (release 5b. 60)",
+    "slug": "maize-b73-genome-release-5b-60"
+  },
+  {
+    "id": 126,
+    "name": "Southwest University Genome Database",
+    "slug": "southwest-university-genome-database"
+  },
+  {
+    "id": 127,
+    "name": "Joint Genome Institute (Phytozome)",
+    "slug": "joint-genome-institute-phytozome"
+  },
+  {
+    "id": 128,
+    "name": "Grapevine database",
+    "slug": "grapevine-database"
+  },
+  {
+    "id": 129,
+    "name": "Vitis-URGI",
+    "slug": "vitis-urgi"
+  },
+  {
+    "id": 130,
+    "name": "International Tomato Annotation Group Release 2. 4 (SGN)",
+    "slug": "international-tomato-annotation-group-release-2-4-sgn"
+  },
+  {
+    "id": 131,
+    "name": "Ensembl Genomes",
+    "slug": "ensembl-genomes"
+  },
+  {
+    "id": 132,
+    "name": "IWGSC",
+    "slug": "iwgsc"
+  },
+  {
+    "id": 133,
+    "name": "GigaDB (new version of the Moso bamboo genome annotation project)",
+    "slug": "gigadb-new-version-of-the-moso-bamboo-genome-annotation-project"
+  },
+  {
+    "id": 134,
+    "name": "Cucurbit Genomics Database",
+    "slug": "cucurbit-genomics-database"
+  },
+  {
+    "id": 135,
+    "name": "cucurbitagenome database (Version 2)",
+    "slug": "cucurbitagenome-database-version-2"
+  },
+  {
+    "id": 136,
+    "name": "Figshare (Zhongmu No. 4)",
+    "slug": "figshare-zhongmu-no-4"
+  },
+  {
+    "id": 137,
+    "name": "SolTub_3. 0 assembly for Solanum tuberosum (GCA_000226075. 1)",
+    "slug": "soltub-3-0-assembly-for-solanum-tuberosum-gca-000226075-1"
+  },
+  {
+    "id": 138,
+    "name": "Chickpea database",
+    "slug": "chickpea-database"
+  },
+  {
+    "id": 139,
+    "name": "Cucumber Genome Database",
+    "slug": "cucumber-genome-database"
+  },
+  {
+    "id": 140,
+    "name": "ICRISAT",
+    "slug": "icrisat"
+  },
+  {
+    "id": 141,
+    "name": "JCVI",
+    "slug": "jcvi"
+  },
+  {
+    "id": 142,
+    "name": "Maize Genome Database",
+    "slug": "maize-genome-database"
+  },
+  {
+    "id": 143,
+    "name": "KEA",
+    "slug": "kea"
+  },
+  {
+    "id": 144,
+    "name": "NHX",
+    "slug": "nhx"
+  },
+  {
+    "id": 145,
+    "name": "CGP-BGI",
+    "slug": "cgp-bgi"
+  },
+  {
+    "id": 146,
+    "name": "JGI (IWGSC v2. 1)",
+    "slug": "jgi-iwgsc-v2-1"
+  },
+  {
+    "id": 147,
+    "name": "Safflower genome database (Accession: PRJNA399628)",
+    "slug": "safflower-genome-database-accession-prjna399628"
+  },
+  {
+    "id": 148,
+    "name": "IWGSC RefSeq V2. 0",
+    "slug": "iwgsc-refseq-v2-0"
+  },
+  {
+    "id": 149,
+    "name": "Alfalfa Breeders Toolbox",
+    "slug": "alfalfa-breeders-toolbox"
+  },
+  {
+    "id": 150,
+    "name": "In-house assembly (NCBI BioProject PRJNA1262668)",
+    "slug": "in-house-assembly-ncbi-bioproject-prjna1262668"
+  },
+  {
+    "id": 151,
+    "name": "Sugarcane Genome Hub",
+    "slug": "sugarcane-genome-hub"
+  },
+  {
+    "id": 152,
+    "name": "Pepper Genome Database (PepperBase)",
+    "slug": "pepper-genome-database-pepperbase"
+  },
+  {
+    "id": 153,
+    "name": "IPK barley genome database (Morex V2. 0 2019)",
+    "slug": "ipk-barley-genome-database-morex-v2-0-2019"
+  },
+  {
+    "id": 154,
+    "name": "GigaScience Database (Eriobotrya japonica)",
+    "slug": "gigascience-database-eriobotrya-japonica"
+  },
+  {
+    "id": 155,
+    "name": "GigaScience Database (loquat)",
+    "slug": "gigascience-database-loquat"
+  },
+  {
+    "id": 156,
+    "name": "peach",
+    "slug": "peach"
+  },
+  {
+    "id": 157,
+    "name": "strawberry)",
+    "slug": "strawberry"
+  },
+  {
+    "id": 158,
+    "name": "GDR (pear)",
+    "slug": "gdr-pear"
+  },
+  {
+    "id": 159,
+    "name": "ChenopodiumDB",
+    "slug": "chenopodiumdb"
+  },
+  {
+    "id": 160,
+    "name": "Genoscope Genome Browser",
+    "slug": "genoscope-genome-browser"
+  },
+  {
+    "id": 161,
+    "name": "A. argyi Gene Database",
+    "slug": "a-argyi-gene-database"
+  },
+  {
+    "id": 162,
+    "name": "UniParc",
+    "slug": "uniparc"
+  },
+  {
+    "id": 163,
+    "name": "Citrus sinensis Annotation Project",
+    "slug": "citrus-sinensis-annotation-project"
+  },
+  {
+    "id": 164,
+    "name": "v10. 3",
+    "slug": "v10-3"
+  },
+  {
+    "id": 165,
+    "name": "Plant Transcription Factor Database 3. 0",
+    "slug": "plant-transcription-factor-database-3-0"
+  },
+  {
+    "id": 166,
+    "name": "GigaDB",
+    "slug": "gigadb"
+  },
+  {
+    "id": 167,
+    "name": "M. truncatula genome database",
+    "slug": "m-truncatula-genome-database"
+  },
+  {
+    "id": 168,
+    "name": "BioProject: PRJNA601606)",
+    "slug": "bioproject-prjna601606"
+  },
+  {
+    "id": 169,
+    "name": "IWGSC (INSDC Assembly GCA_900519105. 1)",
+    "slug": "iwgsc-insdc-assembly-gca-900519105-1"
+  },
+  {
+    "id": 170,
+    "name": "Maize Full Length cDNA Library Database",
+    "slug": "maize-full-length-cdna-library-database"
+  },
+  {
+    "id": 171,
+    "name": "GenBank (accession number GCA_002018215. 1)",
+    "slug": "genbank-accession-number-gca-002018215-1"
+  },
+  {
+    "id": 172,
+    "name": "IWGSC V2. 1",
+    "slug": "iwgsc-v2-1"
+  },
+  {
+    "id": 173,
+    "name": "Apple GFDB database",
+    "slug": "apple-gfdb-database"
+  },
+  {
+    "id": 174,
+    "name": "pepper genome databases (Pepper Genome Database (Zunla-1); Pepper Genome Database (CM334))",
+    "slug": "pepper-genome-databases-pepper-genome-database-zunla-1-pepper-genome-database-cm334"
+  },
+  {
+    "id": 175,
+    "name": "Release 2. 5)",
+    "slug": "release-2-5"
+  },
+  {
+    "id": 176,
+    "name": "Malus domestica Genome v1. 0",
+    "slug": "malus-domestica-genome-v1-0"
+  },
+  {
+    "id": 177,
+    "name": "whole-genome sequence (WGS) database of safflower",
+    "slug": "whole-genome-sequence-wgs-database-of-safflower"
+  },
+  {
+    "id": 178,
+    "name": "wheat reference genome assembly (RefSeq v. 1. 1; IWGSC)",
+    "slug": "wheat-reference-genome-assembly-refseq-v-1-1-iwgsc"
+  },
+  {
+    "id": 179,
+    "name": "PRJNA53913",
+    "slug": "prjna53913"
+  },
+  {
+    "id": 180,
+    "name": "PRJNA749652",
+    "slug": "prjna749652"
+  },
+  {
+    "id": 181,
+    "name": "PRJNA664445)",
+    "slug": "prjna664445"
+  },
+  {
+    "id": 182,
+    "name": "NGDC (PRJCA005355)",
+    "slug": "ngdc-prjca005355"
+  },
+  {
+    "id": 183,
+    "name": "v4. 0",
+    "slug": "v4-0"
+  },
+  {
+    "id": 184,
+    "name": "Ginkgo biloba Genome Database",
+    "slug": "ginkgo-biloba-genome-database"
+  },
+  {
+    "id": 185,
+    "name": "CTDB (chickpea genome)",
+    "slug": "ctdb-chickpea-genome"
+  },
+  {
+    "id": 186,
+    "name": "Citrus clementina genome database (cucurbitigenomics. org/blast) and NCBI",
+    "slug": "citrus-clementina-genome-database-cucurbitigenomics-org-blast-and-ncbi"
+  },
+  {
+    "id": 187,
+    "name": "BoGDB (Korso genome)",
+    "slug": "bogdb-korso-genome"
+  },
+  {
+    "id": 188,
+    "name": "Tomato Gene Index (DFCI)",
+    "slug": "tomato-gene-index-dfci"
+  },
+  {
+    "id": 189,
+    "name": "MSU Rice Genome Annotation (Oryza sativa)",
+    "slug": "msu-rice-genome-annotation-oryza-sativa"
+  },
+  {
+    "id": 190,
+    "name": "MSU RGAP (Release 7)",
+    "slug": "msu-rgap-release-7"
+  },
+  {
+    "id": 191,
+    "name": "KOME",
+    "slug": "kome"
+  },
+  {
+    "id": 192,
+    "name": "IWGI (Watermelon Genome Database)",
+    "slug": "iwgi-watermelon-genome-database"
+  },
+  {
+    "id": 193,
+    "name": "S. miltiorrhiza genome (unpublished draft)",
+    "slug": "s-miltiorrhiza-genome-unpublished-draft"
+  },
+  {
+    "id": 194,
+    "name": "G. raimondii genome (Cotton Genome Project)",
+    "slug": "g-raimondii-genome-cotton-genome-project"
+  },
+  {
+    "id": 195,
+    "name": "PGSC DM genome v3. 4",
+    "slug": "pgsc-dm-genome-v3-4"
+  },
+  {
+    "id": 196,
+    "name": "Linseed genome (http://www. linum. ca/)",
+    "slug": "linseed-genome-http-www-linum-ca"
+  },
+  {
+    "id": 197,
+    "name": "Greenphyl database",
+    "slug": "greenphyl-database"
+  },
+  {
+    "id": 198,
+    "name": "Maize genome database (maizesequence. org)",
+    "slug": "maize-genome-database-maizesequence-org"
+  },
+  {
+    "id": 199,
+    "name": "GDR (Rosaceae)",
+    "slug": "gdr-rosaceae"
+  },
+  {
+    "id": 200,
+    "name": "FEM?IASMA",
+    "slug": "fem-iasma"
+  },
+  {
+    "id": 201,
+    "name": "Citrus genome database (http://citrus. hzau. edu. cn)",
+    "slug": "citrus-genome-database-http-citrus-hzau-edu-cn"
+  },
+  {
+    "id": 202,
+    "name": "Nicotiana tabacum genome (Huazhong Agric. Univ.)",
+    "slug": "nicotiana-tabacum-genome-huazhong-agric-univ"
+  },
+  {
+    "id": 203,
+    "name": "E. sibiricus genome (Sci. Data)",
+    "slug": "e-sibiricus-genome-sci-data"
+  },
+  {
+    "id": 204,
+    "name": "CNGBdb (CNA0148166)",
+    "slug": "cngbdb-cna0148166"
+  },
+  {
+    "id": 205,
+    "name": "Avocado West?Indian pure accession reference genome (Avocado Genome Consortium)",
+    "slug": "avocado-west-indian-pure-accession-reference-genome-avocado-genome-consortium"
+  },
+  {
+    "id": 206,
+    "name": "GDR (Pyrus betulifolia genome)",
+    "slug": "gdr-pyrus-betulifolia-genome"
+  },
+  {
+    "id": 207,
+    "name": "EnsemblPlants",
+    "slug": "ensemblplants"
+  },
+  {
+    "id": 208,
+    "name": "etc.",
+    "slug": "etc"
+  },
+  {
+    "id": 209,
+    "name": "A. agallocha genome (Das et al.",
+    "slug": "a-agallocha-genome-das-et-al"
+  },
+  {
+    "id": 210,
+    "name": "Phytosome (https://phytozome-next. jgi. doe. gov/)",
+    "slug": "phytosome-https-phytozome-next-jgi-doe-gov"
+  },
+  {
+    "id": 211,
+    "name": "Self-assembled high-quality chromosome-level reference genome of P. simonii",
+    "slug": "self-assembled-high-quality-chromosome-level-reference-genome-of-p-simonii"
+  },
+  {
+    "id": 212,
+    "name": "Pulse Crop Database (PCD) (Desi-type ICC4958)",
+    "slug": "pulse-crop-database-pcd-desi-type-icc4958"
+  },
+  {
+    "id": 213,
+    "name": "Spud DB (DM 1-3 516 R44)",
+    "slug": "spud-db-dm-1-3-516-r44"
+  },
+  {
+    "id": 214,
+    "name": "EnsemblPlants (M. esculenta v6. 1)",
+    "slug": "ensemblplants-m-esculenta-v6-1"
+  },
+  {
+    "id": 215,
+    "name": "Pepper Genome Database (PGD) C. chinense PI159236",
+    "slug": "pepper-genome-database-pgd-c-chinense-pi159236"
+  },
+  {
+    "id": 216,
+    "name": "Cucurbit Genomics Database (V3)",
+    "slug": "cucurbit-genomics-database-v3"
+  },
+  {
+    "id": 217,
+    "name": "Not applicable (cDNA cloning)",
+    "slug": "not-applicable-cdna-cloning"
+  },
+  {
+    "id": 218,
+    "name": "Rice TIGR db",
+    "slug": "rice-tigr-db"
+  },
+  {
+    "id": 219,
+    "name": "DDBJ",
+    "slug": "ddbj"
+  },
+  {
+    "id": 220,
+    "name": "TMRI; Arabidopsis TIGR",
+    "slug": "tmri-arabidopsis-tigr"
+  },
+  {
+    "id": 221,
+    "name": "MIPS",
+    "slug": "mips"
+  },
+  {
+    "id": 222,
+    "name": "TIGR MtGI (Medicago truncatula Gene Index)",
+    "slug": "tigr-mtgi-medicago-truncatula-gene-index"
+  },
+  {
+    "id": 223,
+    "name": "GDR database (Malus x domestica GDDH13 v1. 1)",
+    "slug": "gdr-database-malus-x-domestica-gddh13-v1-1"
+  },
+  {
+    "id": 224,
+    "name": "JGI Populus v1. 1",
+    "slug": "jgi-populus-v1-1"
+  },
+  {
+    "id": 225,
+    "name": "TIGR v5",
+    "slug": "tigr-v5"
+  },
+  {
+    "id": 226,
+    "name": "JGI",
+    "slug": "jgi"
+  },
+  {
+    "id": 227,
+    "name": "Maize Genome Browser",
+    "slug": "maize-genome-browser"
+  },
+  {
+    "id": 228,
+    "name": "DRYAD",
+    "slug": "dryad"
+  },
+  {
+    "id": 229,
+    "name": "TIGR wheat gene index",
+    "slug": "tigr-wheat-gene-index"
+  },
+  {
+    "id": 230,
+    "name": "ESTs",
+    "slug": "ests"
+  },
+  {
+    "id": 231,
+    "name": "Pineapple genome",
+    "slug": "pineapple-genome"
+  },
+  {
+    "id": 232,
+    "name": "Cassava genome v4. 1",
+    "slug": "cassava-genome-v4-1"
+  },
+  {
+    "id": 233,
+    "name": "TGACv1 wheat genome",
+    "slug": "tgacv1-wheat-genome"
+  },
+  {
+    "id": 234,
+    "name": "IWGSC contigs",
+    "slug": "iwgsc-contigs"
+  },
+  {
+    "id": 235,
+    "name": "TGACv1",
+    "slug": "tgacv1"
+  },
+  {
+    "id": 236,
+    "name": "IWGSC RefSeq v1. 0 (Ensembl Plants)",
+    "slug": "iwgsc-refseq-v1-0-ensembl-plants"
+  },
+  {
+    "id": 237,
+    "name": "Durum wheat transcriptome (Krasileva et al. 2013)",
+    "slug": "durum-wheat-transcriptome-krasileva-et-al-2013"
+  },
+  {
+    "id": 238,
+    "name": "NGDC ginseng genome",
+    "slug": "ngdc-ginseng-genome"
+  },
+  {
+    "id": 239,
+    "name": "Legume Information System (CDC frontier)",
+    "slug": "legume-information-system-cdc-frontier"
+  },
+  {
+    "id": 240,
+    "name": "Cucurbit Genomics Database (v1)",
+    "slug": "cucurbit-genomics-database-v1"
+  },
+  {
+    "id": 241,
+    "name": "Plaza2. 5",
+    "slug": "plaza2-5"
+  },
+  {
+    "id": 242,
+    "name": "CsiDB",
+    "slug": "csidb"
+  },
+  {
+    "id": 243,
+    "name": "12x grape genome (PlantTFDB",
+    "slug": "12x-grape-genome-planttfdb"
+  },
+  {
+    "id": 244,
+    "name": "TIGR Rice Annotation release 5",
+    "slug": "tigr-rice-annotation-release-5"
+  },
+  {
+    "id": 245,
+    "name": "RGAP TIGR v5",
+    "slug": "rgap-tigr-v5"
+  },
+  {
+    "id": 246,
+    "name": "GenBank ESTs",
+    "slug": "genbank-ests"
+  },
+  {
+    "id": 247,
+    "name": "B. juncea genome v2. 0",
+    "slug": "b-juncea-genome-v2-0"
+  },
+  {
+    "id": 248,
+    "name": "B. rapa",
+    "slug": "b-rapa"
+  },
+  {
+    "id": 249,
+    "name": "B. nigra genomes",
+    "slug": "b-nigra-genomes"
+  },
+  {
+    "id": 250,
+    "name": "Maize genome (PlantGDB",
+    "slug": "maize-genome-plantgdb"
+  },
+  {
+    "id": 251,
+    "name": "MAGI",
+    "slug": "magi"
+  },
+  {
+    "id": 252,
+    "name": "B73 assembly)",
+    "slug": "b73-assembly"
+  },
+  {
+    "id": 253,
+    "name": "Grape genome (Genoscope",
+    "slug": "grape-genome-genoscope"
+  },
+  {
+    "id": 254,
+    "name": "PN40024)",
+    "slug": "pn40024"
+  },
+  {
+    "id": 255,
+    "name": "JGI Populus trichocarpa genome",
+    "slug": "jgi-populus-trichocarpa-genome"
+  },
+  {
+    "id": 256,
+    "name": "Populus trichocarpa Phytozome v2. 0",
+    "slug": "populus-trichocarpa-phytozome-v2-0"
+  },
+  {
+    "id": 257,
+    "name": "Grapevine genome (Genoscope",
+    "slug": "grapevine-genome-genoscope"
+  },
+  {
+    "id": 258,
+    "name": "Soybean Glyma1 model (Phytozome)",
+    "slug": "soybean-glyma1-model-phytozome"
+  },
+  {
+    "id": 259,
+    "name": "Various (SUPERFAMILY",
+    "slug": "various-superfamily"
+  },
+  {
+    "id": 260,
+    "name": "Plaza",
+    "slug": "plaza"
+  },
+  {
+    "id": 261,
+    "name": "Arabidopsis TAIR9",
+    "slug": "arabidopsis-tair9"
+  },
+  {
+    "id": 262,
+    "name": "rice RGAP",
+    "slug": "rice-rgap"
+  },
+  {
+    "id": 263,
+    "name": "JGI (poplar)",
+    "slug": "jgi-poplar"
+  },
+  {
+    "id": 264,
+    "name": "TIGR (rice)",
+    "slug": "tigr-rice"
+  },
+  {
+    "id": 265,
+    "name": "PlantGDB (maize)",
+    "slug": "plantgdb-maize"
+  },
+  {
+    "id": 266,
+    "name": "Transcriptome assembly (B. purpurascens)",
+    "slug": "transcriptome-assembly-b-purpurascens"
+  },
+  {
+    "id": 267,
+    "name": "Maize B73 genome (maizegenome. org)",
+    "slug": "maize-b73-genome-maizegenome-org"
+  },
+  {
+    "id": 268,
+    "name": "Rice TIGR v4",
+    "slug": "rice-tigr-v4"
+  },
+  {
+    "id": 269,
+    "name": "Sorghum MIPS",
+    "slug": "sorghum-mips"
+  },
+  {
+    "id": 270,
+    "name": "Arabidopsis TAIR (T?DNA insertion lines)",
+    "slug": "arabidopsis-tair-t-dna-insertion-lines"
+  },
+  {
+    "id": 271,
+    "name": "Grape genome (Genoscope PN40024)",
+    "slug": "grape-genome-genoscope-pn40024"
+  },
+  {
+    "id": 272,
+    "name": "IRGSP",
+    "slug": "irgsp"
+  },
+  {
+    "id": 273,
+    "name": "Medicago Mt1. 0 draft genome (MGSC)",
+    "slug": "medicago-mt1-0-draft-genome-mgsc"
+  },
+  {
+    "id": 274,
+    "name": "Tobacco GSRs (methylation filtration)",
+    "slug": "tobacco-gsrs-methylation-filtration"
+  },
+  {
+    "id": 275,
+    "name": "TGI",
+    "slug": "tgi"
+  },
+  {
+    "id": 276,
+    "name": "Rice TIGR release 5",
+    "slug": "rice-tigr-release-5"
+  }
+]

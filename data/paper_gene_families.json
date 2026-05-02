@@ -1,0 +1,1730 @@
+[
+  {
+    "paper_id": 1,
+    "gene_family_id": 1
+  },
+  {
+    "paper_id": 2,
+    "gene_family_id": 2
+  },
+  {
+    "paper_id": 3,
+    "gene_family_id": 3
+  },
+  {
+    "paper_id": 4,
+    "gene_family_id": 4
+  },
+  {
+    "paper_id": 5,
+    "gene_family_id": 5
+  },
+  {
+    "paper_id": 6,
+    "gene_family_id": 6
+  },
+  {
+    "paper_id": 8,
+    "gene_family_id": 7
+  },
+  {
+    "paper_id": 9,
+    "gene_family_id": 8
+  },
+  {
+    "paper_id": 10,
+    "gene_family_id": 9
+  },
+  {
+    "paper_id": 11,
+    "gene_family_id": 10
+  },
+  {
+    "paper_id": 12,
+    "gene_family_id": 10
+  },
+  {
+    "paper_id": 13,
+    "gene_family_id": 11
+  },
+  {
+    "paper_id": 14,
+    "gene_family_id": 12
+  },
+  {
+    "paper_id": 15,
+    "gene_family_id": 13
+  },
+  {
+    "paper_id": 16,
+    "gene_family_id": 14
+  },
+  {
+    "paper_id": 17,
+    "gene_family_id": 15
+  },
+  {
+    "paper_id": 18,
+    "gene_family_id": 16
+  },
+  {
+    "paper_id": 19,
+    "gene_family_id": 17
+  },
+  {
+    "paper_id": 20,
+    "gene_family_id": 18
+  },
+  {
+    "paper_id": 21,
+    "gene_family_id": 19
+  },
+  {
+    "paper_id": 22,
+    "gene_family_id": 20
+  },
+  {
+    "paper_id": 23,
+    "gene_family_id": 21
+  },
+  {
+    "paper_id": 24,
+    "gene_family_id": 22
+  },
+  {
+    "paper_id": 25,
+    "gene_family_id": 23
+  },
+  {
+    "paper_id": 26,
+    "gene_family_id": 24
+  },
+  {
+    "paper_id": 27,
+    "gene_family_id": 25
+  },
+  {
+    "paper_id": 28,
+    "gene_family_id": 26
+  },
+  {
+    "paper_id": 29,
+    "gene_family_id": 27
+  },
+  {
+    "paper_id": 30,
+    "gene_family_id": 10
+  },
+  {
+    "paper_id": 31,
+    "gene_family_id": 28
+  },
+  {
+    "paper_id": 32,
+    "gene_family_id": 29
+  },
+  {
+    "paper_id": 33,
+    "gene_family_id": 30
+  },
+  {
+    "paper_id": 34,
+    "gene_family_id": 31
+  },
+  {
+    "paper_id": 35,
+    "gene_family_id": 32
+  },
+  {
+    "paper_id": 36,
+    "gene_family_id": 33
+  },
+  {
+    "paper_id": 37,
+    "gene_family_id": 34
+  },
+  {
+    "paper_id": 38,
+    "gene_family_id": 35
+  },
+  {
+    "paper_id": 39,
+    "gene_family_id": 36
+  },
+  {
+    "paper_id": 40,
+    "gene_family_id": 37
+  },
+  {
+    "paper_id": 41,
+    "gene_family_id": 38
+  },
+  {
+    "paper_id": 42,
+    "gene_family_id": 39
+  },
+  {
+    "paper_id": 43,
+    "gene_family_id": 40
+  },
+  {
+    "paper_id": 44,
+    "gene_family_id": 41
+  },
+  {
+    "paper_id": 45,
+    "gene_family_id": 42
+  },
+  {
+    "paper_id": 46,
+    "gene_family_id": 43
+  },
+  {
+    "paper_id": 47,
+    "gene_family_id": 9
+  },
+  {
+    "paper_id": 48,
+    "gene_family_id": 44
+  },
+  {
+    "paper_id": 49,
+    "gene_family_id": 34
+  },
+  {
+    "paper_id": 53,
+    "gene_family_id": 45
+  },
+  {
+    "paper_id": 54,
+    "gene_family_id": 12
+  },
+  {
+    "paper_id": 55,
+    "gene_family_id": 46
+  },
+  {
+    "paper_id": 56,
+    "gene_family_id": 47
+  },
+  {
+    "paper_id": 57,
+    "gene_family_id": 11
+  },
+  {
+    "paper_id": 59,
+    "gene_family_id": 48
+  },
+  {
+    "paper_id": 60,
+    "gene_family_id": 20
+  },
+  {
+    "paper_id": 61,
+    "gene_family_id": 49
+  },
+  {
+    "paper_id": 63,
+    "gene_family_id": 50
+  },
+  {
+    "paper_id": 64,
+    "gene_family_id": 51
+  },
+  {
+    "paper_id": 65,
+    "gene_family_id": 52
+  },
+  {
+    "paper_id": 66,
+    "gene_family_id": 20
+  },
+  {
+    "paper_id": 67,
+    "gene_family_id": 53
+  },
+  {
+    "paper_id": 68,
+    "gene_family_id": 54
+  },
+  {
+    "paper_id": 69,
+    "gene_family_id": 55
+  },
+  {
+    "paper_id": 70,
+    "gene_family_id": 56
+  },
+  {
+    "paper_id": 71,
+    "gene_family_id": 57
+  },
+  {
+    "paper_id": 72,
+    "gene_family_id": 58
+  },
+  {
+    "paper_id": 73,
+    "gene_family_id": 59
+  },
+  {
+    "paper_id": 74,
+    "gene_family_id": 53
+  },
+  {
+    "paper_id": 75,
+    "gene_family_id": 60
+  },
+  {
+    "paper_id": 76,
+    "gene_family_id": 61
+  },
+  {
+    "paper_id": 77,
+    "gene_family_id": 62
+  },
+  {
+    "paper_id": 78,
+    "gene_family_id": 63
+  },
+  {
+    "paper_id": 79,
+    "gene_family_id": 64
+  },
+  {
+    "paper_id": 80,
+    "gene_family_id": 65
+  },
+  {
+    "paper_id": 81,
+    "gene_family_id": 66
+  },
+  {
+    "paper_id": 82,
+    "gene_family_id": 67
+  },
+  {
+    "paper_id": 83,
+    "gene_family_id": 46
+  },
+  {
+    "paper_id": 84,
+    "gene_family_id": 68
+  },
+  {
+    "paper_id": 85,
+    "gene_family_id": 69
+  },
+  {
+    "paper_id": 86,
+    "gene_family_id": 67
+  },
+  {
+    "paper_id": 87,
+    "gene_family_id": 70
+  },
+  {
+    "paper_id": 88,
+    "gene_family_id": 71
+  },
+  {
+    "paper_id": 89,
+    "gene_family_id": 72
+  },
+  {
+    "paper_id": 90,
+    "gene_family_id": 73
+  },
+  {
+    "paper_id": 91,
+    "gene_family_id": 41
+  },
+  {
+    "paper_id": 92,
+    "gene_family_id": 74
+  },
+  {
+    "paper_id": 93,
+    "gene_family_id": 75
+  },
+  {
+    "paper_id": 94,
+    "gene_family_id": 76
+  },
+  {
+    "paper_id": 95,
+    "gene_family_id": 41
+  },
+  {
+    "paper_id": 96,
+    "gene_family_id": 71
+  },
+  {
+    "paper_id": 97,
+    "gene_family_id": 77
+  },
+  {
+    "paper_id": 99,
+    "gene_family_id": 78
+  },
+  {
+    "paper_id": 100,
+    "gene_family_id": 79
+  },
+  {
+    "paper_id": 101,
+    "gene_family_id": 80
+  },
+  {
+    "paper_id": 102,
+    "gene_family_id": 74
+  },
+  {
+    "paper_id": 103,
+    "gene_family_id": 81
+  },
+  {
+    "paper_id": 104,
+    "gene_family_id": 82
+  },
+  {
+    "paper_id": 105,
+    "gene_family_id": 83
+  },
+  {
+    "paper_id": 106,
+    "gene_family_id": 84
+  },
+  {
+    "paper_id": 107,
+    "gene_family_id": 10
+  },
+  {
+    "paper_id": 108,
+    "gene_family_id": 7
+  },
+  {
+    "paper_id": 109,
+    "gene_family_id": 9
+  },
+  {
+    "paper_id": 110,
+    "gene_family_id": 85
+  },
+  {
+    "paper_id": 111,
+    "gene_family_id": 86
+  },
+  {
+    "paper_id": 112,
+    "gene_family_id": 87
+  },
+  {
+    "paper_id": 113,
+    "gene_family_id": 88
+  },
+  {
+    "paper_id": 114,
+    "gene_family_id": 89
+  },
+  {
+    "paper_id": 115,
+    "gene_family_id": 90
+  },
+  {
+    "paper_id": 116,
+    "gene_family_id": 91
+  },
+  {
+    "paper_id": 117,
+    "gene_family_id": 71
+  },
+  {
+    "paper_id": 118,
+    "gene_family_id": 92
+  },
+  {
+    "paper_id": 119,
+    "gene_family_id": 37
+  },
+  {
+    "paper_id": 120,
+    "gene_family_id": 34
+  },
+  {
+    "paper_id": 121,
+    "gene_family_id": 93
+  },
+  {
+    "paper_id": 122,
+    "gene_family_id": 1
+  },
+  {
+    "paper_id": 123,
+    "gene_family_id": 94
+  },
+  {
+    "paper_id": 124,
+    "gene_family_id": 95
+  },
+  {
+    "paper_id": 125,
+    "gene_family_id": 96
+  },
+  {
+    "paper_id": 127,
+    "gene_family_id": 97
+  },
+  {
+    "paper_id": 128,
+    "gene_family_id": 98
+  },
+  {
+    "paper_id": 130,
+    "gene_family_id": 81
+  },
+  {
+    "paper_id": 131,
+    "gene_family_id": 61
+  },
+  {
+    "paper_id": 132,
+    "gene_family_id": 16
+  },
+  {
+    "paper_id": 133,
+    "gene_family_id": 61
+  },
+  {
+    "paper_id": 134,
+    "gene_family_id": 99
+  },
+  {
+    "paper_id": 135,
+    "gene_family_id": 52
+  },
+  {
+    "paper_id": 136,
+    "gene_family_id": 92
+  },
+  {
+    "paper_id": 137,
+    "gene_family_id": 100
+  },
+  {
+    "paper_id": 138,
+    "gene_family_id": 101
+  },
+  {
+    "paper_id": 139,
+    "gene_family_id": 102
+  },
+  {
+    "paper_id": 140,
+    "gene_family_id": 103
+  },
+  {
+    "paper_id": 141,
+    "gene_family_id": 61
+  },
+  {
+    "paper_id": 142,
+    "gene_family_id": 104
+  },
+  {
+    "paper_id": 143,
+    "gene_family_id": 105
+  },
+  {
+    "paper_id": 144,
+    "gene_family_id": 30
+  },
+  {
+    "paper_id": 145,
+    "gene_family_id": 106
+  },
+  {
+    "paper_id": 146,
+    "gene_family_id": 77
+  },
+  {
+    "paper_id": 149,
+    "gene_family_id": 107
+  },
+  {
+    "paper_id": 150,
+    "gene_family_id": 108
+  },
+  {
+    "paper_id": 151,
+    "gene_family_id": 109
+  },
+  {
+    "paper_id": 152,
+    "gene_family_id": 52
+  },
+  {
+    "paper_id": 153,
+    "gene_family_id": 110
+  },
+  {
+    "paper_id": 154,
+    "gene_family_id": 111
+  },
+  {
+    "paper_id": 155,
+    "gene_family_id": 112
+  },
+  {
+    "paper_id": 156,
+    "gene_family_id": 113
+  },
+  {
+    "paper_id": 157,
+    "gene_family_id": 114
+  },
+  {
+    "paper_id": 158,
+    "gene_family_id": 110
+  },
+  {
+    "paper_id": 159,
+    "gene_family_id": 115
+  },
+  {
+    "paper_id": 160,
+    "gene_family_id": 116
+  },
+  {
+    "paper_id": 161,
+    "gene_family_id": 50
+  },
+  {
+    "paper_id": 162,
+    "gene_family_id": 117
+  },
+  {
+    "paper_id": 163,
+    "gene_family_id": 12
+  },
+  {
+    "paper_id": 164,
+    "gene_family_id": 118
+  },
+  {
+    "paper_id": 165,
+    "gene_family_id": 119
+  },
+  {
+    "paper_id": 166,
+    "gene_family_id": 51
+  },
+  {
+    "paper_id": 167,
+    "gene_family_id": 120
+  },
+  {
+    "paper_id": 168,
+    "gene_family_id": 1
+  },
+  {
+    "paper_id": 169,
+    "gene_family_id": 83
+  },
+  {
+    "paper_id": 170,
+    "gene_family_id": 117
+  },
+  {
+    "paper_id": 171,
+    "gene_family_id": 6
+  },
+  {
+    "paper_id": 172,
+    "gene_family_id": 121
+  },
+  {
+    "paper_id": 173,
+    "gene_family_id": 71
+  },
+  {
+    "paper_id": 174,
+    "gene_family_id": 50
+  },
+  {
+    "paper_id": 175,
+    "gene_family_id": 13
+  },
+  {
+    "paper_id": 176,
+    "gene_family_id": 57
+  },
+  {
+    "paper_id": 177,
+    "gene_family_id": 122
+  },
+  {
+    "paper_id": 178,
+    "gene_family_id": 123
+  },
+  {
+    "paper_id": 179,
+    "gene_family_id": 124
+  },
+  {
+    "paper_id": 180,
+    "gene_family_id": 90
+  },
+  {
+    "paper_id": 181,
+    "gene_family_id": 125
+  },
+  {
+    "paper_id": 182,
+    "gene_family_id": 91
+  },
+  {
+    "paper_id": 184,
+    "gene_family_id": 10
+  },
+  {
+    "paper_id": 185,
+    "gene_family_id": 126
+  },
+  {
+    "paper_id": 186,
+    "gene_family_id": 58
+  },
+  {
+    "paper_id": 187,
+    "gene_family_id": 112
+  },
+  {
+    "paper_id": 188,
+    "gene_family_id": 97
+  },
+  {
+    "paper_id": 189,
+    "gene_family_id": 10
+  },
+  {
+    "paper_id": 190,
+    "gene_family_id": 72
+  },
+  {
+    "paper_id": 191,
+    "gene_family_id": 74
+  },
+  {
+    "paper_id": 192,
+    "gene_family_id": 61
+  },
+  {
+    "paper_id": 193,
+    "gene_family_id": 127
+  },
+  {
+    "paper_id": 194,
+    "gene_family_id": 12
+  },
+  {
+    "paper_id": 195,
+    "gene_family_id": 128
+  },
+  {
+    "paper_id": 196,
+    "gene_family_id": 26
+  },
+  {
+    "paper_id": 197,
+    "gene_family_id": 129
+  },
+  {
+    "paper_id": 198,
+    "gene_family_id": 130
+  },
+  {
+    "paper_id": 199,
+    "gene_family_id": 79
+  },
+  {
+    "paper_id": 200,
+    "gene_family_id": 131
+  },
+  {
+    "paper_id": 201,
+    "gene_family_id": 132
+  },
+  {
+    "paper_id": 202,
+    "gene_family_id": 133
+  },
+  {
+    "paper_id": 203,
+    "gene_family_id": 71
+  },
+  {
+    "paper_id": 204,
+    "gene_family_id": 104
+  },
+  {
+    "paper_id": 205,
+    "gene_family_id": 134
+  },
+  {
+    "paper_id": 206,
+    "gene_family_id": 135
+  },
+  {
+    "paper_id": 207,
+    "gene_family_id": 73
+  },
+  {
+    "paper_id": 208,
+    "gene_family_id": 136
+  },
+  {
+    "paper_id": 209,
+    "gene_family_id": 30
+  },
+  {
+    "paper_id": 210,
+    "gene_family_id": 137
+  },
+  {
+    "paper_id": 211,
+    "gene_family_id": 77
+  },
+  {
+    "paper_id": 212,
+    "gene_family_id": 138
+  },
+  {
+    "paper_id": 213,
+    "gene_family_id": 134
+  },
+  {
+    "paper_id": 214,
+    "gene_family_id": 139
+  },
+  {
+    "paper_id": 215,
+    "gene_family_id": 140
+  },
+  {
+    "paper_id": 216,
+    "gene_family_id": 41
+  },
+  {
+    "paper_id": 217,
+    "gene_family_id": 68
+  },
+  {
+    "paper_id": 218,
+    "gene_family_id": 141
+  },
+  {
+    "paper_id": 219,
+    "gene_family_id": 11
+  },
+  {
+    "paper_id": 220,
+    "gene_family_id": 142
+  },
+  {
+    "paper_id": 221,
+    "gene_family_id": 120
+  },
+  {
+    "paper_id": 222,
+    "gene_family_id": 10
+  },
+  {
+    "paper_id": 223,
+    "gene_family_id": 116
+  },
+  {
+    "paper_id": 224,
+    "gene_family_id": 115
+  },
+  {
+    "paper_id": 225,
+    "gene_family_id": 10
+  },
+  {
+    "paper_id": 226,
+    "gene_family_id": 6
+  },
+  {
+    "paper_id": 227,
+    "gene_family_id": 7
+  },
+  {
+    "paper_id": 228,
+    "gene_family_id": 93
+  },
+  {
+    "paper_id": 229,
+    "gene_family_id": 143
+  },
+  {
+    "paper_id": 230,
+    "gene_family_id": 144
+  },
+  {
+    "paper_id": 231,
+    "gene_family_id": 145
+  },
+  {
+    "paper_id": 233,
+    "gene_family_id": 64
+  },
+  {
+    "paper_id": 234,
+    "gene_family_id": 146
+  },
+  {
+    "paper_id": 235,
+    "gene_family_id": 147
+  },
+  {
+    "paper_id": 236,
+    "gene_family_id": 148
+  },
+  {
+    "paper_id": 237,
+    "gene_family_id": 57
+  },
+  {
+    "paper_id": 239,
+    "gene_family_id": 149
+  },
+  {
+    "paper_id": 240,
+    "gene_family_id": 55
+  },
+  {
+    "paper_id": 241,
+    "gene_family_id": 116
+  },
+  {
+    "paper_id": 242,
+    "gene_family_id": 150
+  },
+  {
+    "paper_id": 243,
+    "gene_family_id": 151
+  },
+  {
+    "paper_id": 244,
+    "gene_family_id": 152
+  },
+  {
+    "paper_id": 245,
+    "gene_family_id": 153
+  },
+  {
+    "paper_id": 246,
+    "gene_family_id": 154
+  },
+  {
+    "paper_id": 247,
+    "gene_family_id": 155
+  },
+  {
+    "paper_id": 248,
+    "gene_family_id": 128
+  },
+  {
+    "paper_id": 249,
+    "gene_family_id": 156
+  },
+  {
+    "paper_id": 250,
+    "gene_family_id": 116
+  },
+  {
+    "paper_id": 251,
+    "gene_family_id": 157
+  },
+  {
+    "paper_id": 252,
+    "gene_family_id": 158
+  },
+  {
+    "paper_id": 253,
+    "gene_family_id": 86
+  },
+  {
+    "paper_id": 254,
+    "gene_family_id": 159
+  },
+  {
+    "paper_id": 255,
+    "gene_family_id": 160
+  },
+  {
+    "paper_id": 256,
+    "gene_family_id": 161
+  },
+  {
+    "paper_id": 257,
+    "gene_family_id": 10
+  },
+  {
+    "paper_id": 258,
+    "gene_family_id": 138
+  },
+  {
+    "paper_id": 259,
+    "gene_family_id": 118
+  },
+  {
+    "paper_id": 260,
+    "gene_family_id": 99
+  },
+  {
+    "paper_id": 261,
+    "gene_family_id": 162
+  },
+  {
+    "paper_id": 262,
+    "gene_family_id": 163
+  },
+  {
+    "paper_id": 263,
+    "gene_family_id": 30
+  },
+  {
+    "paper_id": 264,
+    "gene_family_id": 117
+  },
+  {
+    "paper_id": 265,
+    "gene_family_id": 61
+  },
+  {
+    "paper_id": 266,
+    "gene_family_id": 164
+  },
+  {
+    "paper_id": 267,
+    "gene_family_id": 165
+  },
+  {
+    "paper_id": 268,
+    "gene_family_id": 166
+  },
+  {
+    "paper_id": 269,
+    "gene_family_id": 167
+  },
+  {
+    "paper_id": 270,
+    "gene_family_id": 61
+  },
+  {
+    "paper_id": 271,
+    "gene_family_id": 168
+  },
+  {
+    "paper_id": 272,
+    "gene_family_id": 141
+  },
+  {
+    "paper_id": 274,
+    "gene_family_id": 169
+  },
+  {
+    "paper_id": 275,
+    "gene_family_id": 170
+  },
+  {
+    "paper_id": 276,
+    "gene_family_id": 171
+  },
+  {
+    "paper_id": 278,
+    "gene_family_id": 95
+  },
+  {
+    "paper_id": 279,
+    "gene_family_id": 64
+  },
+  {
+    "paper_id": 280,
+    "gene_family_id": 172
+  },
+  {
+    "paper_id": 281,
+    "gene_family_id": 94
+  },
+  {
+    "paper_id": 282,
+    "gene_family_id": 1
+  },
+  {
+    "paper_id": 284,
+    "gene_family_id": 173
+  },
+  {
+    "paper_id": 285,
+    "gene_family_id": 133
+  },
+  {
+    "paper_id": 286,
+    "gene_family_id": 174
+  },
+  {
+    "paper_id": 287,
+    "gene_family_id": 175
+  },
+  {
+    "paper_id": 288,
+    "gene_family_id": 176
+  },
+  {
+    "paper_id": 289,
+    "gene_family_id": 177
+  },
+  {
+    "paper_id": 291,
+    "gene_family_id": 166
+  },
+  {
+    "paper_id": 292,
+    "gene_family_id": 156
+  },
+  {
+    "paper_id": 293,
+    "gene_family_id": 156
+  },
+  {
+    "paper_id": 294,
+    "gene_family_id": 178
+  },
+  {
+    "paper_id": 295,
+    "gene_family_id": 57
+  },
+  {
+    "paper_id": 296,
+    "gene_family_id": 83
+  },
+  {
+    "paper_id": 297,
+    "gene_family_id": 8
+  },
+  {
+    "paper_id": 298,
+    "gene_family_id": 179
+  },
+  {
+    "paper_id": 299,
+    "gene_family_id": 180
+  },
+  {
+    "paper_id": 300,
+    "gene_family_id": 181
+  },
+  {
+    "paper_id": 301,
+    "gene_family_id": 182
+  },
+  {
+    "paper_id": 302,
+    "gene_family_id": 120
+  },
+  {
+    "paper_id": 303,
+    "gene_family_id": 61
+  },
+  {
+    "paper_id": 304,
+    "gene_family_id": 51
+  },
+  {
+    "paper_id": 305,
+    "gene_family_id": 183
+  },
+  {
+    "paper_id": 306,
+    "gene_family_id": 184
+  },
+  {
+    "paper_id": 307,
+    "gene_family_id": 185
+  },
+  {
+    "paper_id": 308,
+    "gene_family_id": 95
+  },
+  {
+    "paper_id": 309,
+    "gene_family_id": 186
+  },
+  {
+    "paper_id": 310,
+    "gene_family_id": 187
+  },
+  {
+    "paper_id": 311,
+    "gene_family_id": 10
+  },
+  {
+    "paper_id": 312,
+    "gene_family_id": 183
+  },
+  {
+    "paper_id": 313,
+    "gene_family_id": 117
+  },
+  {
+    "paper_id": 314,
+    "gene_family_id": 188
+  },
+  {
+    "paper_id": 315,
+    "gene_family_id": 173
+  },
+  {
+    "paper_id": 316,
+    "gene_family_id": 176
+  },
+  {
+    "paper_id": 317,
+    "gene_family_id": 189
+  },
+  {
+    "paper_id": 318,
+    "gene_family_id": 86
+  },
+  {
+    "paper_id": 319,
+    "gene_family_id": 190
+  },
+  {
+    "paper_id": 320,
+    "gene_family_id": 104
+  },
+  {
+    "paper_id": 321,
+    "gene_family_id": 191
+  },
+  {
+    "paper_id": 322,
+    "gene_family_id": 140
+  },
+  {
+    "paper_id": 324,
+    "gene_family_id": 192
+  },
+  {
+    "paper_id": 325,
+    "gene_family_id": 119
+  },
+  {
+    "paper_id": 326,
+    "gene_family_id": 114
+  },
+  {
+    "paper_id": 327,
+    "gene_family_id": 147
+  },
+  {
+    "paper_id": 328,
+    "gene_family_id": 193
+  },
+  {
+    "paper_id": 329,
+    "gene_family_id": 194
+  },
+  {
+    "paper_id": 494,
+    "gene_family_id": 195
+  },
+  {
+    "paper_id": 495,
+    "gene_family_id": 104
+  },
+  {
+    "paper_id": 496,
+    "gene_family_id": 196
+  },
+  {
+    "paper_id": 497,
+    "gene_family_id": 101
+  },
+  {
+    "paper_id": 498,
+    "gene_family_id": 5
+  },
+  {
+    "paper_id": 499,
+    "gene_family_id": 31
+  },
+  {
+    "paper_id": 500,
+    "gene_family_id": 9
+  },
+  {
+    "paper_id": 501,
+    "gene_family_id": 91
+  },
+  {
+    "paper_id": 502,
+    "gene_family_id": 4
+  },
+  {
+    "paper_id": 503,
+    "gene_family_id": 4
+  },
+  {
+    "paper_id": 504,
+    "gene_family_id": 72
+  },
+  {
+    "paper_id": 505,
+    "gene_family_id": 171
+  },
+  {
+    "paper_id": 506,
+    "gene_family_id": 181
+  },
+  {
+    "paper_id": 507,
+    "gene_family_id": 65
+  },
+  {
+    "paper_id": 508,
+    "gene_family_id": 181
+  },
+  {
+    "paper_id": 509,
+    "gene_family_id": 51
+  },
+  {
+    "paper_id": 510,
+    "gene_family_id": 51
+  },
+  {
+    "paper_id": 511,
+    "gene_family_id": 72
+  },
+  {
+    "paper_id": 512,
+    "gene_family_id": 72
+  },
+  {
+    "paper_id": 513,
+    "gene_family_id": 197
+  },
+  {
+    "paper_id": 514,
+    "gene_family_id": 198
+  },
+  {
+    "paper_id": 515,
+    "gene_family_id": 99
+  },
+  {
+    "paper_id": 516,
+    "gene_family_id": 55
+  },
+  {
+    "paper_id": 517,
+    "gene_family_id": 199
+  },
+  {
+    "paper_id": 518,
+    "gene_family_id": 9
+  },
+  {
+    "paper_id": 519,
+    "gene_family_id": 189
+  },
+  {
+    "paper_id": 520,
+    "gene_family_id": 94
+  },
+  {
+    "paper_id": 521,
+    "gene_family_id": 1
+  },
+  {
+    "paper_id": 522,
+    "gene_family_id": 52
+  },
+  {
+    "paper_id": 523,
+    "gene_family_id": 30
+  },
+  {
+    "paper_id": 524,
+    "gene_family_id": 41
+  },
+  {
+    "paper_id": 525,
+    "gene_family_id": 58
+  },
+  {
+    "paper_id": 526,
+    "gene_family_id": 200
+  },
+  {
+    "paper_id": 527,
+    "gene_family_id": 65
+  },
+  {
+    "paper_id": 528,
+    "gene_family_id": 201
+  },
+  {
+    "paper_id": 529,
+    "gene_family_id": 159
+  },
+  {
+    "paper_id": 530,
+    "gene_family_id": 202
+  },
+  {
+    "paper_id": 531,
+    "gene_family_id": 203
+  },
+  {
+    "paper_id": 532,
+    "gene_family_id": 29
+  },
+  {
+    "paper_id": 534,
+    "gene_family_id": 143
+  },
+  {
+    "paper_id": 537,
+    "gene_family_id": 55
+  },
+  {
+    "paper_id": 538,
+    "gene_family_id": 137
+  },
+  {
+    "paper_id": 539,
+    "gene_family_id": 204
+  },
+  {
+    "paper_id": 540,
+    "gene_family_id": 205
+  },
+  {
+    "paper_id": 541,
+    "gene_family_id": 206
+  },
+  {
+    "paper_id": 542,
+    "gene_family_id": 207
+  },
+  {
+    "paper_id": 543,
+    "gene_family_id": 208
+  },
+  {
+    "paper_id": 544,
+    "gene_family_id": 209
+  },
+  {
+    "paper_id": 545,
+    "gene_family_id": 210
+  },
+  {
+    "paper_id": 546,
+    "gene_family_id": 211
+  },
+  {
+    "paper_id": 547,
+    "gene_family_id": 212
+  },
+  {
+    "paper_id": 548,
+    "gene_family_id": 189
+  },
+  {
+    "paper_id": 549,
+    "gene_family_id": 66
+  },
+  {
+    "paper_id": 550,
+    "gene_family_id": 10
+  },
+  {
+    "paper_id": 551,
+    "gene_family_id": 181
+  },
+  {
+    "paper_id": 552,
+    "gene_family_id": 104
+  },
+  {
+    "paper_id": 553,
+    "gene_family_id": 213
+  },
+  {
+    "paper_id": 554,
+    "gene_family_id": 61
+  },
+  {
+    "paper_id": 555,
+    "gene_family_id": 214
+  },
+  {
+    "paper_id": 557,
+    "gene_family_id": 111
+  },
+  {
+    "paper_id": 558,
+    "gene_family_id": 215
+  },
+  {
+    "paper_id": 559,
+    "gene_family_id": 101
+  },
+  {
+    "paper_id": 560,
+    "gene_family_id": 81
+  },
+  {
+    "paper_id": 561,
+    "gene_family_id": 216
+  },
+  {
+    "paper_id": 562,
+    "gene_family_id": 55
+  },
+  {
+    "paper_id": 563,
+    "gene_family_id": 89
+  },
+  {
+    "paper_id": 564,
+    "gene_family_id": 10
+  },
+  {
+    "paper_id": 565,
+    "gene_family_id": 217
+  },
+  {
+    "paper_id": 566,
+    "gene_family_id": 218
+  },
+  {
+    "paper_id": 567,
+    "gene_family_id": 219
+  },
+  {
+    "paper_id": 568,
+    "gene_family_id": 92
+  },
+  {
+    "paper_id": 569,
+    "gene_family_id": 220
+  },
+  {
+    "paper_id": 571,
+    "gene_family_id": 221
+  },
+  {
+    "paper_id": 572,
+    "gene_family_id": 55
+  },
+  {
+    "paper_id": 573,
+    "gene_family_id": 32
+  },
+  {
+    "paper_id": 574,
+    "gene_family_id": 10
+  },
+  {
+    "paper_id": 575,
+    "gene_family_id": 117
+  },
+  {
+    "paper_id": 576,
+    "gene_family_id": 41
+  },
+  {
+    "paper_id": 577,
+    "gene_family_id": 10
+  },
+  {
+    "paper_id": 578,
+    "gene_family_id": 94
+  },
+  {
+    "paper_id": 579,
+    "gene_family_id": 9
+  },
+  {
+    "paper_id": 580,
+    "gene_family_id": 222
+  },
+  {
+    "paper_id": 581,
+    "gene_family_id": 223
+  },
+  {
+    "paper_id": 582,
+    "gene_family_id": 224
+  },
+  {
+    "paper_id": 583,
+    "gene_family_id": 225
+  },
+  {
+    "paper_id": 584,
+    "gene_family_id": 226
+  },
+  {
+    "paper_id": 585,
+    "gene_family_id": 227
+  },
+  {
+    "paper_id": 586,
+    "gene_family_id": 228
+  },
+  {
+    "paper_id": 587,
+    "gene_family_id": 229
+  },
+  {
+    "paper_id": 588,
+    "gene_family_id": 230
+  },
+  {
+    "paper_id": 589,
+    "gene_family_id": 72
+  },
+  {
+    "paper_id": 590,
+    "gene_family_id": 1
+  },
+  {
+    "paper_id": 591,
+    "gene_family_id": 197
+  },
+  {
+    "paper_id": 592,
+    "gene_family_id": 231
+  },
+  {
+    "paper_id": 593,
+    "gene_family_id": 46
+  },
+  {
+    "paper_id": 594,
+    "gene_family_id": 232
+  },
+  {
+    "paper_id": 595,
+    "gene_family_id": 111
+  },
+  {
+    "paper_id": 596,
+    "gene_family_id": 71
+  },
+  {
+    "paper_id": 597,
+    "gene_family_id": 55
+  },
+  {
+    "paper_id": 598,
+    "gene_family_id": 46
+  },
+  {
+    "paper_id": 599,
+    "gene_family_id": 233
+  },
+  {
+    "paper_id": 600,
+    "gene_family_id": 234
+  },
+  {
+    "paper_id": 601,
+    "gene_family_id": 235
+  },
+  {
+    "paper_id": 602,
+    "gene_family_id": 120
+  },
+  {
+    "paper_id": 603,
+    "gene_family_id": 31
+  },
+  {
+    "paper_id": 604,
+    "gene_family_id": 236
+  },
+  {
+    "paper_id": 605,
+    "gene_family_id": 72
+  },
+  {
+    "paper_id": 606,
+    "gene_family_id": 91
+  },
+  {
+    "paper_id": 607,
+    "gene_family_id": 237
+  },
+  {
+    "paper_id": 608,
+    "gene_family_id": 72
+  },
+  {
+    "paper_id": 609,
+    "gene_family_id": 211
+  },
+  {
+    "paper_id": 610,
+    "gene_family_id": 238
+  },
+  {
+    "paper_id": 611,
+    "gene_family_id": 239
+  },
+  {
+    "paper_id": 612,
+    "gene_family_id": 128
+  },
+  {
+    "paper_id": 613,
+    "gene_family_id": 120
+  },
+  {
+    "paper_id": 614,
+    "gene_family_id": 240
+  },
+  {
+    "paper_id": 615,
+    "gene_family_id": 4
+  },
+  {
+    "paper_id": 616,
+    "gene_family_id": 241
+  },
+  {
+    "paper_id": 617,
+    "gene_family_id": 71
+  },
+  {
+    "paper_id": 618,
+    "gene_family_id": 197
+  },
+  {
+    "paper_id": 619,
+    "gene_family_id": 242
+  },
+  {
+    "paper_id": 620,
+    "gene_family_id": 116
+  }
+]

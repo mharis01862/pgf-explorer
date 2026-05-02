@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "name": "China",
+    "slug": "china"
+  },
+  {
+    "id": 2,
+    "name": "India",
+    "slug": "india"
+  },
+  {
+    "id": 3,
+    "name": "Bangladesh",
+    "slug": "bangladesh"
+  },
+  {
+    "id": 4,
+    "name": "Pakistan",
+    "slug": "pakistan"
+  },
+  {
+    "id": 5,
+    "name": "Saudi Arabia",
+    "slug": "saudi-arabia"
+  },
+  {
+    "id": 6,
+    "name": "United States",
+    "slug": "united-states"
+  },
+  {
+    "id": 7,
+    "name": "South Korea",
+    "slug": "south-korea"
+  },
+  {
+    "id": 8,
+    "name": "Turkey",
+    "slug": "turkey"
+  },
+  {
+    "id": 9,
+    "name": "Denmark",
+    "slug": "denmark"
+  },
+  {
+    "id": 10,
+    "name": "Australia",
+    "slug": "australia"
+  },
+  {
+    "id": 11,
+    "name": "Italy",
+    "slug": "italy"
+  },
+  {
+    "id": 12,
+    "name": "Mexico",
+    "slug": "mexico"
+  },
+  {
+    "id": 13,
+    "name": "Brazil",
+    "slug": "brazil"
+  },
+  {
+    "id": 14,
+    "name": "Austria",
+    "slug": "austria"
+  },
+  {
+    "id": 15,
+    "name": "Unknown",
+    "slug": "unknown"
+  },
+  {
+    "id": 16,
+    "name": "Canada",
+    "slug": "canada"
+  },
+  {
+    "id": 17,
+    "name": "Netherlands",
+    "slug": "netherlands"
+  },
+  {
+    "id": 18,
+    "name": "Spain",
+    "slug": "spain"
+  },
+  {
+    "id": 19,
+    "name": "Iran",
+    "slug": "iran"
+  },
+  {
+    "id": 20,
+    "name": "Belarus",
+    "slug": "belarus"
+  },
+  {
+    "id": 21,
+    "name": "Sudan",
+    "slug": "sudan"
+  },
+  {
+    "id": 22,
+    "name": "Malaysia",
+    "slug": "malaysia"
+  },
+  {
+    "id": 23,
+    "name": "Greece",
+    "slug": "greece"
+  },
+  {
+    "id": 24,
+    "name": "United Arab Emirates",
+    "slug": "united-arab-emirates"
+  },
+  {
+    "id": 25,
+    "name": "South Africa",
+    "slug": "south-africa"
+  },
+  {
+    "id": 26,
+    "name": "USA",
+    "slug": "usa"
+  },
+  {
+    "id": 27,
+    "name": "United Kingdom",
+    "slug": "united-kingdom"
+  },
+  {
+    "id": 28,
+    "name": "Singapore",
+    "slug": "singapore"
+  },
+  {
+    "id": 29,
+    "name": "France",
+    "slug": "france"
+  },
+  {
+    "id": 30,
+    "name": "Belgium",
+    "slug": "belgium"
+  },
+  {
+    "id": 31,
+    "name": "Tunisia",
+    "slug": "tunisia"
+  },
+  {
+    "id": 32,
+    "name": "Chile",
+    "slug": "chile"
+  },
+  {
+    "id": 33,
+    "name": "Japan",
+    "slug": "japan"
+  },
+  {
+    "id": 34,
+    "name": "New Zealand",
+    "slug": "new-zealand"
+  }
+]

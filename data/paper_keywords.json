@@ -1,0 +1,7572 @@
+[
+  {
+    "paper_id": 1,
+    "keyword_id": 1,
+    "keyword": "Populus"
+  },
+  {
+    "paper_id": 1,
+    "keyword_id": 2,
+    "keyword": "Arabidopsis thaliana"
+  },
+  {
+    "paper_id": 1,
+    "keyword_id": 3,
+    "keyword": "AP2/ERF"
+  },
+  {
+    "paper_id": 1,
+    "keyword_id": 4,
+    "keyword": "Transcriptional factor"
+  },
+  {
+    "paper_id": 1,
+    "keyword_id": 5,
+    "keyword": "In silico cloning"
+  },
+  {
+    "paper_id": 1,
+    "keyword_id": 6,
+    "keyword": "Bioinformatics"
+  },
+  {
+    "paper_id": 2,
+    "keyword_id": 7,
+    "keyword": "MscS-like"
+  },
+  {
+    "paper_id": 2,
+    "keyword_id": 8,
+    "keyword": "Mechanosensitive"
+  },
+  {
+    "paper_id": 2,
+    "keyword_id": 9,
+    "keyword": "Oryza sativa"
+  },
+  {
+    "paper_id": 2,
+    "keyword_id": 10,
+    "keyword": "Rice"
+  },
+  {
+    "paper_id": 2,
+    "keyword_id": 11,
+    "keyword": "In-silico"
+  },
+  {
+    "paper_id": 3,
+    "keyword_id": 12,
+    "keyword": "cotton"
+  },
+  {
+    "paper_id": 3,
+    "keyword_id": 13,
+    "keyword": "TPL/TPR gene family"
+  },
+  {
+    "paper_id": 3,
+    "keyword_id": 14,
+    "keyword": "expression analysis"
+  },
+  {
+    "paper_id": 3,
+    "keyword_id": 15,
+    "keyword": "VIGS"
+  },
+  {
+    "paper_id": 3,
+    "keyword_id": 16,
+    "keyword": "salt stress tolerance"
+  },
+  {
+    "paper_id": 4,
+    "keyword_id": 17,
+    "keyword": "Camellia nitidissima"
+  },
+  {
+    "paper_id": 4,
+    "keyword_id": 18,
+    "keyword": "PAL gene family"
+  },
+  {
+    "paper_id": 4,
+    "keyword_id": 14,
+    "keyword": "expression analysis"
+  },
+  {
+    "paper_id": 4,
+    "keyword_id": 19,
+    "keyword": "in vitro enzyme activity analysis"
+  },
+  {
+    "paper_id": 5,
+    "keyword_id": 20,
+    "keyword": "Lectin receptor-like kinases (LecRLKs)"
+  },
+  {
+    "paper_id": 5,
+    "keyword_id": 21,
+    "keyword": "barley (Hordeum vulgare)"
+  },
+  {
+    "paper_id": 5,
+    "keyword_id": 22,
+    "keyword": "genome-wide analysis"
+  },
+  {
+    "paper_id": 5,
+    "keyword_id": 6,
+    "keyword": "Bioinformatics"
+  },
+  {
+    "paper_id": 5,
+    "keyword_id": 23,
+    "keyword": "gene family"
+  },
+  {
+    "paper_id": 5,
+    "keyword_id": 24,
+    "keyword": "stress response"
+  },
+  {
+    "paper_id": 5,
+    "keyword_id": 25,
+    "keyword": "gene ontology"
+  },
+  {
+    "paper_id": 5,
+    "keyword_id": 26,
+    "keyword": "cis-regulatory elements"
+  },
+  {
+    "paper_id": 5,
+    "keyword_id": 27,
+    "keyword": "transcription factors"
+  },
+  {
+    "paper_id": 5,
+    "keyword_id": 28,
+    "keyword": "miRNA"
+  },
+  {
+    "paper_id": 5,
+    "keyword_id": 29,
+    "keyword": "protein-protein interaction"
+  },
+  {
+    "paper_id": 6,
+    "keyword_id": 30,
+    "keyword": "Transcription factor"
+  },
+  {
+    "paper_id": 6,
+    "keyword_id": 31,
+    "keyword": "Trihelix domain"
+  },
+  {
+    "paper_id": 6,
+    "keyword_id": 32,
+    "keyword": "GT-1"
+  },
+  {
+    "paper_id": 6,
+    "keyword_id": 33,
+    "keyword": "Arabidopsis"
+  },
+  {
+    "paper_id": 6,
+    "keyword_id": 34,
+    "keyword": "conserved motifs"
+  },
+  {
+    "paper_id": 8,
+    "keyword_id": 6,
+    "keyword": "Bioinformatics"
+  },
+  {
+    "paper_id": 8,
+    "keyword_id": 35,
+    "keyword": "Aquaporins"
+  },
+  {
+    "paper_id": 8,
+    "keyword_id": 34,
+    "keyword": "conserved motifs"
+  },
+  {
+    "paper_id": 8,
+    "keyword_id": 36,
+    "keyword": "Phylogenetic tree"
+  },
+  {
+    "paper_id": 8,
+    "keyword_id": 37,
+    "keyword": "Gene structure"
+  },
+  {
+    "paper_id": 8,
+    "keyword_id": 38,
+    "keyword": "Transmembrane"
+  },
+  {
+    "paper_id": 9,
+    "keyword_id": 39,
+    "keyword": "Characterization"
+  },
+  {
+    "paper_id": 9,
+    "keyword_id": 40,
+    "keyword": "Genome-wide"
+  },
+  {
+    "paper_id": 9,
+    "keyword_id": 41,
+    "keyword": "Identification"
+  },
+  {
+    "paper_id": 9,
+    "keyword_id": 11,
+    "keyword": "In-silico"
+  },
+  {
+    "paper_id": 9,
+    "keyword_id": 42,
+    "keyword": "LIM gene"
+  },
+  {
+    "paper_id": 9,
+    "keyword_id": 43,
+    "keyword": "Sorghum"
+  },
+  {
+    "paper_id": 10,
+    "keyword_id": 44,
+    "keyword": "Potato"
+  },
+  {
+    "paper_id": 10,
+    "keyword_id": 45,
+    "keyword": "Cold"
+  },
+  {
+    "paper_id": 10,
+    "keyword_id": 46,
+    "keyword": "Gene Family Analysis"
+  },
+  {
+    "paper_id": 10,
+    "keyword_id": 47,
+    "keyword": "Overexpression"
+  },
+  {
+    "paper_id": 10,
+    "keyword_id": 48,
+    "keyword": "StBBX17"
+  },
+  {
+    "paper_id": 11,
+    "keyword_id": 49,
+    "keyword": "WRKY"
+  },
+  {
+    "paper_id": 11,
+    "keyword_id": 2,
+    "keyword": "Arabidopsis thaliana"
+  },
+  {
+    "paper_id": 11,
+    "keyword_id": 50,
+    "keyword": "Stress"
+  },
+  {
+    "paper_id": 11,
+    "keyword_id": 51,
+    "keyword": "W-Box"
+  },
+  {
+    "paper_id": 11,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 11,
+    "keyword_id": 30,
+    "keyword": "Transcription factor"
+  },
+  {
+    "paper_id": 12,
+    "keyword_id": 53,
+    "keyword": "Fortunella hindisi"
+  },
+  {
+    "paper_id": 12,
+    "keyword_id": 54,
+    "keyword": "WRKY transcription factor"
+  },
+  {
+    "paper_id": 12,
+    "keyword_id": 22,
+    "keyword": "genome-wide analysis"
+  },
+  {
+    "paper_id": 12,
+    "keyword_id": 55,
+    "keyword": "bioinformatics analysis"
+  },
+  {
+    "paper_id": 12,
+    "keyword_id": 56,
+    "keyword": "abiotic stresses"
+  },
+  {
+    "paper_id": 13,
+    "keyword_id": 57,
+    "keyword": "Musa acuminata"
+  },
+  {
+    "paper_id": 13,
+    "keyword_id": 58,
+    "keyword": "AHL gene family"
+  },
+  {
+    "paper_id": 13,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 13,
+    "keyword_id": 24,
+    "keyword": "stress response"
+  },
+  {
+    "paper_id": 13,
+    "keyword_id": 60,
+    "keyword": "Fruit ripening"
+  },
+  {
+    "paper_id": 14,
+    "keyword_id": 12,
+    "keyword": "cotton"
+  },
+  {
+    "paper_id": 14,
+    "keyword_id": 61,
+    "keyword": "Ovule"
+  },
+  {
+    "paper_id": 14,
+    "keyword_id": 62,
+    "keyword": "MAPK cascade"
+  },
+  {
+    "paper_id": 14,
+    "keyword_id": 63,
+    "keyword": "MAPKKK"
+  },
+  {
+    "paper_id": 14,
+    "keyword_id": 23,
+    "keyword": "gene family"
+  },
+  {
+    "paper_id": 15,
+    "keyword_id": 64,
+    "keyword": "Soybean"
+  },
+  {
+    "paper_id": 15,
+    "keyword_id": 65,
+    "keyword": "F-box gene family"
+  },
+  {
+    "paper_id": 15,
+    "keyword_id": 66,
+    "keyword": "Expression patterns"
+  },
+  {
+    "paper_id": 15,
+    "keyword_id": 67,
+    "keyword": "Salt stress"
+  },
+  {
+    "paper_id": 16,
+    "keyword_id": 68,
+    "keyword": "Cassava"
+  },
+  {
+    "paper_id": 16,
+    "keyword_id": 69,
+    "keyword": "Sugar transporter"
+  },
+  {
+    "paper_id": 16,
+    "keyword_id": 23,
+    "keyword": "gene family"
+  },
+  {
+    "paper_id": 16,
+    "keyword_id": 70,
+    "keyword": "Sugar unloading"
+  },
+  {
+    "paper_id": 16,
+    "keyword_id": 71,
+    "keyword": "Tuber root"
+  },
+  {
+    "paper_id": 17,
+    "keyword_id": 72,
+    "keyword": "Solanum lycopersicum; UGlcAE gene family; identification; characterization; plant hormones; gene expression"
+  },
+  {
+    "paper_id": 18,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 18,
+    "keyword_id": 23,
+    "keyword": "gene family"
+  },
+  {
+    "paper_id": 18,
+    "keyword_id": 74,
+    "keyword": "HAK/KUP/KT"
+  },
+  {
+    "paper_id": 18,
+    "keyword_id": 75,
+    "keyword": "Potassium deficiency"
+  },
+  {
+    "paper_id": 18,
+    "keyword_id": 76,
+    "keyword": "wheat (Triticum aestivum L.)"
+  },
+  {
+    "paper_id": 19,
+    "keyword_id": 77,
+    "keyword": "G. hirsutum"
+  },
+  {
+    "paper_id": 19,
+    "keyword_id": 78,
+    "keyword": "GhPERK"
+  },
+  {
+    "paper_id": 19,
+    "keyword_id": 79,
+    "keyword": "Sequence logos"
+  },
+  {
+    "paper_id": 19,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 19,
+    "keyword_id": 80,
+    "keyword": "Cis-elements"
+  },
+  {
+    "paper_id": 19,
+    "keyword_id": 81,
+    "keyword": "Gene duplication"
+  },
+  {
+    "paper_id": 19,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 19,
+    "keyword_id": 82,
+    "keyword": "Phytohormone stress"
+  },
+  {
+    "paper_id": 20,
+    "keyword_id": 83,
+    "keyword": "Solanum lycopersicum"
+  },
+  {
+    "paper_id": 20,
+    "keyword_id": 84,
+    "keyword": "RING E3 ligases"
+  },
+  {
+    "paper_id": 20,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 20,
+    "keyword_id": 85,
+    "keyword": "Collinearity"
+  },
+  {
+    "paper_id": 20,
+    "keyword_id": 66,
+    "keyword": "Expression patterns"
+  },
+  {
+    "paper_id": 20,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 21,
+    "keyword_id": 86,
+    "keyword": "NPR1"
+  },
+  {
+    "paper_id": 21,
+    "keyword_id": 87,
+    "keyword": "Wheat"
+  },
+  {
+    "paper_id": 21,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 21,
+    "keyword_id": 88,
+    "keyword": "Fusarium graminearum"
+  },
+  {
+    "paper_id": 21,
+    "keyword_id": 89,
+    "keyword": "Expression profile"
+  },
+  {
+    "paper_id": 21,
+    "keyword_id": 90,
+    "keyword": "Biotic stress"
+  },
+  {
+    "paper_id": 22,
+    "keyword_id": 91,
+    "keyword": "Citrus sinensis"
+  },
+  {
+    "paper_id": 22,
+    "keyword_id": 92,
+    "keyword": "CsWOXs"
+  },
+  {
+    "paper_id": 22,
+    "keyword_id": 30,
+    "keyword": "Transcription factor"
+  },
+  {
+    "paper_id": 22,
+    "keyword_id": 93,
+    "keyword": "CsWUS"
+  },
+  {
+    "paper_id": 23,
+    "keyword_id": 94,
+    "keyword": "Brassinosteroid"
+  },
+  {
+    "paper_id": 23,
+    "keyword_id": 95,
+    "keyword": "qRT-PCR"
+  },
+  {
+    "paper_id": 23,
+    "keyword_id": 96,
+    "keyword": "Cis-acting regulatory elements"
+  },
+  {
+    "paper_id": 23,
+    "keyword_id": 97,
+    "keyword": "Biotic and Abiotic stress"
+  },
+  {
+    "paper_id": 24,
+    "keyword_id": 98,
+    "keyword": "Bougainville"
+  },
+  {
+    "paper_id": 24,
+    "keyword_id": 99,
+    "keyword": "Cytochrome P450 monooxygenase"
+  },
+  {
+    "paper_id": 24,
+    "keyword_id": 100,
+    "keyword": "Flower color"
+  },
+  {
+    "paper_id": 25,
+    "keyword_id": 91,
+    "keyword": "Citrus sinensis"
+  },
+  {
+    "paper_id": 25,
+    "keyword_id": 101,
+    "keyword": "SBP gene"
+  },
+  {
+    "paper_id": 25,
+    "keyword_id": 102,
+    "keyword": "Genome-wide characterization"
+  },
+  {
+    "paper_id": 25,
+    "keyword_id": 89,
+    "keyword": "Expression profile"
+  },
+  {
+    "paper_id": 25,
+    "keyword_id": 103,
+    "keyword": "Abiotic and biotic stress"
+  },
+  {
+    "paper_id": 26,
+    "keyword_id": 104,
+    "keyword": "Maize (Zea mays L.)"
+  },
+  {
+    "paper_id": 26,
+    "keyword_id": 105,
+    "keyword": "Polygalacturonase (PG)"
+  },
+  {
+    "paper_id": 26,
+    "keyword_id": 23,
+    "keyword": "gene family"
+  },
+  {
+    "paper_id": 26,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 26,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 27,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 27,
+    "keyword_id": 33,
+    "keyword": "Arabidopsis"
+  },
+  {
+    "paper_id": 27,
+    "keyword_id": 106,
+    "keyword": "Domain of unknown function (DUF)"
+  },
+  {
+    "paper_id": 27,
+    "keyword_id": 107,
+    "keyword": "Domain-structure"
+  },
+  {
+    "paper_id": 27,
+    "keyword_id": 108,
+    "keyword": "Evolutionary analysis"
+  },
+  {
+    "paper_id": 27,
+    "keyword_id": 109,
+    "keyword": "Expression profiling"
+  },
+  {
+    "paper_id": 28,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 28,
+    "keyword_id": 110,
+    "keyword": "Reduced hyperosmolality-gated calcium-permeable channels"
+  },
+  {
+    "paper_id": 28,
+    "keyword_id": 87,
+    "keyword": "Wheat"
+  },
+  {
+    "paper_id": 28,
+    "keyword_id": 111,
+    "keyword": "Whole genome expression analysis"
+  },
+  {
+    "paper_id": 29,
+    "keyword_id": 112,
+    "keyword": "14-3-3 proteins"
+  },
+  {
+    "paper_id": 29,
+    "keyword_id": 113,
+    "keyword": "mango"
+  },
+  {
+    "paper_id": 29,
+    "keyword_id": 23,
+    "keyword": "gene family"
+  },
+  {
+    "paper_id": 29,
+    "keyword_id": 22,
+    "keyword": "genome-wide analysis"
+  },
+  {
+    "paper_id": 29,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 29,
+    "keyword_id": 109,
+    "keyword": "Expression profiling"
+  },
+  {
+    "paper_id": 30,
+    "keyword_id": 114,
+    "keyword": "WRKY gene family"
+  },
+  {
+    "paper_id": 30,
+    "keyword_id": 115,
+    "keyword": "Scutellaria baicalensis"
+  },
+  {
+    "paper_id": 30,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 30,
+    "keyword_id": 27,
+    "keyword": "transcription factors"
+  },
+  {
+    "paper_id": 30,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 31,
+    "keyword_id": 116,
+    "keyword": "FKBP"
+  },
+  {
+    "paper_id": 31,
+    "keyword_id": 117,
+    "keyword": "PPIase"
+  },
+  {
+    "paper_id": 31,
+    "keyword_id": 95,
+    "keyword": "qRT-PCR"
+  },
+  {
+    "paper_id": 31,
+    "keyword_id": 97,
+    "keyword": "Biotic and Abiotic stress"
+  },
+  {
+    "paper_id": 32,
+    "keyword_id": 118,
+    "keyword": "Alfalfa"
+  },
+  {
+    "paper_id": 32,
+    "keyword_id": 119,
+    "keyword": "MsPLATZ"
+  },
+  {
+    "paper_id": 32,
+    "keyword_id": 23,
+    "keyword": "gene family"
+  },
+  {
+    "paper_id": 32,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 32,
+    "keyword_id": 40,
+    "keyword": "Genome-wide"
+  },
+  {
+    "paper_id": 33,
+    "keyword_id": 6,
+    "keyword": "Bioinformatics"
+  },
+  {
+    "paper_id": 33,
+    "keyword_id": 120,
+    "keyword": "Ka/Ks"
+  },
+  {
+    "paper_id": 33,
+    "keyword_id": 121,
+    "keyword": "Protein characterization"
+  },
+  {
+    "paper_id": 33,
+    "keyword_id": 122,
+    "keyword": "MicroRNAs"
+  },
+  {
+    "paper_id": 33,
+    "keyword_id": 123,
+    "keyword": "Subcellular localization"
+  },
+  {
+    "paper_id": 34,
+    "keyword_id": 124,
+    "keyword": "Spinach MYB transcription factor"
+  },
+  {
+    "paper_id": 34,
+    "keyword_id": 125,
+    "keyword": "RNA-seq analysis"
+  },
+  {
+    "paper_id": 34,
+    "keyword_id": 126,
+    "keyword": "Sex-biased expression"
+  },
+  {
+    "paper_id": 35,
+    "keyword_id": 127,
+    "keyword": "RNA silencing"
+  },
+  {
+    "paper_id": 35,
+    "keyword_id": 128,
+    "keyword": "MicroRNA"
+  },
+  {
+    "paper_id": 35,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 35,
+    "keyword_id": 129,
+    "keyword": "Tomato yellow leaf curl virus"
+  },
+  {
+    "paper_id": 36,
+    "keyword_id": 130,
+    "keyword": "Schima superba"
+  },
+  {
+    "paper_id": 36,
+    "keyword_id": 131,
+    "keyword": "Dirigent family"
+  },
+  {
+    "paper_id": 36,
+    "keyword_id": 56,
+    "keyword": "abiotic stresses"
+  },
+  {
+    "paper_id": 36,
+    "keyword_id": 132,
+    "keyword": "Gene expression analysis"
+  },
+  {
+    "paper_id": 36,
+    "keyword_id": 22,
+    "keyword": "genome-wide analysis"
+  },
+  {
+    "paper_id": 37,
+    "keyword_id": 133,
+    "keyword": "Triticum plants"
+  },
+  {
+    "paper_id": 37,
+    "keyword_id": 134,
+    "keyword": "TPS gene family"
+  },
+  {
+    "paper_id": 37,
+    "keyword_id": 135,
+    "keyword": "Evolution"
+  },
+  {
+    "paper_id": 37,
+    "keyword_id": 136,
+    "keyword": "Gene duplicated events"
+  },
+  {
+    "paper_id": 37,
+    "keyword_id": 137,
+    "keyword": "RNA-seq"
+  },
+  {
+    "paper_id": 38,
+    "keyword_id": 22,
+    "keyword": "genome-wide analysis"
+  },
+  {
+    "paper_id": 38,
+    "keyword_id": 138,
+    "keyword": "GAPDH genes"
+  },
+  {
+    "paper_id": 38,
+    "keyword_id": 139,
+    "keyword": "Drought stress"
+  },
+  {
+    "paper_id": 38,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 38,
+    "keyword_id": 140,
+    "keyword": "Populus deltoides"
+  },
+  {
+    "paper_id": 39,
+    "keyword_id": 40,
+    "keyword": "Genome-wide"
+  },
+  {
+    "paper_id": 39,
+    "keyword_id": 141,
+    "keyword": "Andrographis paniculata"
+  },
+  {
+    "paper_id": 39,
+    "keyword_id": 142,
+    "keyword": "CONSTANS-like (COL)"
+  },
+  {
+    "paper_id": 39,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 39,
+    "keyword_id": 89,
+    "keyword": "Expression profile"
+  },
+  {
+    "paper_id": 40,
+    "keyword_id": 143,
+    "keyword": "Peanut"
+  },
+  {
+    "paper_id": 40,
+    "keyword_id": 144,
+    "keyword": "TCP gene"
+  },
+  {
+    "paper_id": 40,
+    "keyword_id": 145,
+    "keyword": "Genome-wide identification"
+  },
+  {
+    "paper_id": 40,
+    "keyword_id": 6,
+    "keyword": "Bioinformatics"
+  },
+  {
+    "paper_id": 40,
+    "keyword_id": 146,
+    "keyword": "Expression pattern analysis"
+  },
+  {
+    "paper_id": 41,
+    "keyword_id": 147,
+    "keyword": "Mediator complex subunit"
+  },
+  {
+    "paper_id": 41,
+    "keyword_id": 148,
+    "keyword": "Cassava; Abiotic stress"
+  },
+  {
+    "paper_id": 41,
+    "keyword_id": 89,
+    "keyword": "Expression profile"
+  },
+  {
+    "paper_id": 41,
+    "keyword_id": 23,
+    "keyword": "gene family"
+  },
+  {
+    "paper_id": 42,
+    "keyword_id": 149,
+    "keyword": "M6a"
+  },
+  {
+    "paper_id": 42,
+    "keyword_id": 23,
+    "keyword": "gene family"
+  },
+  {
+    "paper_id": 42,
+    "keyword_id": 150,
+    "keyword": "Common bean"
+  },
+  {
+    "paper_id": 42,
+    "keyword_id": 151,
+    "keyword": "BCMV"
+  },
+  {
+    "paper_id": 42,
+    "keyword_id": 152,
+    "keyword": "PvMTA"
+  },
+  {
+    "paper_id": 43,
+    "keyword_id": 153,
+    "keyword": "Winter rapeseed (Brassica rapa L.)"
+  },
+  {
+    "paper_id": 43,
+    "keyword_id": 154,
+    "keyword": "CPA gene family"
+  },
+  {
+    "paper_id": 43,
+    "keyword_id": 14,
+    "keyword": "expression analysis"
+  },
+  {
+    "paper_id": 43,
+    "keyword_id": 155,
+    "keyword": "Na+ K+ flow rate"
+  },
+  {
+    "paper_id": 44,
+    "keyword_id": 156,
+    "keyword": "Ginkgo biloba"
+  },
+  {
+    "paper_id": 44,
+    "keyword_id": 157,
+    "keyword": "SPL"
+  },
+  {
+    "paper_id": 44,
+    "keyword_id": 23,
+    "keyword": "gene family"
+  },
+  {
+    "paper_id": 44,
+    "keyword_id": 158,
+    "keyword": "Flavonoid biosynthesis"
+  },
+  {
+    "paper_id": 44,
+    "keyword_id": 159,
+    "keyword": "Water stress"
+  },
+  {
+    "paper_id": 45,
+    "keyword_id": 160,
+    "keyword": "DMP"
+  },
+  {
+    "paper_id": 45,
+    "keyword_id": 135,
+    "keyword": "Evolution"
+  },
+  {
+    "paper_id": 45,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 45,
+    "keyword_id": 161,
+    "keyword": "Haploid induction"
+  },
+  {
+    "paper_id": 45,
+    "keyword_id": 143,
+    "keyword": "Peanut"
+  },
+  {
+    "paper_id": 46,
+    "keyword_id": 162,
+    "keyword": "MAPK"
+  },
+  {
+    "paper_id": 46,
+    "keyword_id": 163,
+    "keyword": "MAPKK"
+  },
+  {
+    "paper_id": 46,
+    "keyword_id": 23,
+    "keyword": "gene family"
+  },
+  {
+    "paper_id": 46,
+    "keyword_id": 164,
+    "keyword": "Malus domestica"
+  },
+  {
+    "paper_id": 47,
+    "keyword_id": 156,
+    "keyword": "Ginkgo biloba"
+  },
+  {
+    "paper_id": 47,
+    "keyword_id": 165,
+    "keyword": "BBX"
+  },
+  {
+    "paper_id": 47,
+    "keyword_id": 23,
+    "keyword": "gene family"
+  },
+  {
+    "paper_id": 47,
+    "keyword_id": 166,
+    "keyword": "Hormones"
+  },
+  {
+    "paper_id": 47,
+    "keyword_id": 167,
+    "keyword": "Flavonoid regulation"
+  },
+  {
+    "paper_id": 47,
+    "keyword_id": 159,
+    "keyword": "Water stress"
+  },
+  {
+    "paper_id": 48,
+    "keyword_id": 168,
+    "keyword": "Prunus mume"
+  },
+  {
+    "paper_id": 48,
+    "keyword_id": 169,
+    "keyword": "PnKAN"
+  },
+  {
+    "paper_id": 48,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 48,
+    "keyword_id": 6,
+    "keyword": "Bioinformatics"
+  },
+  {
+    "paper_id": 49,
+    "keyword_id": 170,
+    "keyword": "Crocus sativus"
+  },
+  {
+    "paper_id": 49,
+    "keyword_id": 171,
+    "keyword": "Terpene synthase"
+  },
+  {
+    "paper_id": 49,
+    "keyword_id": 172,
+    "keyword": "Terpenoid biosynthesis"
+  },
+  {
+    "paper_id": 49,
+    "keyword_id": 24,
+    "keyword": "stress response"
+  },
+  {
+    "paper_id": 49,
+    "keyword_id": 173,
+    "keyword": "Transcriptomics"
+  },
+  {
+    "paper_id": 53,
+    "keyword_id": 174,
+    "keyword": "Not Available"
+  },
+  {
+    "paper_id": 54,
+    "keyword_id": 174,
+    "keyword": "Not Available"
+  },
+  {
+    "paper_id": 55,
+    "keyword_id": 174,
+    "keyword": "Not Available"
+  },
+  {
+    "paper_id": 56,
+    "keyword_id": 174,
+    "keyword": "Not Available"
+  },
+  {
+    "paper_id": 57,
+    "keyword_id": 175,
+    "keyword": "AT-hook gene family"
+  },
+  {
+    "paper_id": 57,
+    "keyword_id": 176,
+    "keyword": "Maize development"
+  },
+  {
+    "paper_id": 57,
+    "keyword_id": 177,
+    "keyword": "Transcriptome"
+  },
+  {
+    "paper_id": 57,
+    "keyword_id": 178,
+    "keyword": "Coexpression network analysis"
+  },
+  {
+    "paper_id": 59,
+    "keyword_id": 179,
+    "keyword": "ice plant (Mesembryanthemum crystallinum); CBL gene family; CIPK gene family; phylogeny; expression analysis; three-dimensional structure"
+  },
+  {
+    "paper_id": 60,
+    "keyword_id": 180,
+    "keyword": "chromosome organization"
+  },
+  {
+    "paper_id": 60,
+    "keyword_id": 181,
+    "keyword": "cis element"
+  },
+  {
+    "paper_id": 60,
+    "keyword_id": 182,
+    "keyword": "Medicago sativa"
+  },
+  {
+    "paper_id": 60,
+    "keyword_id": 183,
+    "keyword": "synteny"
+  },
+  {
+    "paper_id": 60,
+    "keyword_id": 184,
+    "keyword": "WOX"
+  },
+  {
+    "paper_id": 61,
+    "keyword_id": 185,
+    "keyword": "AP2/EREBP gene family"
+  },
+  {
+    "paper_id": 61,
+    "keyword_id": 186,
+    "keyword": "CBF/DREB"
+  },
+  {
+    "paper_id": 61,
+    "keyword_id": 187,
+    "keyword": "Cucumber"
+  },
+  {
+    "paper_id": 61,
+    "keyword_id": 188,
+    "keyword": "Cucurbitaceae"
+  },
+  {
+    "paper_id": 63,
+    "keyword_id": 189,
+    "keyword": "Mitogen-activated protein kinases"
+  },
+  {
+    "paper_id": 63,
+    "keyword_id": 190,
+    "keyword": "Maximum likelihood"
+  },
+  {
+    "paper_id": 63,
+    "keyword_id": 191,
+    "keyword": "Heat plot"
+  },
+  {
+    "paper_id": 63,
+    "keyword_id": 192,
+    "keyword": "Raf"
+  },
+  {
+    "paper_id": 63,
+    "keyword_id": 193,
+    "keyword": "MEKK"
+  },
+  {
+    "paper_id": 63,
+    "keyword_id": 83,
+    "keyword": "Solanum lycopersicum"
+  },
+  {
+    "paper_id": 63,
+    "keyword_id": 194,
+    "keyword": "Solanum tuberosum"
+  },
+  {
+    "paper_id": 63,
+    "keyword_id": 195,
+    "keyword": "Solanum melongena"
+  },
+  {
+    "paper_id": 63,
+    "keyword_id": 196,
+    "keyword": "Capsicum annuum"
+  },
+  {
+    "paper_id": 63,
+    "keyword_id": 197,
+    "keyword": "Coffea canephora"
+  },
+  {
+    "paper_id": 64,
+    "keyword_id": 37,
+    "keyword": "Gene structure"
+  },
+  {
+    "paper_id": 64,
+    "keyword_id": 198,
+    "keyword": "Barley"
+  },
+  {
+    "paper_id": 64,
+    "keyword_id": 199,
+    "keyword": "Hsp20 gene family"
+  },
+  {
+    "paper_id": 64,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 65,
+    "keyword_id": 200,
+    "keyword": "Moso bamboo"
+  },
+  {
+    "paper_id": 65,
+    "keyword_id": 201,
+    "keyword": "GRFs"
+  },
+  {
+    "paper_id": 65,
+    "keyword_id": 202,
+    "keyword": "Transcription activity"
+  },
+  {
+    "paper_id": 65,
+    "keyword_id": 203,
+    "keyword": "Yeast two-hybridization assay"
+  },
+  {
+    "paper_id": 65,
+    "keyword_id": 204,
+    "keyword": "BiFC"
+  },
+  {
+    "paper_id": 66,
+    "keyword_id": 205,
+    "keyword": "Actinidia chinensis"
+  },
+  {
+    "paper_id": 66,
+    "keyword_id": 206,
+    "keyword": "A. eriantha"
+  },
+  {
+    "paper_id": 66,
+    "keyword_id": 207,
+    "keyword": "Whole-genome duplication"
+  },
+  {
+    "paper_id": 66,
+    "keyword_id": 208,
+    "keyword": "Expression profiles"
+  },
+  {
+    "paper_id": 66,
+    "keyword_id": 209,
+    "keyword": "Conserved motif"
+  },
+  {
+    "paper_id": 67,
+    "keyword_id": 210,
+    "keyword": "Abscisic acid"
+  },
+  {
+    "paper_id": 67,
+    "keyword_id": 187,
+    "keyword": "Cucumber"
+  },
+  {
+    "paper_id": 67,
+    "keyword_id": 211,
+    "keyword": "PYL gene"
+  },
+  {
+    "paper_id": 67,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 68,
+    "keyword_id": 212,
+    "keyword": "APETALA-2"
+  },
+  {
+    "paper_id": 68,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 68,
+    "keyword_id": 24,
+    "keyword": "stress response"
+  },
+  {
+    "paper_id": 68,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 69,
+    "keyword_id": 41,
+    "keyword": "Identification"
+  },
+  {
+    "paper_id": 69,
+    "keyword_id": 213,
+    "keyword": "CDPKs"
+  },
+  {
+    "paper_id": 69,
+    "keyword_id": 214,
+    "keyword": "Drought"
+  },
+  {
+    "paper_id": 69,
+    "keyword_id": 50,
+    "keyword": "Stress"
+  },
+  {
+    "paper_id": 69,
+    "keyword_id": 215,
+    "keyword": "Gossypium barbadense"
+  },
+  {
+    "paper_id": 70,
+    "keyword_id": 216,
+    "keyword": "Tomato"
+  },
+  {
+    "paper_id": 70,
+    "keyword_id": 217,
+    "keyword": "FBN genes family"
+  },
+  {
+    "paper_id": 70,
+    "keyword_id": 14,
+    "keyword": "expression analysis"
+  },
+  {
+    "paper_id": 70,
+    "keyword_id": 218,
+    "keyword": "Leaf"
+  },
+  {
+    "paper_id": 70,
+    "keyword_id": 219,
+    "keyword": "Fruit"
+  },
+  {
+    "paper_id": 71,
+    "keyword_id": 220,
+    "keyword": "Glutathione S-transferase"
+  },
+  {
+    "paper_id": 71,
+    "keyword_id": 221,
+    "keyword": "Fig"
+  },
+  {
+    "paper_id": 71,
+    "keyword_id": 23,
+    "keyword": "gene family"
+  },
+  {
+    "paper_id": 71,
+    "keyword_id": 222,
+    "keyword": "Anthocyanin"
+  },
+  {
+    "paper_id": 71,
+    "keyword_id": 223,
+    "keyword": "Fruit coloration"
+  },
+  {
+    "paper_id": 72,
+    "keyword_id": 224,
+    "keyword": "Aldehyde dehydrogenase; common bean; digital gene expression; drought and salt stress; genome-wide analysis; in silico analysis"
+  },
+  {
+    "paper_id": 73,
+    "keyword_id": 225,
+    "keyword": "wheat; PLC; abiotic stress; expression patterns; Arabidopsis"
+  },
+  {
+    "paper_id": 74,
+    "keyword_id": 226,
+    "keyword": "PYL gene; abiotic stress; phylogenetic analysis; synteny analysis"
+  },
+  {
+    "paper_id": 75,
+    "keyword_id": 227,
+    "keyword": "serpin; protease inhibitor; Brachypodium; barley; gene family; phylogeny; expression"
+  },
+  {
+    "paper_id": 76,
+    "keyword_id": 228,
+    "keyword": "Dof; Brassica napus; transcription factor; phylogeny; gene duplication; abiotic stress"
+  },
+  {
+    "paper_id": 77,
+    "keyword_id": 229,
+    "keyword": "Cajanus cajan; potassium transporters; channels; abiotic stress; gene expression; physiochemical analysis"
+  },
+  {
+    "paper_id": 78,
+    "keyword_id": 230,
+    "keyword": "lipid transfer proteins (LTPs); sunflower; genome-wide; multigenic family"
+  },
+  {
+    "paper_id": 79,
+    "keyword_id": 231,
+    "keyword": "Rosa hybrida; JAZ gene family; Salt stress response; Gene expression profiling; Genome-wide analysis"
+  },
+  {
+    "paper_id": 80,
+    "keyword_id": 232,
+    "keyword": "Cannabis sativa L. ; wall-associated kinase; gene expression"
+  },
+  {
+    "paper_id": 81,
+    "keyword_id": 233,
+    "keyword": "MaSRS; gene family; Melilotus albus; gene expression analysis"
+  },
+  {
+    "paper_id": 82,
+    "keyword_id": 234,
+    "keyword": "aconitase; biotic stress; cis-acting regulatory elements; cold stress; drought stress; heat stress; qRT-PCR"
+  },
+  {
+    "paper_id": 83,
+    "keyword_id": 235,
+    "keyword": "wild sugarcane; type 2C protein phosphatase (PP2C); phylogenetic analysis; gene expression profiling; cold stress"
+  },
+  {
+    "paper_id": 84,
+    "keyword_id": 236,
+    "keyword": "wheat; TaSBT family; stripe rust of wheat; biotic and abiotic stresses; expression analysis"
+  },
+  {
+    "paper_id": 85,
+    "keyword_id": 237,
+    "keyword": "WNK family protein; upland cotton; genome-wide; gene expression; biotic stress; abiotic stress"
+  },
+  {
+    "paper_id": 86,
+    "keyword_id": 238,
+    "keyword": "1-Aminocyclopropane-1-carboxylic acid oxidase (ACO); ethylene biosynthesis; rice; transcriptional regulation; post-translational modification; abiotic stress"
+  },
+  {
+    "paper_id": 87,
+    "keyword_id": 239,
+    "keyword": "tomato; hexokinase; molecular characterization; expression pattern; abiotic stress"
+  },
+  {
+    "paper_id": 88,
+    "keyword_id": 240,
+    "keyword": "tea; Hsf; gene family; abiotic stress"
+  },
+  {
+    "paper_id": 89,
+    "keyword_id": 241,
+    "keyword": "NAC gene family; Chinese cabbage; Brassica rapa; flower development; expression profile"
+  },
+  {
+    "paper_id": 90,
+    "keyword_id": 242,
+    "keyword": "C-repeat/dehydration-responsive element binding factor; Brassica rapa; Abiotic stress; Genome triplication; Chromosome synteny blocks"
+  },
+  {
+    "paper_id": 91,
+    "keyword_id": 243,
+    "keyword": "PeqSPLs; orchid; phylogenetic analysis; conserved domain; functional differentiation"
+  },
+  {
+    "paper_id": 92,
+    "keyword_id": 244,
+    "keyword": "Dendrobium officinale; GATA; expression analysis; flavonoid; stress"
+  },
+  {
+    "paper_id": 93,
+    "keyword_id": 245,
+    "keyword": "soybean; genome-wide; VDAC; drought; salt stress"
+  },
+  {
+    "paper_id": 94,
+    "keyword_id": 246,
+    "keyword": "wheat; vWA; phylogenetic tree; expression pattern; biotic stress"
+  },
+  {
+    "paper_id": 95,
+    "keyword_id": 243,
+    "keyword": "PeqSPLs; orchid; phylogenetic analysis; conserved domain; functional differentiation"
+  },
+  {
+    "paper_id": 96,
+    "keyword_id": 247,
+    "keyword": "Rosa hybrida; heat shock transcription factors (HSFs); heat stress; drought stress; gene expression profiling"
+  },
+  {
+    "paper_id": 97,
+    "keyword_id": 248,
+    "keyword": "CCCH zinc finger; Phylogenetic analysis; Gene structure; Expression profile; Medicago truncatula"
+  },
+  {
+    "paper_id": 99,
+    "keyword_id": 249,
+    "keyword": "Epigenetics; Cytosine; DNA methylation; DNA methyltransferase; Zea mays L."
+  },
+  {
+    "paper_id": 100,
+    "keyword_id": 250,
+    "keyword": "Melon; ERF family; Phylogeny; Gene function"
+  },
+  {
+    "paper_id": 101,
+    "keyword_id": 251,
+    "keyword": "Abiotic stress; Arabidopsis; Phylogenetic analysis; Rice; Transmembrane domains and motifs; Type II Ca2+ ATPases"
+  },
+  {
+    "paper_id": 102,
+    "keyword_id": 252,
+    "keyword": "Platycodon grandiflorum; Genome-wide; GATA transcription factors; Gene expression; MeJA"
+  },
+  {
+    "paper_id": 103,
+    "keyword_id": 253,
+    "keyword": "Quinoa; Aux/IAA; Low-temperature stress; Gene expression"
+  },
+  {
+    "paper_id": 104,
+    "keyword_id": 254,
+    "keyword": "Abiotic stress; BURP domain; Oryza; RD22; Transcript level"
+  },
+  {
+    "paper_id": 105,
+    "keyword_id": 255,
+    "keyword": "Expansin; Gene family; Genome-wide analysis; Expression profile; Chinese jujube"
+  },
+  {
+    "paper_id": 106,
+    "keyword_id": 256,
+    "keyword": "A20; Abiotic stress; AN1; Arabidopsis; Expression analysis; Rice; Stress associated protein; Zinc-finger"
+  },
+  {
+    "paper_id": 107,
+    "keyword_id": 257,
+    "keyword": "WRKY transcription factor; Cotton; Expression profile; Development"
+  },
+  {
+    "paper_id": 108,
+    "keyword_id": 258,
+    "keyword": "Phaseolus vulgaris; Aquaporin; Gene duplication; Protein structure; Gene expression"
+  },
+  {
+    "paper_id": 109,
+    "keyword_id": 259,
+    "keyword": "B-box proteins; Stress response; Cis-acting elements; Organ-specific expression; Apple"
+  },
+  {
+    "paper_id": 110,
+    "keyword_id": 260,
+    "keyword": "Brassica rapa; Floral organs; cDNA microarray; Flower development; Differential gene expression; MADS transcription factors"
+  },
+  {
+    "paper_id": 111,
+    "keyword_id": 261,
+    "keyword": "Laccase; Gene structure; Gene expression; Lignification; Abiotic stress; Eucalyptus"
+  },
+  {
+    "paper_id": 112,
+    "keyword_id": 262,
+    "keyword": "Musa acuminata; SBP/SPL; Phylogeny; GO annotation; Cis-elements; RNA-Seq"
+  },
+  {
+    "paper_id": 113,
+    "keyword_id": 263,
+    "keyword": "Metacaspase; Hevea brasiliensis; Tapping panel dryness; Programmed cell death; Abiotic stress"
+  },
+  {
+    "paper_id": 114,
+    "keyword_id": 264,
+    "keyword": "T. aestivum; Aux/IAA; ARF; Gene family; Phylogenetic analysis"
+  },
+  {
+    "paper_id": 115,
+    "keyword_id": 265,
+    "keyword": "?-galactosidase; P. vulgaris; QRT-PCR; GH35; Glycoside hydrolase (GH)"
+  },
+  {
+    "paper_id": 116,
+    "keyword_id": 266,
+    "keyword": "Banana; Differential gene expression; Fruit ripening; Genome-wide analysis; MAP kinase"
+  },
+  {
+    "paper_id": 117,
+    "keyword_id": 267,
+    "keyword": "Hsf genes; Brassica; Polyploidy; Abiotic stress; Heat stress"
+  },
+  {
+    "paper_id": 118,
+    "keyword_id": 268,
+    "keyword": "Oryza sativa; CAMTA genes; Stress; Protein structure; Transcription factors"
+  },
+  {
+    "paper_id": 119,
+    "keyword_id": 269,
+    "keyword": "Banana; Co-expression network; Expression characteristics; MaTCPs; Phylogenetic analysis"
+  },
+  {
+    "paper_id": 120,
+    "keyword_id": 270,
+    "keyword": "In silico; Genome-wide; Hevea brasiliensis; Terpene synthase; Mining; Analysis"
+  },
+  {
+    "paper_id": 121,
+    "keyword_id": 271,
+    "keyword": "Cotton RCI2; PMP3; Phylogenetic analysis; Genome-wide; Tissue expression pattern; Stress responses"
+  },
+  {
+    "paper_id": 122,
+    "keyword_id": 272,
+    "keyword": "AP2/ERF; Bioinformatics; In silico cloning; Maize (Zea mays L.); Waterlogging"
+  },
+  {
+    "paper_id": 123,
+    "keyword_id": 273,
+    "keyword": "Cajanus; Computational biology; Genomics; Mlo gene family; Phaseolus; Phylogeny"
+  },
+  {
+    "paper_id": 124,
+    "keyword_id": 274,
+    "keyword": "ABC gene family; Castanea mollissima; Temperature stress; RNA-seq; Antioxidant enzyme"
+  },
+  {
+    "paper_id": 125,
+    "keyword_id": 275,
+    "keyword": "ABA; Abiotic stress; DUF221; miRNA; IAA; RSN1_7TM"
+  },
+  {
+    "paper_id": 127,
+    "keyword_id": 276,
+    "keyword": "Naringenin chalcone synthase; Flavonoid; Drought and salt stress; Digital gene expression; qRT-PCR; Expression profile"
+  },
+  {
+    "paper_id": 128,
+    "keyword_id": 277,
+    "keyword": "Abiotic stress; Abscisic acid; Comparative genomics; Evolution; HVA22 gene family; Stress responsive gene"
+  },
+  {
+    "paper_id": 130,
+    "keyword_id": 278,
+    "keyword": "Maize; Auxin; Aux/IAA gene family; Bioinformatic analysis"
+  },
+  {
+    "paper_id": 131,
+    "keyword_id": 279,
+    "keyword": "Dof; Sorghum; Rice; Arabidopsis; Cis-regulatory element"
+  },
+  {
+    "paper_id": 132,
+    "keyword_id": 280,
+    "keyword": "Maize; Potassium transporter; Cis-elements; Phylogenetic analysis"
+  },
+  {
+    "paper_id": 133,
+    "keyword_id": 281,
+    "keyword": "Dof (DNA binding with One Finger); Transcription factor; Pigeonpea; Duplication; Phylogeny; Cis-regulatory elements"
+  },
+  {
+    "paper_id": 134,
+    "keyword_id": 282,
+    "keyword": "Nicotiana tabacum; Heat shock protein 70; Genome-wide analysis; Synteny analysis; Phylogenetic analysis; Expression profile analysis"
+  },
+  {
+    "paper_id": 135,
+    "keyword_id": 283,
+    "keyword": "Genome-wide analysis; GRF genes; Growth-regulating factor; Arabidopsis thaliana; Camelia sativa; Protein domains; Phylogenetic analysis"
+  },
+  {
+    "paper_id": 136,
+    "keyword_id": 284,
+    "keyword": "Phaseolus vulgaris; CAMTA; RNAseq; qRT-PCR; Genome-wide identification"
+  },
+  {
+    "paper_id": 137,
+    "keyword_id": 285,
+    "keyword": "LysM-RLK; CERK; Receptors; Plant disease resistance; Potato"
+  },
+  {
+    "paper_id": 138,
+    "keyword_id": 286,
+    "keyword": "Expression profiles; Genome-wide analysis; GH3; Phylogenetic analysis; qRT-PCR; Synteny analysis"
+  },
+  {
+    "paper_id": 139,
+    "keyword_id": 287,
+    "keyword": "Populus trichocarpa; C3HC4-type RING finger; Phylogenetics; Expression profile; Drought"
+  },
+  {
+    "paper_id": 140,
+    "keyword_id": 288,
+    "keyword": "Populus; LEA; Dehydrins; Cold stress; Woody plants; Cellular dehydration"
+  },
+  {
+    "paper_id": 141,
+    "keyword_id": 289,
+    "keyword": "DOF; Genome-wide analysis; Mangifera indica; Microarray data analysis"
+  },
+  {
+    "paper_id": 142,
+    "keyword_id": 290,
+    "keyword": "Carotenoid cleavage oxygenases; RNA seq analysis; Transcription factor; Helianthus annuus; 9-cis-epoxycarotenoid dioxygenases; Carotenoid cleavage dioxygenases"
+  },
+  {
+    "paper_id": 143,
+    "keyword_id": 291,
+    "keyword": "CrRLK1L; Malus domestica; Bioinformatic analysis; Expression pattern"
+  },
+  {
+    "paper_id": 144,
+    "keyword_id": 187,
+    "keyword": "Cucumber"
+  },
+  {
+    "paper_id": 144,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 144,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 144,
+    "keyword_id": 69,
+    "keyword": "Sugar transporter"
+  },
+  {
+    "paper_id": 144,
+    "keyword_id": 292,
+    "keyword": "SWEET"
+  },
+  {
+    "paper_id": 144,
+    "keyword_id": 293,
+    "keyword": "watermelon"
+  },
+  {
+    "paper_id": 145,
+    "keyword_id": 294,
+    "keyword": "Genome-wide analysis; Phylogenetic analysis; Methyltransferase; SABATH"
+  },
+  {
+    "paper_id": 146,
+    "keyword_id": 295,
+    "keyword": "Carrot; CCCH-type zinc finger; Abiotic stress; Genome-wide identification; Evolution; Phylogenetic analyses"
+  },
+  {
+    "paper_id": 149,
+    "keyword_id": 296,
+    "keyword": "Medicinal plants"
+  },
+  {
+    "paper_id": 149,
+    "keyword_id": 297,
+    "keyword": "Geranylgeranyl Diphosphate Synthase (GGPPS)"
+  },
+  {
+    "paper_id": 149,
+    "keyword_id": 298,
+    "keyword": "Monoterpenoid Indole Alkaloids (MIAs)"
+  },
+  {
+    "paper_id": 149,
+    "keyword_id": 299,
+    "keyword": "Homology protein modelling"
+  },
+  {
+    "paper_id": 149,
+    "keyword_id": 300,
+    "keyword": "Apocynaceae"
+  },
+  {
+    "paper_id": 150,
+    "keyword_id": 301,
+    "keyword": "Light-harvesting chlorophyll a/b-binding protein (LHC)"
+  },
+  {
+    "paper_id": 150,
+    "keyword_id": 302,
+    "keyword": "Hevea Brasiliensis"
+  },
+  {
+    "paper_id": 150,
+    "keyword_id": 303,
+    "keyword": "Cold stress response"
+  },
+  {
+    "paper_id": 150,
+    "keyword_id": 22,
+    "keyword": "genome-wide analysis"
+  },
+  {
+    "paper_id": 150,
+    "keyword_id": 123,
+    "keyword": "Subcellular localization"
+  },
+  {
+    "paper_id": 151,
+    "keyword_id": 304,
+    "keyword": "Systematic analysis"
+  },
+  {
+    "paper_id": 151,
+    "keyword_id": 305,
+    "keyword": "Maize"
+  },
+  {
+    "paper_id": 151,
+    "keyword_id": 306,
+    "keyword": "SRO"
+  },
+  {
+    "paper_id": 151,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 152,
+    "keyword_id": 307,
+    "keyword": "Vitis vinifera"
+  },
+  {
+    "paper_id": 152,
+    "keyword_id": 308,
+    "keyword": "Growth regulatory factor"
+  },
+  {
+    "paper_id": 152,
+    "keyword_id": 14,
+    "keyword": "expression analysis"
+  },
+  {
+    "paper_id": 152,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 152,
+    "keyword_id": 37,
+    "keyword": "Gene structure"
+  },
+  {
+    "paper_id": 153,
+    "keyword_id": 309,
+    "keyword": "Late Embryogenesis Abundant Proteins"
+  },
+  {
+    "paper_id": 153,
+    "keyword_id": 310,
+    "keyword": "Poaceae"
+  },
+  {
+    "paper_id": 153,
+    "keyword_id": 214,
+    "keyword": "Drought"
+  },
+  {
+    "paper_id": 153,
+    "keyword_id": 123,
+    "keyword": "Subcellular localization"
+  },
+  {
+    "paper_id": 153,
+    "keyword_id": 311,
+    "keyword": "Protein Conserved Motifs"
+  },
+  {
+    "paper_id": 153,
+    "keyword_id": 137,
+    "keyword": "RNA-seq"
+  },
+  {
+    "paper_id": 154,
+    "keyword_id": 312,
+    "keyword": "NF-Y"
+  },
+  {
+    "paper_id": 154,
+    "keyword_id": 313,
+    "keyword": "CCAAT box"
+  },
+  {
+    "paper_id": 154,
+    "keyword_id": 314,
+    "keyword": "Orthologs"
+  },
+  {
+    "paper_id": 154,
+    "keyword_id": 315,
+    "keyword": "Paralogs"
+  },
+  {
+    "paper_id": 154,
+    "keyword_id": 36,
+    "keyword": "Phylogenetic tree"
+  },
+  {
+    "paper_id": 154,
+    "keyword_id": 30,
+    "keyword": "Transcription factor"
+  },
+  {
+    "paper_id": 155,
+    "keyword_id": 316,
+    "keyword": "bHLH"
+  },
+  {
+    "paper_id": 155,
+    "keyword_id": 30,
+    "keyword": "Transcription factor"
+  },
+  {
+    "paper_id": 155,
+    "keyword_id": 317,
+    "keyword": "N. tabacum"
+  },
+  {
+    "paper_id": 155,
+    "keyword_id": 50,
+    "keyword": "Stress"
+  },
+  {
+    "paper_id": 156,
+    "keyword_id": 26,
+    "keyword": "cis-regulatory elements"
+  },
+  {
+    "paper_id": 156,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 156,
+    "keyword_id": 11,
+    "keyword": "In-silico"
+  },
+  {
+    "paper_id": 156,
+    "keyword_id": 10,
+    "keyword": "Rice"
+  },
+  {
+    "paper_id": 156,
+    "keyword_id": 318,
+    "keyword": "Trehalose-6-phosphate phosphatase"
+  },
+  {
+    "paper_id": 157,
+    "keyword_id": 319,
+    "keyword": "R2R3-MYB"
+  },
+  {
+    "paper_id": 157,
+    "keyword_id": 320,
+    "keyword": "Medicago truncatula"
+  },
+  {
+    "paper_id": 157,
+    "keyword_id": 23,
+    "keyword": "gene family"
+  },
+  {
+    "paper_id": 157,
+    "keyword_id": 24,
+    "keyword": "stress response"
+  },
+  {
+    "paper_id": 157,
+    "keyword_id": 321,
+    "keyword": "function prediction"
+  },
+  {
+    "paper_id": 158,
+    "keyword_id": 322,
+    "keyword": "Cotton (Gossypium spp)"
+  },
+  {
+    "paper_id": 158,
+    "keyword_id": 41,
+    "keyword": "Identification"
+  },
+  {
+    "paper_id": 158,
+    "keyword_id": 323,
+    "keyword": "LEA proteins"
+  },
+  {
+    "paper_id": 158,
+    "keyword_id": 324,
+    "keyword": "miRNAs"
+  },
+  {
+    "paper_id": 158,
+    "keyword_id": 25,
+    "keyword": "gene ontology"
+  },
+  {
+    "paper_id": 158,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 158,
+    "keyword_id": 325,
+    "keyword": "Genome"
+  },
+  {
+    "paper_id": 158,
+    "keyword_id": 214,
+    "keyword": "Drought"
+  },
+  {
+    "paper_id": 159,
+    "keyword_id": 326,
+    "keyword": "B. napus"
+  },
+  {
+    "paper_id": 159,
+    "keyword_id": 327,
+    "keyword": "PEBP"
+  },
+  {
+    "paper_id": 159,
+    "keyword_id": 108,
+    "keyword": "Evolutionary analysis"
+  },
+  {
+    "paper_id": 159,
+    "keyword_id": 81,
+    "keyword": "Gene duplication"
+  },
+  {
+    "paper_id": 159,
+    "keyword_id": 14,
+    "keyword": "expression analysis"
+  },
+  {
+    "paper_id": 160,
+    "keyword_id": 328,
+    "keyword": "Crop resilience"
+  },
+  {
+    "paper_id": 160,
+    "keyword_id": 329,
+    "keyword": "Flax"
+  },
+  {
+    "paper_id": 160,
+    "keyword_id": 24,
+    "keyword": "stress response"
+  },
+  {
+    "paper_id": 160,
+    "keyword_id": 173,
+    "keyword": "Transcriptomics"
+  },
+  {
+    "paper_id": 160,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 161,
+    "keyword_id": 330,
+    "keyword": "Cucumis sativus"
+  },
+  {
+    "paper_id": 161,
+    "keyword_id": 63,
+    "keyword": "MAPKKK"
+  },
+  {
+    "paper_id": 161,
+    "keyword_id": 163,
+    "keyword": "MAPKK"
+  },
+  {
+    "paper_id": 161,
+    "keyword_id": 162,
+    "keyword": "MAPK"
+  },
+  {
+    "paper_id": 161,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 161,
+    "keyword_id": 90,
+    "keyword": "Biotic stress"
+  },
+  {
+    "paper_id": 161,
+    "keyword_id": 331,
+    "keyword": "Plant hormones"
+  },
+  {
+    "paper_id": 162,
+    "keyword_id": 332,
+    "keyword": "Musa acuminata cv. TianbaoJiao (AAA group)"
+  },
+  {
+    "paper_id": 162,
+    "keyword_id": 333,
+    "keyword": "SOD gene family"
+  },
+  {
+    "paper_id": 162,
+    "keyword_id": 334,
+    "keyword": "Promoter"
+  },
+  {
+    "paper_id": 162,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 162,
+    "keyword_id": 335,
+    "keyword": "Hormonal stress"
+  },
+  {
+    "paper_id": 162,
+    "keyword_id": 14,
+    "keyword": "expression analysis"
+  },
+  {
+    "paper_id": 163,
+    "keyword_id": 87,
+    "keyword": "Wheat"
+  },
+  {
+    "paper_id": 163,
+    "keyword_id": 63,
+    "keyword": "MAPKKK"
+  },
+  {
+    "paper_id": 163,
+    "keyword_id": 22,
+    "keyword": "genome-wide analysis"
+  },
+  {
+    "paper_id": 163,
+    "keyword_id": 208,
+    "keyword": "Expression profiles"
+  },
+  {
+    "paper_id": 164,
+    "keyword_id": 336,
+    "keyword": "Auxin"
+  },
+  {
+    "paper_id": 164,
+    "keyword_id": 337,
+    "keyword": "PIN-formed"
+  },
+  {
+    "paper_id": 164,
+    "keyword_id": 12,
+    "keyword": "cotton"
+  },
+  {
+    "paper_id": 164,
+    "keyword_id": 338,
+    "keyword": "Root development"
+  },
+  {
+    "paper_id": 164,
+    "keyword_id": 66,
+    "keyword": "Expression patterns"
+  },
+  {
+    "paper_id": 164,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 165,
+    "keyword_id": 339,
+    "keyword": "PDI"
+  },
+  {
+    "paper_id": 165,
+    "keyword_id": 340,
+    "keyword": "Chinese cabbage"
+  },
+  {
+    "paper_id": 165,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 165,
+    "keyword_id": 341,
+    "keyword": "Gene evolution"
+  },
+  {
+    "paper_id": 165,
+    "keyword_id": 342,
+    "keyword": "Biotic and abiotic stresses"
+  },
+  {
+    "paper_id": 166,
+    "keyword_id": 40,
+    "keyword": "Genome-wide"
+  },
+  {
+    "paper_id": 166,
+    "keyword_id": 44,
+    "keyword": "Potato"
+  },
+  {
+    "paper_id": 166,
+    "keyword_id": 199,
+    "keyword": "Hsp20 gene family"
+  },
+  {
+    "paper_id": 166,
+    "keyword_id": 343,
+    "keyword": "Heat stress"
+  },
+  {
+    "paper_id": 167,
+    "keyword_id": 344,
+    "keyword": "ARF"
+  },
+  {
+    "paper_id": 167,
+    "keyword_id": 6,
+    "keyword": "Bioinformatics"
+  },
+  {
+    "paper_id": 167,
+    "keyword_id": 345,
+    "keyword": "Chickpea"
+  },
+  {
+    "paper_id": 167,
+    "keyword_id": 81,
+    "keyword": "Gene duplication"
+  },
+  {
+    "paper_id": 167,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 167,
+    "keyword_id": 346,
+    "keyword": "RT-qPCR"
+  },
+  {
+    "paper_id": 167,
+    "keyword_id": 347,
+    "keyword": "Rstat"
+  },
+  {
+    "paper_id": 168,
+    "keyword_id": 27,
+    "keyword": "transcription factors"
+  },
+  {
+    "paper_id": 168,
+    "keyword_id": 3,
+    "keyword": "AP2/ERF"
+  },
+  {
+    "paper_id": 168,
+    "keyword_id": 177,
+    "keyword": "Transcriptome"
+  },
+  {
+    "paper_id": 168,
+    "keyword_id": 348,
+    "keyword": "Salix arbutifolia"
+  },
+  {
+    "paper_id": 169,
+    "keyword_id": 87,
+    "keyword": "Wheat"
+  },
+  {
+    "paper_id": 169,
+    "keyword_id": 349,
+    "keyword": "Expansin genes"
+  },
+  {
+    "paper_id": 169,
+    "keyword_id": 350,
+    "keyword": "Phylogenetics"
+  },
+  {
+    "paper_id": 169,
+    "keyword_id": 351,
+    "keyword": "Expression"
+  },
+  {
+    "paper_id": 169,
+    "keyword_id": 56,
+    "keyword": "abiotic stresses"
+  },
+  {
+    "paper_id": 170,
+    "keyword_id": 352,
+    "keyword": "Superoxide dismutase"
+  },
+  {
+    "paper_id": 170,
+    "keyword_id": 23,
+    "keyword": "gene family"
+  },
+  {
+    "paper_id": 170,
+    "keyword_id": 353,
+    "keyword": "Brassica juncea"
+  },
+  {
+    "paper_id": 170,
+    "keyword_id": 354,
+    "keyword": "B. rapa"
+  },
+  {
+    "paper_id": 170,
+    "keyword_id": 22,
+    "keyword": "genome-wide analysis"
+  },
+  {
+    "paper_id": 170,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 170,
+    "keyword_id": 355,
+    "keyword": "Differential expression"
+  },
+  {
+    "paper_id": 171,
+    "keyword_id": 87,
+    "keyword": "Wheat"
+  },
+  {
+    "paper_id": 171,
+    "keyword_id": 356,
+    "keyword": "trihelix gene family"
+  },
+  {
+    "paper_id": 171,
+    "keyword_id": 30,
+    "keyword": "Transcription factor"
+  },
+  {
+    "paper_id": 171,
+    "keyword_id": 357,
+    "keyword": "Orthology relation"
+  },
+  {
+    "paper_id": 171,
+    "keyword_id": 89,
+    "keyword": "Expression profile"
+  },
+  {
+    "paper_id": 171,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 172,
+    "keyword_id": 358,
+    "keyword": "Epigenetics"
+  },
+  {
+    "paper_id": 172,
+    "keyword_id": 359,
+    "keyword": "Histone demethylation"
+  },
+  {
+    "paper_id": 172,
+    "keyword_id": 360,
+    "keyword": "JHDM gene family"
+  },
+  {
+    "paper_id": 172,
+    "keyword_id": 361,
+    "keyword": "JmjC domain"
+  },
+  {
+    "paper_id": 172,
+    "keyword_id": 343,
+    "keyword": "Heat stress"
+  },
+  {
+    "paper_id": 172,
+    "keyword_id": 362,
+    "keyword": "Zea mays L."
+  },
+  {
+    "paper_id": 173,
+    "keyword_id": 87,
+    "keyword": "Wheat"
+  },
+  {
+    "paper_id": 173,
+    "keyword_id": 363,
+    "keyword": "Hsf"
+  },
+  {
+    "paper_id": 173,
+    "keyword_id": 22,
+    "keyword": "genome-wide analysis"
+  },
+  {
+    "paper_id": 173,
+    "keyword_id": 208,
+    "keyword": "Expression profiles"
+  },
+  {
+    "paper_id": 174,
+    "keyword_id": 198,
+    "keyword": "Barley"
+  },
+  {
+    "paper_id": 174,
+    "keyword_id": 23,
+    "keyword": "gene family"
+  },
+  {
+    "paper_id": 174,
+    "keyword_id": 62,
+    "keyword": "MAPK cascade"
+  },
+  {
+    "paper_id": 174,
+    "keyword_id": 364,
+    "keyword": "Regulatory network"
+  },
+  {
+    "paper_id": 175,
+    "keyword_id": 365,
+    "keyword": "Gossypium hirsutum L."
+  },
+  {
+    "paper_id": 175,
+    "keyword_id": 12,
+    "keyword": "cotton"
+  },
+  {
+    "paper_id": 175,
+    "keyword_id": 65,
+    "keyword": "F-box gene family"
+  },
+  {
+    "paper_id": 175,
+    "keyword_id": 366,
+    "keyword": "Ubiquitination"
+  },
+  {
+    "paper_id": 175,
+    "keyword_id": 367,
+    "keyword": "Protein degradation"
+  },
+  {
+    "paper_id": 176,
+    "keyword_id": 87,
+    "keyword": "Wheat"
+  },
+  {
+    "paper_id": 176,
+    "keyword_id": 368,
+    "keyword": "Glutathione transferases"
+  },
+  {
+    "paper_id": 176,
+    "keyword_id": 109,
+    "keyword": "Expression profiling"
+  },
+  {
+    "paper_id": 176,
+    "keyword_id": 97,
+    "keyword": "Biotic and Abiotic stress"
+  },
+  {
+    "paper_id": 176,
+    "keyword_id": 166,
+    "keyword": "Hormones"
+  },
+  {
+    "paper_id": 176,
+    "keyword_id": 369,
+    "keyword": "Quantitative real-time PCR"
+  },
+  {
+    "paper_id": 177,
+    "keyword_id": 370,
+    "keyword": "ABA receptors (ABARs)"
+  },
+  {
+    "paper_id": 177,
+    "keyword_id": 56,
+    "keyword": "abiotic stresses"
+  },
+  {
+    "paper_id": 177,
+    "keyword_id": 85,
+    "keyword": "Collinearity"
+  },
+  {
+    "paper_id": 177,
+    "keyword_id": 324,
+    "keyword": "miRNAs"
+  },
+  {
+    "paper_id": 177,
+    "keyword_id": 371,
+    "keyword": "Single amino acid polymorphism (SAP)"
+  },
+  {
+    "paper_id": 177,
+    "keyword_id": 372,
+    "keyword": "Single nucleotide polymorphism (SNP)"
+  },
+  {
+    "paper_id": 177,
+    "keyword_id": 373,
+    "keyword": "Stress responsive cis-elements"
+  },
+  {
+    "paper_id": 177,
+    "keyword_id": 183,
+    "keyword": "synteny"
+  },
+  {
+    "paper_id": 178,
+    "keyword_id": 374,
+    "keyword": "Histone acetyltransferases"
+  },
+  {
+    "paper_id": 178,
+    "keyword_id": 375,
+    "keyword": "Triticum aestivum"
+  },
+  {
+    "paper_id": 178,
+    "keyword_id": 40,
+    "keyword": "Genome-wide"
+  },
+  {
+    "paper_id": 178,
+    "keyword_id": 376,
+    "keyword": "Temperature"
+  },
+  {
+    "paper_id": 178,
+    "keyword_id": 377,
+    "keyword": "Wheat virus"
+  },
+  {
+    "paper_id": 178,
+    "keyword_id": 14,
+    "keyword": "expression analysis"
+  },
+  {
+    "paper_id": 179,
+    "keyword_id": 378,
+    "keyword": "Foxtail millet"
+  },
+  {
+    "paper_id": 179,
+    "keyword_id": 379,
+    "keyword": "CKX gene family"
+  },
+  {
+    "paper_id": 179,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 179,
+    "keyword_id": 380,
+    "keyword": "Real-time PCR analysis"
+  },
+  {
+    "paper_id": 180,
+    "keyword_id": 381,
+    "keyword": "Sweetpotato"
+  },
+  {
+    "paper_id": 180,
+    "keyword_id": 382,
+    "keyword": "?-galactosidase"
+  },
+  {
+    "paper_id": 180,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 180,
+    "keyword_id": 50,
+    "keyword": "Stress"
+  },
+  {
+    "paper_id": 181,
+    "keyword_id": 12,
+    "keyword": "cotton"
+  },
+  {
+    "paper_id": 181,
+    "keyword_id": 383,
+    "keyword": "DUF668 gene family"
+  },
+  {
+    "paper_id": 181,
+    "keyword_id": 55,
+    "keyword": "bioinformatics analysis"
+  },
+  {
+    "paper_id": 181,
+    "keyword_id": 384,
+    "keyword": "Adverse stress"
+  },
+  {
+    "paper_id": 181,
+    "keyword_id": 14,
+    "keyword": "expression analysis"
+  },
+  {
+    "paper_id": 182,
+    "keyword_id": 385,
+    "keyword": "Tartary buckwheat"
+  },
+  {
+    "paper_id": 182,
+    "keyword_id": 162,
+    "keyword": "MAPK"
+  },
+  {
+    "paper_id": 182,
+    "keyword_id": 135,
+    "keyword": "Evolution"
+  },
+  {
+    "paper_id": 182,
+    "keyword_id": 66,
+    "keyword": "Expression patterns"
+  },
+  {
+    "paper_id": 182,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 182,
+    "keyword_id": 386,
+    "keyword": "Functional verification"
+  },
+  {
+    "paper_id": 184,
+    "keyword_id": 145,
+    "keyword": "Genome-wide identification"
+  },
+  {
+    "paper_id": 184,
+    "keyword_id": 54,
+    "keyword": "WRKY transcription factor"
+  },
+  {
+    "paper_id": 184,
+    "keyword_id": 387,
+    "keyword": "Prunus sibirica"
+  },
+  {
+    "paper_id": 184,
+    "keyword_id": 66,
+    "keyword": "Expression patterns"
+  },
+  {
+    "paper_id": 184,
+    "keyword_id": 388,
+    "keyword": "Low-temperature stress"
+  },
+  {
+    "paper_id": 185,
+    "keyword_id": 389,
+    "keyword": "DUF568 domain"
+  },
+  {
+    "paper_id": 185,
+    "keyword_id": 390,
+    "keyword": "Expression pattern"
+  },
+  {
+    "paper_id": 185,
+    "keyword_id": 23,
+    "keyword": "gene family"
+  },
+  {
+    "paper_id": 185,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 185,
+    "keyword_id": 10,
+    "keyword": "Rice"
+  },
+  {
+    "paper_id": 186,
+    "keyword_id": 12,
+    "keyword": "cotton"
+  },
+  {
+    "paper_id": 186,
+    "keyword_id": 391,
+    "keyword": "ALDH"
+  },
+  {
+    "paper_id": 186,
+    "keyword_id": 67,
+    "keyword": "Salt stress"
+  },
+  {
+    "paper_id": 186,
+    "keyword_id": 46,
+    "keyword": "Gene Family Analysis"
+  },
+  {
+    "paper_id": 186,
+    "keyword_id": 392,
+    "keyword": "Virus-induced gene silencing"
+  },
+  {
+    "paper_id": 187,
+    "keyword_id": 316,
+    "keyword": "bHLH"
+  },
+  {
+    "paper_id": 187,
+    "keyword_id": 393,
+    "keyword": "Ginger"
+  },
+  {
+    "paper_id": 187,
+    "keyword_id": 27,
+    "keyword": "transcription factors"
+  },
+  {
+    "paper_id": 187,
+    "keyword_id": 394,
+    "keyword": "Rhizome development"
+  },
+  {
+    "paper_id": 187,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 188,
+    "keyword_id": 340,
+    "keyword": "Chinese cabbage"
+  },
+  {
+    "paper_id": 188,
+    "keyword_id": 395,
+    "keyword": "Chalcone synthase gene family"
+  },
+  {
+    "paper_id": 188,
+    "keyword_id": 145,
+    "keyword": "Genome-wide identification"
+  },
+  {
+    "paper_id": 188,
+    "keyword_id": 396,
+    "keyword": "Characterization and expression analysis"
+  },
+  {
+    "paper_id": 189,
+    "keyword_id": 397,
+    "keyword": "Sainfoin"
+  },
+  {
+    "paper_id": 189,
+    "keyword_id": 398,
+    "keyword": "WRKY family"
+  },
+  {
+    "paper_id": 189,
+    "keyword_id": 214,
+    "keyword": "Drought"
+  },
+  {
+    "paper_id": 189,
+    "keyword_id": 399,
+    "keyword": "Salt"
+  },
+  {
+    "paper_id": 189,
+    "keyword_id": 400,
+    "keyword": "Alkali"
+  },
+  {
+    "paper_id": 189,
+    "keyword_id": 22,
+    "keyword": "genome-wide analysis"
+  },
+  {
+    "paper_id": 190,
+    "keyword_id": 401,
+    "keyword": "NAC family"
+  },
+  {
+    "paper_id": 190,
+    "keyword_id": 402,
+    "keyword": "Phylogenetic relationship"
+  },
+  {
+    "paper_id": 190,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 190,
+    "keyword_id": 139,
+    "keyword": "Drought stress"
+  },
+  {
+    "paper_id": 190,
+    "keyword_id": 305,
+    "keyword": "Maize"
+  },
+  {
+    "paper_id": 191,
+    "keyword_id": 40,
+    "keyword": "Genome-wide"
+  },
+  {
+    "paper_id": 191,
+    "keyword_id": 403,
+    "keyword": "Barley (Hordeum vulgare L.)"
+  },
+  {
+    "paper_id": 191,
+    "keyword_id": 404,
+    "keyword": "GATA"
+  },
+  {
+    "paper_id": 191,
+    "keyword_id": 66,
+    "keyword": "Expression patterns"
+  },
+  {
+    "paper_id": 191,
+    "keyword_id": 364,
+    "keyword": "Regulatory network"
+  },
+  {
+    "paper_id": 192,
+    "keyword_id": 405,
+    "keyword": "Mulberry"
+  },
+  {
+    "paper_id": 192,
+    "keyword_id": 406,
+    "keyword": "Dof transcription factor"
+  },
+  {
+    "paper_id": 192,
+    "keyword_id": 55,
+    "keyword": "bioinformatics analysis"
+  },
+  {
+    "paper_id": 192,
+    "keyword_id": 139,
+    "keyword": "Drought stress"
+  },
+  {
+    "paper_id": 193,
+    "keyword_id": 87,
+    "keyword": "Wheat"
+  },
+  {
+    "paper_id": 193,
+    "keyword_id": 407,
+    "keyword": "BES1 gene family"
+  },
+  {
+    "paper_id": 193,
+    "keyword_id": 408,
+    "keyword": "Grain development"
+  },
+  {
+    "paper_id": 193,
+    "keyword_id": 14,
+    "keyword": "expression analysis"
+  },
+  {
+    "paper_id": 193,
+    "keyword_id": 55,
+    "keyword": "bioinformatics analysis"
+  },
+  {
+    "paper_id": 194,
+    "keyword_id": 409,
+    "keyword": "Grapevine"
+  },
+  {
+    "paper_id": 194,
+    "keyword_id": 410,
+    "keyword": "Mitogen-activated protein kinase kinase kinase (MAPKKK)"
+  },
+  {
+    "paper_id": 194,
+    "keyword_id": 23,
+    "keyword": "gene family"
+  },
+  {
+    "paper_id": 194,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 194,
+    "keyword_id": 14,
+    "keyword": "expression analysis"
+  },
+  {
+    "paper_id": 194,
+    "keyword_id": 411,
+    "keyword": "Stresses"
+  },
+  {
+    "paper_id": 195,
+    "keyword_id": 412,
+    "keyword": "GRAS"
+  },
+  {
+    "paper_id": 195,
+    "keyword_id": 216,
+    "keyword": "Tomato"
+  },
+  {
+    "paper_id": 195,
+    "keyword_id": 40,
+    "keyword": "Genome-wide"
+  },
+  {
+    "paper_id": 195,
+    "keyword_id": 351,
+    "keyword": "Expression"
+  },
+  {
+    "paper_id": 195,
+    "keyword_id": 413,
+    "keyword": "Phytohormone"
+  },
+  {
+    "paper_id": 195,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 196,
+    "keyword_id": 414,
+    "keyword": "OSCA"
+  },
+  {
+    "paper_id": 196,
+    "keyword_id": 415,
+    "keyword": "DUF221 domain"
+  },
+  {
+    "paper_id": 196,
+    "keyword_id": 416,
+    "keyword": "Phylogenetic relationships"
+  },
+  {
+    "paper_id": 196,
+    "keyword_id": 89,
+    "keyword": "Expression profile"
+  },
+  {
+    "paper_id": 196,
+    "keyword_id": 417,
+    "keyword": "Osmotic stress"
+  },
+  {
+    "paper_id": 196,
+    "keyword_id": 418,
+    "keyword": "Oryza"
+  },
+  {
+    "paper_id": 197,
+    "keyword_id": 419,
+    "keyword": "Arabinoxylan"
+  },
+  {
+    "paper_id": 197,
+    "keyword_id": 420,
+    "keyword": "Bioenergy"
+  },
+  {
+    "paper_id": 197,
+    "keyword_id": 421,
+    "keyword": "Biofuels"
+  },
+  {
+    "paper_id": 197,
+    "keyword_id": 422,
+    "keyword": "Cell wall"
+  },
+  {
+    "paper_id": 197,
+    "keyword_id": 423,
+    "keyword": "Cellulose"
+  },
+  {
+    "paper_id": 197,
+    "keyword_id": 424,
+    "keyword": "CesA"
+  },
+  {
+    "paper_id": 197,
+    "keyword_id": 425,
+    "keyword": "Csl"
+  },
+  {
+    "paper_id": 197,
+    "keyword_id": 426,
+    "keyword": "Glucuronoarabinoxylan"
+  },
+  {
+    "paper_id": 197,
+    "keyword_id": 427,
+    "keyword": "Mixed-linked glucan"
+  },
+  {
+    "paper_id": 197,
+    "keyword_id": 87,
+    "keyword": "Wheat"
+  },
+  {
+    "paper_id": 198,
+    "keyword_id": 428,
+    "keyword": "E2F/DPs"
+  },
+  {
+    "paper_id": 198,
+    "keyword_id": 200,
+    "keyword": "Moso bamboo"
+  },
+  {
+    "paper_id": 198,
+    "keyword_id": 351,
+    "keyword": "Expression"
+  },
+  {
+    "paper_id": 198,
+    "keyword_id": 429,
+    "keyword": "Cell cycle"
+  },
+  {
+    "paper_id": 198,
+    "keyword_id": 430,
+    "keyword": "Bamboo shoot"
+  },
+  {
+    "paper_id": 199,
+    "keyword_id": 431,
+    "keyword": "ERF transcription factors"
+  },
+  {
+    "paper_id": 199,
+    "keyword_id": 432,
+    "keyword": "Segmental duplication"
+  },
+  {
+    "paper_id": 199,
+    "keyword_id": 433,
+    "keyword": "Tandem duplication"
+  },
+  {
+    "paper_id": 199,
+    "keyword_id": 434,
+    "keyword": "Synteny analysis"
+  },
+  {
+    "paper_id": 199,
+    "keyword_id": 208,
+    "keyword": "Expression profiles"
+  },
+  {
+    "paper_id": 200,
+    "keyword_id": 435,
+    "keyword": "BZR transcription factor"
+  },
+  {
+    "paper_id": 200,
+    "keyword_id": 436,
+    "keyword": "Genome-wide expression analysis"
+  },
+  {
+    "paper_id": 200,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 201,
+    "keyword_id": 66,
+    "keyword": "Expression patterns"
+  },
+  {
+    "paper_id": 201,
+    "keyword_id": 37,
+    "keyword": "Gene structure"
+  },
+  {
+    "paper_id": 201,
+    "keyword_id": 437,
+    "keyword": "Inositol polyphosphates"
+  },
+  {
+    "paper_id": 201,
+    "keyword_id": 438,
+    "keyword": "Inositol phosphate kinases"
+  },
+  {
+    "paper_id": 201,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 202,
+    "keyword_id": 145,
+    "keyword": "Genome-wide identification"
+  },
+  {
+    "paper_id": 202,
+    "keyword_id": 439,
+    "keyword": "Eucalyptus grandis"
+  },
+  {
+    "paper_id": 202,
+    "keyword_id": 440,
+    "keyword": "Heavy metals"
+  },
+  {
+    "paper_id": 202,
+    "keyword_id": 441,
+    "keyword": "Metal tolerance protein (MTP)"
+  },
+  {
+    "paper_id": 202,
+    "keyword_id": 89,
+    "keyword": "Expression profile"
+  },
+  {
+    "paper_id": 203,
+    "keyword_id": 442,
+    "keyword": "Oryza sativa L"
+  },
+  {
+    "paper_id": 203,
+    "keyword_id": 443,
+    "keyword": "Heat shock factor gene family"
+  },
+  {
+    "paper_id": 203,
+    "keyword_id": 444,
+    "keyword": "Phylogeny"
+  },
+  {
+    "paper_id": 203,
+    "keyword_id": 445,
+    "keyword": "Chromosomal localization"
+  },
+  {
+    "paper_id": 203,
+    "keyword_id": 446,
+    "keyword": "Gene networking and expression analysis"
+  },
+  {
+    "paper_id": 204,
+    "keyword_id": 447,
+    "keyword": "CCO gene family"
+  },
+  {
+    "paper_id": 204,
+    "keyword_id": 448,
+    "keyword": "C. sativus"
+  },
+  {
+    "paper_id": 204,
+    "keyword_id": 449,
+    "keyword": "Chitosan oligosaccharides"
+  },
+  {
+    "paper_id": 204,
+    "keyword_id": 450,
+    "keyword": "Phloem content"
+  },
+  {
+    "paper_id": 205,
+    "keyword_id": 87,
+    "keyword": "Wheat"
+  },
+  {
+    "paper_id": 205,
+    "keyword_id": 451,
+    "keyword": "UBC gene family"
+  },
+  {
+    "paper_id": 205,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 205,
+    "keyword_id": 452,
+    "keyword": "Allelic variation"
+  },
+  {
+    "paper_id": 205,
+    "keyword_id": 453,
+    "keyword": "Thousand-kernel weight"
+  },
+  {
+    "paper_id": 206,
+    "keyword_id": 454,
+    "keyword": "Acer rubrum"
+  },
+  {
+    "paper_id": 206,
+    "keyword_id": 455,
+    "keyword": "UDP-glycosyltransferase (UGTs)"
+  },
+  {
+    "paper_id": 206,
+    "keyword_id": 222,
+    "keyword": "Anthocyanin"
+  },
+  {
+    "paper_id": 206,
+    "keyword_id": 456,
+    "keyword": "Cold stress"
+  },
+  {
+    "paper_id": 206,
+    "keyword_id": 457,
+    "keyword": "Leaf colour"
+  },
+  {
+    "paper_id": 207,
+    "keyword_id": 118,
+    "keyword": "Alfalfa"
+  },
+  {
+    "paper_id": 207,
+    "keyword_id": 458,
+    "keyword": "MsCBF"
+  },
+  {
+    "paper_id": 207,
+    "keyword_id": 40,
+    "keyword": "Genome-wide"
+  },
+  {
+    "paper_id": 207,
+    "keyword_id": 459,
+    "keyword": "Flowering regulation"
+  },
+  {
+    "paper_id": 208,
+    "keyword_id": 460,
+    "keyword": "ALMT"
+  },
+  {
+    "paper_id": 208,
+    "keyword_id": 461,
+    "keyword": "Aluminum"
+  },
+  {
+    "paper_id": 208,
+    "keyword_id": 109,
+    "keyword": "Expression profiling"
+  },
+  {
+    "paper_id": 208,
+    "keyword_id": 462,
+    "keyword": "Gene families"
+  },
+  {
+    "paper_id": 208,
+    "keyword_id": 463,
+    "keyword": "Lentil"
+  },
+  {
+    "paper_id": 208,
+    "keyword_id": 464,
+    "keyword": "MATE"
+  },
+  {
+    "paper_id": 208,
+    "keyword_id": 465,
+    "keyword": "Molecular docking"
+  },
+  {
+    "paper_id": 208,
+    "keyword_id": 466,
+    "keyword": "Transporter"
+  },
+  {
+    "paper_id": 209,
+    "keyword_id": 467,
+    "keyword": "SWEET gene family"
+  },
+  {
+    "paper_id": 209,
+    "keyword_id": 468,
+    "keyword": "Sugar accumulation"
+  },
+  {
+    "paper_id": 209,
+    "keyword_id": 219,
+    "keyword": "Fruit"
+  },
+  {
+    "paper_id": 209,
+    "keyword_id": 469,
+    "keyword": "Fengtang plum"
+  },
+  {
+    "paper_id": 210,
+    "keyword_id": 470,
+    "keyword": "Brassicaceae"
+  },
+  {
+    "paper_id": 210,
+    "keyword_id": 471,
+    "keyword": "NHX"
+  },
+  {
+    "paper_id": 210,
+    "keyword_id": 472,
+    "keyword": "CREs"
+  },
+  {
+    "paper_id": 210,
+    "keyword_id": 95,
+    "keyword": "qRT-PCR"
+  },
+  {
+    "paper_id": 210,
+    "keyword_id": 473,
+    "keyword": "Plant stress tolerance"
+  },
+  {
+    "paper_id": 210,
+    "keyword_id": 474,
+    "keyword": "Salicylic acid"
+  },
+  {
+    "paper_id": 211,
+    "keyword_id": 475,
+    "keyword": "CCCH zinc finger"
+  },
+  {
+    "paper_id": 211,
+    "keyword_id": 22,
+    "keyword": "genome-wide analysis"
+  },
+  {
+    "paper_id": 211,
+    "keyword_id": 476,
+    "keyword": "Pineapple"
+  },
+  {
+    "paper_id": 211,
+    "keyword_id": 477,
+    "keyword": "Fruit translucency"
+  },
+  {
+    "paper_id": 212,
+    "keyword_id": 76,
+    "keyword": "wheat (Triticum aestivum L.)"
+  },
+  {
+    "paper_id": 212,
+    "keyword_id": 478,
+    "keyword": "rice (Oryza sativa)"
+  },
+  {
+    "paper_id": 212,
+    "keyword_id": 479,
+    "keyword": "CPP"
+  },
+  {
+    "paper_id": 212,
+    "keyword_id": 480,
+    "keyword": "IAA"
+  },
+  {
+    "paper_id": 212,
+    "keyword_id": 481,
+    "keyword": "ACC"
+  },
+  {
+    "paper_id": 213,
+    "keyword_id": 87,
+    "keyword": "Wheat"
+  },
+  {
+    "paper_id": 213,
+    "keyword_id": 451,
+    "keyword": "UBC gene family"
+  },
+  {
+    "paper_id": 213,
+    "keyword_id": 482,
+    "keyword": "Powdery mildew"
+  },
+  {
+    "paper_id": 213,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 213,
+    "keyword_id": 392,
+    "keyword": "Virus-induced gene silencing"
+  },
+  {
+    "paper_id": 214,
+    "keyword_id": 44,
+    "keyword": "Potato"
+  },
+  {
+    "paper_id": 214,
+    "keyword_id": 483,
+    "keyword": "Nitrate transporter"
+  },
+  {
+    "paper_id": 214,
+    "keyword_id": 484,
+    "keyword": "Peptide transporter"
+  },
+  {
+    "paper_id": 214,
+    "keyword_id": 485,
+    "keyword": "Nitrogen stress"
+  },
+  {
+    "paper_id": 214,
+    "keyword_id": 486,
+    "keyword": "Gene family function analysis"
+  },
+  {
+    "paper_id": 214,
+    "keyword_id": 487,
+    "keyword": "Gene expression pattern"
+  },
+  {
+    "paper_id": 215,
+    "keyword_id": 488,
+    "keyword": "Gossypium hirsutum"
+  },
+  {
+    "paper_id": 215,
+    "keyword_id": 489,
+    "keyword": "EDS1 gene family"
+  },
+  {
+    "paper_id": 215,
+    "keyword_id": 139,
+    "keyword": "Drought stress"
+  },
+  {
+    "paper_id": 215,
+    "keyword_id": 81,
+    "keyword": "Gene duplication"
+  },
+  {
+    "paper_id": 215,
+    "keyword_id": 490,
+    "keyword": "Promoter analysis"
+  },
+  {
+    "paper_id": 215,
+    "keyword_id": 137,
+    "keyword": "RNA-seq"
+  },
+  {
+    "paper_id": 215,
+    "keyword_id": 491,
+    "keyword": "PEG stress"
+  },
+  {
+    "paper_id": 215,
+    "keyword_id": 492,
+    "keyword": "Functional genomics"
+  },
+  {
+    "paper_id": 216,
+    "keyword_id": 493,
+    "keyword": "SiSPL gene family; Transcription factor; Characterization; Sesamum indicum"
+  },
+  {
+    "paper_id": 217,
+    "keyword_id": 456,
+    "keyword": "Cold stress"
+  },
+  {
+    "paper_id": 217,
+    "keyword_id": 494,
+    "keyword": "Cicer arietinum Gene expression Subtilisin-like proteases"
+  },
+  {
+    "paper_id": 218,
+    "keyword_id": 495,
+    "keyword": "Cucumis sativus; Glutathione peroxidase (GPX); Gene family; Expression analysis; Abiotic stress"
+  },
+  {
+    "paper_id": 219,
+    "keyword_id": 10,
+    "keyword": "Rice"
+  },
+  {
+    "paper_id": 219,
+    "keyword_id": 58,
+    "keyword": "AHL gene family"
+  },
+  {
+    "paper_id": 219,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 219,
+    "keyword_id": 50,
+    "keyword": "Stress"
+  },
+  {
+    "paper_id": 219,
+    "keyword_id": 413,
+    "keyword": "Phytohormone"
+  },
+  {
+    "paper_id": 219,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 220,
+    "keyword_id": 496,
+    "keyword": "Expression patterns; Functional analysis; Microarray; Oryza sativa; Phylogenetic analysis; Sulphotransferase"
+  },
+  {
+    "paper_id": 221,
+    "keyword_id": 497,
+    "keyword": "Auxin response factor; Cis-elements; Duplication events; Glycine max; Phaseolus vulgaris; Phylogenetic analysis"
+  },
+  {
+    "paper_id": 222,
+    "keyword_id": 498,
+    "keyword": "Wheat; WRKY TFs; Gene amplification; Heat stress; Drought stress"
+  },
+  {
+    "paper_id": 223,
+    "keyword_id": 499,
+    "keyword": "Bzips"
+  },
+  {
+    "paper_id": 223,
+    "keyword_id": 500,
+    "keyword": "Helianthus annuus"
+  },
+  {
+    "paper_id": 223,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 223,
+    "keyword_id": 501,
+    "keyword": "Alkali stress"
+  },
+  {
+    "paper_id": 223,
+    "keyword_id": 40,
+    "keyword": "Genome-wide"
+  },
+  {
+    "paper_id": 223,
+    "keyword_id": 502,
+    "keyword": "Basic-leucine-zipper"
+  },
+  {
+    "paper_id": 223,
+    "keyword_id": 23,
+    "keyword": "gene family"
+  },
+  {
+    "paper_id": 223,
+    "keyword_id": 503,
+    "keyword": "HabZIPs"
+  },
+  {
+    "paper_id": 223,
+    "keyword_id": 27,
+    "keyword": "transcription factors"
+  },
+  {
+    "paper_id": 224,
+    "keyword_id": 109,
+    "keyword": "Expression profiling"
+  },
+  {
+    "paper_id": 224,
+    "keyword_id": 40,
+    "keyword": "Genome-wide"
+  },
+  {
+    "paper_id": 224,
+    "keyword_id": 327,
+    "keyword": "PEBP"
+  },
+  {
+    "paper_id": 224,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 224,
+    "keyword_id": 216,
+    "keyword": "Tomato"
+  },
+  {
+    "paper_id": 225,
+    "keyword_id": 504,
+    "keyword": "Pulse legumes; Cicer arietinum; Phylogenetic analysis; Purifying selection; Stress breeding"
+  },
+  {
+    "paper_id": 226,
+    "keyword_id": 505,
+    "keyword": "Malus; Trihelix transcription factors; Expression analysis; Stress"
+  },
+  {
+    "paper_id": 227,
+    "keyword_id": 506,
+    "keyword": "Aquaporins; Medicago truncatula; Phylogenesis; Conserved residues; Gene expression patterns; Abiotic stresses"
+  },
+  {
+    "paper_id": 228,
+    "keyword_id": 507,
+    "keyword": "Cucumber; RCI2; PMP3; Phylogenetic analysis; Expression pattern; Abiotic stress"
+  },
+  {
+    "paper_id": 229,
+    "keyword_id": 508,
+    "keyword": "Brassica juncea; Fatty acid desaturase; Phylogenetic analysis; Gene structure; Conserved motif; cis-Acting element"
+  },
+  {
+    "paper_id": 230,
+    "keyword_id": 28,
+    "keyword": "miRNA"
+  },
+  {
+    "paper_id": 230,
+    "keyword_id": 509,
+    "keyword": "Protein structure"
+  },
+  {
+    "paper_id": 230,
+    "keyword_id": 510,
+    "keyword": "PCR"
+  },
+  {
+    "paper_id": 230,
+    "keyword_id": 511,
+    "keyword": "Rutaceae"
+  },
+  {
+    "paper_id": 230,
+    "keyword_id": 24,
+    "keyword": "stress response"
+  },
+  {
+    "paper_id": 231,
+    "keyword_id": 512,
+    "keyword": "Multiprotein bridging factor 1; Rice; Heat; Interaction; qRT-PCR"
+  },
+  {
+    "paper_id": 233,
+    "keyword_id": 174,
+    "keyword": "Not Available"
+  },
+  {
+    "paper_id": 234,
+    "keyword_id": 174,
+    "keyword": "Not Available"
+  },
+  {
+    "paper_id": 235,
+    "keyword_id": 87,
+    "keyword": "Wheat"
+  },
+  {
+    "paper_id": 235,
+    "keyword_id": 513,
+    "keyword": "YABBY gene family"
+  },
+  {
+    "paper_id": 235,
+    "keyword_id": 55,
+    "keyword": "bioinformatics analysis"
+  },
+  {
+    "paper_id": 235,
+    "keyword_id": 514,
+    "keyword": "functional characterization"
+  },
+  {
+    "paper_id": 235,
+    "keyword_id": 515,
+    "keyword": "plant development"
+  },
+  {
+    "paper_id": 236,
+    "keyword_id": 174,
+    "keyword": "Not Available"
+  },
+  {
+    "paper_id": 237,
+    "keyword_id": 174,
+    "keyword": "Not Available"
+  },
+  {
+    "paper_id": 239,
+    "keyword_id": 174,
+    "keyword": "Not Available"
+  },
+  {
+    "paper_id": 240,
+    "keyword_id": 174,
+    "keyword": "Not Available"
+  },
+  {
+    "paper_id": 241,
+    "keyword_id": 174,
+    "keyword": "Not Available"
+  },
+  {
+    "paper_id": 242,
+    "keyword_id": 174,
+    "keyword": "Not Available"
+  },
+  {
+    "paper_id": 243,
+    "keyword_id": 516,
+    "keyword": "WD40 domain-containing proteins"
+  },
+  {
+    "paper_id": 243,
+    "keyword_id": 113,
+    "keyword": "mango"
+  },
+  {
+    "paper_id": 243,
+    "keyword_id": 517,
+    "keyword": "MiTTG1"
+  },
+  {
+    "paper_id": 243,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 243,
+    "keyword_id": 518,
+    "keyword": "root growth"
+  },
+  {
+    "paper_id": 244,
+    "keyword_id": 519,
+    "keyword": "RNA helicase"
+  },
+  {
+    "paper_id": 244,
+    "keyword_id": 520,
+    "keyword": "DEAD-box"
+  },
+  {
+    "paper_id": 244,
+    "keyword_id": 521,
+    "keyword": "DEAH-box"
+  },
+  {
+    "paper_id": 244,
+    "keyword_id": 522,
+    "keyword": "DExD/H-box"
+  },
+  {
+    "paper_id": 244,
+    "keyword_id": 345,
+    "keyword": "Chickpea"
+  },
+  {
+    "paper_id": 244,
+    "keyword_id": 139,
+    "keyword": "Drought stress"
+  },
+  {
+    "paper_id": 245,
+    "keyword_id": 523,
+    "keyword": "Nitrogen transport"
+  },
+  {
+    "paper_id": 245,
+    "keyword_id": 524,
+    "keyword": "nitrate transporters"
+  },
+  {
+    "paper_id": 245,
+    "keyword_id": 525,
+    "keyword": "NPF"
+  },
+  {
+    "paper_id": 245,
+    "keyword_id": 526,
+    "keyword": "NRT2"
+  },
+  {
+    "paper_id": 245,
+    "keyword_id": 527,
+    "keyword": "CLC"
+  },
+  {
+    "paper_id": 245,
+    "keyword_id": 528,
+    "keyword": "SLAC1/SLAH"
+  },
+  {
+    "paper_id": 245,
+    "keyword_id": 87,
+    "keyword": "Wheat"
+  },
+  {
+    "paper_id": 245,
+    "keyword_id": 529,
+    "keyword": "nitrogen use efficiency"
+  },
+  {
+    "paper_id": 246,
+    "keyword_id": 378,
+    "keyword": "Foxtail millet"
+  },
+  {
+    "paper_id": 246,
+    "keyword_id": 530,
+    "keyword": "Chitinases"
+  },
+  {
+    "paper_id": 246,
+    "keyword_id": 531,
+    "keyword": "Magnaporthe grisea"
+  },
+  {
+    "paper_id": 246,
+    "keyword_id": 532,
+    "keyword": "defense response"
+  },
+  {
+    "paper_id": 246,
+    "keyword_id": 533,
+    "keyword": "glycosyl hydrolase family"
+  },
+  {
+    "paper_id": 247,
+    "keyword_id": 534,
+    "keyword": "WHIRLY"
+  },
+  {
+    "paper_id": 247,
+    "keyword_id": 535,
+    "keyword": "ssDNA-binding"
+  },
+  {
+    "paper_id": 247,
+    "keyword_id": 30,
+    "keyword": "Transcription factor"
+  },
+  {
+    "paper_id": 247,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 247,
+    "keyword_id": 118,
+    "keyword": "Alfalfa"
+  },
+  {
+    "paper_id": 248,
+    "keyword_id": 174,
+    "keyword": "Not Available"
+  },
+  {
+    "paper_id": 249,
+    "keyword_id": 6,
+    "keyword": "Bioinformatics"
+  },
+  {
+    "paper_id": 249,
+    "keyword_id": 139,
+    "keyword": "Drought stress"
+  },
+  {
+    "paper_id": 249,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 249,
+    "keyword_id": 536,
+    "keyword": "HD-ZIP"
+  },
+  {
+    "paper_id": 249,
+    "keyword_id": 537,
+    "keyword": "Sunflower"
+  },
+  {
+    "paper_id": 249,
+    "keyword_id": 27,
+    "keyword": "transcription factors"
+  },
+  {
+    "paper_id": 250,
+    "keyword_id": 538,
+    "keyword": "Basic leucine zipper (bZIP)"
+  },
+  {
+    "paper_id": 250,
+    "keyword_id": 27,
+    "keyword": "transcription factors"
+  },
+  {
+    "paper_id": 250,
+    "keyword_id": 23,
+    "keyword": "gene family"
+  },
+  {
+    "paper_id": 250,
+    "keyword_id": 539,
+    "keyword": "Emmer wheat"
+  },
+  {
+    "paper_id": 250,
+    "keyword_id": 540,
+    "keyword": "TdbZIP genes"
+  },
+  {
+    "paper_id": 250,
+    "keyword_id": 541,
+    "keyword": "Tissue-specific expression"
+  },
+  {
+    "paper_id": 251,
+    "keyword_id": 216,
+    "keyword": "Tomato"
+  },
+  {
+    "paper_id": 251,
+    "keyword_id": 542,
+    "keyword": "Glycolate oxidase"
+  },
+  {
+    "paper_id": 251,
+    "keyword_id": 543,
+    "keyword": "SlGLO genes"
+  },
+  {
+    "paper_id": 251,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 251,
+    "keyword_id": 544,
+    "keyword": "Plant stress"
+  },
+  {
+    "paper_id": 252,
+    "keyword_id": 545,
+    "keyword": "Glycine max"
+  },
+  {
+    "paper_id": 252,
+    "keyword_id": 546,
+    "keyword": "2"
+  },
+  {
+    "paper_id": 252,
+    "keyword_id": 547,
+    "keyword": "3-oxidosqualene"
+  },
+  {
+    "paper_id": 252,
+    "keyword_id": 548,
+    "keyword": "cyclization"
+  },
+  {
+    "paper_id": 252,
+    "keyword_id": 549,
+    "keyword": "OSC genes"
+  },
+  {
+    "paper_id": 252,
+    "keyword_id": 550,
+    "keyword": "?-amyrin synthase"
+  },
+  {
+    "paper_id": 252,
+    "keyword_id": 551,
+    "keyword": "soyasaponin biosynthesis"
+  },
+  {
+    "paper_id": 253,
+    "keyword_id": 174,
+    "keyword": "Not Available"
+  },
+  {
+    "paper_id": 254,
+    "keyword_id": 552,
+    "keyword": "sugarcane"
+  },
+  {
+    "paper_id": 254,
+    "keyword_id": 553,
+    "keyword": "phosphate transporter (PHT)"
+  },
+  {
+    "paper_id": 254,
+    "keyword_id": 22,
+    "keyword": "genome-wide analysis"
+  },
+  {
+    "paper_id": 254,
+    "keyword_id": 11,
+    "keyword": "In-silico"
+  },
+  {
+    "paper_id": 254,
+    "keyword_id": 554,
+    "keyword": "3D structure"
+  },
+  {
+    "paper_id": 254,
+    "keyword_id": 555,
+    "keyword": "salinity stress"
+  },
+  {
+    "paper_id": 254,
+    "keyword_id": 556,
+    "keyword": "cis-element prediction"
+  },
+  {
+    "paper_id": 254,
+    "keyword_id": 334,
+    "keyword": "Promoter"
+  },
+  {
+    "paper_id": 254,
+    "keyword_id": 557,
+    "keyword": "transient expression"
+  },
+  {
+    "paper_id": 255,
+    "keyword_id": 558,
+    "keyword": "PERK"
+  },
+  {
+    "paper_id": 255,
+    "keyword_id": 22,
+    "keyword": "genome-wide analysis"
+  },
+  {
+    "paper_id": 255,
+    "keyword_id": 559,
+    "keyword": "RNA editing sites"
+  },
+  {
+    "paper_id": 255,
+    "keyword_id": 214,
+    "keyword": "Drought"
+  },
+  {
+    "paper_id": 255,
+    "keyword_id": 560,
+    "keyword": "Oil content"
+  },
+  {
+    "paper_id": 256,
+    "keyword_id": 174,
+    "keyword": "Not Available"
+  },
+  {
+    "paper_id": 257,
+    "keyword_id": 561,
+    "keyword": "WRKY transcription factor family"
+  },
+  {
+    "paper_id": 257,
+    "keyword_id": 409,
+    "keyword": "Grapevine"
+  },
+  {
+    "paper_id": 257,
+    "keyword_id": 97,
+    "keyword": "Biotic and Abiotic stress"
+  },
+  {
+    "paper_id": 257,
+    "keyword_id": 456,
+    "keyword": "Cold stress"
+  },
+  {
+    "paper_id": 258,
+    "keyword_id": 562,
+    "keyword": "CPP-like gene family; CXC domain; Phylogenetic tree; Expression analysis; Maize"
+  },
+  {
+    "paper_id": 259,
+    "keyword_id": 563,
+    "keyword": "Auxin efflux carrier"
+  },
+  {
+    "paper_id": 259,
+    "keyword_id": 564,
+    "keyword": "gravitropic response"
+  },
+  {
+    "paper_id": 259,
+    "keyword_id": 565,
+    "keyword": "hydrophilic domain"
+  },
+  {
+    "paper_id": 259,
+    "keyword_id": 566,
+    "keyword": "organogenesis"
+  },
+  {
+    "paper_id": 260,
+    "keyword_id": 567,
+    "keyword": "SIHsp70"
+  },
+  {
+    "paper_id": 260,
+    "keyword_id": 83,
+    "keyword": "Solanum lycopersicum"
+  },
+  {
+    "paper_id": 260,
+    "keyword_id": 137,
+    "keyword": "RNA-seq"
+  },
+  {
+    "paper_id": 260,
+    "keyword_id": 95,
+    "keyword": "qRT-PCR"
+  },
+  {
+    "paper_id": 260,
+    "keyword_id": 568,
+    "keyword": "trace metal elements stresses"
+  },
+  {
+    "paper_id": 261,
+    "keyword_id": 198,
+    "keyword": "Barley"
+  },
+  {
+    "paper_id": 261,
+    "keyword_id": 569,
+    "keyword": "RAV"
+  },
+  {
+    "paper_id": 261,
+    "keyword_id": 570,
+    "keyword": "AP2 domain"
+  },
+  {
+    "paper_id": 261,
+    "keyword_id": 571,
+    "keyword": "B3 domain"
+  },
+  {
+    "paper_id": 261,
+    "keyword_id": 572,
+    "keyword": "AP2/ERF family"
+  },
+  {
+    "paper_id": 261,
+    "keyword_id": 573,
+    "keyword": "Cis-acting elements"
+  },
+  {
+    "paper_id": 262,
+    "keyword_id": 574,
+    "keyword": "Dicer-Like"
+  },
+  {
+    "paper_id": 262,
+    "keyword_id": 575,
+    "keyword": "in silico approach"
+  },
+  {
+    "paper_id": 262,
+    "keyword_id": 576,
+    "keyword": "Coffea arabica"
+  },
+  {
+    "paper_id": 263,
+    "keyword_id": 577,
+    "keyword": "sugar transporters; gene expression; Rosaceae; bioinformatics; phylogeny; tandem"
+  },
+  {
+    "paper_id": 264,
+    "keyword_id": 578,
+    "keyword": "China rose"
+  },
+  {
+    "paper_id": 264,
+    "keyword_id": 67,
+    "keyword": "Salt stress"
+  },
+  {
+    "paper_id": 264,
+    "keyword_id": 579,
+    "keyword": "ROS"
+  },
+  {
+    "paper_id": 264,
+    "keyword_id": 580,
+    "keyword": "Metallo-enzyme"
+  },
+  {
+    "paper_id": 264,
+    "keyword_id": 137,
+    "keyword": "RNA-seq"
+  },
+  {
+    "paper_id": 264,
+    "keyword_id": 581,
+    "keyword": "Peroxyl radical"
+  },
+  {
+    "paper_id": 265,
+    "keyword_id": 150,
+    "keyword": "Common bean"
+  },
+  {
+    "paper_id": 265,
+    "keyword_id": 582,
+    "keyword": "DNA-Binding with One Finger (Dof)"
+  },
+  {
+    "paper_id": 265,
+    "keyword_id": 583,
+    "keyword": "Domain Proteins"
+  },
+  {
+    "paper_id": 265,
+    "keyword_id": 30,
+    "keyword": "Transcription factor"
+  },
+  {
+    "paper_id": 266,
+    "keyword_id": 584,
+    "keyword": "pomegranate; TALE gene family; bioinformatics; expression analysis"
+  },
+  {
+    "paper_id": 267,
+    "keyword_id": 585,
+    "keyword": "gene duplication; PEPC; synteny; malic acid; conserved motif; promoter"
+  },
+  {
+    "paper_id": 268,
+    "keyword_id": 586,
+    "keyword": "TCS; signaling; HKs; RRs; HPs; PPI; phylogenetic analysis"
+  },
+  {
+    "paper_id": 269,
+    "keyword_id": 587,
+    "keyword": "banana; ANP gene family; NPK1; drought stress; Piriformispora indica"
+  },
+  {
+    "paper_id": 270,
+    "keyword_id": 150,
+    "keyword": "Common bean"
+  },
+  {
+    "paper_id": 270,
+    "keyword_id": 582,
+    "keyword": "DNA-Binding with One Finger (Dof)"
+  },
+  {
+    "paper_id": 270,
+    "keyword_id": 583,
+    "keyword": "Domain Proteins"
+  },
+  {
+    "paper_id": 270,
+    "keyword_id": 30,
+    "keyword": "Transcription factor"
+  },
+  {
+    "paper_id": 271,
+    "keyword_id": 588,
+    "keyword": "?-amylase"
+  },
+  {
+    "paper_id": 271,
+    "keyword_id": 589,
+    "keyword": "banana"
+  },
+  {
+    "paper_id": 271,
+    "keyword_id": 145,
+    "keyword": "Genome-wide identification"
+  },
+  {
+    "paper_id": 271,
+    "keyword_id": 590,
+    "keyword": "fruit development"
+  },
+  {
+    "paper_id": 271,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 272,
+    "keyword_id": 591,
+    "keyword": "Chenopodium quinoa; glutathione peroxidase (GPX); genome-wide; stress; gene expression"
+  },
+  {
+    "paper_id": 274,
+    "keyword_id": 592,
+    "keyword": "Sucrose non-fermentation-related protein kinase (SnRK) Wheat"
+  },
+  {
+    "paper_id": 274,
+    "keyword_id": 593,
+    "keyword": "Functional annotation"
+  },
+  {
+    "paper_id": 274,
+    "keyword_id": 109,
+    "keyword": "Expression profiling"
+  },
+  {
+    "paper_id": 274,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 274,
+    "keyword_id": 417,
+    "keyword": "Osmotic stress"
+  },
+  {
+    "paper_id": 275,
+    "keyword_id": 594,
+    "keyword": "GmANKs"
+  },
+  {
+    "paper_id": 275,
+    "keyword_id": 595,
+    "keyword": "Bioinformatics analyses"
+  },
+  {
+    "paper_id": 275,
+    "keyword_id": 596,
+    "keyword": "GmANK39-like"
+  },
+  {
+    "paper_id": 275,
+    "keyword_id": 67,
+    "keyword": "Salt stress"
+  },
+  {
+    "paper_id": 275,
+    "keyword_id": 351,
+    "keyword": "Expression"
+  },
+  {
+    "paper_id": 275,
+    "keyword_id": 123,
+    "keyword": "Subcellular localization"
+  },
+  {
+    "paper_id": 276,
+    "keyword_id": 214,
+    "keyword": "Drought"
+  },
+  {
+    "paper_id": 276,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 276,
+    "keyword_id": 597,
+    "keyword": "heat shock"
+  },
+  {
+    "paper_id": 276,
+    "keyword_id": 598,
+    "keyword": "Hsp90"
+  },
+  {
+    "paper_id": 276,
+    "keyword_id": 599,
+    "keyword": "molecular response"
+  },
+  {
+    "paper_id": 276,
+    "keyword_id": 600,
+    "keyword": "stress protein"
+  },
+  {
+    "paper_id": 278,
+    "keyword_id": 174,
+    "keyword": "Not Available"
+  },
+  {
+    "paper_id": 279,
+    "keyword_id": 601,
+    "keyword": "genome-wide analysis; Artemisia argyi; JAZ gene family; expression analysis"
+  },
+  {
+    "paper_id": 280,
+    "keyword_id": 174,
+    "keyword": "Not Available"
+  },
+  {
+    "paper_id": 281,
+    "keyword_id": 602,
+    "keyword": "Citrus sinensis; MLO gene family; powdery mildew; abiotic stress"
+  },
+  {
+    "paper_id": 282,
+    "keyword_id": 572,
+    "keyword": "AP2/ERF family"
+  },
+  {
+    "paper_id": 282,
+    "keyword_id": 28,
+    "keyword": "miRNA"
+  },
+  {
+    "paper_id": 282,
+    "keyword_id": 603,
+    "keyword": "interactome"
+  },
+  {
+    "paper_id": 282,
+    "keyword_id": 604,
+    "keyword": "salt resistance"
+  },
+  {
+    "paper_id": 282,
+    "keyword_id": 605,
+    "keyword": "transcriptome analyses"
+  },
+  {
+    "paper_id": 284,
+    "keyword_id": 606,
+    "keyword": "KNOX family"
+  },
+  {
+    "paper_id": 284,
+    "keyword_id": 607,
+    "keyword": "pear"
+  },
+  {
+    "paper_id": 284,
+    "keyword_id": 608,
+    "keyword": "stone cell"
+  },
+  {
+    "paper_id": 284,
+    "keyword_id": 609,
+    "keyword": "lignin"
+  },
+  {
+    "paper_id": 284,
+    "keyword_id": 14,
+    "keyword": "expression analysis"
+  },
+  {
+    "paper_id": 284,
+    "keyword_id": 386,
+    "keyword": "Functional verification"
+  },
+  {
+    "paper_id": 285,
+    "keyword_id": 320,
+    "keyword": "Medicago truncatula"
+  },
+  {
+    "paper_id": 285,
+    "keyword_id": 440,
+    "keyword": "Heavy metals"
+  },
+  {
+    "paper_id": 285,
+    "keyword_id": 441,
+    "keyword": "Metal tolerance protein (MTP)"
+  },
+  {
+    "paper_id": 285,
+    "keyword_id": 145,
+    "keyword": "Genome-wide identification"
+  },
+  {
+    "paper_id": 285,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 286,
+    "keyword_id": 610,
+    "keyword": "Jatropha curcas L."
+  },
+  {
+    "paper_id": 286,
+    "keyword_id": 611,
+    "keyword": "TIFY"
+  },
+  {
+    "paper_id": 286,
+    "keyword_id": 612,
+    "keyword": "JAZ"
+  },
+  {
+    "paper_id": 286,
+    "keyword_id": 613,
+    "keyword": "Methyl jasmonate"
+  },
+  {
+    "paper_id": 286,
+    "keyword_id": 614,
+    "keyword": "Protein interactions"
+  },
+  {
+    "paper_id": 287,
+    "keyword_id": 615,
+    "keyword": "GASA"
+  },
+  {
+    "paper_id": 287,
+    "keyword_id": 616,
+    "keyword": "Nicotiana tabacum"
+  },
+  {
+    "paper_id": 287,
+    "keyword_id": 14,
+    "keyword": "expression analysis"
+  },
+  {
+    "paper_id": 287,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 287,
+    "keyword_id": 80,
+    "keyword": "Cis-elements"
+  },
+  {
+    "paper_id": 288,
+    "keyword_id": 87,
+    "keyword": "Wheat"
+  },
+  {
+    "paper_id": 288,
+    "keyword_id": 617,
+    "keyword": "leaf rust"
+  },
+  {
+    "paper_id": 288,
+    "keyword_id": 618,
+    "keyword": "thioredoxin"
+  },
+  {
+    "paper_id": 288,
+    "keyword_id": 619,
+    "keyword": "reactive oxygen species (ROS)"
+  },
+  {
+    "paper_id": 288,
+    "keyword_id": 22,
+    "keyword": "genome-wide analysis"
+  },
+  {
+    "paper_id": 289,
+    "keyword_id": 620,
+    "keyword": "receptor-like protein kinase 1 (RPK1)"
+  },
+  {
+    "paper_id": 289,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 289,
+    "keyword_id": 621,
+    "keyword": "genome-wide studies"
+  },
+  {
+    "paper_id": 289,
+    "keyword_id": 402,
+    "keyword": "Phylogenetic relationship"
+  },
+  {
+    "paper_id": 289,
+    "keyword_id": 66,
+    "keyword": "Expression patterns"
+  },
+  {
+    "paper_id": 289,
+    "keyword_id": 375,
+    "keyword": "Triticum aestivum"
+  },
+  {
+    "paper_id": 291,
+    "keyword_id": 622,
+    "keyword": "cabbage"
+  },
+  {
+    "paper_id": 291,
+    "keyword_id": 623,
+    "keyword": "two-component system"
+  },
+  {
+    "paper_id": 291,
+    "keyword_id": 624,
+    "keyword": "cytokinin"
+  },
+  {
+    "paper_id": 291,
+    "keyword_id": 625,
+    "keyword": "cell signaling"
+  },
+  {
+    "paper_id": 291,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 291,
+    "keyword_id": 40,
+    "keyword": "Genome-wide"
+  },
+  {
+    "paper_id": 291,
+    "keyword_id": 14,
+    "keyword": "expression analysis"
+  },
+  {
+    "paper_id": 291,
+    "keyword_id": 444,
+    "keyword": "Phylogeny"
+  },
+  {
+    "paper_id": 292,
+    "keyword_id": 174,
+    "keyword": "Not Available"
+  },
+  {
+    "paper_id": 293,
+    "keyword_id": 174,
+    "keyword": "Not Available"
+  },
+  {
+    "paper_id": 294,
+    "keyword_id": 174,
+    "keyword": "Not Available"
+  },
+  {
+    "paper_id": 295,
+    "keyword_id": 174,
+    "keyword": "Not Available"
+  },
+  {
+    "paper_id": 296,
+    "keyword_id": 174,
+    "keyword": "Not Available"
+  },
+  {
+    "paper_id": 297,
+    "keyword_id": 626,
+    "keyword": "LIM genes; Abiotic stress; Solanum lycopersicum; Fruit development; Expression profiling"
+  },
+  {
+    "paper_id": 298,
+    "keyword_id": 174,
+    "keyword": "Not Available"
+  },
+  {
+    "paper_id": 299,
+    "keyword_id": 174,
+    "keyword": "Not Available"
+  },
+  {
+    "paper_id": 300,
+    "keyword_id": 174,
+    "keyword": "Not Available"
+  },
+  {
+    "paper_id": 301,
+    "keyword_id": 174,
+    "keyword": "Not Available"
+  },
+  {
+    "paper_id": 302,
+    "keyword_id": 627,
+    "keyword": "ARF gene"
+  },
+  {
+    "paper_id": 302,
+    "keyword_id": 336,
+    "keyword": "Auxin"
+  },
+  {
+    "paper_id": 302,
+    "keyword_id": 628,
+    "keyword": "citrus"
+  },
+  {
+    "paper_id": 302,
+    "keyword_id": 14,
+    "keyword": "expression analysis"
+  },
+  {
+    "paper_id": 302,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 302,
+    "keyword_id": 629,
+    "keyword": "sweet orange"
+  },
+  {
+    "paper_id": 303,
+    "keyword_id": 630,
+    "keyword": "pepper"
+  },
+  {
+    "paper_id": 303,
+    "keyword_id": 631,
+    "keyword": "DNA-binding one zinc finger"
+  },
+  {
+    "paper_id": 303,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 303,
+    "keyword_id": 14,
+    "keyword": "expression analysis"
+  },
+  {
+    "paper_id": 303,
+    "keyword_id": 343,
+    "keyword": "Heat stress"
+  },
+  {
+    "paper_id": 303,
+    "keyword_id": 555,
+    "keyword": "salinity stress"
+  },
+  {
+    "paper_id": 304,
+    "keyword_id": 632,
+    "keyword": "heat shock protein 20"
+  },
+  {
+    "paper_id": 304,
+    "keyword_id": 633,
+    "keyword": "gene organization"
+  },
+  {
+    "paper_id": 304,
+    "keyword_id": 402,
+    "keyword": "Phylogenetic relationship"
+  },
+  {
+    "paper_id": 304,
+    "keyword_id": 89,
+    "keyword": "Expression profile"
+  },
+  {
+    "paper_id": 304,
+    "keyword_id": 634,
+    "keyword": "abiotic and biotic stresses"
+  },
+  {
+    "paper_id": 305,
+    "keyword_id": 635,
+    "keyword": "tubby-like protein"
+  },
+  {
+    "paper_id": 305,
+    "keyword_id": 6,
+    "keyword": "Bioinformatics"
+  },
+  {
+    "paper_id": 305,
+    "keyword_id": 636,
+    "keyword": "signature motifs"
+  },
+  {
+    "paper_id": 305,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 305,
+    "keyword_id": 637,
+    "keyword": "apple"
+  },
+  {
+    "paper_id": 306,
+    "keyword_id": 638,
+    "keyword": "wheat (Triticum aestivum)"
+  },
+  {
+    "paper_id": 306,
+    "keyword_id": 639,
+    "keyword": "NADPH oxidases"
+  },
+  {
+    "paper_id": 306,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 306,
+    "keyword_id": 640,
+    "keyword": "abiotic/biotic stress response"
+  },
+  {
+    "paper_id": 306,
+    "keyword_id": 641,
+    "keyword": "coexpression analysis"
+  },
+  {
+    "paper_id": 307,
+    "keyword_id": 642,
+    "keyword": "oil body"
+  },
+  {
+    "paper_id": 307,
+    "keyword_id": 643,
+    "keyword": "Ctoleosin"
+  },
+  {
+    "paper_id": 307,
+    "keyword_id": 351,
+    "keyword": "Expression"
+  },
+  {
+    "paper_id": 307,
+    "keyword_id": 644,
+    "keyword": "morphological phenotypes"
+  },
+  {
+    "paper_id": 307,
+    "keyword_id": 560,
+    "keyword": "Oil content"
+  },
+  {
+    "paper_id": 308,
+    "keyword_id": 645,
+    "keyword": "ABC transporters; Abiotic stress responses; Meta-analysis of tissue specific expression profiles; Rice; Phylogenetic analysis"
+  },
+  {
+    "paper_id": 309,
+    "keyword_id": 646,
+    "keyword": "GELP"
+  },
+  {
+    "paper_id": 309,
+    "keyword_id": 647,
+    "keyword": "expansion"
+  },
+  {
+    "paper_id": 309,
+    "keyword_id": 648,
+    "keyword": "intron gain and loss"
+  },
+  {
+    "paper_id": 309,
+    "keyword_id": 81,
+    "keyword": "Gene duplication"
+  },
+  {
+    "paper_id": 309,
+    "keyword_id": 208,
+    "keyword": "Expression profiles"
+  },
+  {
+    "paper_id": 310,
+    "keyword_id": 649,
+    "keyword": "TaDUF966"
+  },
+  {
+    "paper_id": 310,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 310,
+    "keyword_id": 650,
+    "keyword": "Triticum aestivum L."
+  },
+  {
+    "paper_id": 310,
+    "keyword_id": 651,
+    "keyword": "transcriptome analysis"
+  },
+  {
+    "paper_id": 310,
+    "keyword_id": 56,
+    "keyword": "abiotic stresses"
+  },
+  {
+    "paper_id": 310,
+    "keyword_id": 392,
+    "keyword": "Virus-induced gene silencing"
+  },
+  {
+    "paper_id": 311,
+    "keyword_id": 87,
+    "keyword": "Wheat"
+  },
+  {
+    "paper_id": 311,
+    "keyword_id": 214,
+    "keyword": "Drought"
+  },
+  {
+    "paper_id": 311,
+    "keyword_id": 399,
+    "keyword": "Salt"
+  },
+  {
+    "paper_id": 311,
+    "keyword_id": 652,
+    "keyword": "ectopic expression"
+  },
+  {
+    "paper_id": 311,
+    "keyword_id": 651,
+    "keyword": "transcriptome analysis"
+  },
+  {
+    "paper_id": 311,
+    "keyword_id": 653,
+    "keyword": "transcriptional profiling"
+  },
+  {
+    "paper_id": 312,
+    "keyword_id": 22,
+    "keyword": "genome-wide analysis"
+  },
+  {
+    "paper_id": 312,
+    "keyword_id": 30,
+    "keyword": "Transcription factor"
+  },
+  {
+    "paper_id": 312,
+    "keyword_id": 351,
+    "keyword": "Expression"
+  },
+  {
+    "paper_id": 312,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 312,
+    "keyword_id": 654,
+    "keyword": "salt and drought stress responses"
+  },
+  {
+    "paper_id": 312,
+    "keyword_id": 655,
+    "keyword": "network"
+  },
+  {
+    "paper_id": 313,
+    "keyword_id": 656,
+    "keyword": "carrot"
+  },
+  {
+    "paper_id": 313,
+    "keyword_id": 352,
+    "keyword": "Superoxide dismutase"
+  },
+  {
+    "paper_id": 313,
+    "keyword_id": 657,
+    "keyword": "reactive oxygen species"
+  },
+  {
+    "paper_id": 313,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 313,
+    "keyword_id": 390,
+    "keyword": "Expression pattern"
+  },
+  {
+    "paper_id": 313,
+    "keyword_id": 444,
+    "keyword": "Phylogeny"
+  },
+  {
+    "paper_id": 313,
+    "keyword_id": 658,
+    "keyword": "comparative modeling"
+  },
+  {
+    "paper_id": 313,
+    "keyword_id": 465,
+    "keyword": "Molecular docking"
+  },
+  {
+    "paper_id": 314,
+    "keyword_id": 87,
+    "keyword": "Wheat"
+  },
+  {
+    "paper_id": 314,
+    "keyword_id": 659,
+    "keyword": "CCHC-ZFP genes"
+  },
+  {
+    "paper_id": 314,
+    "keyword_id": 135,
+    "keyword": "Evolution"
+  },
+  {
+    "paper_id": 314,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 314,
+    "keyword_id": 660,
+    "keyword": "expression analyses"
+  },
+  {
+    "paper_id": 315,
+    "keyword_id": 661,
+    "keyword": "Orchidaceae"
+  },
+  {
+    "paper_id": 315,
+    "keyword_id": 662,
+    "keyword": "KNOX gene family"
+  },
+  {
+    "paper_id": 315,
+    "keyword_id": 663,
+    "keyword": "stem apical meristem"
+  },
+  {
+    "paper_id": 315,
+    "keyword_id": 664,
+    "keyword": "organ shape"
+  },
+  {
+    "paper_id": 315,
+    "keyword_id": 390,
+    "keyword": "Expression pattern"
+  },
+  {
+    "paper_id": 316,
+    "keyword_id": 87,
+    "keyword": "Wheat"
+  },
+  {
+    "paper_id": 316,
+    "keyword_id": 665,
+    "keyword": "typical TRX"
+  },
+  {
+    "paper_id": 316,
+    "keyword_id": 23,
+    "keyword": "gene family"
+  },
+  {
+    "paper_id": 316,
+    "keyword_id": 40,
+    "keyword": "Genome-wide"
+  },
+  {
+    "paper_id": 316,
+    "keyword_id": 390,
+    "keyword": "Expression pattern"
+  },
+  {
+    "paper_id": 317,
+    "keyword_id": 83,
+    "keyword": "Solanum lycopersicum"
+  },
+  {
+    "paper_id": 317,
+    "keyword_id": 666,
+    "keyword": "DREB gene family"
+  },
+  {
+    "paper_id": 317,
+    "keyword_id": 26,
+    "keyword": "cis-regulatory elements"
+  },
+  {
+    "paper_id": 317,
+    "keyword_id": 667,
+    "keyword": "protein modeling"
+  },
+  {
+    "paper_id": 317,
+    "keyword_id": 668,
+    "keyword": "interactive association networks"
+  },
+  {
+    "paper_id": 317,
+    "keyword_id": 651,
+    "keyword": "transcriptome analysis"
+  },
+  {
+    "paper_id": 318,
+    "keyword_id": 669,
+    "keyword": "biofuel"
+  },
+  {
+    "paper_id": 318,
+    "keyword_id": 670,
+    "keyword": "populus trichocarpa"
+  },
+  {
+    "paper_id": 318,
+    "keyword_id": 609,
+    "keyword": "lignin"
+  },
+  {
+    "paper_id": 318,
+    "keyword_id": 671,
+    "keyword": "laccase"
+  },
+  {
+    "paper_id": 318,
+    "keyword_id": 46,
+    "keyword": "Gene Family Analysis"
+  },
+  {
+    "paper_id": 319,
+    "keyword_id": 545,
+    "keyword": "Glycine max"
+  },
+  {
+    "paper_id": 319,
+    "keyword_id": 672,
+    "keyword": "Plant secondary product glycosyltransferase"
+  },
+  {
+    "paper_id": 319,
+    "keyword_id": 673,
+    "keyword": "Seed development"
+  },
+  {
+    "paper_id": 319,
+    "keyword_id": 40,
+    "keyword": "Genome-wide"
+  },
+  {
+    "paper_id": 320,
+    "keyword_id": 674,
+    "keyword": "carotenoid cleavage oxygenases"
+  },
+  {
+    "paper_id": 320,
+    "keyword_id": 675,
+    "keyword": "apocarotenoids"
+  },
+  {
+    "paper_id": 320,
+    "keyword_id": 125,
+    "keyword": "RNA-seq analysis"
+  },
+  {
+    "paper_id": 320,
+    "keyword_id": 676,
+    "keyword": "9-cis-epoxycarotenoid dioxygenases"
+  },
+  {
+    "paper_id": 320,
+    "keyword_id": 9,
+    "keyword": "Oryza sativa"
+  },
+  {
+    "paper_id": 320,
+    "keyword_id": 677,
+    "keyword": "O. sativa"
+  },
+  {
+    "paper_id": 320,
+    "keyword_id": 210,
+    "keyword": "Abscisic acid"
+  },
+  {
+    "paper_id": 320,
+    "keyword_id": 177,
+    "keyword": "Transcriptome"
+  },
+  {
+    "paper_id": 321,
+    "keyword_id": 545,
+    "keyword": "Glycine max"
+  },
+  {
+    "paper_id": 321,
+    "keyword_id": 678,
+    "keyword": "FRIGIDA-LIKE"
+  },
+  {
+    "paper_id": 321,
+    "keyword_id": 679,
+    "keyword": "photoperiod response"
+  },
+  {
+    "paper_id": 321,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 321,
+    "keyword_id": 145,
+    "keyword": "Genome-wide identification"
+  },
+  {
+    "paper_id": 322,
+    "keyword_id": 64,
+    "keyword": "Soybean"
+  },
+  {
+    "paper_id": 322,
+    "keyword_id": 680,
+    "keyword": "GmEDS1 family"
+  },
+  {
+    "paper_id": 322,
+    "keyword_id": 390,
+    "keyword": "Expression pattern"
+  },
+  {
+    "paper_id": 322,
+    "keyword_id": 681,
+    "keyword": "biotic stresses"
+  },
+  {
+    "paper_id": 322,
+    "keyword_id": 56,
+    "keyword": "abiotic stresses"
+  },
+  {
+    "paper_id": 324,
+    "keyword_id": 682,
+    "keyword": "xyloglucan endotransglucosylase/hydrolases; phylogenetic; gene expression; abiotic stress; Nicotiana tabacum"
+  },
+  {
+    "paper_id": 325,
+    "keyword_id": 683,
+    "keyword": "Solanum lycopersicum; protein disulfide isomerases; genome-wide analysis; gene expression; abiotic stress; fruit development"
+  },
+  {
+    "paper_id": 326,
+    "keyword_id": 684,
+    "keyword": "R2R3-MYB transcription factors; Theobroma cacao; genome-wide characterization; gene family; bioinformatics"
+  },
+  {
+    "paper_id": 327,
+    "keyword_id": 685,
+    "keyword": "expression pattern; genome-wide analysis; potato; transcription factor; YABBY gene family"
+  },
+  {
+    "paper_id": 328,
+    "keyword_id": 686,
+    "keyword": "Ginkgo biloba L. ; ?-ketoacyl-CoA synthase (KCS); oleic acid; transgenic Arabidopsis"
+  },
+  {
+    "paper_id": 329,
+    "keyword_id": 687,
+    "keyword": "ABI3; Gossypium; gene family evolution; synteny; cis-regulatory elements; abiotic stress"
+  },
+  {
+    "paper_id": 494,
+    "keyword_id": 688,
+    "keyword": "TCS genes; Phylogenetics; Evolutionary analysis; Abiotic stress; Chickpea"
+  },
+  {
+    "paper_id": 495,
+    "keyword_id": 689,
+    "keyword": "carotenoid cleavage oxygenase (CCO); phytohormones; gene expression; stress response; genome?wide analysis"
+  },
+  {
+    "paper_id": 496,
+    "keyword_id": 690,
+    "keyword": "Cauliflower; Response regulator; Curd formation; Salt tolerance; Phylogenetic analysis"
+  },
+  {
+    "paper_id": 497,
+    "keyword_id": 691,
+    "keyword": "Auxin; GH3; Phylogenetic analysis; Solanaceae; Tomato"
+  },
+  {
+    "paper_id": 498,
+    "keyword_id": 692,
+    "keyword": "Arabidopsis; Genome?wide analysis; Lectin receptor?like kinase; Motif identification; Phylogenetic analysis; Rice; Stress; Transcriptomics"
+  },
+  {
+    "paper_id": 499,
+    "keyword_id": 693,
+    "keyword": "Wheat; MYB transcription factor; ESTs; Triticum aestivum; Orthologs; Motifs"
+  },
+  {
+    "paper_id": 500,
+    "keyword_id": 694,
+    "keyword": "B?box zinc finger; rice; genomic identification; expression profiling; diurnal analysis"
+  },
+  {
+    "paper_id": 501,
+    "keyword_id": 695,
+    "keyword": "Solanum lycopersicum; Mitogen?activated protein kinase; Phylogenetic analysis; Expression analysis; QRT?PCR"
+  },
+  {
+    "paper_id": 502,
+    "keyword_id": 696,
+    "keyword": "Watermelon (Citrullus lanatus); Phenylalanine ammonia?lyase (PAL); Gene family; Duplication; Expression profile; Ortholog"
+  },
+  {
+    "paper_id": 503,
+    "keyword_id": 697,
+    "keyword": "Phenolic acid; Phenylalanine ammonia?lyase; Rosmarinic acid; Salvianolic acid B; Salvia miltiorrhiza; Traditional Chinese medicine"
+  },
+  {
+    "paper_id": 504,
+    "keyword_id": 698,
+    "keyword": "Cotton; expression patterns; NAC; phylogeny; structure"
+  },
+  {
+    "paper_id": 505,
+    "keyword_id": 699,
+    "keyword": "Expression analysis; Gene family; Gene structure; Hsp90; Phylogenetic analysis; Populus"
+  },
+  {
+    "paper_id": 506,
+    "keyword_id": 700,
+    "keyword": "MADS?box; Soybean; Phylogenetic analysis; Duplication; Expression patterns"
+  },
+  {
+    "paper_id": 507,
+    "keyword_id": 701,
+    "keyword": "Nicotiana benthamiana; WAK/WAKL gene family; Phylogenetics; TYLCV infection; Expression profile; Stress response"
+  },
+  {
+    "paper_id": 508,
+    "keyword_id": 700,
+    "keyword": "MADS?box; Soybean; Phylogenetic analysis; Duplication; Expression patterns"
+  },
+  {
+    "paper_id": 509,
+    "keyword_id": 702,
+    "keyword": "Soybean; Small heat shock proteins; Meloidogyne javanica; Cis?elements"
+  },
+  {
+    "paper_id": 510,
+    "keyword_id": 702,
+    "keyword": "Soybean; Small heat shock proteins; Meloidogyne javanica; Cis?elements"
+  },
+  {
+    "paper_id": 511,
+    "keyword_id": 703,
+    "keyword": "abiotic stress; genome?wide analysis; Illumina RNA?seq; NAC transcription factor; potato"
+  },
+  {
+    "paper_id": 512,
+    "keyword_id": 704,
+    "keyword": "NAC transcription factor; foxtail millet; genome?wide analysis; expression profiling; phylogenetic analysis"
+  },
+  {
+    "paper_id": 513,
+    "keyword_id": 705,
+    "keyword": "flax; NBS?LRR; in silico gene expression; phylogenetic analysis; promoter analysis; motif analysis"
+  },
+  {
+    "paper_id": 514,
+    "keyword_id": 706,
+    "keyword": "Soybean; Major intrinsic proteins; Aquaporins; Phylogenetic analysis; Expression analysis"
+  },
+  {
+    "paper_id": 515,
+    "keyword_id": 707,
+    "keyword": "Rice; HSP70 family; Phylogenomics; Functional redundancy; Functional gene network analysis; Meta?profiling analysis"
+  },
+  {
+    "paper_id": 516,
+    "keyword_id": 708,
+    "keyword": "CDPK; Expression Analysis; Gene Family; Maize"
+  },
+  {
+    "paper_id": 517,
+    "keyword_id": 709,
+    "keyword": "Caleosin; Classification; Evolution; Expression; Function"
+  },
+  {
+    "paper_id": 518,
+    "keyword_id": 710,
+    "keyword": "Wheat; B?box protein; Phylogenetic relationship; Seed dormancy and germination; Pre?harvest sprouting"
+  },
+  {
+    "paper_id": 519,
+    "keyword_id": 711,
+    "keyword": "DREB; Grapevine; Gene family; Gene expression; Gene ontology; Vitis vinifera"
+  },
+  {
+    "paper_id": 520,
+    "keyword_id": 712,
+    "keyword": "Rosaceae; MLO; Powdery mildew; Malus domestica"
+  },
+  {
+    "paper_id": 521,
+    "keyword_id": 713,
+    "keyword": "AP2/ERF; expression profiling; foxtail millet; stress; hormone"
+  },
+  {
+    "paper_id": 522,
+    "keyword_id": 714,
+    "keyword": "GRF; Citrus; Gibberellins; Peel thickness; Fruit cracking"
+  },
+  {
+    "paper_id": 523,
+    "keyword_id": 715,
+    "keyword": "Tobacco; SWEET family genes; NtSWEET12i; Drought and saline?alkali stresses"
+  },
+  {
+    "paper_id": 524,
+    "keyword_id": 716,
+    "keyword": "SPL gene family; Elymus sibiricus; Phylogenetic; Expression; Abiotic stress"
+  },
+  {
+    "paper_id": 525,
+    "keyword_id": 717,
+    "keyword": "ALDH gene family; Brassica juncea; drought stress; plant stress resistance; salt stress"
+  },
+  {
+    "paper_id": 526,
+    "keyword_id": 718,
+    "keyword": "Eucommia ulmoides; EuUSPs gene family; environmental stress; rubber biosynthesis; EuDof"
+  },
+  {
+    "paper_id": 527,
+    "keyword_id": 719,
+    "keyword": "Persea americana; wall?associated kinase; wall?associated kinase?like; promoter analysis; expression analysis; protein modelling"
+  },
+  {
+    "paper_id": 528,
+    "keyword_id": 720,
+    "keyword": "Ccc1 domain; Iron transport; RNA?Seq; Vacuole; VTL"
+  },
+  {
+    "paper_id": 529,
+    "keyword_id": 721,
+    "keyword": "duli ; PHT; gene expression analysis; hormonal; abiotic stress; physiological change"
+  },
+  {
+    "paper_id": 530,
+    "keyword_id": 722,
+    "keyword": "K+ channels; Genomic insights; Auxin; Indole acetic acid; RNA?seq"
+  },
+  {
+    "paper_id": 531,
+    "keyword_id": 723,
+    "keyword": "Peanut; RALF; Expression level; Growth and development; Aluminum stress"
+  },
+  {
+    "paper_id": 532,
+    "keyword_id": 724,
+    "keyword": "PLATZ; photosynthetic organisms; rice; expression pattern; caryopsis development"
+  },
+  {
+    "paper_id": 534,
+    "keyword_id": 725,
+    "keyword": "Glycine max; fatty acid desaturases; phylogenetic analysis; gene expression; Fusarium fujikuroi; seed decay"
+  },
+  {
+    "paper_id": 537,
+    "keyword_id": 726,
+    "keyword": "A. agallocha; agarwood; CDPK; genome?wide; qRT?PCR"
+  },
+  {
+    "paper_id": 538,
+    "keyword_id": 727,
+    "keyword": "Lima bean; NHX; genome?wide analysis; salt tolerance"
+  },
+  {
+    "paper_id": 539,
+    "keyword_id": 728,
+    "keyword": "Gibberellin 2?oxidase (GA2ox); wheat; favorable variation; adaptive evolution"
+  },
+  {
+    "paper_id": 540,
+    "keyword_id": 729,
+    "keyword": "Arabidopsis thaliana; NRAMP genes; Heavy metal stress; Gene duplication; Cis?regulatory elements; Phytohormones"
+  },
+  {
+    "paper_id": 541,
+    "keyword_id": 730,
+    "keyword": "Hexokinases"
+  },
+  {
+    "paper_id": 541,
+    "keyword_id": 731,
+    "keyword": "Sorghum bicolor (L.) Moench"
+  },
+  {
+    "paper_id": 541,
+    "keyword_id": 23,
+    "keyword": "gene family"
+  },
+  {
+    "paper_id": 541,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 541,
+    "keyword_id": 14,
+    "keyword": "expression analysis"
+  },
+  {
+    "paper_id": 542,
+    "keyword_id": 732,
+    "keyword": "Ethylene biosynthesis gene family"
+  },
+  {
+    "paper_id": 542,
+    "keyword_id": 57,
+    "keyword": "Musa acuminata"
+  },
+  {
+    "paper_id": 542,
+    "keyword_id": 733,
+    "keyword": "nutrient stress"
+  },
+  {
+    "paper_id": 543,
+    "keyword_id": 734,
+    "keyword": "FORMIN gene family"
+  },
+  {
+    "paper_id": 543,
+    "keyword_id": 12,
+    "keyword": "cotton"
+  },
+  {
+    "paper_id": 543,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 543,
+    "keyword_id": 351,
+    "keyword": "Expression"
+  },
+  {
+    "paper_id": 544,
+    "keyword_id": 43,
+    "keyword": "Sorghum"
+  },
+  {
+    "paper_id": 544,
+    "keyword_id": 735,
+    "keyword": "callose synthase"
+  },
+  {
+    "paper_id": 544,
+    "keyword_id": 736,
+    "keyword": "aphid"
+  },
+  {
+    "paper_id": 544,
+    "keyword_id": 23,
+    "keyword": "gene family"
+  },
+  {
+    "paper_id": 545,
+    "keyword_id": 737,
+    "keyword": "class III peroxidase"
+  },
+  {
+    "paper_id": 545,
+    "keyword_id": 738,
+    "keyword": "Populus simonii"
+  },
+  {
+    "paper_id": 545,
+    "keyword_id": 23,
+    "keyword": "gene family"
+  },
+  {
+    "paper_id": 545,
+    "keyword_id": 351,
+    "keyword": "Expression"
+  },
+  {
+    "paper_id": 546,
+    "keyword_id": 739,
+    "keyword": "Annexins"
+  },
+  {
+    "paper_id": 546,
+    "keyword_id": 345,
+    "keyword": "Chickpea"
+  },
+  {
+    "paper_id": 546,
+    "keyword_id": 325,
+    "keyword": "Genome"
+  },
+  {
+    "paper_id": 546,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 546,
+    "keyword_id": 334,
+    "keyword": "Promoter"
+  },
+  {
+    "paper_id": 546,
+    "keyword_id": 50,
+    "keyword": "Stress"
+  },
+  {
+    "paper_id": 547,
+    "keyword_id": 740,
+    "keyword": "RPP13 gene family"
+  },
+  {
+    "paper_id": 547,
+    "keyword_id": 44,
+    "keyword": "Potato"
+  },
+  {
+    "paper_id": 547,
+    "keyword_id": 741,
+    "keyword": "disease resistance"
+  },
+  {
+    "paper_id": 548,
+    "keyword_id": 666,
+    "keyword": "DREB gene family"
+  },
+  {
+    "paper_id": 548,
+    "keyword_id": 378,
+    "keyword": "Foxtail millet"
+  },
+  {
+    "paper_id": 548,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 549,
+    "keyword_id": 742,
+    "keyword": "SHI-related sequence"
+  },
+  {
+    "paper_id": 549,
+    "keyword_id": 68,
+    "keyword": "Cassava"
+  },
+  {
+    "paper_id": 549,
+    "keyword_id": 40,
+    "keyword": "Genome-wide"
+  },
+  {
+    "paper_id": 549,
+    "keyword_id": 351,
+    "keyword": "Expression"
+  },
+  {
+    "paper_id": 549,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 550,
+    "keyword_id": 114,
+    "keyword": "WRKY gene family"
+  },
+  {
+    "paper_id": 550,
+    "keyword_id": 743,
+    "keyword": "Capsicum chinense"
+  },
+  {
+    "paper_id": 550,
+    "keyword_id": 744,
+    "keyword": "capsaicinoid biosynthesis"
+  },
+  {
+    "paper_id": 551,
+    "keyword_id": 745,
+    "keyword": "MADS-box"
+  },
+  {
+    "paper_id": 551,
+    "keyword_id": 187,
+    "keyword": "Cucumber"
+  },
+  {
+    "paper_id": 551,
+    "keyword_id": 746,
+    "keyword": "gene reidentification"
+  },
+  {
+    "paper_id": 551,
+    "keyword_id": 30,
+    "keyword": "Transcription factor"
+  },
+  {
+    "paper_id": 552,
+    "keyword_id": 674,
+    "keyword": "carotenoid cleavage oxygenases"
+  },
+  {
+    "paper_id": 552,
+    "keyword_id": 137,
+    "keyword": "RNA-seq"
+  },
+  {
+    "paper_id": 552,
+    "keyword_id": 500,
+    "keyword": "Helianthus annuus"
+  },
+  {
+    "paper_id": 553,
+    "keyword_id": 747,
+    "keyword": "Avocado"
+  },
+  {
+    "paper_id": 553,
+    "keyword_id": 748,
+    "keyword": "NCED"
+  },
+  {
+    "paper_id": 553,
+    "keyword_id": 749,
+    "keyword": "ABA biosynthesis"
+  },
+  {
+    "paper_id": 554,
+    "keyword_id": 750,
+    "keyword": "Dof transcription factors"
+  },
+  {
+    "paper_id": 554,
+    "keyword_id": 10,
+    "keyword": "Rice"
+  },
+  {
+    "paper_id": 554,
+    "keyword_id": 33,
+    "keyword": "Arabidopsis"
+  },
+  {
+    "paper_id": 555,
+    "keyword_id": 751,
+    "keyword": "defensins"
+  },
+  {
+    "paper_id": 555,
+    "keyword_id": 320,
+    "keyword": "Medicago truncatula"
+  },
+  {
+    "paper_id": 555,
+    "keyword_id": 182,
+    "keyword": "Medicago sativa"
+  },
+  {
+    "paper_id": 555,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 557,
+    "keyword_id": 752,
+    "keyword": "Nuclear Factor Y"
+  },
+  {
+    "paper_id": 557,
+    "keyword_id": 753,
+    "keyword": "Flowering Locus T"
+  },
+  {
+    "paper_id": 557,
+    "keyword_id": 754,
+    "keyword": "CONSTANS like"
+  },
+  {
+    "paper_id": 557,
+    "keyword_id": 637,
+    "keyword": "apple"
+  },
+  {
+    "paper_id": 558,
+    "keyword_id": 755,
+    "keyword": "glucose-6-phosphate dehydrogenase"
+  },
+  {
+    "paper_id": 558,
+    "keyword_id": 756,
+    "keyword": "oxidative pentose phosphate pathway"
+  },
+  {
+    "paper_id": 558,
+    "keyword_id": 33,
+    "keyword": "Arabidopsis"
+  },
+  {
+    "paper_id": 559,
+    "keyword_id": 336,
+    "keyword": "Auxin"
+  },
+  {
+    "paper_id": 559,
+    "keyword_id": 757,
+    "keyword": "GH3 gene family"
+  },
+  {
+    "paper_id": 559,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 559,
+    "keyword_id": 10,
+    "keyword": "Rice"
+  },
+  {
+    "paper_id": 560,
+    "keyword_id": 758,
+    "keyword": "Aux/IAA"
+  },
+  {
+    "paper_id": 560,
+    "keyword_id": 336,
+    "keyword": "Auxin"
+  },
+  {
+    "paper_id": 560,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 560,
+    "keyword_id": 9,
+    "keyword": "Oryza sativa"
+  },
+  {
+    "paper_id": 560,
+    "keyword_id": 759,
+    "keyword": "Real-time PCR"
+  },
+  {
+    "paper_id": 561,
+    "keyword_id": 760,
+    "keyword": "GATA transcription factors"
+  },
+  {
+    "paper_id": 561,
+    "keyword_id": 761,
+    "keyword": "light regulation"
+  },
+  {
+    "paper_id": 561,
+    "keyword_id": 762,
+    "keyword": "circadian"
+  },
+  {
+    "paper_id": 561,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 561,
+    "keyword_id": 33,
+    "keyword": "Arabidopsis"
+  },
+  {
+    "paper_id": 562,
+    "keyword_id": 763,
+    "keyword": "Calcium-dependent protein kinase"
+  },
+  {
+    "paper_id": 562,
+    "keyword_id": 9,
+    "keyword": "Oryza sativa"
+  },
+  {
+    "paper_id": 562,
+    "keyword_id": 764,
+    "keyword": "Microarray"
+  },
+  {
+    "paper_id": 562,
+    "keyword_id": 89,
+    "keyword": "Expression profile"
+  },
+  {
+    "paper_id": 563,
+    "keyword_id": 758,
+    "keyword": "Aux/IAA"
+  },
+  {
+    "paper_id": 563,
+    "keyword_id": 344,
+    "keyword": "ARF"
+  },
+  {
+    "paper_id": 563,
+    "keyword_id": 1,
+    "keyword": "Populus"
+  },
+  {
+    "paper_id": 563,
+    "keyword_id": 765,
+    "keyword": "genome analysis"
+  },
+  {
+    "paper_id": 563,
+    "keyword_id": 336,
+    "keyword": "Auxin"
+  },
+  {
+    "paper_id": 564,
+    "keyword_id": 89,
+    "keyword": "Expression profile"
+  },
+  {
+    "paper_id": 564,
+    "keyword_id": 9,
+    "keyword": "Oryza sativa"
+  },
+  {
+    "paper_id": 564,
+    "keyword_id": 759,
+    "keyword": "Real-time PCR"
+  },
+  {
+    "paper_id": 565,
+    "keyword_id": 766,
+    "keyword": "Pentatricopeptide repeat"
+  },
+  {
+    "paper_id": 565,
+    "keyword_id": 33,
+    "keyword": "Arabidopsis"
+  },
+  {
+    "paper_id": 565,
+    "keyword_id": 9,
+    "keyword": "Oryza sativa"
+  },
+  {
+    "paper_id": 565,
+    "keyword_id": 767,
+    "keyword": "Physcomitrella patens"
+  },
+  {
+    "paper_id": 565,
+    "keyword_id": 768,
+    "keyword": "introns"
+  },
+  {
+    "paper_id": 565,
+    "keyword_id": 769,
+    "keyword": "RNA editing"
+  },
+  {
+    "paper_id": 566,
+    "keyword_id": 305,
+    "keyword": "Maize"
+  },
+  {
+    "paper_id": 566,
+    "keyword_id": 770,
+    "keyword": "ZmSnRK2"
+  },
+  {
+    "paper_id": 566,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 566,
+    "keyword_id": 771,
+    "keyword": "Protein kinase"
+  },
+  {
+    "paper_id": 566,
+    "keyword_id": 37,
+    "keyword": "Gene structure"
+  },
+  {
+    "paper_id": 567,
+    "keyword_id": 772,
+    "keyword": "nsLTP"
+  },
+  {
+    "paper_id": 567,
+    "keyword_id": 10,
+    "keyword": "Rice"
+  },
+  {
+    "paper_id": 567,
+    "keyword_id": 33,
+    "keyword": "Arabidopsis"
+  },
+  {
+    "paper_id": 567,
+    "keyword_id": 87,
+    "keyword": "Wheat"
+  },
+  {
+    "paper_id": 567,
+    "keyword_id": 773,
+    "keyword": "EST"
+  },
+  {
+    "paper_id": 567,
+    "keyword_id": 444,
+    "keyword": "Phylogeny"
+  },
+  {
+    "paper_id": 568,
+    "keyword_id": 774,
+    "keyword": "Tectona grandis"
+  },
+  {
+    "paper_id": 568,
+    "keyword_id": 775,
+    "keyword": "CAMTA transcription factor"
+  },
+  {
+    "paper_id": 568,
+    "keyword_id": 6,
+    "keyword": "Bioinformatics"
+  },
+  {
+    "paper_id": 568,
+    "keyword_id": 388,
+    "keyword": "Low-temperature stress"
+  },
+  {
+    "paper_id": 568,
+    "keyword_id": 776,
+    "keyword": "GUS"
+  },
+  {
+    "paper_id": 568,
+    "keyword_id": 777,
+    "keyword": "Transgenic lines"
+  },
+  {
+    "paper_id": 569,
+    "keyword_id": 778,
+    "keyword": "PRA1"
+  },
+  {
+    "paper_id": 569,
+    "keyword_id": 779,
+    "keyword": "prenylated Rab acceptor"
+  },
+  {
+    "paper_id": 569,
+    "keyword_id": 780,
+    "keyword": "vesicle trafficking"
+  },
+  {
+    "paper_id": 569,
+    "keyword_id": 33,
+    "keyword": "Arabidopsis"
+  },
+  {
+    "paper_id": 571,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 571,
+    "keyword_id": 90,
+    "keyword": "Biotic stress"
+  },
+  {
+    "paper_id": 571,
+    "keyword_id": 22,
+    "keyword": "genome-wide analysis"
+  },
+  {
+    "paper_id": 571,
+    "keyword_id": 781,
+    "keyword": "kinase"
+  },
+  {
+    "paper_id": 571,
+    "keyword_id": 10,
+    "keyword": "Rice"
+  },
+  {
+    "paper_id": 571,
+    "keyword_id": 782,
+    "keyword": "RLKC"
+  },
+  {
+    "paper_id": 572,
+    "keyword_id": 783,
+    "keyword": "CDPK"
+  },
+  {
+    "paper_id": 572,
+    "keyword_id": 784,
+    "keyword": "Evolutionary"
+  },
+  {
+    "paper_id": 572,
+    "keyword_id": 23,
+    "keyword": "gene family"
+  },
+  {
+    "paper_id": 572,
+    "keyword_id": 785,
+    "keyword": "Multiple stress responses"
+  },
+  {
+    "paper_id": 572,
+    "keyword_id": 375,
+    "keyword": "Triticum aestivum"
+  },
+  {
+    "paper_id": 573,
+    "keyword_id": 574,
+    "keyword": "Dicer-Like"
+  },
+  {
+    "paper_id": 573,
+    "keyword_id": 786,
+    "keyword": "Argonaute"
+  },
+  {
+    "paper_id": 573,
+    "keyword_id": 787,
+    "keyword": "RDR"
+  },
+  {
+    "paper_id": 573,
+    "keyword_id": 10,
+    "keyword": "Rice"
+  },
+  {
+    "paper_id": 573,
+    "keyword_id": 788,
+    "keyword": "development"
+  },
+  {
+    "paper_id": 573,
+    "keyword_id": 50,
+    "keyword": "Stress"
+  },
+  {
+    "paper_id": 574,
+    "keyword_id": 476,
+    "keyword": "Pineapple"
+  },
+  {
+    "paper_id": 574,
+    "keyword_id": 49,
+    "keyword": "WRKY"
+  },
+  {
+    "paper_id": 574,
+    "keyword_id": 40,
+    "keyword": "Genome-wide"
+  },
+  {
+    "paper_id": 574,
+    "keyword_id": 66,
+    "keyword": "Expression patterns"
+  },
+  {
+    "paper_id": 574,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 575,
+    "keyword_id": 320,
+    "keyword": "Medicago truncatula"
+  },
+  {
+    "paper_id": 575,
+    "keyword_id": 333,
+    "keyword": "SOD gene family"
+  },
+  {
+    "paper_id": 575,
+    "keyword_id": 135,
+    "keyword": "Evolution"
+  },
+  {
+    "paper_id": 575,
+    "keyword_id": 66,
+    "keyword": "Expression patterns"
+  },
+  {
+    "paper_id": 575,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 576,
+    "keyword_id": 157,
+    "keyword": "SPL"
+  },
+  {
+    "paper_id": 576,
+    "keyword_id": 789,
+    "keyword": "SQUAMOSA promoter-binding protein-like"
+  },
+  {
+    "paper_id": 576,
+    "keyword_id": 12,
+    "keyword": "cotton"
+  },
+  {
+    "paper_id": 576,
+    "keyword_id": 40,
+    "keyword": "Genome-wide"
+  },
+  {
+    "paper_id": 576,
+    "keyword_id": 351,
+    "keyword": "Expression"
+  },
+  {
+    "paper_id": 577,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 577,
+    "keyword_id": 68,
+    "keyword": "Cassava"
+  },
+  {
+    "paper_id": 577,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 577,
+    "keyword_id": 137,
+    "keyword": "RNA-seq"
+  },
+  {
+    "paper_id": 577,
+    "keyword_id": 49,
+    "keyword": "WRKY"
+  },
+  {
+    "paper_id": 578,
+    "keyword_id": 790,
+    "keyword": "MLO gene family"
+  },
+  {
+    "paper_id": 578,
+    "keyword_id": 216,
+    "keyword": "Tomato"
+  },
+  {
+    "paper_id": 578,
+    "keyword_id": 791,
+    "keyword": "susceptibility"
+  },
+  {
+    "paper_id": 578,
+    "keyword_id": 482,
+    "keyword": "Powdery mildew"
+  },
+  {
+    "paper_id": 579,
+    "keyword_id": 792,
+    "keyword": "BBX gene family; melon; biotic and abiotic stresses; RNA-seq"
+  },
+  {
+    "paper_id": 580,
+    "keyword_id": 793,
+    "keyword": "14-3-3 genes"
+  },
+  {
+    "paper_id": 580,
+    "keyword_id": 794,
+    "keyword": "Brachypodium distachyon"
+  },
+  {
+    "paper_id": 580,
+    "keyword_id": 795,
+    "keyword": "gene structures"
+  },
+  {
+    "paper_id": 580,
+    "keyword_id": 416,
+    "keyword": "Phylogenetic relationships"
+  },
+  {
+    "paper_id": 580,
+    "keyword_id": 81,
+    "keyword": "Gene duplication"
+  },
+  {
+    "paper_id": 580,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 580,
+    "keyword_id": 95,
+    "keyword": "qRT-PCR"
+  },
+  {
+    "paper_id": 581,
+    "keyword_id": 796,
+    "keyword": "phosphate transporter"
+  },
+  {
+    "paper_id": 581,
+    "keyword_id": 797,
+    "keyword": "poplar"
+  },
+  {
+    "paper_id": 581,
+    "keyword_id": 22,
+    "keyword": "genome-wide analysis"
+  },
+  {
+    "paper_id": 581,
+    "keyword_id": 89,
+    "keyword": "Expression profile"
+  },
+  {
+    "paper_id": 581,
+    "keyword_id": 798,
+    "keyword": "phosphate levels"
+  },
+  {
+    "paper_id": 581,
+    "keyword_id": 214,
+    "keyword": "Drought"
+  },
+  {
+    "paper_id": 582,
+    "keyword_id": 799,
+    "keyword": "zinc and iron regulated transporters"
+  },
+  {
+    "paper_id": 582,
+    "keyword_id": 800,
+    "keyword": "signal peptide"
+  },
+  {
+    "paper_id": 582,
+    "keyword_id": 801,
+    "keyword": "Setaria italica"
+  },
+  {
+    "paper_id": 582,
+    "keyword_id": 109,
+    "keyword": "Expression profiling"
+  },
+  {
+    "paper_id": 582,
+    "keyword_id": 802,
+    "keyword": "gene characterization"
+  },
+  {
+    "paper_id": 583,
+    "keyword_id": 803,
+    "keyword": "K+ transporters"
+  },
+  {
+    "paper_id": 583,
+    "keyword_id": 804,
+    "keyword": "HAK/KT/KUP"
+  },
+  {
+    "paper_id": 583,
+    "keyword_id": 805,
+    "keyword": "voltage-gated K+ channel"
+  },
+  {
+    "paper_id": 583,
+    "keyword_id": 806,
+    "keyword": "TPK/KCO"
+  },
+  {
+    "paper_id": 583,
+    "keyword_id": 807,
+    "keyword": "HKT"
+  },
+  {
+    "paper_id": 583,
+    "keyword_id": 808,
+    "keyword": "KEA"
+  },
+  {
+    "paper_id": 583,
+    "keyword_id": 64,
+    "keyword": "Soybean"
+  },
+  {
+    "paper_id": 584,
+    "keyword_id": 809,
+    "keyword": "CNGCs"
+  },
+  {
+    "paper_id": 584,
+    "keyword_id": 87,
+    "keyword": "Wheat"
+  },
+  {
+    "paper_id": 584,
+    "keyword_id": 90,
+    "keyword": "Biotic stress"
+  },
+  {
+    "paper_id": 584,
+    "keyword_id": 810,
+    "keyword": "resistance"
+  },
+  {
+    "paper_id": 584,
+    "keyword_id": 811,
+    "keyword": "Puccinia striiformis f. sp. tritici"
+  },
+  {
+    "paper_id": 585,
+    "keyword_id": 113,
+    "keyword": "mango"
+  },
+  {
+    "paper_id": 585,
+    "keyword_id": 812,
+    "keyword": "potassium"
+  },
+  {
+    "paper_id": 585,
+    "keyword_id": 813,
+    "keyword": "channel"
+  },
+  {
+    "paper_id": 585,
+    "keyword_id": 466,
+    "keyword": "Transporter"
+  },
+  {
+    "paper_id": 585,
+    "keyword_id": 590,
+    "keyword": "fruit development"
+  },
+  {
+    "paper_id": 585,
+    "keyword_id": 139,
+    "keyword": "Drought stress"
+  },
+  {
+    "paper_id": 586,
+    "keyword_id": 814,
+    "keyword": "phytosiderophore"
+  },
+  {
+    "paper_id": 586,
+    "keyword_id": 815,
+    "keyword": "iron"
+  },
+  {
+    "paper_id": 586,
+    "keyword_id": 375,
+    "keyword": "Triticum aestivum"
+  },
+  {
+    "paper_id": 586,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 586,
+    "keyword_id": 816,
+    "keyword": "nutrient and metal transport"
+  },
+  {
+    "paper_id": 587,
+    "keyword_id": 817,
+    "keyword": "RWP-RK"
+  },
+  {
+    "paper_id": 587,
+    "keyword_id": 818,
+    "keyword": "NLP"
+  },
+  {
+    "paper_id": 587,
+    "keyword_id": 819,
+    "keyword": "RKD"
+  },
+  {
+    "paper_id": 587,
+    "keyword_id": 87,
+    "keyword": "Wheat"
+  },
+  {
+    "paper_id": 587,
+    "keyword_id": 529,
+    "keyword": "nitrogen use efficiency"
+  },
+  {
+    "paper_id": 588,
+    "keyword_id": 820,
+    "keyword": "GSK3"
+  },
+  {
+    "paper_id": 588,
+    "keyword_id": 821,
+    "keyword": "glycogen synthase kinase"
+  },
+  {
+    "paper_id": 588,
+    "keyword_id": 12,
+    "keyword": "cotton"
+  },
+  {
+    "paper_id": 588,
+    "keyword_id": 822,
+    "keyword": "genome duplication"
+  },
+  {
+    "paper_id": 588,
+    "keyword_id": 823,
+    "keyword": "fiber development"
+  },
+  {
+    "paper_id": 588,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 589,
+    "keyword_id": 824,
+    "keyword": "Durum wheat"
+  },
+  {
+    "paper_id": 589,
+    "keyword_id": 825,
+    "keyword": "NAC transcription factors"
+  },
+  {
+    "paper_id": 589,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 589,
+    "keyword_id": 14,
+    "keyword": "expression analysis"
+  },
+  {
+    "paper_id": 590,
+    "keyword_id": 826,
+    "keyword": "AP2/ERF gene family; cold stress; ABA; Panax ginseng"
+  },
+  {
+    "paper_id": 591,
+    "keyword_id": 827,
+    "keyword": "Cicer arietinum"
+  },
+  {
+    "paper_id": 591,
+    "keyword_id": 828,
+    "keyword": "NBS-LRR"
+  },
+  {
+    "paper_id": 591,
+    "keyword_id": 829,
+    "keyword": "Gene annotation"
+  },
+  {
+    "paper_id": 591,
+    "keyword_id": 183,
+    "keyword": "synteny"
+  },
+  {
+    "paper_id": 591,
+    "keyword_id": 830,
+    "keyword": "DNA-motifs"
+  },
+  {
+    "paper_id": 591,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 592,
+    "keyword_id": 831,
+    "keyword": "ABCB"
+  },
+  {
+    "paper_id": 592,
+    "keyword_id": 56,
+    "keyword": "abiotic stresses"
+  },
+  {
+    "paper_id": 592,
+    "keyword_id": 832,
+    "keyword": "Grafting"
+  },
+  {
+    "paper_id": 592,
+    "keyword_id": 833,
+    "keyword": "LAX"
+  },
+  {
+    "paper_id": 592,
+    "keyword_id": 834,
+    "keyword": "PIN"
+  },
+  {
+    "paper_id": 592,
+    "keyword_id": 293,
+    "keyword": "watermelon"
+  },
+  {
+    "paper_id": 593,
+    "keyword_id": 794,
+    "keyword": "Brachypodium distachyon"
+  },
+  {
+    "paper_id": 593,
+    "keyword_id": 835,
+    "keyword": "PP2C"
+  },
+  {
+    "paper_id": 593,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 593,
+    "keyword_id": 836,
+    "keyword": "gene expression profiling"
+  },
+  {
+    "paper_id": 593,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 594,
+    "keyword_id": 91,
+    "keyword": "Citrus sinensis"
+  },
+  {
+    "paper_id": 594,
+    "keyword_id": 837,
+    "keyword": "Citrus clementina"
+  },
+  {
+    "paper_id": 594,
+    "keyword_id": 838,
+    "keyword": "LRR-RLK"
+  },
+  {
+    "paper_id": 594,
+    "keyword_id": 444,
+    "keyword": "Phylogeny"
+  },
+  {
+    "paper_id": 595,
+    "keyword_id": 839,
+    "keyword": "Grape"
+  },
+  {
+    "paper_id": 595,
+    "keyword_id": 840,
+    "keyword": "NF-Y transcription factor"
+  },
+  {
+    "paper_id": 595,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 595,
+    "keyword_id": 208,
+    "keyword": "Expression profiles"
+  },
+  {
+    "paper_id": 595,
+    "keyword_id": 369,
+    "keyword": "Quantitative real-time PCR"
+  },
+  {
+    "paper_id": 596,
+    "keyword_id": 841,
+    "keyword": "Heat shock factor"
+  },
+  {
+    "paper_id": 596,
+    "keyword_id": 842,
+    "keyword": "High temperature"
+  },
+  {
+    "paper_id": 596,
+    "keyword_id": 843,
+    "keyword": "Low temperature"
+  },
+  {
+    "paper_id": 596,
+    "keyword_id": 844,
+    "keyword": "Oxidative stress"
+  },
+  {
+    "paper_id": 596,
+    "keyword_id": 845,
+    "keyword": "Transcript expression profile"
+  },
+  {
+    "paper_id": 597,
+    "keyword_id": 846,
+    "keyword": "common tobacco"
+  },
+  {
+    "paper_id": 597,
+    "keyword_id": 783,
+    "keyword": "CDPK"
+  },
+  {
+    "paper_id": 597,
+    "keyword_id": 36,
+    "keyword": "Phylogenetic tree"
+  },
+  {
+    "paper_id": 597,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 598,
+    "keyword_id": 835,
+    "keyword": "PP2C"
+  },
+  {
+    "paper_id": 598,
+    "keyword_id": 847,
+    "keyword": "protein phosphatase 2C"
+  },
+  {
+    "paper_id": 598,
+    "keyword_id": 10,
+    "keyword": "Rice"
+  },
+  {
+    "paper_id": 598,
+    "keyword_id": 33,
+    "keyword": "Arabidopsis"
+  },
+  {
+    "paper_id": 598,
+    "keyword_id": 848,
+    "keyword": "ABA"
+  },
+  {
+    "paper_id": 599,
+    "keyword_id": 849,
+    "keyword": "Protein phosphatase"
+  },
+  {
+    "paper_id": 599,
+    "keyword_id": 10,
+    "keyword": "Rice"
+  },
+  {
+    "paper_id": 599,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 599,
+    "keyword_id": 850,
+    "keyword": "reproductive development"
+  },
+  {
+    "paper_id": 600,
+    "keyword_id": 64,
+    "keyword": "Soybean"
+  },
+  {
+    "paper_id": 600,
+    "keyword_id": 851,
+    "keyword": "germin-like"
+  },
+  {
+    "paper_id": 600,
+    "keyword_id": 23,
+    "keyword": "gene family"
+  },
+  {
+    "paper_id": 600,
+    "keyword_id": 351,
+    "keyword": "Expression"
+  },
+  {
+    "paper_id": 600,
+    "keyword_id": 336,
+    "keyword": "Auxin"
+  },
+  {
+    "paper_id": 600,
+    "keyword_id": 852,
+    "keyword": "light"
+  },
+  {
+    "paper_id": 600,
+    "keyword_id": 399,
+    "keyword": "Salt"
+  },
+  {
+    "paper_id": 601,
+    "keyword_id": 853,
+    "keyword": "SAUR"
+  },
+  {
+    "paper_id": 601,
+    "keyword_id": 854,
+    "keyword": "Tandemly arrayed genes (TAG)"
+  },
+  {
+    "paper_id": 601,
+    "keyword_id": 855,
+    "keyword": "Brassica"
+  },
+  {
+    "paper_id": 601,
+    "keyword_id": 183,
+    "keyword": "synteny"
+  },
+  {
+    "paper_id": 601,
+    "keyword_id": 856,
+    "keyword": "Local tandem duplication"
+  },
+  {
+    "paper_id": 601,
+    "keyword_id": 470,
+    "keyword": "Brassicaceae"
+  },
+  {
+    "paper_id": 602,
+    "keyword_id": 857,
+    "keyword": "Auxin response factor"
+  },
+  {
+    "paper_id": 602,
+    "keyword_id": 344,
+    "keyword": "ARF"
+  },
+  {
+    "paper_id": 602,
+    "keyword_id": 305,
+    "keyword": "Maize"
+  },
+  {
+    "paper_id": 602,
+    "keyword_id": 23,
+    "keyword": "gene family"
+  },
+  {
+    "paper_id": 602,
+    "keyword_id": 109,
+    "keyword": "Expression profiling"
+  },
+  {
+    "paper_id": 603,
+    "keyword_id": 858,
+    "keyword": "MYB"
+  },
+  {
+    "paper_id": 603,
+    "keyword_id": 859,
+    "keyword": "R2R3"
+  },
+  {
+    "paper_id": 603,
+    "keyword_id": 307,
+    "keyword": "Vitis vinifera"
+  },
+  {
+    "paper_id": 603,
+    "keyword_id": 860,
+    "keyword": "wine quality"
+  },
+  {
+    "paper_id": 603,
+    "keyword_id": 222,
+    "keyword": "Anthocyanin"
+  },
+  {
+    "paper_id": 603,
+    "keyword_id": 861,
+    "keyword": "proanthocyanidin"
+  },
+  {
+    "paper_id": 604,
+    "keyword_id": 862,
+    "keyword": "CAD"
+  },
+  {
+    "paper_id": 604,
+    "keyword_id": 863,
+    "keyword": "cinnamyl alcohol dehydrogenase"
+  },
+  {
+    "paper_id": 604,
+    "keyword_id": 1,
+    "keyword": "Populus"
+  },
+  {
+    "paper_id": 604,
+    "keyword_id": 609,
+    "keyword": "lignin"
+  },
+  {
+    "paper_id": 604,
+    "keyword_id": 444,
+    "keyword": "Phylogeny"
+  },
+  {
+    "paper_id": 604,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 605,
+    "keyword_id": 864,
+    "keyword": "NAC transcription factor"
+  },
+  {
+    "paper_id": 605,
+    "keyword_id": 670,
+    "keyword": "populus trichocarpa"
+  },
+  {
+    "paper_id": 605,
+    "keyword_id": 444,
+    "keyword": "Phylogeny"
+  },
+  {
+    "paper_id": 605,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 605,
+    "keyword_id": 865,
+    "keyword": "secondary wall biosynthesis"
+  },
+  {
+    "paper_id": 606,
+    "keyword_id": 162,
+    "keyword": "MAPK"
+  },
+  {
+    "paper_id": 606,
+    "keyword_id": 409,
+    "keyword": "Grapevine"
+  },
+  {
+    "paper_id": 606,
+    "keyword_id": 866,
+    "keyword": "duplication"
+  },
+  {
+    "paper_id": 606,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 606,
+    "keyword_id": 867,
+    "keyword": "in?silico analysis"
+  },
+  {
+    "paper_id": 607,
+    "keyword_id": 27,
+    "keyword": "transcription factors"
+  },
+  {
+    "paper_id": 607,
+    "keyword_id": 64,
+    "keyword": "Soybean"
+  },
+  {
+    "paper_id": 607,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 607,
+    "keyword_id": 868,
+    "keyword": "database"
+  },
+  {
+    "paper_id": 608,
+    "keyword_id": 64,
+    "keyword": "Soybean"
+  },
+  {
+    "paper_id": 608,
+    "keyword_id": 825,
+    "keyword": "NAC transcription factors"
+  },
+  {
+    "paper_id": 608,
+    "keyword_id": 869,
+    "keyword": "dehydration"
+  },
+  {
+    "paper_id": 608,
+    "keyword_id": 870,
+    "keyword": "sequence analysis"
+  },
+  {
+    "paper_id": 608,
+    "keyword_id": 14,
+    "keyword": "expression analysis"
+  },
+  {
+    "paper_id": 609,
+    "keyword_id": 871,
+    "keyword": "annexin"
+  },
+  {
+    "paper_id": 609,
+    "keyword_id": 40,
+    "keyword": "Genome-wide"
+  },
+  {
+    "paper_id": 609,
+    "keyword_id": 872,
+    "keyword": "phylogenetic"
+  },
+  {
+    "paper_id": 609,
+    "keyword_id": 873,
+    "keyword": "calcium binding"
+  },
+  {
+    "paper_id": 609,
+    "keyword_id": 866,
+    "keyword": "duplication"
+  },
+  {
+    "paper_id": 610,
+    "keyword_id": 874,
+    "keyword": "TPR"
+  },
+  {
+    "paper_id": 610,
+    "keyword_id": 598,
+    "keyword": "Hsp90"
+  },
+  {
+    "paper_id": 610,
+    "keyword_id": 875,
+    "keyword": "Hsp70"
+  },
+  {
+    "paper_id": 610,
+    "keyword_id": 33,
+    "keyword": "Arabidopsis"
+  },
+  {
+    "paper_id": 610,
+    "keyword_id": 10,
+    "keyword": "Rice"
+  },
+  {
+    "paper_id": 610,
+    "keyword_id": 876,
+    "keyword": "carboxylate clamp"
+  },
+  {
+    "paper_id": 611,
+    "keyword_id": 877,
+    "keyword": "SINA genes"
+  },
+  {
+    "paper_id": 611,
+    "keyword_id": 135,
+    "keyword": "Evolution"
+  },
+  {
+    "paper_id": 611,
+    "keyword_id": 351,
+    "keyword": "Expression"
+  },
+  {
+    "paper_id": 611,
+    "keyword_id": 878,
+    "keyword": "semi?quantitative RT?PCR"
+  },
+  {
+    "paper_id": 612,
+    "keyword_id": 879,
+    "keyword": "GRAS gene family"
+  },
+  {
+    "paper_id": 612,
+    "keyword_id": 880,
+    "keyword": "B. purpurascens"
+  },
+  {
+    "paper_id": 612,
+    "keyword_id": 67,
+    "keyword": "Salt stress"
+  },
+  {
+    "paper_id": 612,
+    "keyword_id": 881,
+    "keyword": "BpGRAS9"
+  },
+  {
+    "paper_id": 613,
+    "keyword_id": 882,
+    "keyword": "ZmARF"
+  },
+  {
+    "paper_id": 613,
+    "keyword_id": 52,
+    "keyword": "Phylogenetic analysis"
+  },
+  {
+    "paper_id": 613,
+    "keyword_id": 866,
+    "keyword": "duplication"
+  },
+  {
+    "paper_id": 613,
+    "keyword_id": 773,
+    "keyword": "EST"
+  },
+  {
+    "paper_id": 613,
+    "keyword_id": 351,
+    "keyword": "Expression"
+  },
+  {
+    "paper_id": 614,
+    "keyword_id": 883,
+    "keyword": "calcium transporter"
+  },
+  {
+    "paper_id": 614,
+    "keyword_id": 10,
+    "keyword": "Rice"
+  },
+  {
+    "paper_id": 614,
+    "keyword_id": 43,
+    "keyword": "Sorghum"
+  },
+  {
+    "paper_id": 614,
+    "keyword_id": 884,
+    "keyword": "in silico comparison"
+  },
+  {
+    "paper_id": 614,
+    "keyword_id": 885,
+    "keyword": "genomic annotation"
+  },
+  {
+    "paper_id": 614,
+    "keyword_id": 183,
+    "keyword": "synteny"
+  },
+  {
+    "paper_id": 615,
+    "keyword_id": 886,
+    "keyword": "PAL"
+  },
+  {
+    "paper_id": 615,
+    "keyword_id": 887,
+    "keyword": "phenylalanine ammonia?lyase"
+  },
+  {
+    "paper_id": 615,
+    "keyword_id": 33,
+    "keyword": "Arabidopsis"
+  },
+  {
+    "paper_id": 615,
+    "keyword_id": 23,
+    "keyword": "gene family"
+  },
+  {
+    "paper_id": 615,
+    "keyword_id": 50,
+    "keyword": "Stress"
+  },
+  {
+    "paper_id": 615,
+    "keyword_id": 888,
+    "keyword": "SA"
+  },
+  {
+    "paper_id": 615,
+    "keyword_id": 609,
+    "keyword": "lignin"
+  },
+  {
+    "paper_id": 616,
+    "keyword_id": 889,
+    "keyword": "lipoxygenase"
+  },
+  {
+    "paper_id": 616,
+    "keyword_id": 839,
+    "keyword": "Grape"
+  },
+  {
+    "paper_id": 616,
+    "keyword_id": 307,
+    "keyword": "Vitis vinifera"
+  },
+  {
+    "paper_id": 616,
+    "keyword_id": 890,
+    "keyword": "LOX"
+  },
+  {
+    "paper_id": 616,
+    "keyword_id": 891,
+    "keyword": "oxylipins"
+  },
+  {
+    "paper_id": 616,
+    "keyword_id": 23,
+    "keyword": "gene family"
+  },
+  {
+    "paper_id": 616,
+    "keyword_id": 892,
+    "keyword": "berry development"
+  },
+  {
+    "paper_id": 617,
+    "keyword_id": 73,
+    "keyword": "Abiotic stress"
+  },
+  {
+    "paper_id": 617,
+    "keyword_id": 841,
+    "keyword": "Heat shock factor"
+  },
+  {
+    "paper_id": 617,
+    "keyword_id": 10,
+    "keyword": "Rice"
+  },
+  {
+    "paper_id": 617,
+    "keyword_id": 893,
+    "keyword": "Transcription profiling"
+  },
+  {
+    "paper_id": 618,
+    "keyword_id": 828,
+    "keyword": "NBS-LRR"
+  },
+  {
+    "paper_id": 618,
+    "keyword_id": 320,
+    "keyword": "Medicago truncatula"
+  },
+  {
+    "paper_id": 618,
+    "keyword_id": 894,
+    "keyword": "disease resistance gene"
+  },
+  {
+    "paper_id": 618,
+    "keyword_id": 81,
+    "keyword": "Gene duplication"
+  },
+  {
+    "paper_id": 618,
+    "keyword_id": 895,
+    "keyword": "genome organization"
+  },
+  {
+    "paper_id": 619,
+    "keyword_id": 896,
+    "keyword": "tobacco"
+  },
+  {
+    "paper_id": 619,
+    "keyword_id": 27,
+    "keyword": "transcription factors"
+  },
+  {
+    "paper_id": 619,
+    "keyword_id": 897,
+    "keyword": "Solanaceae"
+  },
+  {
+    "paper_id": 619,
+    "keyword_id": 898,
+    "keyword": "NAC"
+  },
+  {
+    "paper_id": 619,
+    "keyword_id": 899,
+    "keyword": "ERF"
+  },
+  {
+    "paper_id": 619,
+    "keyword_id": 900,
+    "keyword": "TF families"
+  },
+  {
+    "paper_id": 620,
+    "keyword_id": 901,
+    "keyword": "bZIP"
+  },
+  {
+    "paper_id": 620,
+    "keyword_id": 10,
+    "keyword": "Rice"
+  },
+  {
+    "paper_id": 620,
+    "keyword_id": 30,
+    "keyword": "Transcription factor"
+  },
+  {
+    "paper_id": 620,
+    "keyword_id": 59,
+    "keyword": "Gene expression"
+  },
+  {
+    "paper_id": 620,
+    "keyword_id": 902,
+    "keyword": "floral transition"
+  },
+  {
+    "paper_id": 620,
+    "keyword_id": 50,
+    "keyword": "Stress"
+  },
+  {
+    "paper_id": 620,
+    "keyword_id": 852,
+    "keyword": "light"
+  }
+]

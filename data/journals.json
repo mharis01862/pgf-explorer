@@ -1,0 +1,582 @@
+[
+  {
+    "id": 1,
+    "name": "Biochemical and Biophysical Research Communications",
+    "slug": "biochemical-and-biophysical-research-communications"
+  },
+  {
+    "id": 2,
+    "name": "Plant Gene",
+    "slug": "plant-gene"
+  },
+  {
+    "id": 3,
+    "name": "Genes",
+    "slug": "genes"
+  },
+  {
+    "id": 4,
+    "name": "Genetics Research",
+    "slug": "genetics-research"
+  },
+  {
+    "id": 5,
+    "name": "Pakistan Journal of Agricultural Sciences",
+    "slug": "pakistan-journal-of-agricultural-sciences"
+  },
+  {
+    "id": 6,
+    "name": "Journal of Phylogenetics & Evolutionary Biology",
+    "slug": "journal-of-phylogenetics-evolutionary-biology"
+  },
+  {
+    "id": 7,
+    "name": "Genomics & Information",
+    "slug": "genomics-information"
+  },
+  {
+    "id": 8,
+    "name": "Horticulturae",
+    "slug": "horticulturae"
+  },
+  {
+    "id": 9,
+    "name": "Turkish Journal of Agriculture - Food Science and Technology",
+    "slug": "turkish-journal-of-agriculture-food-science-and-technology"
+  },
+  {
+    "id": 10,
+    "name": "Evolutionary Bioinformatics",
+    "slug": "evolutionary-bioinformatics"
+  },
+  {
+    "id": 11,
+    "name": "Scientia Horticulturae",
+    "slug": "scientia-horticulturae"
+  },
+  {
+    "id": 12,
+    "name": "International Journal of Molecular Sciences",
+    "slug": "international-journal-of-molecular-sciences"
+  },
+  {
+    "id": 13,
+    "name": "Gene",
+    "slug": "gene"
+  },
+  {
+    "id": 14,
+    "name": "PLOS ONE",
+    "slug": "plos-one"
+  },
+  {
+    "id": 15,
+    "name": "Genomics",
+    "slug": "genomics"
+  },
+  {
+    "id": 16,
+    "name": "Life",
+    "slug": "life"
+  },
+  {
+    "id": 17,
+    "name": "Genomics & Informatics",
+    "slug": "genomics-informatics"
+  },
+  {
+    "id": 18,
+    "name": "Plant Breeding and Biotechnology",
+    "slug": "plant-breeding-and-biotechnology"
+  },
+  {
+    "id": 19,
+    "name": "PeerJ",
+    "slug": "peerj"
+  },
+  {
+    "id": 20,
+    "name": "Phyton",
+    "slug": "phyton"
+  },
+  {
+    "id": 21,
+    "name": "Plants",
+    "slug": "plants"
+  },
+  {
+    "id": 22,
+    "name": "Industrial Crops and Products",
+    "slug": "industrial-crops-and-products"
+  },
+  {
+    "id": 23,
+    "name": "Plant Physiology and Biochemistry",
+    "slug": "plant-physiology-and-biochemistry"
+  },
+  {
+    "id": 24,
+    "name": "Plant Cell Reports",
+    "slug": "plant-cell-reports"
+  },
+  {
+    "id": 25,
+    "name": "Plant Growth Regulation",
+    "slug": "plant-growth-regulation"
+  },
+  {
+    "id": 26,
+    "name": "Journal of Plant Growth Regulation",
+    "slug": "journal-of-plant-growth-regulation"
+  },
+  {
+    "id": 27,
+    "name": "Planta",
+    "slug": "planta"
+  },
+  {
+    "id": 28,
+    "name": "Molecular Genetics and Genomics",
+    "slug": "molecular-genetics-and-genomics"
+  },
+  {
+    "id": 29,
+    "name": "Trees",
+    "slug": "trees"
+  },
+  {
+    "id": 30,
+    "name": "Journal of Genetic Engineering and Biotechnology",
+    "slug": "journal-of-genetic-engineering-and-biotechnology"
+  },
+  {
+    "id": 31,
+    "name": "Protoplasma",
+    "slug": "protoplasma"
+  },
+  {
+    "id": 32,
+    "name": "Functional & Integrative Genomics",
+    "slug": "functional-integrative-genomics"
+  },
+  {
+    "id": 33,
+    "name": "Biochemical Genetics",
+    "slug": "biochemical-genetics"
+  },
+  {
+    "id": 34,
+    "name": "Euphytica",
+    "slug": "euphytica"
+  },
+  {
+    "id": 35,
+    "name": "Genetica",
+    "slug": "genetica"
+  },
+  {
+    "id": 36,
+    "name": "Genetic Resources and Crop Evolution",
+    "slug": "genetic-resources-and-crop-evolution"
+  },
+  {
+    "id": 37,
+    "name": "Molecular Biology Reports",
+    "slug": "molecular-biology-reports"
+  },
+  {
+    "id": 38,
+    "name": "Journal of King Saud University - Science",
+    "slug": "journal-of-king-saud-university-science"
+  },
+  {
+    "id": 39,
+    "name": "Plant Molecular Biology Reporter",
+    "slug": "plant-molecular-biology-reporter"
+  },
+  {
+    "id": 40,
+    "name": "Plant Molecular Biology",
+    "slug": "plant-molecular-biology"
+  },
+  {
+    "id": 41,
+    "name": "Journal of Integrative Agriculture",
+    "slug": "journal-of-integrative-agriculture"
+  },
+  {
+    "id": 42,
+    "name": "Tree Genetics & Genomes",
+    "slug": "tree-genetics-genomes"
+  },
+  {
+    "id": 43,
+    "name": "Acta Physiologiae Plantarum",
+    "slug": "acta-physiologiae-plantarum"
+  },
+  {
+    "id": 44,
+    "name": "Cell Biochemistry and Biophysics",
+    "slug": "cell-biochemistry-and-biophysics"
+  },
+  {
+    "id": 45,
+    "name": "Tropical Plant Biology",
+    "slug": "tropical-plant-biology"
+  },
+  {
+    "id": 46,
+    "name": "Physiology and Molecular Biology of Plants",
+    "slug": "physiology-and-molecular-biology-of-plants"
+  },
+  {
+    "id": 47,
+    "name": "Journal of Plant Biology",
+    "slug": "journal-of-plant-biology"
+  },
+  {
+    "id": 48,
+    "name": "BMC Genomics",
+    "slug": "bmc-genomics"
+  },
+  {
+    "id": 49,
+    "name": "BMC Genetics",
+    "slug": "bmc-genetics"
+  },
+  {
+    "id": 50,
+    "name": "BMC Genomic Data",
+    "slug": "bmc-genomic-data"
+  },
+  {
+    "id": 51,
+    "name": "FEBS Open Bio",
+    "slug": "febs-open-bio"
+  },
+  {
+    "id": 52,
+    "name": "The Crop Journal",
+    "slug": "the-crop-journal"
+  },
+  {
+    "id": 53,
+    "name": "Meta Gene",
+    "slug": "meta-gene"
+  },
+  {
+    "id": 54,
+    "name": "BMC Plant Biology",
+    "slug": "bmc-plant-biology"
+  },
+  {
+    "id": 55,
+    "name": "Plant Omics Journal",
+    "slug": "plant-omics-journal"
+  },
+  {
+    "id": 56,
+    "name": "Open Life Sciences",
+    "slug": "open-life-sciences"
+  },
+  {
+    "id": 57,
+    "name": "Journal of Crop Science and Biotechnology",
+    "slug": "journal-of-crop-science-and-biotechnology"
+  },
+  {
+    "id": 58,
+    "name": "3 Biotech",
+    "slug": "3-biotech"
+  },
+  {
+    "id": 59,
+    "name": "Genes & Genomics",
+    "slug": "genes-genomics"
+  },
+  {
+    "id": 60,
+    "name": "Plant Stress",
+    "slug": "plant-stress"
+  },
+  {
+    "id": 61,
+    "name": "Journal of Agricultural Sciences",
+    "slug": "journal-of-agricultural-sciences"
+  },
+  {
+    "id": 62,
+    "name": "Journal of Applied Genetics",
+    "slug": "journal-of-applied-genetics"
+  },
+  {
+    "id": 63,
+    "name": "Journal of Plant Biochemistry and Biotechnology",
+    "slug": "journal-of-plant-biochemistry-and-biotechnology"
+  },
+  {
+    "id": 64,
+    "name": "Brazilian Journal of Botany",
+    "slug": "brazilian-journal-of-botany"
+  },
+  {
+    "id": 65,
+    "name": "Plant Physiology Reports",
+    "slug": "plant-physiology-reports"
+  },
+  {
+    "id": 66,
+    "name": "Scientific Reports",
+    "slug": "scientific-reports"
+  },
+  {
+    "id": 67,
+    "name": "Research Square",
+    "slug": "research-square"
+  },
+  {
+    "id": 68,
+    "name": "Journal of Applied Biology & Biotechnology",
+    "slug": "journal-of-applied-biology-biotechnology"
+  },
+  {
+    "id": 69,
+    "name": "Cereal Research Communications",
+    "slug": "cereal-research-communications"
+  },
+  {
+    "id": 70,
+    "name": "Discover Plants",
+    "slug": "discover-plants"
+  },
+  {
+    "id": 71,
+    "name": "Russian Journal of Plant Physiology",
+    "slug": "russian-journal-of-plant-physiology"
+  },
+  {
+    "id": 72,
+    "name": "Sustainability",
+    "slug": "sustainability"
+  },
+  {
+    "id": 73,
+    "name": "Vegetable Research",
+    "slug": "vegetable-research"
+  },
+  {
+    "id": 74,
+    "name": "Genetics and Molecular Research",
+    "slug": "genetics-and-molecular-research"
+  },
+  {
+    "id": 75,
+    "name": "Journal of Natural Sciences",
+    "slug": "journal-of-natural-sciences"
+  },
+  {
+    "id": 76,
+    "name": "Frontiers in Bioscience Landmark",
+    "slug": "frontiers-in-bioscience-landmark"
+  },
+  {
+    "id": 77,
+    "name": "BIOCELL",
+    "slug": "biocell"
+  },
+  {
+    "id": 78,
+    "name": "Bioinformation",
+    "slug": "bioinformation"
+  },
+  {
+    "id": 79,
+    "name": "Agriculture",
+    "slug": "agriculture"
+  },
+  {
+    "id": 80,
+    "name": "American Journal of Plant Sciences",
+    "slug": "american-journal-of-plant-sciences"
+  },
+  {
+    "id": 81,
+    "name": "Agronomy",
+    "slug": "agronomy"
+  },
+  {
+    "id": 82,
+    "name": "Frontiers of Agricultural Science and Engineering",
+    "slug": "frontiers-of-agricultural-science-and-engineering"
+  },
+  {
+    "id": 83,
+    "name": "Antioxidants",
+    "slug": "antioxidants"
+  },
+  {
+    "id": 84,
+    "name": "Asian Journal of Biological and Life Sciences",
+    "slug": "asian-journal-of-biological-and-life-sciences"
+  },
+  {
+    "id": 85,
+    "name": "Science of the Total Environment",
+    "slug": "science-of-the-total-environment"
+  },
+  {
+    "id": 86,
+    "name": "Australian Journal of Grape and Wine Research",
+    "slug": "australian-journal-of-grape-and-wine-research"
+  },
+  {
+    "id": 87,
+    "name": "BioMed Research International",
+    "slug": "biomed-research-international"
+  },
+  {
+    "id": 88,
+    "name": "Current Issues in Molecular Biology",
+    "slug": "current-issues-in-molecular-biology"
+  },
+  {
+    "id": 89,
+    "name": "Contrast Media & Molecular Imaging",
+    "slug": "contrast-media-molecular-imaging"
+  },
+  {
+    "id": 90,
+    "name": "Brazilian Archives of Biology and Technology",
+    "slug": "brazilian-archives-of-biology-and-technology"
+  },
+  {
+    "id": 91,
+    "name": "EXCLI Journal",
+    "slug": "excli-journal"
+  },
+  {
+    "id": 92,
+    "name": "Frontiers in Genetics",
+    "slug": "frontiers-in-genetics"
+  },
+  {
+    "id": 93,
+    "name": "Industrial Crops & Products",
+    "slug": "industrial-crops-products"
+  },
+  {
+    "id": 94,
+    "name": "Frontiers in Plant Science",
+    "slug": "frontiers-in-plant-science"
+  },
+  {
+    "id": 95,
+    "name": "Journal of Plant Physiology",
+    "slug": "journal-of-plant-physiology"
+  },
+  {
+    "id": 96,
+    "name": "Molecular Biotechnology",
+    "slug": "molecular-biotechnology"
+  },
+  {
+    "id": 97,
+    "name": "Journal of Integrative Plant Biology",
+    "slug": "journal-of-integrative-plant-biology"
+  },
+  {
+    "id": 98,
+    "name": "DNA Research",
+    "slug": "dna-research"
+  },
+  {
+    "id": 99,
+    "name": "Genome",
+    "slug": "genome"
+  },
+  {
+    "id": 100,
+    "name": "Journal of Agricultural Production",
+    "slug": "journal-of-agricultural-production"
+  },
+  {
+    "id": 101,
+    "name": "bioRxiv (preprint)",
+    "slug": "biorxiv-preprint"
+  },
+  {
+    "id": 102,
+    "name": "International Journal of Agriculture Innovation and Cutting Edge Research",
+    "slug": "international-journal-of-agriculture-innovation-and-cutting-edge-research"
+  },
+  {
+    "id": 103,
+    "name": "Journal of Advanced Research",
+    "slug": "journal-of-advanced-research"
+  },
+  {
+    "id": 104,
+    "name": "Plant Physiology",
+    "slug": "plant-physiology"
+  },
+  {
+    "id": 105,
+    "name": "BMC Evolutionary Biology",
+    "slug": "bmc-evolutionary-biology"
+  },
+  {
+    "id": 106,
+    "name": "Molecular Breeding",
+    "slug": "molecular-breeding"
+  },
+  {
+    "id": 107,
+    "name": "The Plant Journal",
+    "slug": "the-plant-journal"
+  },
+  {
+    "id": 108,
+    "name": "Plant and Cell Physiology",
+    "slug": "plant-and-cell-physiology"
+  },
+  {
+    "id": 109,
+    "name": "Molecular Biology and Evolution",
+    "slug": "molecular-biology-and-evolution"
+  },
+  {
+    "id": 110,
+    "name": "Molecular Plant",
+    "slug": "molecular-plant"
+  },
+  {
+    "id": 111,
+    "name": "Plant Biotechnology Journal",
+    "slug": "plant-biotechnology-journal"
+  },
+  {
+    "id": 112,
+    "name": "Genomics Data",
+    "slug": "genomics-data"
+  },
+  {
+    "id": 113,
+    "name": "Agricultural Sciences in China",
+    "slug": "agricultural-sciences-in-china"
+  },
+  {
+    "id": 114,
+    "name": "DNA Sequence",
+    "slug": "dna-sequence"
+  },
+  {
+    "id": 115,
+    "name": "Genomics, Proteomics & Bioinformatics",
+    "slug": "genomics-proteomics-bioinformatics"
+  },
+  {
+    "id": 116,
+    "name": "Functional Plant Biology",
+    "slug": "functional-plant-biology"
+  }
+]

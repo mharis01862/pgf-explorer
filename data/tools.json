@@ -1,0 +1,5168 @@
+[
+  {
+    "id": 1,
+    "name": "MEGA",
+    "slug": "mega",
+    "category": "phylogeny"
+  },
+  {
+    "id": 2,
+    "name": "IQ-TREE",
+    "slug": "iq-tree",
+    "category": "phylogeny"
+  },
+  {
+    "id": 3,
+    "name": "ExPASy",
+    "slug": "expasy",
+    "category": "domain_verification"
+  },
+  {
+    "id": 4,
+    "name": "FoldIndex",
+    "slug": "foldindex",
+    "category": "motif_analysis"
+  },
+  {
+    "id": 5,
+    "name": "HMMER",
+    "slug": "hmmer",
+    "category": "identification"
+  },
+  {
+    "id": 6,
+    "name": "SMART",
+    "slug": "smart",
+    "category": "domain_verification"
+  },
+  {
+    "id": 7,
+    "name": "MEME",
+    "slug": "meme",
+    "category": "motif_analysis"
+  },
+  {
+    "id": 8,
+    "name": "InterProScan",
+    "slug": "interproscan",
+    "category": "domain_verification"
+  },
+  {
+    "id": 9,
+    "name": "CLUSTAL",
+    "slug": "clustal",
+    "category": "other_methodology"
+  },
+  {
+    "id": 10,
+    "name": "CIMMiner",
+    "slug": "cimminer",
+    "category": "other_methodology"
+  },
+  {
+    "id": 11,
+    "name": "CDD",
+    "slug": "cdd",
+    "category": "domain_verification"
+  },
+  {
+    "id": 12,
+    "name": "MCScanX",
+    "slug": "mcscanx",
+    "category": "synteny"
+  },
+  {
+    "id": 13,
+    "name": "TBTools",
+    "slug": "tbtools",
+    "category": "visualization"
+  },
+  {
+    "id": 14,
+    "name": "Pfam",
+    "slug": "pfam",
+    "category": "domain_verification"
+  },
+  {
+    "id": 15,
+    "name": "ClustalX",
+    "slug": "clustalx",
+    "category": "other_methodology"
+  },
+  {
+    "id": 16,
+    "name": "ExPASy Compute pI/Mw",
+    "slug": "expasy-compute-pi-mw",
+    "category": "other_methodology"
+  },
+  {
+    "id": 17,
+    "name": "WoLF PSORT",
+    "slug": "wolf-psort",
+    "category": "other_methodology"
+  },
+  {
+    "id": 18,
+    "name": "PlantCARE",
+    "slug": "plantcare",
+    "category": "other_methodology"
+  },
+  {
+    "id": 19,
+    "name": "SeqKit",
+    "slug": "seqkit",
+    "category": "other_methodology"
+  },
+  {
+    "id": 20,
+    "name": "MG2C",
+    "slug": "mg2c",
+    "category": "other_methodology"
+  },
+  {
+    "id": 21,
+    "name": "GraphPad Prism",
+    "slug": "graphpad-prism",
+    "category": "other_methodology"
+  },
+  {
+    "id": 22,
+    "name": "InterPro",
+    "slug": "interpro",
+    "category": "domain_verification"
+  },
+  {
+    "id": 23,
+    "name": "ClustalW",
+    "slug": "clustalw",
+    "category": "other_methodology"
+  },
+  {
+    "id": 24,
+    "name": "ProtParam",
+    "slug": "protparam",
+    "category": "other_methodology"
+  },
+  {
+    "id": 25,
+    "name": "fastp",
+    "slug": "fastp",
+    "category": "other_methodology"
+  },
+  {
+    "id": 26,
+    "name": "HISAT2",
+    "slug": "hisat2",
+    "category": "other_methodology"
+  },
+  {
+    "id": 27,
+    "name": "StringTie",
+    "slug": "stringtie",
+    "category": "other_methodology"
+  },
+  {
+    "id": 28,
+    "name": "RSEM",
+    "slug": "rsem",
+    "category": "other_methodology"
+  },
+  {
+    "id": 29,
+    "name": "Primer Premier",
+    "slug": "primer-premier",
+    "category": "other_methodology"
+  },
+  {
+    "id": 30,
+    "name": "iTOL",
+    "slug": "itol",
+    "category": "other_methodology"
+  },
+  {
+    "id": 31,
+    "name": "SPSS",
+    "slug": "spss",
+    "category": "other_methodology"
+  },
+  {
+    "id": 32,
+    "name": "UPLC-MS/MS",
+    "slug": "uplc-ms-ms",
+    "category": "other_methodology"
+  },
+  {
+    "id": 33,
+    "name": "ExPASy ProtParam",
+    "slug": "expasy-protparam",
+    "category": "other_methodology"
+  },
+  {
+    "id": 34,
+    "name": "Plant Subcellular Localization Integrator - PSI",
+    "slug": "plant-subcellular-localization-integrator-psi",
+    "category": "other_methodology"
+  },
+  {
+    "id": 35,
+    "name": "psRNATarget",
+    "slug": "psrnatarget",
+    "category": "other_methodology"
+  },
+  {
+    "id": 36,
+    "name": "STRING",
+    "slug": "string",
+    "category": "other_methodology"
+  },
+  {
+    "id": 37,
+    "name": "UGENE",
+    "slug": "ugene",
+    "category": "motif_analysis"
+  },
+  {
+    "id": 38,
+    "name": "Circoletto",
+    "slug": "circoletto",
+    "category": "synteny"
+  },
+  {
+    "id": 39,
+    "name": "PLACE database",
+    "slug": "place-database",
+    "category": "other_methodology"
+  },
+  {
+    "id": 40,
+    "name": "GSDS",
+    "slug": "gsds",
+    "category": "visualization"
+  },
+  {
+    "id": 41,
+    "name": "TMHMM",
+    "slug": "tmhmm",
+    "category": "other_methodology"
+  },
+  {
+    "id": 42,
+    "name": "Plant-mPLoc & WoLF PSORT",
+    "slug": "plant-mploc-wolf-psort",
+    "category": "other_methodology"
+  },
+  {
+    "id": 43,
+    "name": "MUSCLE",
+    "slug": "muscle",
+    "category": "other_methodology"
+  },
+  {
+    "id": 44,
+    "name": "Blast2GO",
+    "slug": "blast2go",
+    "category": "other_methodology"
+  },
+  {
+    "id": 45,
+    "name": "PSI",
+    "slug": "psi",
+    "category": "other_methodology"
+  },
+  {
+    "id": 46,
+    "name": "MapGene2Chrom",
+    "slug": "mapgene2chrom",
+    "category": "other_methodology"
+  },
+  {
+    "id": 47,
+    "name": "various online servers for physicochemical properties",
+    "slug": "various-online-servers-for-physicochemical-properties",
+    "category": "other_methodology"
+  },
+  {
+    "id": 48,
+    "name": "Cytoscape",
+    "slug": "cytoscape",
+    "category": "other_methodology"
+  },
+  {
+    "id": 49,
+    "name": "EVOLVIEW",
+    "slug": "evolview",
+    "category": "visualization"
+  },
+  {
+    "id": 50,
+    "name": "Gene Structure Display Server",
+    "slug": "gene-structure-display-server",
+    "category": "visualization"
+  },
+  {
+    "id": 51,
+    "name": "Subcellular localization",
+    "slug": "subcellular-localization",
+    "category": "other_methodology"
+  },
+  {
+    "id": 52,
+    "name": "Plant transformation",
+    "slug": "plant-transformation",
+    "category": "other_methodology"
+  },
+  {
+    "id": 53,
+    "name": "CLC Sequence Viewer",
+    "slug": "clc-sequence-viewer",
+    "category": "visualization"
+  },
+  {
+    "id": 54,
+    "name": "NCBI Map Viewer",
+    "slug": "ncbi-map-viewer",
+    "category": "visualization"
+  },
+  {
+    "id": 55,
+    "name": "Excel",
+    "slug": "excel",
+    "category": "visualization"
+  },
+  {
+    "id": 56,
+    "name": "COBALT",
+    "slug": "cobalt",
+    "category": "visualization"
+  },
+  {
+    "id": 57,
+    "name": "PLACE",
+    "slug": "place",
+    "category": "other_methodology"
+  },
+  {
+    "id": 58,
+    "name": "CELLO",
+    "slug": "cello",
+    "category": "visualization"
+  },
+  {
+    "id": 59,
+    "name": "i-Tasser",
+    "slug": "i-tasser",
+    "category": "visualization"
+  },
+  {
+    "id": 60,
+    "name": "Circos",
+    "slug": "circos",
+    "category": "visualization"
+  },
+  {
+    "id": 61,
+    "name": "Eggnog & WEGO",
+    "slug": "eggnog-wego",
+    "category": "other_methodology"
+  },
+  {
+    "id": 62,
+    "name": "SWISS MODEL",
+    "slug": "swiss-model",
+    "category": "other_methodology"
+  },
+  {
+    "id": 63,
+    "name": "Plant-mPLoc",
+    "slug": "plant-mploc",
+    "category": "other_methodology"
+  },
+  {
+    "id": 64,
+    "name": "DESeq2",
+    "slug": "deseq2",
+    "category": "other_methodology"
+  },
+  {
+    "id": 65,
+    "name": "Confocal microscopy",
+    "slug": "confocal-microscopy",
+    "category": "other_methodology"
+  },
+  {
+    "id": 66,
+    "name": "Yeast transactivation assay",
+    "slug": "yeast-transactivation-assay",
+    "category": "other_methodology"
+  },
+  {
+    "id": 67,
+    "name": "Transient overexpression",
+    "slug": "transient-overexpression",
+    "category": "other_methodology"
+  },
+  {
+    "id": 68,
+    "name": "PROSITE",
+    "slug": "prosite",
+    "category": "domain_verification"
+  },
+  {
+    "id": 69,
+    "name": "TREVIEW",
+    "slug": "treview",
+    "category": "visualization"
+  },
+  {
+    "id": 70,
+    "name": "Compute pI/Mw tool",
+    "slug": "compute-pi-mw-tool",
+    "category": "other_methodology"
+  },
+  {
+    "id": 71,
+    "name": "WebLogo",
+    "slug": "weblogo",
+    "category": "motif_analysis"
+  },
+  {
+    "id": 72,
+    "name": "MapDraw",
+    "slug": "mapdraw",
+    "category": "synteny"
+  },
+  {
+    "id": 73,
+    "name": "R",
+    "slug": "r",
+    "category": "visualization"
+  },
+  {
+    "id": 74,
+    "name": "YLoc",
+    "slug": "yloc",
+    "category": "other_methodology"
+  },
+  {
+    "id": 75,
+    "name": "DnaSP",
+    "slug": "dnasp",
+    "category": "other_methodology"
+  },
+  {
+    "id": 76,
+    "name": "Tophat2",
+    "slug": "tophat2",
+    "category": "other_methodology"
+  },
+  {
+    "id": 77,
+    "name": "Cufflinks",
+    "slug": "cufflinks",
+    "category": "other_methodology"
+  },
+  {
+    "id": 78,
+    "name": "FASTX-toolkit",
+    "slug": "fastx-toolkit",
+    "category": "other_methodology"
+  },
+  {
+    "id": 79,
+    "name": "Yeast complementation assay",
+    "slug": "yeast-complementation-assay",
+    "category": "other_methodology"
+  },
+  {
+    "id": 80,
+    "name": "MultiExperiment Viewer",
+    "slug": "multiexperiment-viewer",
+    "category": "visualization"
+  },
+  {
+    "id": 81,
+    "name": "BGI WEGO",
+    "slug": "bgi-wego",
+    "category": "visualization"
+  },
+  {
+    "id": 82,
+    "name": "SELECTION",
+    "slug": "selection",
+    "category": "visualization"
+  },
+  {
+    "id": 83,
+    "name": "MapInspect",
+    "slug": "mapinspect",
+    "category": "visualization"
+  },
+  {
+    "id": 84,
+    "name": "Softberry",
+    "slug": "softberry",
+    "category": "domain_verification"
+  },
+  {
+    "id": 85,
+    "name": "PAL2NAL & PAML CODEML",
+    "slug": "pal2nal-paml-codeml",
+    "category": "other_methodology"
+  },
+  {
+    "id": 86,
+    "name": "ccNET &",
+    "slug": "ccnet",
+    "category": "other_methodology"
+  },
+  {
+    "id": 87,
+    "name": "ParaAT",
+    "slug": "paraat",
+    "category": "synteny"
+  },
+  {
+    "id": 88,
+    "name": "PlantCARE ; Primer3 for primer design; CFX Manager for qPCR data",
+    "slug": "plantcare-primer3-for-primer-design-cfx-manager-for-qpcr-data",
+    "category": "other_methodology"
+  },
+  {
+    "id": 89,
+    "name": "Mapchart",
+    "slug": "mapchart",
+    "category": "visualization"
+  },
+  {
+    "id": 90,
+    "name": "Jalview",
+    "slug": "jalview",
+    "category": "visualization"
+  },
+  {
+    "id": 91,
+    "name": "ExPASY. Clustal Omega",
+    "slug": "expasy-clustal-omega",
+    "category": "other_methodology"
+  },
+  {
+    "id": 92,
+    "name": "PhenoGram",
+    "slug": "phenogram",
+    "category": "visualization"
+  },
+  {
+    "id": 93,
+    "name": "FIGTREE",
+    "slug": "figtree",
+    "category": "visualization"
+  },
+  {
+    "id": 94,
+    "name": "GSDS server",
+    "slug": "gsds-server",
+    "category": "visualization"
+  },
+  {
+    "id": 95,
+    "name": "BioEdit",
+    "slug": "bioedit",
+    "category": "other_methodology"
+  },
+  {
+    "id": 96,
+    "name": "BUSCA",
+    "slug": "busca",
+    "category": "other_methodology"
+  },
+  {
+    "id": 97,
+    "name": "Phyre2",
+    "slug": "phyre2",
+    "category": "other_methodology"
+  },
+  {
+    "id": 98,
+    "name": "AgriGO",
+    "slug": "agrigo",
+    "category": "other_methodology"
+  },
+  {
+    "id": 99,
+    "name": "EggNOG",
+    "slug": "eggnog",
+    "category": "other_methodology"
+  },
+  {
+    "id": 100,
+    "name": "COLOR MUSE SE",
+    "slug": "color-muse-se",
+    "category": "other_methodology"
+  },
+  {
+    "id": 101,
+    "name": "DNAMAN",
+    "slug": "dnaman",
+    "category": "visualization"
+  },
+  {
+    "id": 102,
+    "name": "MA2C",
+    "slug": "ma2c",
+    "category": "visualization"
+  },
+  {
+    "id": 103,
+    "name": "ePlant",
+    "slug": "eplant",
+    "category": "visualization"
+  },
+  {
+    "id": 104,
+    "name": "Geneious Prime",
+    "slug": "geneious-prime",
+    "category": "other_methodology"
+  },
+  {
+    "id": 105,
+    "name": "Plant Genome Duplication Database",
+    "slug": "plant-genome-duplication-database",
+    "category": "synteny"
+  },
+  {
+    "id": 106,
+    "name": "Heml",
+    "slug": "heml",
+    "category": "visualization"
+  },
+  {
+    "id": 107,
+    "name": "Primer 3 Plus",
+    "slug": "primer-3-plus",
+    "category": "other_methodology"
+  },
+  {
+    "id": 108,
+    "name": "Clustal Omega",
+    "slug": "clustal-omega",
+    "category": "other_methodology"
+  },
+  {
+    "id": 109,
+    "name": "PAL2NAL",
+    "slug": "pal2nal",
+    "category": "other_methodology"
+  },
+  {
+    "id": 110,
+    "name": "Geneious",
+    "slug": "geneious",
+    "category": "other_methodology"
+  },
+  {
+    "id": 111,
+    "name": "PhenGram Online Server",
+    "slug": "phengram-online-server",
+    "category": "visualization"
+  },
+  {
+    "id": 112,
+    "name": "CELLO and WoLF PSORT",
+    "slug": "cello-and-wolf-psort",
+    "category": "other_methodology"
+  },
+  {
+    "id": 113,
+    "name": "AgriGO and eggNOG-mapper",
+    "slug": "agrigo-and-eggnog-mapper",
+    "category": "other_methodology"
+  },
+  {
+    "id": 114,
+    "name": "Primer 5",
+    "slug": "primer-5",
+    "category": "other_methodology"
+  },
+  {
+    "id": 115,
+    "name": "ExPASy Server",
+    "slug": "expasy-server",
+    "category": "other_methodology"
+  },
+  {
+    "id": 116,
+    "name": "Cell-PLoc",
+    "slug": "cell-ploc",
+    "category": "other_methodology"
+  },
+  {
+    "id": 117,
+    "name": "Chiplot/TVBOT",
+    "slug": "chiplot-tvbot",
+    "category": "visualization"
+  },
+  {
+    "id": 118,
+    "name": "EVenn",
+    "slug": "evenn",
+    "category": "visualization"
+  },
+  {
+    "id": 119,
+    "name": "featureCounts",
+    "slug": "featurecounts",
+    "category": "other_methodology"
+  },
+  {
+    "id": 120,
+    "name": "R package DESeq",
+    "slug": "r-package-deseq",
+    "category": "other_methodology"
+  },
+  {
+    "id": 121,
+    "name": "Yes",
+    "slug": "yes",
+    "category": "domain_verification"
+  },
+  {
+    "id": 122,
+    "name": "Bio-Rad CFX Manager",
+    "slug": "bio-rad-cfx-manager",
+    "category": "other_methodology"
+  },
+  {
+    "id": 123,
+    "name": "GeneDoc",
+    "slug": "genedoc",
+    "category": "visualization"
+  },
+  {
+    "id": 124,
+    "name": "Primer3",
+    "slug": "primer3",
+    "category": "other_methodology"
+  },
+  {
+    "id": 125,
+    "name": "Vazyme reagents",
+    "slug": "vazyme-reagents",
+    "category": "other_methodology"
+  },
+  {
+    "id": 126,
+    "name": "JCVI",
+    "slug": "jcvi",
+    "category": "synteny"
+  },
+  {
+    "id": 127,
+    "name": "seqfinder",
+    "slug": "seqfinder",
+    "category": "other_methodology"
+  },
+  {
+    "id": 128,
+    "name": "KaKs_Calculator",
+    "slug": "kaks-calculator",
+    "category": "other_methodology"
+  },
+  {
+    "id": 129,
+    "name": "eggNOG-mapper",
+    "slug": "eggnog-mapper",
+    "category": "other_methodology"
+  },
+  {
+    "id": 130,
+    "name": "PyMOL",
+    "slug": "pymol",
+    "category": "visualization"
+  },
+  {
+    "id": 131,
+    "name": "pCAMBIA1300-eGFP vector",
+    "slug": "pcambia1300-egfp-vector",
+    "category": "other_methodology"
+  },
+  {
+    "id": 132,
+    "name": "pYES2 vector",
+    "slug": "pyes2-vector",
+    "category": "other_methodology"
+  },
+  {
+    "id": 133,
+    "name": "BioXM",
+    "slug": "bioxm",
+    "category": "other_methodology"
+  },
+  {
+    "id": 134,
+    "name": "RNAprep Pure Plant Kit",
+    "slug": "rnaprep-pure-plant-kit",
+    "category": "other_methodology"
+  },
+  {
+    "id": 135,
+    "name": "HiScript 1st Strand cDNA Synthesis Kit",
+    "slug": "hiscript-1st-strand-cdna-synthesis-kit",
+    "category": "other_methodology"
+  },
+  {
+    "id": 136,
+    "name": "ChamQ SYBR qPCR Master Mix",
+    "slug": "chamq-sybr-qpcr-master-mix",
+    "category": "other_methodology"
+  },
+  {
+    "id": 137,
+    "name": "ESPript",
+    "slug": "espript",
+    "category": "visualization"
+  },
+  {
+    "id": 138,
+    "name": "Origin",
+    "slug": "origin",
+    "category": "other_methodology"
+  },
+  {
+    "id": 139,
+    "name": "Non-invasive Micro-test Technology for ion flux measurement",
+    "slug": "non-invasive-micro-test-technology-for-ion-flux-measurement",
+    "category": "other_methodology"
+  },
+  {
+    "id": 140,
+    "name": "Dual Synteny Plotter",
+    "slug": "dual-synteny-plotter",
+    "category": "synteny"
+  },
+  {
+    "id": 141,
+    "name": "ChiPlot",
+    "slug": "chiplot",
+    "category": "visualization"
+  },
+  {
+    "id": 142,
+    "name": "tvBOT",
+    "slug": "tvbot",
+    "category": "visualization"
+  },
+  {
+    "id": 143,
+    "name": "KEGG",
+    "slug": "kegg",
+    "category": "other_methodology"
+  },
+  {
+    "id": 144,
+    "name": "GO",
+    "slug": "go",
+    "category": "other_methodology"
+  },
+  {
+    "id": 145,
+    "name": "COGs",
+    "slug": "cogs",
+    "category": "other_methodology"
+  },
+  {
+    "id": 146,
+    "name": "Cluster",
+    "slug": "cluster",
+    "category": "visualization"
+  },
+  {
+    "id": 147,
+    "name": "Treeview",
+    "slug": "treeview",
+    "category": "visualization"
+  },
+  {
+    "id": 148,
+    "name": "Perl-based programs",
+    "slug": "perl-based-programs",
+    "category": "other_methodology"
+  },
+  {
+    "id": 149,
+    "name": "NetSurfP",
+    "slug": "netsurfp",
+    "category": "other_methodology"
+  },
+  {
+    "id": 150,
+    "name": "MAFFT",
+    "slug": "mafft",
+    "category": "other_methodology"
+  },
+  {
+    "id": 151,
+    "name": "Primer design for qPCR",
+    "slug": "primer-design-for-qpcr",
+    "category": "other_methodology"
+  },
+  {
+    "id": 152,
+    "name": "SnapGene",
+    "slug": "snapgene",
+    "category": "visualization"
+  },
+  {
+    "id": 153,
+    "name": "PAML",
+    "slug": "paml",
+    "category": "other_methodology"
+  },
+  {
+    "id": 154,
+    "name": "SOPMA",
+    "slug": "sopma",
+    "category": "other_methodology"
+  },
+  {
+    "id": 155,
+    "name": "FastQC",
+    "slug": "fastqc",
+    "category": "other_methodology"
+  },
+  {
+    "id": 156,
+    "name": "uMelt",
+    "slug": "umelt",
+    "category": "other_methodology"
+  },
+  {
+    "id": 157,
+    "name": "AmpliFX",
+    "slug": "amplifx",
+    "category": "other_methodology"
+  },
+  {
+    "id": 158,
+    "name": "JCat",
+    "slug": "jcat",
+    "category": "other_methodology"
+  },
+  {
+    "id": 159,
+    "name": "LTR_retriever",
+    "slug": "ltr-retriever",
+    "category": "other_methodology"
+  },
+  {
+    "id": 160,
+    "name": "LTRharvest",
+    "slug": "ltrharvest",
+    "category": "other_methodology"
+  },
+  {
+    "id": 161,
+    "name": "LTR_FINDER",
+    "slug": "ltr-finder",
+    "category": "other_methodology"
+  },
+  {
+    "id": 162,
+    "name": "RepeatModeler",
+    "slug": "repeatmodeler",
+    "category": "other_methodology"
+  },
+  {
+    "id": 163,
+    "name": "RepeatMasker",
+    "slug": "repeatmasker",
+    "category": "other_methodology"
+  },
+  {
+    "id": 164,
+    "name": "Trimmomatic",
+    "slug": "trimmomatic",
+    "category": "other_methodology"
+  },
+  {
+    "id": 165,
+    "name": "MapGene2chromosome",
+    "slug": "mapgene2chromosome",
+    "category": "synteny"
+  },
+  {
+    "id": 166,
+    "name": "MapGene2chromosome web",
+    "slug": "mapgene2chromosome-web",
+    "category": "visualization"
+  },
+  {
+    "id": 167,
+    "name": "BaCelLo",
+    "slug": "bacello",
+    "category": "other_methodology"
+  },
+  {
+    "id": 168,
+    "name": "SNAP",
+    "slug": "snap",
+    "category": "other_methodology"
+  },
+  {
+    "id": 169,
+    "name": "YASARA homology software",
+    "slug": "yasara-homology-software",
+    "category": "other_methodology"
+  },
+  {
+    "id": 170,
+    "name": "PerlPrimer",
+    "slug": "perlprimer",
+    "category": "other_methodology"
+  },
+  {
+    "id": 171,
+    "name": "Bowtie2",
+    "slug": "bowtie2",
+    "category": "other_methodology"
+  },
+  {
+    "id": 172,
+    "name": "Expasy MW/pl",
+    "slug": "expasy-mw-pl",
+    "category": "other_methodology"
+  },
+  {
+    "id": 173,
+    "name": "SignalP",
+    "slug": "signalp",
+    "category": "other_methodology"
+  },
+  {
+    "id": 174,
+    "name": "IMter server",
+    "slug": "imter-server",
+    "category": "other_methodology"
+  },
+  {
+    "id": 175,
+    "name": "OrthoFinder",
+    "slug": "orthofinder",
+    "category": "other_methodology"
+  },
+  {
+    "id": 176,
+    "name": "FastTree",
+    "slug": "fasttree",
+    "category": "other_methodology"
+  },
+  {
+    "id": 177,
+    "name": "AlphaFold3",
+    "slug": "alphafold3",
+    "category": "other_methodology"
+  },
+  {
+    "id": 178,
+    "name": "ProtTest",
+    "slug": "prottest",
+    "category": "other_methodology"
+  },
+  {
+    "id": 179,
+    "name": "MrBayes",
+    "slug": "mrbayes",
+    "category": "other_methodology"
+  },
+  {
+    "id": 180,
+    "name": "ngLOC",
+    "slug": "ngloc",
+    "category": "other_methodology"
+  },
+  {
+    "id": 181,
+    "name": "MeV",
+    "slug": "mev",
+    "category": "visualization"
+  },
+  {
+    "id": 182,
+    "name": "iTAK",
+    "slug": "itak",
+    "category": "other_methodology"
+  },
+  {
+    "id": 183,
+    "name": "NGS QC Tool kit",
+    "slug": "ngs-qc-tool-kit",
+    "category": "other_methodology"
+  },
+  {
+    "id": 184,
+    "name": "RSEM program",
+    "slug": "rsem-program",
+    "category": "other_methodology"
+  },
+  {
+    "id": 185,
+    "name": "iBROWSE",
+    "slug": "ibrowse",
+    "category": "visualization"
+  },
+  {
+    "id": 186,
+    "name": "TreeBASE",
+    "slug": "treebase",
+    "category": "visualization"
+  },
+  {
+    "id": 187,
+    "name": "Ggenees",
+    "slug": "ggenees",
+    "category": "other_methodology"
+  },
+  {
+    "id": 188,
+    "name": "SplitsTree",
+    "slug": "splitstree",
+    "category": "other_methodology"
+  },
+  {
+    "id": 189,
+    "name": "Map GeneChromosome",
+    "slug": "map-genechromosome",
+    "category": "visualization"
+  },
+  {
+    "id": 190,
+    "name": "Htseq",
+    "slug": "htseq",
+    "category": "other_methodology"
+  },
+  {
+    "id": 191,
+    "name": "Heatmapper Plus tool",
+    "slug": "heatmapper-plus-tool",
+    "category": "visualization"
+  },
+  {
+    "id": 192,
+    "name": "Vector NTI",
+    "slug": "vector-nti",
+    "category": "other_methodology"
+  },
+  {
+    "id": 193,
+    "name": "SPSS software",
+    "slug": "spss-software",
+    "category": "other_methodology"
+  },
+  {
+    "id": 194,
+    "name": "MapGene2 Chrome",
+    "slug": "mapgene2-chrome",
+    "category": "visualization"
+  },
+  {
+    "id": 195,
+    "name": "HHpred",
+    "slug": "hhpred",
+    "category": "other_methodology"
+  },
+  {
+    "id": 196,
+    "name": "psRNA Target Server",
+    "slug": "psrna-target-server",
+    "category": "other_methodology"
+  },
+  {
+    "id": 197,
+    "name": "XLSTAT",
+    "slug": "xlstat",
+    "category": "other_methodology"
+  },
+  {
+    "id": 198,
+    "name": "CSS-plam",
+    "slug": "css-plam",
+    "category": "visualization"
+  },
+  {
+    "id": 199,
+    "name": "VMD software",
+    "slug": "vmd-software",
+    "category": "visualization"
+  },
+  {
+    "id": 200,
+    "name": "PSORT",
+    "slug": "psort",
+    "category": "other_methodology"
+  },
+  {
+    "id": 201,
+    "name": "STRING database",
+    "slug": "string-database",
+    "category": "other_methodology"
+  },
+  {
+    "id": 202,
+    "name": "Phyre",
+    "slug": "phyre",
+    "category": "other_methodology"
+  },
+  {
+    "id": 203,
+    "name": "Map Gene 2 chromosome",
+    "slug": "map-gene-2-chromosome",
+    "category": "visualization"
+  },
+  {
+    "id": 204,
+    "name": "EvolView online tool",
+    "slug": "evolview-online-tool",
+    "category": "visualization"
+  },
+  {
+    "id": 205,
+    "name": "Circos program",
+    "slug": "circos-program",
+    "category": "visualization"
+  },
+  {
+    "id": 206,
+    "name": "MapChart software",
+    "slug": "mapchart-software",
+    "category": "visualization"
+  },
+  {
+    "id": 207,
+    "name": "Circos software",
+    "slug": "circos-software",
+    "category": "visualization"
+  },
+  {
+    "id": 208,
+    "name": "ProtParam tool",
+    "slug": "protparam-tool",
+    "category": "other_methodology"
+  },
+  {
+    "id": 209,
+    "name": "Heatmapper online tool",
+    "slug": "heatmapper-online-tool",
+    "category": "other_methodology"
+  },
+  {
+    "id": 210,
+    "name": "OrthoVenn2",
+    "slug": "orthovenn2",
+    "category": "other_methodology"
+  },
+  {
+    "id": 211,
+    "name": "PANNZER2",
+    "slug": "pannzer2",
+    "category": "other_methodology"
+  },
+  {
+    "id": 212,
+    "name": "Kallisto",
+    "slug": "kallisto",
+    "category": "other_methodology"
+  },
+  {
+    "id": 213,
+    "name": "ComplexHeatmap",
+    "slug": "complexheatmap",
+    "category": "other_methodology"
+  },
+  {
+    "id": 214,
+    "name": "Plant CARE",
+    "slug": "plant-care",
+    "category": "other_methodology"
+  },
+  {
+    "id": 215,
+    "name": "CLC genomics workbench",
+    "slug": "clc-genomics-workbench",
+    "category": "other_methodology"
+  },
+  {
+    "id": 216,
+    "name": "Spidey",
+    "slug": "spidey",
+    "category": "visualization"
+  },
+  {
+    "id": 217,
+    "name": "Boxshade",
+    "slug": "boxshade",
+    "category": "visualization"
+  },
+  {
+    "id": 218,
+    "name": "Pathway Studio",
+    "slug": "pathway-studio",
+    "category": "visualization"
+  },
+  {
+    "id": 219,
+    "name": "'Rideogram' R package",
+    "slug": "rideogram-r-package",
+    "category": "other_methodology"
+  },
+  {
+    "id": 220,
+    "name": "Augustus",
+    "slug": "augustus",
+    "category": "other_methodology"
+  },
+  {
+    "id": 221,
+    "name": "EdgeR",
+    "slug": "edger",
+    "category": "other_methodology"
+  },
+  {
+    "id": 222,
+    "name": "Evolview platform",
+    "slug": "evolview-platform",
+    "category": "visualization"
+  },
+  {
+    "id": 223,
+    "name": "Circos tool",
+    "slug": "circos-tool",
+    "category": "visualization"
+  },
+  {
+    "id": 224,
+    "name": "Refinder program",
+    "slug": "refinder-program",
+    "category": "other_methodology"
+  },
+  {
+    "id": 225,
+    "name": "pSRNATarget software",
+    "slug": "psrnatarget-software",
+    "category": "other_methodology"
+  },
+  {
+    "id": 226,
+    "name": "SOPM",
+    "slug": "sopm",
+    "category": "visualization"
+  },
+  {
+    "id": 227,
+    "name": "Psort-Prediction",
+    "slug": "psort-prediction",
+    "category": "other_methodology"
+  },
+  {
+    "id": 228,
+    "name": "HMMscan",
+    "slug": "hmmscan",
+    "category": "domain_verification"
+  },
+  {
+    "id": 229,
+    "name": "Phylogeny. fr",
+    "slug": "phylogeny-fr",
+    "category": "visualization"
+  },
+  {
+    "id": 230,
+    "name": "Wheat Expression Browser",
+    "slug": "wheat-expression-browser",
+    "category": "visualization"
+  },
+  {
+    "id": 231,
+    "name": "WOLEPSORT",
+    "slug": "wolepsort",
+    "category": "other_methodology"
+  },
+  {
+    "id": 232,
+    "name": "ProtComp",
+    "slug": "protcomp",
+    "category": "other_methodology"
+  },
+  {
+    "id": 233,
+    "name": "iTOL online software",
+    "slug": "itol-online-software",
+    "category": "visualization"
+  },
+  {
+    "id": 234,
+    "name": "R package clusterProfiler",
+    "slug": "r-package-clusterprofiler",
+    "category": "other_methodology"
+  },
+  {
+    "id": 235,
+    "name": "iTOL software",
+    "slug": "itol-software",
+    "category": "visualization"
+  },
+  {
+    "id": 236,
+    "name": "Clustal-X",
+    "slug": "clustal-x",
+    "category": "other_methodology"
+  },
+  {
+    "id": 237,
+    "name": "uORFlight",
+    "slug": "uorflight",
+    "category": "other_methodology"
+  },
+  {
+    "id": 238,
+    "name": "AlphaFold2",
+    "slug": "alphafold2",
+    "category": "visualization"
+  },
+  {
+    "id": 239,
+    "name": "TM-score tool",
+    "slug": "tm-score-tool",
+    "category": "visualization"
+  },
+  {
+    "id": 240,
+    "name": "psRNA Target",
+    "slug": "psrna-target",
+    "category": "other_methodology"
+  },
+  {
+    "id": 241,
+    "name": "pCysMod",
+    "slug": "pcysmod",
+    "category": "other_methodology"
+  },
+  {
+    "id": 242,
+    "name": "Prism software",
+    "slug": "prism-software",
+    "category": "other_methodology"
+  },
+  {
+    "id": 243,
+    "name": "DNAMAN software",
+    "slug": "dnaman-software",
+    "category": "other_methodology"
+  },
+  {
+    "id": 244,
+    "name": "MEME Suite",
+    "slug": "meme-suite",
+    "category": "visualization"
+  },
+  {
+    "id": 245,
+    "name": "Blast viewer",
+    "slug": "blast-viewer",
+    "category": "visualization"
+  },
+  {
+    "id": 246,
+    "name": "FGENESH",
+    "slug": "fgenesh",
+    "category": "other_methodology"
+  },
+  {
+    "id": 247,
+    "name": "BRAD synteny tool",
+    "slug": "brad-synteny-tool",
+    "category": "other_methodology"
+  },
+  {
+    "id": 248,
+    "name": "DeepTMHMM",
+    "slug": "deeptmhmm",
+    "category": "visualization"
+  },
+  {
+    "id": 249,
+    "name": "WegoLoc",
+    "slug": "wegoloc",
+    "category": "other_methodology"
+  },
+  {
+    "id": 250,
+    "name": "BiNGO",
+    "slug": "bingo",
+    "category": "other_methodology"
+  },
+  {
+    "id": 251,
+    "name": "MapInspect software",
+    "slug": "mapinspect-software",
+    "category": "visualization"
+  },
+  {
+    "id": 252,
+    "name": "DNAAtools",
+    "slug": "dnaatools",
+    "category": "other_methodology"
+  },
+  {
+    "id": 253,
+    "name": "GSDS software",
+    "slug": "gsds-software",
+    "category": "other_methodology"
+  },
+  {
+    "id": 254,
+    "name": "DNA TOOLs software",
+    "slug": "dna-tools-software",
+    "category": "other_methodology"
+  },
+  {
+    "id": 255,
+    "name": "Clustal-W",
+    "slug": "clustal-w",
+    "category": "other_methodology"
+  },
+  {
+    "id": 256,
+    "name": "MEGALIGN software",
+    "slug": "megalign-software",
+    "category": "other_methodology"
+  },
+  {
+    "id": 257,
+    "name": "ESyPred3D Web Server",
+    "slug": "esypred3d-web-server",
+    "category": "other_methodology"
+  },
+  {
+    "id": 258,
+    "name": "Heml software",
+    "slug": "heml-software",
+    "category": "visualization"
+  },
+  {
+    "id": 259,
+    "name": "OrthoMCL",
+    "slug": "orthomcl",
+    "category": "other_methodology"
+  },
+  {
+    "id": 260,
+    "name": "ClustalX multiple alignment program",
+    "slug": "clustalx-multiple-alignment-program",
+    "category": "other_methodology"
+  },
+  {
+    "id": 261,
+    "name": "PlnTFDB",
+    "slug": "plntfdb",
+    "category": "visualization"
+  },
+  {
+    "id": 262,
+    "name": "MUSCLE algorithm",
+    "slug": "muscle-algorithm",
+    "category": "other_methodology"
+  },
+  {
+    "id": 263,
+    "name": "EMBOSS suite",
+    "slug": "emboss-suite",
+    "category": "other_methodology"
+  },
+  {
+    "id": 264,
+    "name": "BEDTools suite",
+    "slug": "bedtools-suite",
+    "category": "other_methodology"
+  },
+  {
+    "id": 265,
+    "name": "MapDraw software",
+    "slug": "mapdraw-software",
+    "category": "visualization"
+  },
+  {
+    "id": 266,
+    "name": "ExPASY Compute pI/Mw Program",
+    "slug": "expasy-compute-pi-mw-program",
+    "category": "other_methodology"
+  },
+  {
+    "id": 267,
+    "name": "Br300K oligo microarray",
+    "slug": "br300k-oligo-microarray",
+    "category": "other_methodology"
+  },
+  {
+    "id": 268,
+    "name": "iTAK standalone software",
+    "slug": "itak-standalone-software",
+    "category": "other_methodology"
+  },
+  {
+    "id": 269,
+    "name": "PGDD",
+    "slug": "pgdd",
+    "category": "synteny"
+  },
+  {
+    "id": 270,
+    "name": "MeV Software",
+    "slug": "mev-software",
+    "category": "visualization"
+  },
+  {
+    "id": 271,
+    "name": "SeaView",
+    "slug": "seaview",
+    "category": "visualization"
+  },
+  {
+    "id": 272,
+    "name": "ClustalQ",
+    "slug": "clustalq",
+    "category": "other_methodology"
+  },
+  {
+    "id": 273,
+    "name": "GBLOCKS",
+    "slug": "gblocks",
+    "category": "other_methodology"
+  },
+  {
+    "id": 274,
+    "name": "GraphPad Prism software",
+    "slug": "graphpad-prism-software",
+    "category": "other_methodology"
+  },
+  {
+    "id": 275,
+    "name": "MOTIF Search",
+    "slug": "motif-search",
+    "category": "domain_verification"
+  },
+  {
+    "id": 276,
+    "name": "ScanPROSITE",
+    "slug": "scanprosite",
+    "category": "motif_analysis"
+  },
+  {
+    "id": 277,
+    "name": "PlantRegMap",
+    "slug": "plantregmap",
+    "category": "visualization"
+  },
+  {
+    "id": 278,
+    "name": "FGENESH-C",
+    "slug": "fgenesh-c",
+    "category": "other_methodology"
+  },
+  {
+    "id": 279,
+    "name": "BEAST",
+    "slug": "beast",
+    "category": "other_methodology"
+  },
+  {
+    "id": 280,
+    "name": "SigmaPlot",
+    "slug": "sigmaplot",
+    "category": "other_methodology"
+  },
+  {
+    "id": 281,
+    "name": "REVIGO",
+    "slug": "revigo",
+    "category": "other_methodology"
+  },
+  {
+    "id": 282,
+    "name": "SRplot",
+    "slug": "srplot",
+    "category": "visualization"
+  },
+  {
+    "id": 283,
+    "name": "Chimera",
+    "slug": "chimera",
+    "category": "other_methodology"
+  },
+  {
+    "id": 284,
+    "name": "DIAMOND",
+    "slug": "diamond",
+    "category": "other_methodology"
+  },
+  {
+    "id": 285,
+    "name": "OrthoVenn",
+    "slug": "orthovenn",
+    "category": "other_methodology"
+  },
+  {
+    "id": 286,
+    "name": "cNLS Mapper",
+    "slug": "cnls-mapper",
+    "category": "other_methodology"
+  },
+  {
+    "id": 287,
+    "name": "NetNES",
+    "slug": "netnes",
+    "category": "other_methodology"
+  },
+  {
+    "id": 288,
+    "name": "Heatster",
+    "slug": "heatster",
+    "category": "other_methodology"
+  },
+  {
+    "id": 289,
+    "name": "Calmodulin Target Database",
+    "slug": "calmodulin-target-database",
+    "category": "domain_verification"
+  },
+  {
+    "id": 290,
+    "name": "Motif scan",
+    "slug": "motif-scan",
+    "category": "domain_verification"
+  },
+  {
+    "id": 291,
+    "name": "IBS",
+    "slug": "ibs",
+    "category": "visualization"
+  },
+  {
+    "id": 292,
+    "name": "PlantPAN",
+    "slug": "plantpan",
+    "category": "visualization"
+  },
+  {
+    "id": 293,
+    "name": "iTasser",
+    "slug": "itasser",
+    "category": "visualization"
+  },
+  {
+    "id": 294,
+    "name": "PatchDock",
+    "slug": "patchdock",
+    "category": "visualization"
+  },
+  {
+    "id": 295,
+    "name": "FireDock",
+    "slug": "firedock",
+    "category": "visualization"
+  },
+  {
+    "id": 296,
+    "name": "pyDockWEB",
+    "slug": "pydockweb",
+    "category": "visualization"
+  },
+  {
+    "id": 297,
+    "name": "GENEVESTIGATOR",
+    "slug": "genevestigator",
+    "category": "visualization"
+  },
+  {
+    "id": 298,
+    "name": "WEGO",
+    "slug": "wego",
+    "category": "visualization"
+  },
+  {
+    "id": 299,
+    "name": "KOBAS",
+    "slug": "kobas",
+    "category": "visualization"
+  },
+  {
+    "id": 300,
+    "name": "AutoDock",
+    "slug": "autodock",
+    "category": "visualization"
+  },
+  {
+    "id": 301,
+    "name": "BlastKOALA",
+    "slug": "blastkoala",
+    "category": "other_methodology"
+  },
+  {
+    "id": 302,
+    "name": "SRA-tools",
+    "slug": "sra-tools",
+    "category": "other_methodology"
+  },
+  {
+    "id": 303,
+    "name": "Samtools",
+    "slug": "samtools",
+    "category": "other_methodology"
+  },
+  {
+    "id": 304,
+    "name": "Map Chart",
+    "slug": "map-chart",
+    "category": "visualization"
+  },
+  {
+    "id": 305,
+    "name": "TargetP Server",
+    "slug": "targetp-server",
+    "category": "visualization"
+  },
+  {
+    "id": 306,
+    "name": "GENVENN",
+    "slug": "genvenn",
+    "category": "visualization"
+  },
+  {
+    "id": 307,
+    "name": "TargetP",
+    "slug": "targetp",
+    "category": "other_methodology"
+  },
+  {
+    "id": 308,
+    "name": "maizeGDB",
+    "slug": "maizegdb",
+    "category": "visualization"
+  },
+  {
+    "id": 309,
+    "name": "GENSCAN",
+    "slug": "genscan",
+    "category": "visualization"
+  },
+  {
+    "id": 310,
+    "name": "HMMTOP",
+    "slug": "hmmtop",
+    "category": "visualization"
+  },
+  {
+    "id": 311,
+    "name": "PopGenIE",
+    "slug": "popgenie",
+    "category": "visualization"
+  },
+  {
+    "id": 312,
+    "name": "PTRM",
+    "slug": "ptrm",
+    "category": "other_methodology"
+  },
+  {
+    "id": 313,
+    "name": "SoluProt",
+    "slug": "soluprot",
+    "category": "visualization"
+  },
+  {
+    "id": 314,
+    "name": "Miranda",
+    "slug": "miranda",
+    "category": "visualization"
+  },
+  {
+    "id": 315,
+    "name": "PlantDGD",
+    "slug": "plantdgd",
+    "category": "visualization"
+  },
+  {
+    "id": 316,
+    "name": "MEGAX",
+    "slug": "megax",
+    "category": "visualization"
+  },
+  {
+    "id": 317,
+    "name": "Galaxy",
+    "slug": "galaxy",
+    "category": "other_methodology"
+  },
+  {
+    "id": 318,
+    "name": "Ballgown",
+    "slug": "ballgown",
+    "category": "other_methodology"
+  },
+  {
+    "id": 319,
+    "name": "DeepLoc",
+    "slug": "deeploc",
+    "category": "visualization"
+  },
+  {
+    "id": 320,
+    "name": "PlantGBD",
+    "slug": "plantgbd",
+    "category": "visualization"
+  },
+  {
+    "id": 321,
+    "name": "MAGI",
+    "slug": "magi",
+    "category": "visualization"
+  },
+  {
+    "id": 322,
+    "name": "MOTIFSCAN",
+    "slug": "motifscan",
+    "category": "domain_verification"
+  },
+  {
+    "id": 323,
+    "name": "OrthoGNC",
+    "slug": "orthognc",
+    "category": "visualization"
+  },
+  {
+    "id": 324,
+    "name": "MARCOIL",
+    "slug": "marcoil",
+    "category": "visualization"
+  },
+  {
+    "id": 325,
+    "name": "AraNet",
+    "slug": "aranet",
+    "category": "visualization"
+  },
+  {
+    "id": 326,
+    "name": "expVIP",
+    "slug": "expvip",
+    "category": "visualization"
+  },
+  {
+    "id": 327,
+    "name": "NUCPRED",
+    "slug": "nucpred",
+    "category": "other_methodology"
+  },
+  {
+    "id": 328,
+    "name": "CViT",
+    "slug": "cvit",
+    "category": "visualization"
+  },
+  {
+    "id": 329,
+    "name": "K-ESTimator",
+    "slug": "k-estimator",
+    "category": "visualization"
+  },
+  {
+    "id": 330,
+    "name": "DIVERGE",
+    "slug": "diverge",
+    "category": "visualization"
+  },
+  {
+    "id": 331,
+    "name": "FAST-ML",
+    "slug": "fast-ml",
+    "category": "visualization"
+  },
+  {
+    "id": 332,
+    "name": "CELLO2GO",
+    "slug": "cello2go",
+    "category": "visualization"
+  },
+  {
+    "id": 333,
+    "name": "HDOCK",
+    "slug": "hdock",
+    "category": "visualization"
+  },
+  {
+    "id": 334,
+    "name": "PermutMatrix",
+    "slug": "permutmatrix",
+    "category": "visualization"
+  },
+  {
+    "id": 335,
+    "name": "ClustalW2",
+    "slug": "clustalw2",
+    "category": "visualization"
+  },
+  {
+    "id": 336,
+    "name": "MODELLER",
+    "slug": "modeller",
+    "category": "visualization"
+  },
+  {
+    "id": 337,
+    "name": "AutoDockTools",
+    "slug": "autodocktools",
+    "category": "visualization"
+  },
+  {
+    "id": 338,
+    "name": "R package \"circlize\"",
+    "slug": "r-package-circlize",
+    "category": "visualization"
+  },
+  {
+    "id": 339,
+    "name": "Poplar eFP browser",
+    "slug": "poplar-efp-browser",
+    "category": "visualization"
+  },
+  {
+    "id": 340,
+    "name": "Java TreeView",
+    "slug": "java-treeview",
+    "category": "visualization"
+  },
+  {
+    "id": 341,
+    "name": "Trinity",
+    "slug": "trinity",
+    "category": "visualization"
+  },
+  {
+    "id": 342,
+    "name": "HCE",
+    "slug": "hce",
+    "category": "visualization"
+  },
+  {
+    "id": 343,
+    "name": "Motif finder",
+    "slug": "motif-finder",
+    "category": "domain_verification"
+  },
+  {
+    "id": 344,
+    "name": "ShinyGO",
+    "slug": "shinygo",
+    "category": "visualization"
+  },
+  {
+    "id": 345,
+    "name": "PmiREN",
+    "slug": "pmiren",
+    "category": "visualization"
+  },
+  {
+    "id": 346,
+    "name": "TMHMM Server",
+    "slug": "tmhmm-server",
+    "category": "visualization"
+  },
+  {
+    "id": 347,
+    "name": "Advanced Circos",
+    "slug": "advanced-circos",
+    "category": "visualization"
+  },
+  {
+    "id": 348,
+    "name": "ClueGO",
+    "slug": "cluego",
+    "category": "visualization"
+  },
+  {
+    "id": 349,
+    "name": "MCODE",
+    "slug": "mcode",
+    "category": "other_methodology"
+  },
+  {
+    "id": 350,
+    "name": "ClustVis",
+    "slug": "clustvis",
+    "category": "visualization"
+  },
+  {
+    "id": 351,
+    "name": "miRBase",
+    "slug": "mirbase",
+    "category": "visualization"
+  },
+  {
+    "id": 352,
+    "name": "MapMan",
+    "slug": "mapman",
+    "category": "other_methodology"
+  },
+  {
+    "id": 353,
+    "name": "shinyCircos",
+    "slug": "shinycircos",
+    "category": "visualization"
+  },
+  {
+    "id": 354,
+    "name": "MtGEA",
+    "slug": "mtgea",
+    "category": "visualization"
+  },
+  {
+    "id": 355,
+    "name": "Protein Prowler",
+    "slug": "protein-prowler",
+    "category": "visualization"
+  },
+  {
+    "id": 356,
+    "name": "PMRD",
+    "slug": "pmrd",
+    "category": "visualization"
+  },
+  {
+    "id": 357,
+    "name": "Blast2GO PRO",
+    "slug": "blast2go-pro",
+    "category": "visualization"
+  },
+  {
+    "id": 358,
+    "name": "STRINGdb",
+    "slug": "stringdb",
+    "category": "visualization"
+  },
+  {
+    "id": 359,
+    "name": "Galaxy (BOWTIE2",
+    "slug": "galaxy-bowtie2",
+    "category": "visualization"
+  },
+  {
+    "id": 360,
+    "name": "EMBL Clustal Omega",
+    "slug": "embl-clustal-omega",
+    "category": "other_methodology"
+  },
+  {
+    "id": 361,
+    "name": "PlantsP database",
+    "slug": "plantsp-database",
+    "category": "motif_analysis"
+  },
+  {
+    "id": 362,
+    "name": "5'/3' RACE-PCR",
+    "slug": "5-3-race-pcr",
+    "category": "other_methodology"
+  },
+  {
+    "id": 363,
+    "name": "RT-PCR",
+    "slug": "rt-pcr",
+    "category": "other_methodology"
+  },
+  {
+    "id": 364,
+    "name": "PCR",
+    "slug": "pcr",
+    "category": "other_methodology"
+  },
+  {
+    "id": 365,
+    "name": "ChloroP",
+    "slug": "chlorop",
+    "category": "other_methodology"
+  },
+  {
+    "id": 366,
+    "name": "MITOPROT",
+    "slug": "mitoprot",
+    "category": "other_methodology"
+  },
+  {
+    "id": 367,
+    "name": "LightCycler480",
+    "slug": "lightcycler480",
+    "category": "other_methodology"
+  },
+  {
+    "id": 368,
+    "name": "Predotar",
+    "slug": "predotar",
+    "category": "visualization"
+  },
+  {
+    "id": 369,
+    "name": "PPDB",
+    "slug": "ppdb",
+    "category": "visualization"
+  },
+  {
+    "id": 370,
+    "name": "MINNOU",
+    "slug": "minnou",
+    "category": "visualization"
+  },
+  {
+    "id": 371,
+    "name": "TM-align",
+    "slug": "tm-align",
+    "category": "visualization"
+  },
+  {
+    "id": 372,
+    "name": "PLEXdb",
+    "slug": "plexdb",
+    "category": "visualization"
+  },
+  {
+    "id": 373,
+    "name": "eFP Browser",
+    "slug": "efp-browser",
+    "category": "visualization"
+  },
+  {
+    "id": 374,
+    "name": "BioRad CFX96",
+    "slug": "biorad-cfx96",
+    "category": "visualization"
+  },
+  {
+    "id": 375,
+    "name": "SAS",
+    "slug": "sas",
+    "category": "visualization"
+  },
+  {
+    "id": 376,
+    "name": "SWISSPROT",
+    "slug": "swissprot",
+    "category": "other_methodology"
+  },
+  {
+    "id": 377,
+    "name": "ORF finder",
+    "slug": "orf-finder",
+    "category": "other_methodology"
+  },
+  {
+    "id": 378,
+    "name": "NetOGlyc",
+    "slug": "netoglyc",
+    "category": "other_methodology"
+  },
+  {
+    "id": 379,
+    "name": "HemI",
+    "slug": "hemi",
+    "category": "visualization"
+  },
+  {
+    "id": 380,
+    "name": "Circolotto",
+    "slug": "circolotto",
+    "category": "visualization"
+  },
+  {
+    "id": 381,
+    "name": "NCBI CDD",
+    "slug": "ncbi-cdd",
+    "category": "visualization"
+  },
+  {
+    "id": 382,
+    "name": "Custom R scripts",
+    "slug": "custom-r-scripts",
+    "category": "other_methodology"
+  },
+  {
+    "id": 383,
+    "name": "'Biostrings' R package",
+    "slug": "biostrings-r-package",
+    "category": "other_methodology"
+  },
+  {
+    "id": 384,
+    "name": "MFOLD",
+    "slug": "mfold",
+    "category": "other_methodology"
+  },
+  {
+    "id": 385,
+    "name": "CAP3 Sequence Assembly Program",
+    "slug": "cap3-sequence-assembly-program",
+    "category": "visualization"
+  },
+  {
+    "id": 386,
+    "name": "RPKM calculation",
+    "slug": "rpkm-calculation",
+    "category": "visualization"
+  },
+  {
+    "id": 387,
+    "name": "Map Inspector",
+    "slug": "map-inspector",
+    "category": "visualization"
+  },
+  {
+    "id": 388,
+    "name": "CAPS",
+    "slug": "caps",
+    "category": "visualization"
+  },
+  {
+    "id": 389,
+    "name": "OrthVenn",
+    "slug": "orthvenn",
+    "category": "visualization"
+  },
+  {
+    "id": 390,
+    "name": "WGMapping program",
+    "slug": "wgmapping-program",
+    "category": "other_methodology"
+  },
+  {
+    "id": 391,
+    "name": "WheatExp database",
+    "slug": "wheatexp-database",
+    "category": "visualization"
+  },
+  {
+    "id": 392,
+    "name": "Circus tool",
+    "slug": "circus-tool",
+    "category": "visualization"
+  },
+  {
+    "id": 393,
+    "name": "PROSOII",
+    "slug": "prosoii",
+    "category": "visualization"
+  },
+  {
+    "id": 394,
+    "name": "WGCNA",
+    "slug": "wgcna",
+    "category": "visualization"
+  },
+  {
+    "id": 395,
+    "name": "PAML package",
+    "slug": "paml-package",
+    "category": "other_methodology"
+  },
+  {
+    "id": 396,
+    "name": "CottonFGD",
+    "slug": "cottonfgd",
+    "category": "visualization"
+  },
+  {
+    "id": 397,
+    "name": "Tophat-Cufflinks",
+    "slug": "tophat-cufflinks",
+    "category": "visualization"
+  },
+  {
+    "id": 398,
+    "name": "R software",
+    "slug": "r-software",
+    "category": "visualization"
+  },
+  {
+    "id": 399,
+    "name": "LASTZ-master",
+    "slug": "lastz-master",
+    "category": "other_methodology"
+  },
+  {
+    "id": 400,
+    "name": "Map Tool",
+    "slug": "map-tool",
+    "category": "visualization"
+  },
+  {
+    "id": 401,
+    "name": "PmiRExAt",
+    "slug": "pmirexat",
+    "category": "visualization"
+  },
+  {
+    "id": 402,
+    "name": "New PLACE",
+    "slug": "new-place",
+    "category": "visualization"
+  },
+  {
+    "id": 403,
+    "name": "EMBOSS Needle",
+    "slug": "emboss-needle",
+    "category": "other_methodology"
+  },
+  {
+    "id": 404,
+    "name": "SyMAP",
+    "slug": "symap",
+    "category": "visualization"
+  },
+  {
+    "id": 405,
+    "name": "NCBI EST database",
+    "slug": "ncbi-est-database",
+    "category": "visualization"
+  },
+  {
+    "id": 406,
+    "name": "NetNGlyc",
+    "slug": "netnglyc",
+    "category": "visualization"
+  },
+  {
+    "id": 407,
+    "name": "R language",
+    "slug": "r-language",
+    "category": "visualization"
+  },
+  {
+    "id": 408,
+    "name": "EuLoc",
+    "slug": "euloc",
+    "category": "other_methodology"
+  },
+  {
+    "id": 409,
+    "name": "IBM SPSS Statistics",
+    "slug": "ibm-spss-statistics",
+    "category": "other_methodology"
+  },
+  {
+    "id": 410,
+    "name": "NetPhos",
+    "slug": "netphos",
+    "category": "visualization"
+  },
+  {
+    "id": 411,
+    "name": "Gene Denovo analysis platform",
+    "slug": "gene-denovo-analysis-platform",
+    "category": "visualization"
+  },
+  {
+    "id": 412,
+    "name": "Adobe Illustrator",
+    "slug": "adobe-illustrator",
+    "category": "other_methodology"
+  },
+  {
+    "id": 413,
+    "name": "IDT PrimerQuest",
+    "slug": "idt-primerquest",
+    "category": "other_methodology"
+  },
+  {
+    "id": 414,
+    "name": "Pfam tools",
+    "slug": "pfam-tools",
+    "category": "other_methodology"
+  },
+  {
+    "id": 415,
+    "name": "ExPASy-ProtParamtool",
+    "slug": "expasy-protparamtool",
+    "category": "other_methodology"
+  },
+  {
+    "id": 416,
+    "name": "Plant-mPLoc server",
+    "slug": "plant-mploc-server",
+    "category": "visualization"
+  },
+  {
+    "id": 417,
+    "name": "ExPASy-Prot Param website",
+    "slug": "expasy-prot-param-website",
+    "category": "other_methodology"
+  },
+  {
+    "id": 418,
+    "name": "Beacon Designer",
+    "slug": "beacon-designer",
+    "category": "other_methodology"
+  },
+  {
+    "id": 419,
+    "name": "ExPASy-PROSITE",
+    "slug": "expasy-prosite",
+    "category": "other_methodology"
+  },
+  {
+    "id": 420,
+    "name": "5'-Full RACE kit",
+    "slug": "5-full-race-kit",
+    "category": "other_methodology"
+  },
+  {
+    "id": 421,
+    "name": "WEB LOGO",
+    "slug": "web-logo",
+    "category": "visualization"
+  },
+  {
+    "id": 422,
+    "name": "geNorm",
+    "slug": "genorm",
+    "category": "other_methodology"
+  },
+  {
+    "id": 423,
+    "name": "wheat expression browser powered by expVIP",
+    "slug": "wheat-expression-browser-powered-by-expvip",
+    "category": "visualization"
+  },
+  {
+    "id": 424,
+    "name": "CD- hit program",
+    "slug": "cd-hit-program",
+    "category": "other_methodology"
+  },
+  {
+    "id": 425,
+    "name": "Seqboot",
+    "slug": "seqboot",
+    "category": "other_methodology"
+  },
+  {
+    "id": 426,
+    "name": "Sequence Manipulation Suite",
+    "slug": "sequence-manipulation-suite",
+    "category": "other_methodology"
+  },
+  {
+    "id": 427,
+    "name": "PlantCARE online program",
+    "slug": "plantcare-online-program",
+    "category": "visualization"
+  },
+  {
+    "id": 428,
+    "name": "Primer3 online program",
+    "slug": "primer3-online-program",
+    "category": "other_methodology"
+  },
+  {
+    "id": 429,
+    "name": "EvoView",
+    "slug": "evoview",
+    "category": "visualization"
+  },
+  {
+    "id": 430,
+    "name": "online website for chromosome distribution",
+    "slug": "online-website-for-chromosome-distribution",
+    "category": "visualization"
+  },
+  {
+    "id": 431,
+    "name": "ExPASy online website",
+    "slug": "expasy-online-website",
+    "category": "other_methodology"
+  },
+  {
+    "id": 432,
+    "name": "PlantCare website",
+    "slug": "plantcare-website",
+    "category": "other_methodology"
+  },
+  {
+    "id": 433,
+    "name": "MG2C tool",
+    "slug": "mg2c-tool",
+    "category": "visualization"
+  },
+  {
+    "id": 434,
+    "name": "gProfiler",
+    "slug": "gprofiler",
+    "category": "visualization"
+  },
+  {
+    "id": 435,
+    "name": "wheat expression database",
+    "slug": "wheat-expression-database",
+    "category": "visualization"
+  },
+  {
+    "id": 436,
+    "name": "Cytoscape software",
+    "slug": "cytoscape-software",
+    "category": "visualization"
+  },
+  {
+    "id": 437,
+    "name": "MG2C online tool",
+    "slug": "mg2c-online-tool",
+    "category": "visualization"
+  },
+  {
+    "id": 438,
+    "name": "BatchPrimer3 server",
+    "slug": "batchprimer3-server",
+    "category": "visualization"
+  },
+  {
+    "id": 439,
+    "name": "psRNA-Target database",
+    "slug": "psrna-target-database",
+    "category": "visualization"
+  },
+  {
+    "id": 440,
+    "name": "STRING software",
+    "slug": "string-software",
+    "category": "visualization"
+  },
+  {
+    "id": 441,
+    "name": "MatGAT software",
+    "slug": "matgat-software",
+    "category": "other_methodology"
+  },
+  {
+    "id": 442,
+    "name": "Primer3 software",
+    "slug": "primer3-software",
+    "category": "other_methodology"
+  },
+  {
+    "id": 443,
+    "name": "Gpos-mPLoc",
+    "slug": "gpos-mploc",
+    "category": "other_methodology"
+  },
+  {
+    "id": 444,
+    "name": "TASSEL",
+    "slug": "tassel",
+    "category": "other_methodology"
+  },
+  {
+    "id": 445,
+    "name": "HiScript II Q RT SuperMix kit",
+    "slug": "hiscript-ii-q-rt-supermix-kit",
+    "category": "other_methodology"
+  },
+  {
+    "id": 446,
+    "name": "Nikon C2-ER confocal laser microscope",
+    "slug": "nikon-c2-er-confocal-laser-microscope",
+    "category": "other_methodology"
+  },
+  {
+    "id": 447,
+    "name": "HPLC",
+    "slug": "hplc",
+    "category": "other_methodology"
+  },
+  {
+    "id": 448,
+    "name": "Knowpulse web-resource",
+    "slug": "knowpulse-web-resource",
+    "category": "visualization"
+  },
+  {
+    "id": 449,
+    "name": "CB-Dock",
+    "slug": "cb-dock",
+    "category": "visualization"
+  },
+  {
+    "id": 450,
+    "name": "UNIPROT",
+    "slug": "uniprot",
+    "category": "visualization"
+  },
+  {
+    "id": 451,
+    "name": "Plantcare database",
+    "slug": "plantcare-database",
+    "category": "visualization"
+  },
+  {
+    "id": 452,
+    "name": "PoreWalker",
+    "slug": "porewalker",
+    "category": "visualization"
+  },
+  {
+    "id": 453,
+    "name": "Protter",
+    "slug": "protter",
+    "category": "visualization"
+  },
+  {
+    "id": 454,
+    "name": "Evolview tool",
+    "slug": "evolview-tool",
+    "category": "visualization"
+  },
+  {
+    "id": 455,
+    "name": "PlantPan database",
+    "slug": "plantpan-database",
+    "category": "visualization"
+  },
+  {
+    "id": 456,
+    "name": "InterPro Scan Program",
+    "slug": "interpro-scan-program",
+    "category": "domain_verification"
+  },
+  {
+    "id": 457,
+    "name": "Scan Prosite",
+    "slug": "scan-prosite",
+    "category": "domain_verification"
+  },
+  {
+    "id": 458,
+    "name": "SPPIDER",
+    "slug": "sppider",
+    "category": "visualization"
+  },
+  {
+    "id": 459,
+    "name": "Web SSR Finder",
+    "slug": "web-ssr-finder",
+    "category": "other_methodology"
+  },
+  {
+    "id": 460,
+    "name": "g: Profiler",
+    "slug": "g-profiler",
+    "category": "other_methodology"
+  },
+  {
+    "id": 461,
+    "name": "SOSUI/G",
+    "slug": "sosui-g",
+    "category": "other_methodology"
+  },
+  {
+    "id": 462,
+    "name": "OligoCalc",
+    "slug": "oligocalc",
+    "category": "other_methodology"
+  },
+  {
+    "id": 463,
+    "name": "MapInsect",
+    "slug": "mapinsect",
+    "category": "visualization"
+  },
+  {
+    "id": 464,
+    "name": "Compute pl/Mw tool",
+    "slug": "compute-pl-mw-tool",
+    "category": "other_methodology"
+  },
+  {
+    "id": 465,
+    "name": "Vista Tools",
+    "slug": "vista-tools",
+    "category": "other_methodology"
+  },
+  {
+    "id": 466,
+    "name": "HeatmapGenerator",
+    "slug": "heatmapgenerator",
+    "category": "other_methodology"
+  },
+  {
+    "id": 467,
+    "name": "EFI-EST",
+    "slug": "efi-est",
+    "category": "visualization"
+  },
+  {
+    "id": 468,
+    "name": "NPDock",
+    "slug": "npdock",
+    "category": "other_methodology"
+  },
+  {
+    "id": 469,
+    "name": "Oligo Calculator",
+    "slug": "oligo-calculator",
+    "category": "other_methodology"
+  },
+  {
+    "id": 470,
+    "name": "Localizer",
+    "slug": "localizer",
+    "category": "other_methodology"
+  },
+  {
+    "id": 471,
+    "name": "MusiteDeep",
+    "slug": "musitedeep",
+    "category": "other_methodology"
+  },
+  {
+    "id": 472,
+    "name": "MEMSAT-SVM in Phyre2",
+    "slug": "memsat-svm-in-phyre2",
+    "category": "other_methodology"
+  },
+  {
+    "id": 473,
+    "name": "Shigen Map Tool",
+    "slug": "shigen-map-tool",
+    "category": "visualization"
+  },
+  {
+    "id": 474,
+    "name": "GASS-WEB",
+    "slug": "gass-web",
+    "category": "visualization"
+  },
+  {
+    "id": 475,
+    "name": "RAMPAGE",
+    "slug": "rampage",
+    "category": "visualization"
+  },
+  {
+    "id": 476,
+    "name": "FastPCR Professional",
+    "slug": "fastpcr-professional",
+    "category": "other_methodology"
+  },
+  {
+    "id": 477,
+    "name": "PSIPRED",
+    "slug": "psipred",
+    "category": "other_methodology"
+  },
+  {
+    "id": 478,
+    "name": "LocTree3",
+    "slug": "loctree3",
+    "category": "other_methodology"
+  },
+  {
+    "id": 479,
+    "name": "RTRIP",
+    "slug": "rtrip",
+    "category": "other_methodology"
+  },
+  {
+    "id": 480,
+    "name": "DNASTAR",
+    "slug": "dnastar",
+    "category": "other_methodology"
+  },
+  {
+    "id": 481,
+    "name": "KOD FX Neo",
+    "slug": "kod-fx-neo",
+    "category": "other_methodology"
+  },
+  {
+    "id": 482,
+    "name": "pFGC-eGFP",
+    "slug": "pfgc-egfp",
+    "category": "other_methodology"
+  },
+  {
+    "id": 483,
+    "name": "yeast two-hybrid",
+    "slug": "yeast-two-hybrid",
+    "category": "other_methodology"
+  },
+  {
+    "id": 484,
+    "name": "Plant Genomic Duplication Database",
+    "slug": "plant-genomic-duplication-database",
+    "category": "synteny"
+  },
+  {
+    "id": 485,
+    "name": "ArkMap",
+    "slug": "arkmap",
+    "category": "visualization"
+  },
+  {
+    "id": 486,
+    "name": "PANTHER",
+    "slug": "panther",
+    "category": "other_methodology"
+  },
+  {
+    "id": 487,
+    "name": "Myristylator",
+    "slug": "myristylator",
+    "category": "other_methodology"
+  },
+  {
+    "id": 488,
+    "name": "Plant-Ploc",
+    "slug": "plant-ploc",
+    "category": "other_methodology"
+  },
+  {
+    "id": 489,
+    "name": "BioLayout Express 3D",
+    "slug": "biolayout-express-3d",
+    "category": "other_methodology"
+  },
+  {
+    "id": 490,
+    "name": "Map2GeneChrom",
+    "slug": "map2genechrom",
+    "category": "visualization"
+  },
+  {
+    "id": 491,
+    "name": "OmicsBox/Blast2Go",
+    "slug": "omicsbox-blast2go",
+    "category": "other_methodology"
+  },
+  {
+    "id": 492,
+    "name": "MapChart tool",
+    "slug": "mapchart-tool",
+    "category": "visualization"
+  },
+  {
+    "id": 493,
+    "name": "mensat-svm",
+    "slug": "mensat-svm",
+    "category": "other_methodology"
+  },
+  {
+    "id": 494,
+    "name": "MAFT",
+    "slug": "maft",
+    "category": "other_methodology"
+  },
+  {
+    "id": 495,
+    "name": "MapGene",
+    "slug": "mapgene",
+    "category": "visualization"
+  },
+  {
+    "id": 496,
+    "name": "Rosettafold",
+    "slug": "rosettafold",
+    "category": "other_methodology"
+  },
+  {
+    "id": 497,
+    "name": "Desmond MD Simulation",
+    "slug": "desmond-md-simulation",
+    "category": "other_methodology"
+  },
+  {
+    "id": 498,
+    "name": "MapGene2Chrom Webserver",
+    "slug": "mapgene2chrom-webserver",
+    "category": "visualization"
+  },
+  {
+    "id": 499,
+    "name": "NaturePred tool",
+    "slug": "naturepred-tool",
+    "category": "other_methodology"
+  },
+  {
+    "id": 500,
+    "name": "BWA",
+    "slug": "bwa",
+    "category": "other_methodology"
+  },
+  {
+    "id": 501,
+    "name": "rtracklayer",
+    "slug": "rtracklayer",
+    "category": "other_methodology"
+  },
+  {
+    "id": 502,
+    "name": "GenomicRanges",
+    "slug": "genomicranges",
+    "category": "other_methodology"
+  },
+  {
+    "id": 503,
+    "name": "circlize",
+    "slug": "circlize",
+    "category": "other_methodology"
+  },
+  {
+    "id": 504,
+    "name": "NLSdb",
+    "slug": "nlsdb",
+    "category": "other_methodology"
+  },
+  {
+    "id": 505,
+    "name": "PCR/RACE",
+    "slug": "pcr-race",
+    "category": "other_methodology"
+  },
+  {
+    "id": 506,
+    "name": "SAMtools faidex",
+    "slug": "samtools-faidex",
+    "category": "other_methodology"
+  },
+  {
+    "id": 507,
+    "name": "CASTp",
+    "slug": "castp",
+    "category": "other_methodology"
+  },
+  {
+    "id": 508,
+    "name": "VADAR",
+    "slug": "vadar",
+    "category": "other_methodology"
+  },
+  {
+    "id": 509,
+    "name": "ExPASyProtParam",
+    "slug": "expasyprotparam",
+    "category": "other_methodology"
+  },
+  {
+    "id": 510,
+    "name": "PREP-Cp",
+    "slug": "prep-cp",
+    "category": "other_methodology"
+  },
+  {
+    "id": 511,
+    "name": "PREP-Mt",
+    "slug": "prep-mt",
+    "category": "other_methodology"
+  },
+  {
+    "id": 512,
+    "name": "DESeq R package",
+    "slug": "deseq-r-package",
+    "category": "other_methodology"
+  },
+  {
+    "id": 513,
+    "name": "Primer 3",
+    "slug": "primer-3",
+    "category": "other_methodology"
+  },
+  {
+    "id": 514,
+    "name": "TMMOD",
+    "slug": "tmmod",
+    "category": "other_methodology"
+  },
+  {
+    "id": 515,
+    "name": "Multalin software",
+    "slug": "multalin-software",
+    "category": "other_methodology"
+  },
+  {
+    "id": 516,
+    "name": "OmicsBox and Blast2GO",
+    "slug": "omicsbox-and-blast2go",
+    "category": "other_methodology"
+  },
+  {
+    "id": 517,
+    "name": "Heatmapper",
+    "slug": "heatmapper",
+    "category": "other_methodology"
+  },
+  {
+    "id": 518,
+    "name": "Clustal T-Coffee",
+    "slug": "clustal-t-coffee",
+    "category": "visualization"
+  },
+  {
+    "id": 519,
+    "name": "TIGR Multiple Experiment Viewers",
+    "slug": "tigr-multiple-experiment-viewers",
+    "category": "visualization"
+  },
+  {
+    "id": 520,
+    "name": "PyRx",
+    "slug": "pyrx",
+    "category": "visualization"
+  },
+  {
+    "id": 521,
+    "name": "UCSF Chimera",
+    "slug": "ucsf-chimera",
+    "category": "visualization"
+  },
+  {
+    "id": 522,
+    "name": "Perl script",
+    "slug": "perl-script",
+    "category": "visualization"
+  },
+  {
+    "id": 523,
+    "name": "R package heatmap",
+    "slug": "r-package-heatmap",
+    "category": "visualization"
+  },
+  {
+    "id": 524,
+    "name": "RAxML-NG",
+    "slug": "raxml-ng",
+    "category": "other_methodology"
+  },
+  {
+    "id": 525,
+    "name": "ModelFinder",
+    "slug": "modelfinder",
+    "category": "other_methodology"
+  },
+  {
+    "id": 526,
+    "name": "Gene Structure Display Service",
+    "slug": "gene-structure-display-service",
+    "category": "visualization"
+  },
+  {
+    "id": 527,
+    "name": "DNASTAR Lasergene",
+    "slug": "dnastar-lasergene",
+    "category": "visualization"
+  },
+  {
+    "id": 528,
+    "name": "PlantTFDB",
+    "slug": "planttfdb",
+    "category": "visualization"
+  },
+  {
+    "id": 529,
+    "name": "ESPript3. 0",
+    "slug": "espript3-0",
+    "category": "other_methodology"
+  },
+  {
+    "id": 530,
+    "name": "DEGseq",
+    "slug": "degseq",
+    "category": "visualization"
+  },
+  {
+    "id": 531,
+    "name": "SRA database",
+    "slug": "sra-database",
+    "category": "visualization"
+  },
+  {
+    "id": 532,
+    "name": "TransZol Up Plus RNA Kit",
+    "slug": "transzol-up-plus-rna-kit",
+    "category": "other_methodology"
+  },
+  {
+    "id": 533,
+    "name": "qRT-PCR",
+    "slug": "qrt-pcr",
+    "category": "other_methodology"
+  },
+  {
+    "id": 534,
+    "name": "Swiss-Model server",
+    "slug": "swiss-model-server",
+    "category": "visualization"
+  },
+  {
+    "id": 535,
+    "name": "PSVS",
+    "slug": "psvs",
+    "category": "visualization"
+  },
+  {
+    "id": 536,
+    "name": "ERRAT",
+    "slug": "errat",
+    "category": "visualization"
+  },
+  {
+    "id": 537,
+    "name": "Java-Treeview software",
+    "slug": "java-treeview-software",
+    "category": "visualization"
+  },
+  {
+    "id": 538,
+    "name": "TRIZOL Kit",
+    "slug": "trizol-kit",
+    "category": "other_methodology"
+  },
+  {
+    "id": 539,
+    "name": "Takara RT-PCR system",
+    "slug": "takara-rt-pcr-system",
+    "category": "other_methodology"
+  },
+  {
+    "id": 540,
+    "name": "qPCR",
+    "slug": "qpcr",
+    "category": "other_methodology"
+  },
+  {
+    "id": 541,
+    "name": "BLAT",
+    "slug": "blat",
+    "category": "visualization"
+  },
+  {
+    "id": 542,
+    "name": "BLOCKS database",
+    "slug": "blocks-database",
+    "category": "visualization"
+  },
+  {
+    "id": 543,
+    "name": "Primer3Plus",
+    "slug": "primer3plus",
+    "category": "visualization"
+  },
+  {
+    "id": 544,
+    "name": "BLOCKS",
+    "slug": "blocks",
+    "category": "other_methodology"
+  },
+  {
+    "id": 545,
+    "name": "CTAB RNA extraction",
+    "slug": "ctab-rna-extraction",
+    "category": "other_methodology"
+  },
+  {
+    "id": 546,
+    "name": "Phyre2 server",
+    "slug": "phyre2-server",
+    "category": "visualization"
+  },
+  {
+    "id": 547,
+    "name": "NCBI BLAST",
+    "slug": "ncbi-blast",
+    "category": "visualization"
+  },
+  {
+    "id": 548,
+    "name": "TOPCONS",
+    "slug": "topcons",
+    "category": "visualization"
+  },
+  {
+    "id": 549,
+    "name": "MAST",
+    "slug": "mast",
+    "category": "visualization"
+  },
+  {
+    "id": 550,
+    "name": "mGOASVM",
+    "slug": "mgoasvm",
+    "category": "visualization"
+  },
+  {
+    "id": 551,
+    "name": "Inparanoid",
+    "slug": "inparanoid",
+    "category": "visualization"
+  },
+  {
+    "id": 552,
+    "name": "qTower",
+    "slug": "qtower",
+    "category": "visualization"
+  },
+  {
+    "id": 553,
+    "name": "Image-Pro Plus",
+    "slug": "image-pro-plus",
+    "category": "visualization"
+  },
+  {
+    "id": 554,
+    "name": "Ramachandran plot analysis",
+    "slug": "ramachandran-plot-analysis",
+    "category": "visualization"
+  },
+  {
+    "id": 555,
+    "name": "deep site",
+    "slug": "deep-site",
+    "category": "visualization"
+  },
+  {
+    "id": 556,
+    "name": "Proteins Plus online analysis tool DoGSeCorer",
+    "slug": "proteins-plus-online-analysis-tool-dogsecorer",
+    "category": "visualization"
+  },
+  {
+    "id": 557,
+    "name": "OmicsBox",
+    "slug": "omicsbox",
+    "category": "visualization"
+  },
+  {
+    "id": 558,
+    "name": "HMM profiling",
+    "slug": "hmm-profiling",
+    "category": "other_methodology"
+  },
+  {
+    "id": 559,
+    "name": "ExPASy ProtoParam",
+    "slug": "expasy-protoparam",
+    "category": "other_methodology"
+  },
+  {
+    "id": 560,
+    "name": "Proteins Plus",
+    "slug": "proteins-plus",
+    "category": "other_methodology"
+  },
+  {
+    "id": 561,
+    "name": "TRIzol reagent",
+    "slug": "trizol-reagent",
+    "category": "other_methodology"
+  },
+  {
+    "id": 562,
+    "name": "JCDB",
+    "slug": "jcdb",
+    "category": "visualization"
+  },
+  {
+    "id": 563,
+    "name": "RNA extraction",
+    "slug": "rna-extraction",
+    "category": "other_methodology"
+  },
+  {
+    "id": 564,
+    "name": "Y2H",
+    "slug": "y2h",
+    "category": "other_methodology"
+  },
+  {
+    "id": 565,
+    "name": "LCA",
+    "slug": "lca",
+    "category": "other_methodology"
+  },
+  {
+    "id": 566,
+    "name": "M-MLV reverse transcriptase Kit",
+    "slug": "m-mlv-reverse-transcriptase-kit",
+    "category": "visualization"
+  },
+  {
+    "id": 567,
+    "name": "M-MLV reverse transcriptase",
+    "slug": "m-mlv-reverse-transcriptase",
+    "category": "other_methodology"
+  },
+  {
+    "id": 568,
+    "name": "Bio-Rad CFX96",
+    "slug": "bio-rad-cfx96",
+    "category": "other_methodology"
+  },
+  {
+    "id": 569,
+    "name": "SYBR Green",
+    "slug": "sybr-green",
+    "category": "other_methodology"
+  },
+  {
+    "id": 570,
+    "name": "GeneMANIA",
+    "slug": "genemania",
+    "category": "visualization"
+  },
+  {
+    "id": 571,
+    "name": "NBT staining",
+    "slug": "nbt-staining",
+    "category": "other_methodology"
+  },
+  {
+    "id": 572,
+    "name": "DAB staining",
+    "slug": "dab-staining",
+    "category": "other_methodology"
+  },
+  {
+    "id": 573,
+    "name": "Plant-mSubP",
+    "slug": "plant-msubp",
+    "category": "visualization"
+  },
+  {
+    "id": 574,
+    "name": "pLoc-mPlant",
+    "slug": "ploc-mplant",
+    "category": "visualization"
+  },
+  {
+    "id": 575,
+    "name": "psRNATarget Server",
+    "slug": "psrnatarget-server",
+    "category": "visualization"
+  },
+  {
+    "id": 576,
+    "name": "Ramachandran Plot-Zlab",
+    "slug": "ramachandran-plot-zlab",
+    "category": "visualization"
+  },
+  {
+    "id": 577,
+    "name": "I-TASSER server",
+    "slug": "i-tasser-server",
+    "category": "visualization"
+  },
+  {
+    "id": 578,
+    "name": "SAVES",
+    "slug": "saves",
+    "category": "visualization"
+  },
+  {
+    "id": 579,
+    "name": "PubChem",
+    "slug": "pubchem",
+    "category": "visualization"
+  },
+  {
+    "id": 580,
+    "name": "Discovery Studio",
+    "slug": "discovery-studio",
+    "category": "visualization"
+  },
+  {
+    "id": 581,
+    "name": "CoGe",
+    "slug": "coge",
+    "category": "synteny"
+  },
+  {
+    "id": 582,
+    "name": "PLAZA",
+    "slug": "plaza",
+    "category": "synteny"
+  },
+  {
+    "id": 583,
+    "name": "NCBI GEO",
+    "slug": "ncbi-geo",
+    "category": "visualization"
+  },
+  {
+    "id": 584,
+    "name": "GeneSpring GX",
+    "slug": "genespring-gx",
+    "category": "visualization"
+  },
+  {
+    "id": 585,
+    "name": "Genesis",
+    "slug": "genesis",
+    "category": "visualization"
+  },
+  {
+    "id": 586,
+    "name": "NMPP",
+    "slug": "nmpp",
+    "category": "visualization"
+  },
+  {
+    "id": 587,
+    "name": "Bio-Array Resource",
+    "slug": "bio-array-resource",
+    "category": "visualization"
+  },
+  {
+    "id": 588,
+    "name": "LightCycler 480",
+    "slug": "lightcycler-480",
+    "category": "visualization"
+  },
+  {
+    "id": 589,
+    "name": "PhyML",
+    "slug": "phyml",
+    "category": "other_methodology"
+  },
+  {
+    "id": 590,
+    "name": "SoyBase browser",
+    "slug": "soybase-browser",
+    "category": "visualization"
+  },
+  {
+    "id": 591,
+    "name": "NetAffx Analysis Center",
+    "slug": "netaffx-analysis-center",
+    "category": "visualization"
+  },
+  {
+    "id": 592,
+    "name": "RNA Seq-Atlas",
+    "slug": "rna-seq-atlas",
+    "category": "visualization"
+  },
+  {
+    "id": 593,
+    "name": "TRIzol",
+    "slug": "trizol",
+    "category": "other_methodology"
+  },
+  {
+    "id": 594,
+    "name": "PrimeScriptTM RT Reagent Kit",
+    "slug": "primescripttm-rt-reagent-kit",
+    "category": "other_methodology"
+  },
+  {
+    "id": 595,
+    "name": "Tbtool",
+    "slug": "tbtool",
+    "category": "visualization"
+  },
+  {
+    "id": 596,
+    "name": "AlphaFold",
+    "slug": "alphafold",
+    "category": "visualization"
+  },
+  {
+    "id": 597,
+    "name": "RAxML",
+    "slug": "raxml",
+    "category": "other_methodology"
+  },
+  {
+    "id": 598,
+    "name": "Illustrator for Biological Sequences",
+    "slug": "illustrator-for-biological-sequences",
+    "category": "visualization"
+  },
+  {
+    "id": 599,
+    "name": "Microsoft Office PowerPoint",
+    "slug": "microsoft-office-powerpoint",
+    "category": "visualization"
+  },
+  {
+    "id": 600,
+    "name": "RevertAid First Strand cDNA Synthesis Kit",
+    "slug": "revertaid-first-strand-cdna-synthesis-kit",
+    "category": "other_methodology"
+  },
+  {
+    "id": 601,
+    "name": "AutoDock Vina",
+    "slug": "autodock-vina",
+    "category": "other_methodology"
+  },
+  {
+    "id": 602,
+    "name": "MGLTools",
+    "slug": "mgltools",
+    "category": "other_methodology"
+  },
+  {
+    "id": 603,
+    "name": "ProtFun",
+    "slug": "protfun",
+    "category": "other_methodology"
+  },
+  {
+    "id": 604,
+    "name": "dbCAN pipeline",
+    "slug": "dbcan-pipeline",
+    "category": "other_methodology"
+  },
+  {
+    "id": 605,
+    "name": "Bowtie",
+    "slug": "bowtie",
+    "category": "other_methodology"
+  },
+  {
+    "id": 606,
+    "name": "Primerquest",
+    "slug": "primerquest",
+    "category": "other_methodology"
+  },
+  {
+    "id": 607,
+    "name": "LinRegPCR",
+    "slug": "linregpcr",
+    "category": "other_methodology"
+  },
+  {
+    "id": 608,
+    "name": "Protoparam",
+    "slug": "protoparam",
+    "category": "other_methodology"
+  },
+  {
+    "id": 609,
+    "name": "LightCycler96",
+    "slug": "lightcycler96",
+    "category": "other_methodology"
+  },
+  {
+    "id": 610,
+    "name": "MINITAB",
+    "slug": "minitab",
+    "category": "other_methodology"
+  },
+  {
+    "id": 611,
+    "name": "GCRMA",
+    "slug": "gcrma",
+    "category": "other_methodology"
+  },
+  {
+    "id": 612,
+    "name": "2^-??Ct method",
+    "slug": "2-ct-method",
+    "category": "other_methodology"
+  },
+  {
+    "id": 613,
+    "name": "MapInspect tool",
+    "slug": "mapinspect-tool",
+    "category": "visualization"
+  },
+  {
+    "id": 614,
+    "name": "Perl-based script",
+    "slug": "perl-based-script",
+    "category": "other_methodology"
+  },
+  {
+    "id": 615,
+    "name": "PrimeScript First Strand cDNA Synthesis Kit",
+    "slug": "primescript-first-strand-cdna-synthesis-kit",
+    "category": "other_methodology"
+  },
+  {
+    "id": 616,
+    "name": "pBIN vector",
+    "slug": "pbin-vector",
+    "category": "other_methodology"
+  },
+  {
+    "id": 617,
+    "name": "Gal4-based two-hybrid system",
+    "slug": "gal4-based-two-hybrid-system",
+    "category": "other_methodology"
+  },
+  {
+    "id": 618,
+    "name": "floral dip method",
+    "slug": "floral-dip-method",
+    "category": "other_methodology"
+  },
+  {
+    "id": 619,
+    "name": "Primer Express software",
+    "slug": "primer-express-software",
+    "category": "other_methodology"
+  },
+  {
+    "id": 620,
+    "name": "SYBR Green PCR Master Mix",
+    "slug": "sybr-green-pcr-master-mix",
+    "category": "other_methodology"
+  },
+  {
+    "id": 621,
+    "name": "CFX96 instrument",
+    "slug": "cfx96-instrument",
+    "category": "other_methodology"
+  },
+  {
+    "id": 622,
+    "name": "SYBR Green qPCR kits",
+    "slug": "sybr-green-qpcr-kits",
+    "category": "other_methodology"
+  },
+  {
+    "id": 623,
+    "name": "BAR Heatmapper Plus",
+    "slug": "bar-heatmapper-plus",
+    "category": "other_methodology"
+  },
+  {
+    "id": 624,
+    "name": "Predator",
+    "slug": "predator",
+    "category": "other_methodology"
+  },
+  {
+    "id": 625,
+    "name": "MultiLoc",
+    "slug": "multiloc",
+    "category": "other_methodology"
+  },
+  {
+    "id": 626,
+    "name": "CPHModels",
+    "slug": "cphmodels",
+    "category": "other_methodology"
+  },
+  {
+    "id": 627,
+    "name": "CTAB procedure",
+    "slug": "ctab-procedure",
+    "category": "other_methodology"
+  },
+  {
+    "id": 628,
+    "name": "TransScriptTM One-step gDNA Removal and cDNA Synthesis SuperMix",
+    "slug": "transscripttm-one-step-gdna-removal-and-cdna-synthesis-supermix",
+    "category": "other_methodology"
+  },
+  {
+    "id": 629,
+    "name": "Beacon Designers",
+    "slug": "beacon-designers",
+    "category": "other_methodology"
+  },
+  {
+    "id": 630,
+    "name": "CFX96 real-time system",
+    "slug": "cfx96-real-time-system",
+    "category": "other_methodology"
+  },
+  {
+    "id": 631,
+    "name": "Adobe Photoshop",
+    "slug": "adobe-photoshop",
+    "category": "visualization"
+  },
+  {
+    "id": 632,
+    "name": "PAMLX",
+    "slug": "pamlx",
+    "category": "other_methodology"
+  },
+  {
+    "id": 633,
+    "name": "Neural Network Promoter Prediction",
+    "slug": "neural-network-promoter-prediction",
+    "category": "other_methodology"
+  },
+  {
+    "id": 634,
+    "name": "RNAiso TM Plus",
+    "slug": "rnaiso-tm-plus",
+    "category": "other_methodology"
+  },
+  {
+    "id": 635,
+    "name": "Adobe_Photoshop_CS6",
+    "slug": "adobe-photoshop-cs6",
+    "category": "other_methodology"
+  },
+  {
+    "id": 636,
+    "name": "NormFinder",
+    "slug": "normfinder",
+    "category": "other_methodology"
+  },
+  {
+    "id": 637,
+    "name": "Stratagene Mx3000P thermocycler",
+    "slug": "stratagene-mx3000p-thermocycler",
+    "category": "other_methodology"
+  },
+  {
+    "id": 638,
+    "name": "pOTB vector",
+    "slug": "potb-vector",
+    "category": "other_methodology"
+  },
+  {
+    "id": 639,
+    "name": "Agrobacterium tumefaciens EHA105",
+    "slug": "agrobacterium-tumefaciens-eha105",
+    "category": "other_methodology"
+  },
+  {
+    "id": 640,
+    "name": "Nikon digital camera",
+    "slug": "nikon-digital-camera",
+    "category": "other_methodology"
+  },
+  {
+    "id": 641,
+    "name": "Olympus IX51 inverted microscope",
+    "slug": "olympus-ix51-inverted-microscope",
+    "category": "other_methodology"
+  },
+  {
+    "id": 642,
+    "name": "Nile Red",
+    "slug": "nile-red",
+    "category": "other_methodology"
+  },
+  {
+    "id": 643,
+    "name": "PSS NiComp 380ZLS",
+    "slug": "pss-nicomp-380zls",
+    "category": "other_methodology"
+  },
+  {
+    "id": 644,
+    "name": "RNAiso Plus Kit",
+    "slug": "rnaiso-plus-kit",
+    "category": "other_methodology"
+  },
+  {
+    "id": 645,
+    "name": "Takara Bio",
+    "slug": "takara-bio",
+    "category": "other_methodology"
+  },
+  {
+    "id": 646,
+    "name": "Student t-test",
+    "slug": "student-t-test",
+    "category": "other_methodology"
+  },
+  {
+    "id": 647,
+    "name": "ProTest",
+    "slug": "protest",
+    "category": "other_methodology"
+  },
+  {
+    "id": 648,
+    "name": "pCAMBIA1302 vector",
+    "slug": "pcambia1302-vector",
+    "category": "other_methodology"
+  },
+  {
+    "id": 649,
+    "name": "pCAMBIA3301 vector",
+    "slug": "pcambia3301-vector",
+    "category": "other_methodology"
+  },
+  {
+    "id": 650,
+    "name": "Agrobacterium rhizogenes-mediated transformation",
+    "slug": "agrobacterium-rhizogenes-mediated-transformation",
+    "category": "other_methodology"
+  },
+  {
+    "id": 651,
+    "name": "ClustalX2",
+    "slug": "clustalx2",
+    "category": "other_methodology"
+  },
+  {
+    "id": 652,
+    "name": "R package \"pheatmap\"",
+    "slug": "r-package-pheatmap",
+    "category": "other_methodology"
+  },
+  {
+    "id": 653,
+    "name": "NanoDrop",
+    "slug": "nanodrop",
+    "category": "other_methodology"
+  },
+  {
+    "id": 654,
+    "name": "cDNA synthesis kit",
+    "slug": "cdna-synthesis-kit",
+    "category": "other_methodology"
+  },
+  {
+    "id": 655,
+    "name": "Maxima SYBR Green/ROX qPCR Master Mix",
+    "slug": "maxima-sybr-green-rox-qpcr-master-mix",
+    "category": "other_methodology"
+  },
+  {
+    "id": 656,
+    "name": "Barley stripe mosaic virus system",
+    "slug": "barley-stripe-mosaic-virus-system",
+    "category": "other_methodology"
+  },
+  {
+    "id": 657,
+    "name": "EMBOSS-Pepstats",
+    "slug": "emboss-pepstats",
+    "category": "visualization"
+  },
+  {
+    "id": 658,
+    "name": "pENTR/D-TOPO vector",
+    "slug": "pentr-d-topo-vector",
+    "category": "other_methodology"
+  },
+  {
+    "id": 659,
+    "name": "16318GFP vector",
+    "slug": "16318gfp-vector",
+    "category": "other_methodology"
+  },
+  {
+    "id": 660,
+    "name": "laser confocal fluorescence microscopy",
+    "slug": "laser-confocal-fluorescence-microscopy",
+    "category": "other_methodology"
+  },
+  {
+    "id": 661,
+    "name": "pGBKT7 vector",
+    "slug": "pgbkt7-vector",
+    "category": "other_methodology"
+  },
+  {
+    "id": 662,
+    "name": "pGADT7 vector",
+    "slug": "pgadt7-vector",
+    "category": "other_methodology"
+  },
+  {
+    "id": 663,
+    "name": "pB7WG2",
+    "slug": "pb7wg2",
+    "category": "other_methodology"
+  },
+  {
+    "id": 664,
+    "name": "Agrobacterium-mediated transformation",
+    "slug": "agrobacterium-mediated-transformation",
+    "category": "other_methodology"
+  },
+  {
+    "id": 665,
+    "name": "NGS QC Toolkit",
+    "slug": "ngs-qc-toolkit",
+    "category": "other_methodology"
+  },
+  {
+    "id": 666,
+    "name": "TopHat",
+    "slug": "tophat",
+    "category": "other_methodology"
+  },
+  {
+    "id": 667,
+    "name": "GOseq R packages",
+    "slug": "goseq-r-packages",
+    "category": "other_methodology"
+  },
+  {
+    "id": 668,
+    "name": "Mapinsect software",
+    "slug": "mapinsect-software",
+    "category": "other_methodology"
+  },
+  {
+    "id": 669,
+    "name": "PAL2NAL program",
+    "slug": "pal2nal-program",
+    "category": "other_methodology"
+  },
+  {
+    "id": 670,
+    "name": "R program",
+    "slug": "r-program",
+    "category": "other_methodology"
+  },
+  {
+    "id": 671,
+    "name": "Sigma",
+    "slug": "sigma",
+    "category": "other_methodology"
+  },
+  {
+    "id": 672,
+    "name": "SAVES server",
+    "slug": "saves-server",
+    "category": "other_methodology"
+  },
+  {
+    "id": 673,
+    "name": "PatchDock server",
+    "slug": "patchdock-server",
+    "category": "other_methodology"
+  },
+  {
+    "id": 674,
+    "name": "iTaq Universal SYBR Green SuperMix",
+    "slug": "itaq-universal-sybr-green-supermix",
+    "category": "other_methodology"
+  },
+  {
+    "id": 675,
+    "name": "CFX96 TouchTM Real-Time PCR Detection System",
+    "slug": "cfx96-touchtm-real-time-pcr-detection-system",
+    "category": "other_methodology"
+  },
+  {
+    "id": 676,
+    "name": "Student's t-test",
+    "slug": "student-s-t-test",
+    "category": "other_methodology"
+  },
+  {
+    "id": 677,
+    "name": "Omicshare Tools",
+    "slug": "omicshare-tools",
+    "category": "other_methodology"
+  },
+  {
+    "id": 678,
+    "name": "NanoDrop 2000",
+    "slug": "nanodrop-2000",
+    "category": "other_methodology"
+  },
+  {
+    "id": 679,
+    "name": "HiScript II 1st Strand cDNA Synthesis Kit",
+    "slug": "hiscript-ii-1st-strand-cdna-synthesis-kit",
+    "category": "other_methodology"
+  },
+  {
+    "id": 680,
+    "name": "Channel Universal SYBR qPCR Master Mix",
+    "slug": "channel-universal-sybr-qpcr-master-mix",
+    "category": "other_methodology"
+  },
+  {
+    "id": 681,
+    "name": "CIPRES Science Gateway",
+    "slug": "cipres-science-gateway",
+    "category": "other_methodology"
+  },
+  {
+    "id": 682,
+    "name": "Vazyme/R223",
+    "slug": "vazyme-r223",
+    "category": "other_methodology"
+  },
+  {
+    "id": 683,
+    "name": "Yeasen/11202ES03 kits",
+    "slug": "yeasen-11202es03-kits",
+    "category": "other_methodology"
+  },
+  {
+    "id": 684,
+    "name": "BMKCloud",
+    "slug": "bmkcloud",
+    "category": "other_methodology"
+  },
+  {
+    "id": 685,
+    "name": "ScanProsite Server",
+    "slug": "scanprosite-server",
+    "category": "domain_verification"
+  },
+  {
+    "id": 686,
+    "name": "ChimeraX",
+    "slug": "chimerax",
+    "category": "visualization"
+  },
+  {
+    "id": 687,
+    "name": "Galaxy Refine",
+    "slug": "galaxy-refine",
+    "category": "visualization"
+  },
+  {
+    "id": 688,
+    "name": "PROCHECK",
+    "slug": "procheck",
+    "category": "visualization"
+  },
+  {
+    "id": 689,
+    "name": "PrDOS",
+    "slug": "prdos",
+    "category": "visualization"
+  },
+  {
+    "id": 690,
+    "name": "ExPASy ScanProsite",
+    "slug": "expasy-scanprosite",
+    "category": "domain_verification"
+  },
+  {
+    "id": 691,
+    "name": "Affymetrix soybean IVT array",
+    "slug": "affymetrix-soybean-ivt-array",
+    "category": "other_methodology"
+  },
+  {
+    "id": 692,
+    "name": "MapGene2Chromosome2",
+    "slug": "mapgene2chromosome2",
+    "category": "visualization"
+  },
+  {
+    "id": 693,
+    "name": "TrimAl",
+    "slug": "trimal",
+    "category": "visualization"
+  },
+  {
+    "id": 694,
+    "name": "UFBoot2",
+    "slug": "ufboot2",
+    "category": "visualization"
+  },
+  {
+    "id": 695,
+    "name": "Online duplication tool",
+    "slug": "online-duplication-tool",
+    "category": "synteny"
+  },
+  {
+    "id": 696,
+    "name": "Primer?BLAST",
+    "slug": "primer-blast",
+    "category": "other_methodology"
+  },
+  {
+    "id": 697,
+    "name": "CTDB",
+    "slug": "ctdb",
+    "category": "other_methodology"
+  },
+  {
+    "id": 698,
+    "name": "Salmon",
+    "slug": "salmon",
+    "category": "other_methodology"
+  },
+  {
+    "id": 699,
+    "name": "Affymetrix GeneChip",
+    "slug": "affymetrix-genechip",
+    "category": "other_methodology"
+  },
+  {
+    "id": 700,
+    "name": "GCOS",
+    "slug": "gcos",
+    "category": "other_methodology"
+  },
+  {
+    "id": 701,
+    "name": "ArrayAssist",
+    "slug": "arrayassist",
+    "category": "other_methodology"
+  },
+  {
+    "id": 702,
+    "name": "TAIR Chromosome Map Tool",
+    "slug": "tair-chromosome-map-tool",
+    "category": "visualization"
+  },
+  {
+    "id": 703,
+    "name": "Oryzabase Map Tool",
+    "slug": "oryzabase-map-tool",
+    "category": "visualization"
+  },
+  {
+    "id": 704,
+    "name": "ATTED?II",
+    "slug": "atted-ii",
+    "category": "other_methodology"
+  },
+  {
+    "id": 705,
+    "name": "AtPID",
+    "slug": "atpid",
+    "category": "other_methodology"
+  },
+  {
+    "id": 706,
+    "name": "CELLO v2. 5",
+    "slug": "cello-v2-5",
+    "category": "other_methodology"
+  },
+  {
+    "id": 707,
+    "name": "MEGA5",
+    "slug": "mega5",
+    "category": "other_methodology"
+  },
+  {
+    "id": 708,
+    "name": "CAP3",
+    "slug": "cap3",
+    "category": "other_methodology"
+  },
+  {
+    "id": 709,
+    "name": "Primer Premier 5. 0",
+    "slug": "primer-premier-5-0",
+    "category": "other_methodology"
+  },
+  {
+    "id": 710,
+    "name": "MSU RGAP segmental duplication data",
+    "slug": "msu-rgap-segmental-duplication-data",
+    "category": "synteny"
+  },
+  {
+    "id": 711,
+    "name": "CREP database",
+    "slug": "crep-database",
+    "category": "other_methodology"
+  },
+  {
+    "id": 712,
+    "name": "NCBI ORF Finder",
+    "slug": "ncbi-orf-finder",
+    "category": "domain_verification"
+  },
+  {
+    "id": 713,
+    "name": "SMART RACE",
+    "slug": "smart-race",
+    "category": "other_methodology"
+  },
+  {
+    "id": 714,
+    "name": "Manual comparison of genomic regions",
+    "slug": "manual-comparison-of-genomic-regions",
+    "category": "synteny"
+  },
+  {
+    "id": 715,
+    "name": "5??RACE",
+    "slug": "5-race",
+    "category": "other_methodology"
+  },
+  {
+    "id": 716,
+    "name": "3??RACE",
+    "slug": "3-race",
+    "category": "other_methodology"
+  },
+  {
+    "id": 717,
+    "name": "GeneRacer kit",
+    "slug": "generacer-kit",
+    "category": "other_methodology"
+  },
+  {
+    "id": 718,
+    "name": "Syntenic blocks from Wang et al. 2012",
+    "slug": "syntenic-blocks-from-wang-et-al-2012",
+    "category": "synteny"
+  },
+  {
+    "id": 719,
+    "name": "Matlab",
+    "slug": "matlab",
+    "category": "visualization"
+  },
+  {
+    "id": 720,
+    "name": "MEGA4",
+    "slug": "mega4",
+    "category": "other_methodology"
+  },
+  {
+    "id": 721,
+    "name": "GSDS 2. 0",
+    "slug": "gsds-2-0",
+    "category": "visualization"
+  },
+  {
+    "id": 722,
+    "name": "MEGA11",
+    "slug": "mega11",
+    "category": "other_methodology"
+  },
+  {
+    "id": 723,
+    "name": "StringTie2",
+    "slug": "stringtie2",
+    "category": "other_methodology"
+  },
+  {
+    "id": 724,
+    "name": "MatInspector",
+    "slug": "matinspector",
+    "category": "other_methodology"
+  },
+  {
+    "id": 725,
+    "name": "Genomatix",
+    "slug": "genomatix",
+    "category": "other_methodology"
+  },
+  {
+    "id": 726,
+    "name": "Soybase",
+    "slug": "soybase",
+    "category": "other_methodology"
+  },
+  {
+    "id": 727,
+    "name": "REST",
+    "slug": "rest",
+    "category": "other_methodology"
+  },
+  {
+    "id": 728,
+    "name": "MCScan",
+    "slug": "mcscan",
+    "category": "synteny"
+  },
+  {
+    "id": 729,
+    "name": "Gromacs",
+    "slug": "gromacs",
+    "category": "other_methodology"
+  },
+  {
+    "id": 730,
+    "name": "HexServer",
+    "slug": "hexserver",
+    "category": "other_methodology"
+  },
+  {
+    "id": 731,
+    "name": "COILS",
+    "slug": "coils",
+    "category": "domain_verification"
+  },
+  {
+    "id": 732,
+    "name": "Phylip",
+    "slug": "phylip",
+    "category": "other_methodology"
+  },
+  {
+    "id": 733,
+    "name": "TreePuzzle",
+    "slug": "treepuzzle",
+    "category": "other_methodology"
+  },
+  {
+    "id": 734,
+    "name": "TMPRED",
+    "slug": "tmpred",
+    "category": "domain_verification"
+  },
+  {
+    "id": 735,
+    "name": "SDPpred",
+    "slug": "sdppred",
+    "category": "other_methodology"
+  },
+  {
+    "id": 736,
+    "name": "Rice interaction viewer",
+    "slug": "rice-interaction-viewer",
+    "category": "other_methodology"
+  },
+  {
+    "id": 737,
+    "name": "Manual duplication analysis",
+    "slug": "manual-duplication-analysis",
+    "category": "synteny"
+  },
+  {
+    "id": 738,
+    "name": "MUpro",
+    "slug": "mupro",
+    "category": "other_methodology"
+  },
+  {
+    "id": 739,
+    "name": "TFSEARCH",
+    "slug": "tfsearch",
+    "category": "other_methodology"
+  },
+  {
+    "id": 740,
+    "name": "DFCI",
+    "slug": "dfci",
+    "category": "other_methodology"
+  },
+  {
+    "id": 741,
+    "name": "MPSS",
+    "slug": "mpss",
+    "category": "other_methodology"
+  },
+  {
+    "id": 742,
+    "name": "AVT",
+    "slug": "avt",
+    "category": "other_methodology"
+  },
+  {
+    "id": 743,
+    "name": "MapGene2 Chromosome",
+    "slug": "mapgene2-chromosome",
+    "category": "visualization"
+  },
+  {
+    "id": 744,
+    "name": "Heatmapper Plus",
+    "slug": "heatmapper-plus",
+    "category": "visualization"
+  },
+  {
+    "id": 745,
+    "name": "LIMMA",
+    "slug": "limma",
+    "category": "other_methodology"
+  },
+  {
+    "id": 746,
+    "name": "GBrowse?Syn",
+    "slug": "gbrowse-syn",
+    "category": "synteny"
+  },
+  {
+    "id": 747,
+    "name": "Mercator",
+    "slug": "mercator",
+    "category": "synteny"
+  },
+  {
+    "id": 748,
+    "name": "Dendroscope",
+    "slug": "dendroscope",
+    "category": "visualization"
+  },
+  {
+    "id": 749,
+    "name": "MCScan v0. 8",
+    "slug": "mcscan-v0-8",
+    "category": "synteny"
+  },
+  {
+    "id": 750,
+    "name": "CODEML",
+    "slug": "codeml",
+    "category": "other_methodology"
+  },
+  {
+    "id": 751,
+    "name": "FmMDb",
+    "slug": "fmmdb",
+    "category": "other_methodology"
+  },
+  {
+    "id": 752,
+    "name": "Gene Structure View",
+    "slug": "gene-structure-view",
+    "category": "visualization"
+  },
+  {
+    "id": 753,
+    "name": "etc.",
+    "slug": "etc",
+    "category": "other_methodology"
+  },
+  {
+    "id": 754,
+    "name": "SignalP?5. 0",
+    "slug": "signalp-5-0",
+    "category": "domain_verification"
+  },
+  {
+    "id": 755,
+    "name": "THMM?2. 0",
+    "slug": "thmm-2-0",
+    "category": "domain_verification"
+  },
+  {
+    "id": 756,
+    "name": "CLICK",
+    "slug": "click",
+    "category": "other_methodology"
+  },
+  {
+    "id": 757,
+    "name": "TM?score",
+    "slug": "tm-score",
+    "category": "other_methodology"
+  },
+  {
+    "id": 758,
+    "name": "Cell?PLoc 2. 0",
+    "slug": "cell-ploc-2-0",
+    "category": "other_methodology"
+  },
+  {
+    "id": 759,
+    "name": "WebLogo3",
+    "slug": "weblogo3",
+    "category": "visualization"
+  },
+  {
+    "id": 760,
+    "name": "Triticeae?GeneTribe",
+    "slug": "triticeae-genetribe",
+    "category": "synteny"
+  },
+  {
+    "id": 761,
+    "name": "WheatOmics",
+    "slug": "wheatomics",
+    "category": "other_methodology"
+  },
+  {
+    "id": 762,
+    "name": "PolyMarker",
+    "slug": "polymarker",
+    "category": "other_methodology"
+  },
+  {
+    "id": 763,
+    "name": "DNAman 9. 0",
+    "slug": "dnaman-9-0",
+    "category": "other_methodology"
+  },
+  {
+    "id": 764,
+    "name": "TBtools (gene duplication",
+    "slug": "tbtools-gene-duplication",
+    "category": "synteny"
+  },
+  {
+    "id": 765,
+    "name": "Ka/Ks)",
+    "slug": "ka-ks",
+    "category": "synteny"
+  },
+  {
+    "id": 766,
+    "name": "RStudio",
+    "slug": "rstudio",
+    "category": "visualization"
+  },
+  {
+    "id": 767,
+    "name": "STAR",
+    "slug": "star",
+    "category": "other_methodology"
+  },
+  {
+    "id": 768,
+    "name": "TBtools (Ka/Ks",
+    "slug": "tbtools-ka-ks",
+    "category": "synteny"
+  },
+  {
+    "id": 769,
+    "name": "duplication analysis)",
+    "slug": "duplication-analysis",
+    "category": "synteny"
+  },
+  {
+    "id": 770,
+    "name": "EnsemblPlants",
+    "slug": "ensemblplants",
+    "category": "other_methodology"
+  },
+  {
+    "id": 771,
+    "name": "Phytozome",
+    "slug": "phytozome",
+    "category": "other_methodology"
+  },
+  {
+    "id": 772,
+    "name": "DNA SP V5. 0",
+    "slug": "dna-sp-v5-0",
+    "category": "other_methodology"
+  },
+  {
+    "id": 773,
+    "name": "TBtools (Circos",
+    "slug": "tbtools-circos",
+    "category": "synteny"
+  },
+  {
+    "id": 774,
+    "name": "synteny)",
+    "slug": "synteny",
+    "category": "synteny"
+  },
+  {
+    "id": 775,
+    "name": "Circos-0. 69",
+    "slug": "circos-0-69",
+    "category": "visualization"
+  },
+  {
+    "id": 776,
+    "name": "PSORT II",
+    "slug": "psort-ii",
+    "category": "other_methodology"
+  },
+  {
+    "id": 777,
+    "name": "mass spectrometry",
+    "slug": "mass-spectrometry",
+    "category": "other_methodology"
+  },
+  {
+    "id": 778,
+    "name": "RiceGAAS",
+    "slug": "ricegaas",
+    "category": "other_methodology"
+  },
+  {
+    "id": 779,
+    "name": "None cited",
+    "slug": "none-cited",
+    "category": "other_methodology"
+  },
+  {
+    "id": 780,
+    "name": "NJPLOT",
+    "slug": "njplot",
+    "category": "other_methodology"
+  },
+  {
+    "id": 781,
+    "name": "Manual domain curation",
+    "slug": "manual-domain-curation",
+    "category": "domain_verification"
+  },
+  {
+    "id": 782,
+    "name": "ACT",
+    "slug": "act",
+    "category": "visualization"
+  },
+  {
+    "id": 783,
+    "name": "RLM-RACE",
+    "slug": "rlm-race",
+    "category": "other_methodology"
+  },
+  {
+    "id": 784,
+    "name": "BLAST",
+    "slug": "blast",
+    "category": "identification"
+  },
+  {
+    "id": 785,
+    "name": "PROSITE scan",
+    "slug": "prosite-scan",
+    "category": "domain_verification"
+  },
+  {
+    "id": 786,
+    "name": "TIGR segmental duplication",
+    "slug": "tigr-segmental-duplication",
+    "category": "synteny"
+  },
+  {
+    "id": 787,
+    "name": "Hierarchical clustering",
+    "slug": "hierarchical-clustering",
+    "category": "visualization"
+  },
+  {
+    "id": 788,
+    "name": "Avadis",
+    "slug": "avadis",
+    "category": "other_methodology"
+  },
+  {
+    "id": 789,
+    "name": "MEME-MAST",
+    "slug": "meme-mast",
+    "category": "domain_verification"
+  },
+  {
+    "id": 790,
+    "name": "CD-search",
+    "slug": "cd-search",
+    "category": "domain_verification"
+  },
+  {
+    "id": 791,
+    "name": "Vista Browser",
+    "slug": "vista-browser",
+    "category": "synteny"
+  },
+  {
+    "id": 792,
+    "name": "NimbleGen microarray",
+    "slug": "nimblegen-microarray",
+    "category": "other_methodology"
+  },
+  {
+    "id": 793,
+    "name": "ATV",
+    "slug": "atv",
+    "category": "visualization"
+  },
+  {
+    "id": 794,
+    "name": "GBrowse",
+    "slug": "gbrowse",
+    "category": "visualization"
+  },
+  {
+    "id": 795,
+    "name": "HMMalign",
+    "slug": "hmmalign",
+    "category": "other_methodology"
+  },
+  {
+    "id": 796,
+    "name": "TM prediction programs",
+    "slug": "tm-prediction-programs",
+    "category": "domain_verification"
+  },
+  {
+    "id": 797,
+    "name": "T-Coffee",
+    "slug": "t-coffee",
+    "category": "other_methodology"
+  },
+  {
+    "id": 798,
+    "name": "InterPro scan",
+    "slug": "interpro-scan",
+    "category": "domain_verification"
+  },
+  {
+    "id": 799,
+    "name": "GENETYX",
+    "slug": "genetyx",
+    "category": "other_methodology"
+  },
+  {
+    "id": 800,
+    "name": "NCBI databases",
+    "slug": "ncbi-databases",
+    "category": "domain_verification"
+  },
+  {
+    "id": 801,
+    "name": "Dual System Plotter",
+    "slug": "dual-system-plotter",
+    "category": "synteny"
+  },
+  {
+    "id": 802,
+    "name": "Mev4. 9. 0",
+    "slug": "mev4-9-0",
+    "category": "other_methodology"
+  },
+  {
+    "id": 803,
+    "name": "CLC software",
+    "slug": "clc-software",
+    "category": "visualization"
+  },
+  {
+    "id": 804,
+    "name": "FUZZPRO",
+    "slug": "fuzzpro",
+    "category": "other_methodology"
+  },
+  {
+    "id": 805,
+    "name": "SUPERFAMILY",
+    "slug": "superfamily",
+    "category": "domain_verification"
+  },
+  {
+    "id": 806,
+    "name": "GENE3D",
+    "slug": "gene3d",
+    "category": "domain_verification"
+  },
+  {
+    "id": 807,
+    "name": "subloc v1. 0",
+    "slug": "subloc-v1-0",
+    "category": "other_methodology"
+  },
+  {
+    "id": 808,
+    "name": "Phenograms",
+    "slug": "phenograms",
+    "category": "visualization"
+  },
+  {
+    "id": 809,
+    "name": "URG database",
+    "slug": "urg-database",
+    "category": "synteny"
+  },
+  {
+    "id": 810,
+    "name": "SwissModel",
+    "slug": "swissmodel",
+    "category": "other_methodology"
+  },
+  {
+    "id": 811,
+    "name": "Sybyl-X",
+    "slug": "sybyl-x",
+    "category": "other_methodology"
+  },
+  {
+    "id": 812,
+    "name": "Desmond",
+    "slug": "desmond",
+    "category": "other_methodology"
+  },
+  {
+    "id": 813,
+    "name": "WheatExp",
+    "slug": "wheatexp",
+    "category": "other_methodology"
+  },
+  {
+    "id": 814,
+    "name": "dual-luciferase",
+    "slug": "dual-luciferase",
+    "category": "other_methodology"
+  },
+  {
+    "id": 815,
+    "name": "Y1H",
+    "slug": "y1h",
+    "category": "other_methodology"
+  },
+  {
+    "id": 816,
+    "name": "LegumeInfo synteny data",
+    "slug": "legumeinfo-synteny-data",
+    "category": "synteny"
+  },
+  {
+    "id": 817,
+    "name": "SyMAP synteny browser",
+    "slug": "symap-synteny-browser",
+    "category": "synteny"
+  },
+  {
+    "id": 818,
+    "name": "Sibelia",
+    "slug": "sibelia",
+    "category": "synteny"
+  },
+  {
+    "id": 819,
+    "name": "Manual domain prediction",
+    "slug": "manual-domain-prediction",
+    "category": "domain_verification"
+  },
+  {
+    "id": 820,
+    "name": "Agilent microarray",
+    "slug": "agilent-microarray",
+    "category": "other_methodology"
+  },
+  {
+    "id": 821,
+    "name": "TAIR duplication sets",
+    "slug": "tair-duplication-sets",
+    "category": "synteny"
+  },
+  {
+    "id": 822,
+    "name": "TIGR duplication data",
+    "slug": "tigr-duplication-data",
+    "category": "synteny"
+  },
+  {
+    "id": 823,
+    "name": "RGAP segmental duplication DB",
+    "slug": "rgap-segmental-duplication-db",
+    "category": "synteny"
+  },
+  {
+    "id": 824,
+    "name": "GC-RMA",
+    "slug": "gc-rma",
+    "category": "other_methodology"
+  },
+  {
+    "id": 825,
+    "name": "CDD batch search",
+    "slug": "cdd-batch-search",
+    "category": "domain_verification"
+  },
+  {
+    "id": 826,
+    "name": "gVISTA",
+    "slug": "gvista",
+    "category": "synteny"
+  },
+  {
+    "id": 827,
+    "name": "AVID",
+    "slug": "avid",
+    "category": "synteny"
+  },
+  {
+    "id": 828,
+    "name": "Chromosomal block duplication analysis",
+    "slug": "chromosomal-block-duplication-analysis",
+    "category": "synteny"
+  },
+  {
+    "id": 829,
+    "name": "Not used",
+    "slug": "not-used",
+    "category": "synteny"
+  },
+  {
+    "id": 830,
+    "name": "PhyloDraw",
+    "slug": "phylodraw",
+    "category": "visualization"
+  },
+  {
+    "id": 831,
+    "name": "MEGA4 tree viewer",
+    "slug": "mega4-tree-viewer",
+    "category": "visualization"
+  },
+  {
+    "id": 832,
+    "name": "Duplicated blocks based on previous Populus studies",
+    "slug": "duplicated-blocks-based-on-previous-populus-studies",
+    "category": "synteny"
+  },
+  {
+    "id": 833,
+    "name": "TRANSFAC",
+    "slug": "transfac",
+    "category": "other_methodology"
+  },
+  {
+    "id": 834,
+    "name": "Duplicated blocks from Tuskan et al. and manual",
+    "slug": "duplicated-blocks-from-tuskan-et-al-and-manual",
+    "category": "synteny"
+  },
+  {
+    "id": 835,
+    "name": "cd?hit for homologous clusters",
+    "slug": "cd-hit-for-homologous-clusters",
+    "category": "synteny"
+  },
+  {
+    "id": 836,
+    "name": "fuzznuc",
+    "slug": "fuzznuc",
+    "category": "other_methodology"
+  },
+  {
+    "id": 837,
+    "name": "cd?hit",
+    "slug": "cd-hit",
+    "category": "other_methodology"
+  },
+  {
+    "id": 838,
+    "name": "Z?test",
+    "slug": "z-test",
+    "category": "other_methodology"
+  },
+  {
+    "id": 839,
+    "name": "TMHHM",
+    "slug": "tmhhm",
+    "category": "domain_verification"
+  },
+  {
+    "id": 840,
+    "name": "Manual based on chromosomal locations",
+    "slug": "manual-based-on-chromosomal-locations",
+    "category": "synteny"
+  },
+  {
+    "id": 841,
+    "name": "Plaza database",
+    "slug": "plaza-database",
+    "category": "synteny"
+  },
+  {
+    "id": 842,
+    "name": "K?Estimator for duplicate age",
+    "slug": "k-estimator-for-duplicate-age",
+    "category": "synteny"
+  },
+  {
+    "id": 843,
+    "name": "PROMALS3D",
+    "slug": "promals3d",
+    "category": "other_methodology"
+  },
+  {
+    "id": 844,
+    "name": "Expression Angler",
+    "slug": "expression-angler",
+    "category": "other_methodology"
+  },
+  {
+    "id": 845,
+    "name": "BAR",
+    "slug": "bar",
+    "category": "other_methodology"
+  },
+  {
+    "id": 846,
+    "name": "TIGR segmental duplication data",
+    "slug": "tigr-segmental-duplication-data",
+    "category": "synteny"
+  },
+  {
+    "id": 847,
+    "name": "manual",
+    "slug": "manual",
+    "category": "synteny"
+  },
+  {
+    "id": 848,
+    "name": "Not performed",
+    "slug": "not-performed",
+    "category": "synteny"
+  },
+  {
+    "id": 849,
+    "name": "Genome Pixelizer",
+    "slug": "genome-pixelizer",
+    "category": "visualization"
+  },
+  {
+    "id": 850,
+    "name": "manual collinearity",
+    "slug": "manual-collinearity",
+    "category": "synteny"
+  },
+  {
+    "id": 851,
+    "name": "Standard molecular biology",
+    "slug": "standard-molecular-biology",
+    "category": "other_methodology"
+  },
+  {
+    "id": 852,
+    "name": "ProScan",
+    "slug": "proscan",
+    "category": "domain_verification"
+  },
+  {
+    "id": 853,
+    "name": "ELEMENT",
+    "slug": "element",
+    "category": "other_methodology"
+  },
+  {
+    "id": 854,
+    "name": "DiagHunter",
+    "slug": "diaghunter",
+    "category": "synteny"
+  },
+  {
+    "id": 855,
+    "name": "manual evaluation",
+    "slug": "manual-evaluation",
+    "category": "synteny"
+  },
+  {
+    "id": 856,
+    "name": "CViT?blast",
+    "slug": "cvit-blast",
+    "category": "visualization"
+  },
+  {
+    "id": 857,
+    "name": "GMAP",
+    "slug": "gmap",
+    "category": "other_methodology"
+  },
+  {
+    "id": 858,
+    "name": "ASIP",
+    "slug": "asip",
+    "category": "other_methodology"
+  },
+  {
+    "id": 859,
+    "name": "Not applicable",
+    "slug": "not-applicable",
+    "category": "synteny"
+  },
+  {
+    "id": 860,
+    "name": "Phrap",
+    "slug": "phrap",
+    "category": "other_methodology"
+  },
+  {
+    "id": 861,
+    "name": "BLASTX",
+    "slug": "blastx",
+    "category": "other_methodology"
+  }
+]

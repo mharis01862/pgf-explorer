@@ -1,0 +1,340 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>PGF-Explorer: An Interactive Database for Plant Gene Family Meta-Analysis</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+
+<body>
+  <div class="ambient-bg" aria-hidden="true">
+    <span class="ambient-bg__blob ambient-bg__blob--a"></span>
+    <span class="ambient-bg__blob ambient-bg__blob--b"></span>
+    <span class="ambient-bg__blob ambient-bg__blob--c"></span>
+    <span class="ambient-grid"></span>
+  </div>
+
+  <nav class="topnav">
+    <div class="topnav__inner">
+      <a class="topnav__brand" href="./index.html">
+        <span class="topnav__brand-mark" aria-hidden="true">
+          <span class="brand-orbit"></span>
+          <span class="brand-core"></span>
+          <span class="brand-leaf"></span>
+        </span>
+        <span class="topnav__brand-text">PGF-Explorer</span>
+      </a>
+      <div class="topnav__links">
+        <a class="topnav__link is-active" href="./index.html">Explorer</a>
+        <a class="topnav__link" href="./resources.html">Resources</a>
+        <a class="topnav__link" href="./about.html">About / Methods / Citation</a>
+      </div>
+    </div>
+  </nav>
+
+  <header class="hero hero--v2">
+    <div class="hero__content">
+      <div class="hero__content-main">
+        <p class="eyebrow">Interactive Research Resource</p>
+        <h1>PGF-Explorer: An Interactive Database for Plant Gene Family Meta-Analysis</h1>
+        <p class="hero__text">
+          Advanced, live exploration workspace for curated genome-wide gene family studies,
+          with dynamic filters, trend intelligence, and paper-level deep dives.
+        </p>
+        <div class="hero-actions">
+          <a class="button button--primary" href="#results">Explore papers</a>
+          <button id="focusFilters" class="button button--ghost" type="button">Jump to filters</button>
+        </div>
+      </div>
+      <div class="hero-orbit" aria-hidden="true">
+        <div class="orbit-ring orbit-ring--one"></div>
+        <div class="orbit-ring orbit-ring--two"></div>
+        <div class="orbit-core"></div>
+      </div>
+    </div>
+  </header>
+
+  <main class="page">
+    <section class="panel command-strip">
+      <div class="command-strip__left">
+        <p class="command-strip__label">Power Search</p>
+        <p class="command-strip__hint">Press <kbd>/</kbd> to focus search instantly</p>
+      </div>
+      <div class="command-strip__right">
+        <span class="status-pill">Live Filter Engine</span>
+        <span class="status-pill">Animated Insights</span>
+        <span class="status-pill">Research-Grade Export</span>
+      </div>
+    </section>
+
+    <section class="panel metrics" id="metrics"></section>
+
+    <section class="layout">
+      <aside class="panel filters" id="filtersPanel">
+        <div class="panel__header">
+          <h2>Filters</h2>
+          <button id="resetFilters" class="button button--ghost" type="button">Reset</button>
+        </div>
+
+        <label class="field">
+          <span>Search</span>
+          <input id="searchInput" type="search" placeholder="Title, author, organism, family" />
+        </label>
+
+        <label class="field">
+          <span>Year</span>
+          <select id="yearFilter">
+            <option value="">All years</option>
+          </select>
+        </label>
+
+        <label class="field">
+          <span>Country</span>
+          <select id="countryFilter">
+            <option value="">All countries</option>
+          </select>
+        </label>
+
+        <label class="field">
+          <span>Journal</span>
+          <select id="journalFilter">
+            <option value="">All journals</option>
+          </select>
+        </label>
+
+        <label class="field">
+          <span>Primary organism</span>
+          <select id="organismFilter">
+            <option value="">All primary organisms</option>
+          </select>
+        </label>
+
+        <label class="field">
+          <span>Gene family</span>
+          <select id="familyFilter">
+            <option value="">All gene families</option>
+          </select>
+        </label>
+
+        <section class="query-builder">
+          <h3>Advanced Query Builder</h3>
+          <label class="field">
+            <span>Year range</span>
+            <div class="inline-fields">
+              <input id="yearFrom" type="number" placeholder="From" min="1900" max="2100" />
+              <input id="yearTo" type="number" placeholder="To" min="1900" max="2100" />
+            </div>
+          </label>
+          <label class="field">
+            <span>Text scope mode</span>
+            <select id="searchMode">
+              <option value="any">Match ANY keyword</option>
+              <option value="all">Match ALL keywords</option>
+            </select>
+          </label>
+          <label class="field">
+            <span>Minimum evidence</span>
+            <select id="evidenceLevel">
+              <option value="">No minimum</option>
+              <option value="rna">RNA-seq included</option>
+              <option value="qpcr">RT-qPCR validated</option>
+              <option value="both">RNA-seq + RT-qPCR</option>
+            </select>
+          </label>
+        </section>
+
+        <div class="checkset">
+          <label><input id="rnaSeqOnly" type="checkbox" /> RNA-seq included</label>
+          <label><input id="qPCRonly" type="checkbox" /> RT-qPCR validation</label>
+          <label><input id="pdfOnly" type="checkbox" checked /> PDF available</label>
+        </div>
+
+        <div id="activeFilters" class="active-filters"></div>
+      </aside>
+
+      <section class="content">
+        <div class="panel panel--wide">
+          <div class="panel__header">
+            <h2>Trends Snapshot</h2>
+            <p id="resultSummary" class="summary">Loading dataset...</p>
+          </div>
+          <div id="chartTabs" class="chart-tabs">
+            <button class="chart-tab is-active" type="button" data-chart-target="all">All</button>
+            <button class="chart-tab" type="button" data-chart-target="countriesChart">Countries</button>
+            <button class="chart-tab" type="button" data-chart-target="journalsChart">Journals</button>
+            <button class="chart-tab" type="button" data-chart-target="organismsChart">Organisms</button>
+            <button class="chart-tab" type="button" data-chart-target="yearsChart">Years</button>
+            <button class="chart-tab" type="button" data-chart-target="toolsChart">Tools</button>
+            <button class="chart-tab" type="button" data-chart-target="validationChart">Validation</button>
+          </div>
+          <div class="chart-grid">
+            <div class="chart-panel" data-chart-id="countriesChart">
+              <h3>Top Countries</h3>
+              <div id="countriesChart" class="bars"></div>
+            </div>
+            <div class="chart-panel" data-chart-id="journalsChart">
+              <h3>Top Journals</h3>
+              <div id="journalsChart" class="bars"></div>
+            </div>
+            <div class="chart-panel" data-chart-id="organismsChart">
+              <h3>Top Primary Organisms</h3>
+              <div id="organismsChart" class="bars"></div>
+            </div>
+            <div class="chart-panel" data-chart-id="yearsChart">
+              <h3>Publication Trend by Year</h3>
+              <div id="yearsChart" class="bars"></div>
+            </div>
+            <div class="chart-panel" data-chart-id="toolsChart">
+              <h3>Most Used Tools in Current View</h3>
+              <div id="toolsChart" class="bars"></div>
+            </div>
+            <div class="chart-panel" data-chart-id="validationChart">
+              <h3>Validation Snapshot</h3>
+              <div id="validationChart" class="bars"></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="panel panel--wide results-panel">
+          <div class="panel__header">
+            <h2>Papers</h2>
+            <div class="result-controls">
+              <label>
+                Sort by
+                <select id="sortSelect">
+                  <option value="paper-asc">Paper ID: low to high</option>
+                  <option value="year-desc">Year: newest first</option>
+                  <option value="year-asc">Year: oldest first</option>
+                  <option value="title-asc">Title: A-Z</option>
+                  <option value="genes-desc">Gene count: high to low</option>
+                </select>
+              </label>
+              <label>
+                Per page
+                <select id="pageSizeSelect">
+                  <option value="15">15</option>
+                  <option value="30" selected>30</option>
+                  <option value="60">60</option>
+                </select>
+              </label>
+              <div class="view-toggle">
+                <button id="viewDetailed" class="button button--ghost is-active" type="button">Detailed</button>
+                <button id="viewCompact" class="button button--ghost" type="button">Compact</button>
+              </div>
+              <button id="exportCsv" class="button button--primary" type="button">Export filtered CSV</button>
+            </div>
+          </div>
+          <div id="compareTray" class="compare-tray" hidden>
+            <div class="compare-tray__head">
+              <h3>Paper Comparison</h3>
+              <button id="clearCompare" class="button button--ghost" type="button">Clear</button>
+            </div>
+            <div id="compareTableWrap"></div>
+          </div>
+          <div id="results" class="results"></div>
+          <button id="showMore" class="button button--ghost show-more" type="button" hidden>Show more results</button>
+        </div>
+
+      </section>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer__glow site-footer__glow--left"></div>
+    <div class="site-footer__glow site-footer__glow--right"></div>
+    <div class="site-footer__inner">
+      <section class="footer-hero-card">
+        <p class="footer-kicker">Developed by</p>
+        <div class="footer-hero-layout">
+          <div>
+            <h2>Muhammad Haris</h2>
+            <p class="footer-lead">
+              <strong>Research Assistant</strong>
+              <br>Functional Genomics and Tissue Culture Lab, Department of Bioinformatics and Biotechnology
+              <br>Government College University Faisalabad, Pakistan
+            </p>
+            <div class="footer-pills">
+              <a href="https://mharis01862.github.io/" target="_blank" rel="noreferrer"
+                class="footer-pill">Portfolio</a>
+              <a href="mailto:mharis.202101862@gcuf.edu.pk" class="footer-pill">Email</a>
+              <a href="https://orcid.org/0009-0005-5162-052X" target="_blank" rel="noreferrer"
+                class="footer-pill">ORCID</a>
+              <a href="https://github.com/mharis01862" target="_blank" rel="noreferrer" class="footer-pill">GitHub</a>
+            </div>
+          </div>
+          <div class="author-badge-card">
+            <div class="author-badge">MH</div>
+            <div class="author-badge__meta">
+              <strong>Muhammad Haris</strong>
+              <span>Research Assistant</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <div class="footer-grid">
+        <section class="footer-card footer-card--citation">
+          <h3>Research Note</h3>
+          <p class="footer-note">Use the Resources page for database citation and reproducibility package exports.</p>
+        </section>
+      </div>
+
+      <div class="footer-bottom">
+        <p>&copy; 2026 Muhammad Haris. All rights reserved.</p>
+        <p>This platform presents a curated scholarly dataset for literature exploration, synthesis, and reuse in academic work.</p>
+        <p style="margin-top: 8px;"><strong>License:</strong> The software code is licensed under the <a href="https://opensource.org/licenses/MIT" target="_blank" style="color: inherit; text-decoration: underline;">MIT License</a>. The dataset and curated content are licensed under the <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" style="color: inherit; text-decoration: underline;">CC BY 4.0 License</a>.</p>
+      </div>
+    </div>
+  </footer>
+
+  <div id="drawerOverlay" class="drawer-overlay" hidden></div>
+  <aside id="paperDrawer" class="drawer" aria-hidden="true">
+    <div class="drawer__header">
+      <div>
+        <p class="drawer__eyebrow">Paper Details</p>
+        <h2 id="modalTitle">Paper details</h2>
+      </div>
+      <button id="closeDialog" class="button button--ghost" type="button">Close</button>
+    </div>
+    <div id="modalBody" class="drawer__body"></div>
+  </aside>
+
+  <button id="agentFab" class="agent-fab" type="button" aria-label="Open assistant" onclick="window.__openDatasetAgent && window.__openDatasetAgent()">How can I help you?</button>
+  <section id="agentWindow" class="agent-window" hidden>
+    <div class="agent-window__head">
+      <strong>Dataset Assistant</strong>
+      <button id="agentClose" class="button button--ghost" type="button" onclick="window.__closeDatasetAgent && window.__closeDatasetAgent()">Close</button>
+    </div>
+    <details class="chat-help">
+      <summary>How to ask better questions</summary>
+      <div class="chat-help__body">
+        <p><strong>Best query types:</strong> count, summary, rankings, evidence retrieval.</p>
+        <ul>
+          <li><code>How many papers are in current view?</code></li>
+          <li><code>Summarize this filtered dataset</code></li>
+          <li><code>Top tools in wheat studies</code></li>
+          <li><code>Show high-evidence papers (RNA-seq + RT-qPCR)</code></li>
+          <li><code>Latest papers on WRKY gene family</code></li>
+          <li><code>Top journals for rice studies</code></li>
+        </ul>
+      </div>
+    </details>
+    <div id="chatLog" class="chat-log" aria-live="polite"></div>
+    <div class="chat-suggestions">
+      <button class="button button--ghost chat-suggestion" type="button" data-chat-q="How many papers are in the current view?">Count papers</button>
+      <button class="button button--ghost chat-suggestion" type="button" data-chat-q="Top tools in the current view">Top tools</button>
+      <button class="button button--ghost chat-suggestion" type="button" data-chat-q="Show papers with RNA-seq and RT-qPCR">High-evidence</button>
+    </div>
+    <div class="chat-input-row">
+      <input id="chatInput" type="text" placeholder="Ask about this dataset..." />
+      <button id="chatSend" class="button button--primary" type="button">Ask</button>
+    </div>
+  </section>
+
+  <script src="./data/bundle.js"></script>
+  <script src="./app.js" type="module"></script>
+</body>
+
+</html>

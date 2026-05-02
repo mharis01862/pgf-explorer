@@ -1,0 +1,3026 @@
+[
+  {
+    "paper_id": 1,
+    "number_of_genes_identified": 200,
+    "phylogenetic_structure": "Classified into 5 subfamilies: AP2 (26), DREB (77), ERF (91), RAV (5), and 1 soloist. DREB and ERF further divided into subgroups (A1 A6, B1 B6).",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 2,
+    "number_of_genes_identified": 5,
+    "phylogenetic_structure": "Two main classes: Class I (OsMSL1, OsMSL2) and Class II (OsMSL4, OsMSL5, OsMSL6)",
+    "duplication_pattern": "Paralogous (2 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 3,
+    "number_of_genes_identified": 60,
+    "phylogenetic_structure": "Divided into 8 distinct subgroups (I-VIII)",
+    "duplication_pattern": "Segmental/WGD, Tandem",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 4,
+    "number_of_genes_identified": 6,
+    "phylogenetic_structure": "Classified into 4 distinct subfamilies/clades (I, II, III, IV). CnPALs clustered in Clades III and IV with C. sinensis PALs.",
+    "duplication_pattern": "Segmental (14)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 5,
+    "number_of_genes_identified": 113,
+    "phylogenetic_structure": "Classified into 3 subfamilies (G, C, L-type). Showed close evolutionary relationship with Arabidopsis AtLecRLKs, but also distinct clades indicating species-specific evolution",
+    "duplication_pattern": "Duplication (28 pairs)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 6,
+    "number_of_genes_identified": 28,
+    "phylogenetic_structure": "Divided into 5 clades/subfamilies: GT-1, GT-2, GT-?, SH4, and SIP1",
+    "duplication_pattern": "Duplication (2 pairs)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 8,
+    "number_of_genes_identified": 41,
+    "phylogenetic_structure": "Genes classified into 4 subfamilies: 18 TIPs, 12 PIPs, 8 NIPs, 3 SIPs. Subfamilies further divided into subgroups (e. g., TIP1, TIP2, etc.)",
+    "duplication_pattern": "Segmental",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 9,
+    "number_of_genes_identified": 5,
+    "phylogenetic_structure": "Genes classified into 4 subfamilies: aLIM (SbLIM4), ?LIM (SbLIM5), ?LIM (SbLIM1), and ?LIM (SbLIM2, SbLIM3). Showed close relationship with maize (Zea mays) and rice (Oryza sativa) LIM genes.",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 10,
+    "number_of_genes_identified": 30,
+    "phylogenetic_structure": "Divided into 5 groups (I-V)",
+    "duplication_pattern": "Segmental (15)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 11,
+    "number_of_genes_identified": 43,
+    "phylogenetic_structure": "3 major groups (I, II, III) with subgroups (Ia, Ib, IIa IIe, IIIa IIIe)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 12,
+    "number_of_genes_identified": 46,
+    "phylogenetic_structure": "3 main groups (G1, G2, G3); G2 further divided into 5 subgroups (2A 2E)",
+    "duplication_pattern": "Segmental",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 13,
+    "number_of_genes_identified": 48,
+    "phylogenetic_structure": "Divided into two clades (A and B), further subdivided into 3 types based on AT-hook motifs",
+    "duplication_pattern": "Tandem",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 14,
+    "number_of_genes_identified": 78,
+    "phylogenetic_structure": "Divided into 3 subfamilies: ZIK (12 genes), MEKK (22 genes), Raf (44 genes)",
+    "duplication_pattern": "Tandem, Segmental, WGD (12 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 15,
+    "number_of_genes_identified": 509,
+    "phylogenetic_structure": "Classified into 9 subfamilies (FBU, FBL, FBK, FBA, FBD, FBT, FBP, FBW, FBO) based on C-terminal domains. Phylogenetic tree divided into 4 groups (A-D) and 8 subgroups.",
+    "duplication_pattern": "Tandem (12), Segmental (64)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 16,
+    "number_of_genes_identified": 20,
+    "phylogenetic_structure": "Classified into 4 groups based on phylogenetic analysis with Arabidopsis and castor bean STPs.",
+    "duplication_pattern": "Tandem (2), Segmental (3)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 17,
+    "number_of_genes_identified": 9,
+    "phylogenetic_structure": "7 groups (UGlcAE1 to UGlcAE6, with UGlcAE2 split into two clusters)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 18,
+    "number_of_genes_identified": 56,
+    "phylogenetic_structure": "Proteins clustered into four groups (Clusters I: 22, II: 19, III: 7, IV: 8)",
+    "duplication_pattern": "Homoeologous copies",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 19,
+    "number_of_genes_identified": 33,
+    "phylogenetic_structure": "Four clades (a, b, c, d)",
+    "duplication_pattern": "Segmental/WGD (149 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 20,
+    "number_of_genes_identified": 469,
+    "phylogenetic_structure": "Divided into 11 subgroups (Clade I to XI)",
+    "duplication_pattern": "Tandem (50), Segmental (146)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 21,
+    "number_of_genes_identified": 40,
+    "phylogenetic_structure": "Divided into three major clades (Clade I: AtNPR1/2 subfamily; Clade II: AtNPR3/4 subfamily; Clade III: AtBOP1/2 subfamily)",
+    "duplication_pattern": "Segmental, Tandem",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 22,
+    "number_of_genes_identified": 11,
+    "phylogenetic_structure": "Divided into three clades: modern/WUSCHEL (WUS), intermediate, and ancient.",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 23,
+    "number_of_genes_identified": 20,
+    "phylogenetic_structure": "Divided into five groups (I-V). Groups III and IV contained the most members (8 and 9, respectively). Group V consisted of monocot-specific genes.",
+    "duplication_pattern": "WGD/Segmental (7 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 24,
+    "number_of_genes_identified": 270,
+    "phylogenetic_structure": "Divided into 8 clans (CYP71, CYP51, CYP72, CYP74, CYP85, CYP86, CYP97, CYP710, CYP711). The CYP71 clan was the largest. 13 genes were preliminarily screened as potentially related to pigment biosynthesis.",
+    "duplication_pattern": "Tandem (52), WGD/Segmental (162)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 25,
+    "number_of_genes_identified": 15,
+    "phylogenetic_structure": "Divided into 4 subfamilies (I-IV)",
+    "duplication_pattern": "Segmental (5)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 26,
+    "number_of_genes_identified": 55,
+    "phylogenetic_structure": "Divided into 6 Clades (A-G, excluding F)",
+    "duplication_pattern": "Tandem (24), Segmental (9)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 27,
+    "number_of_genes_identified": 211,
+    "phylogenetic_structure": "Classified into 3 groups (I, II, III; III subdivided into IIIa, IIIb)",
+    "duplication_pattern": "Segmental (3 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 28,
+    "number_of_genes_identified": 42,
+    "phylogenetic_structure": "Divided into 4 clades (I-IV)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 29,
+    "number_of_genes_identified": 16,
+    "phylogenetic_structure": "Divided into ? and non-? classes; closely related to apple 14-3-3 genes",
+    "duplication_pattern": "Tandem, Segmental",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 30,
+    "number_of_genes_identified": 77,
+    "phylogenetic_structure": "Divided into Group I, Group II (II-a, II-b, II-c, II-d, II-e), and Group III",
+    "duplication_pattern": "Fragment (35), Tandem",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 31,
+    "number_of_genes_identified": 64,
+    "phylogenetic_structure": "Divided into four groups (II, III, IV, and V) based on comparison with Arabidopsis and rice.",
+    "duplication_pattern": "WGD/Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 32,
+    "number_of_genes_identified": 55,
+    "phylogenetic_structure": "Divided into five groups (I, II, III, IV, and V) based on comparison with Arabidopsis thaliana.",
+    "duplication_pattern": "Tandem, Segmental (94 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 33,
+    "number_of_genes_identified": 33,
+    "phylogenetic_structure": "Divided into eight subgroups (Group I-VIII) based on comparison with Arabidopsis, tomato, and rice.",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 34,
+    "number_of_genes_identified": 140,
+    "phylogenetic_structure": "Divided into four categories based on R repeats: 1R-MYB (54), 2R-MYB (80), 3R-MYB (5), and 4R-MYB (1). Further divided into subgroups based on comparison with Arabidopsis.",
+    "duplication_pattern": "Tandem (6), Segmental (12)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 35,
+    "number_of_genes_identified": 28,
+    "phylogenetic_structure": "DCL genes divided into 4 subgroups/clades; AGO genes divided into 4 clades (AGO1, AGO5, ZIPPY/AGO7, AGO4); RDR genes divided into 4 clades.",
+    "duplication_pattern": "Tandem",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 36,
+    "number_of_genes_identified": 24,
+    "phylogenetic_structure": "Divided into three subfamilies: DIR-a (6 genes), DIR-b/d (13 genes), and DIR-e (5 genes).",
+    "duplication_pattern": "Tandem (6), Segmental (4)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 37,
+    "number_of_genes_identified": 531,
+    "phylogenetic_structure": "Divided into five subfamilies: Group1, Group2, Group3, Group4, and Group5. Group4 is dicot-specific, Group5 is monocot-specific.",
+    "duplication_pattern": "Tandem, WGD",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 38,
+    "number_of_genes_identified": 12,
+    "phylogenetic_structure": "Classified into five types: GAPA, GAPB, GAPC1, GAPC2, and GAPCP-2.",
+    "duplication_pattern": "Tandem (2), Segmental/WGD",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 39,
+    "number_of_genes_identified": 9,
+    "phylogenetic_structure": "Classified into three groups (Groups I, II, and III) based on Arabidopsis classification, consistent with the presence of B-box and CCT domains.",
+    "duplication_pattern": "Segmental/WGD (1 pair)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 40,
+    "number_of_genes_identified": 51,
+    "phylogenetic_structure": "Classified into three subclasses: PCF (26 genes), CIN (15 genes), and CYC/TB1 (10 genes)",
+    "duplication_pattern": "Segmental (32 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 41,
+    "number_of_genes_identified": 32,
+    "phylogenetic_structure": "Classified into head (9 genes), middle (9 genes), tail (9 genes), kinase (4 genes), and one unknown module based on Arabidopsis homology. Phylogenetic analysis with Arabidopsis and rice showed three subclades with conserved orthologous pairs.",
+    "duplication_pattern": "Duplication (12 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 42,
+    "number_of_genes_identified": 31,
+    "phylogenetic_structure": "Phylogenetic trees were constructed for MT-A70, ALKBH, and YTH families, showing evolutionary conservation with Arabidopsis and humans, and dividing proteins into distinct subclades (e. g., YTHDF, YTHDC).",
+    "duplication_pattern": "Segmental/WGD (3 pairs)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 43,
+    "number_of_genes_identified": 63,
+    "phylogenetic_structure": "3 conserved subfamilies: BrNHX (9 members), BrKEA (15 members), and BrCHX (39 members)",
+    "duplication_pattern": "Tandem (5), Segmental (25)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 44,
+    "number_of_genes_identified": 13,
+    "phylogenetic_structure": "Six groups (Groups I, II, III, IV, V, VIII), indicating lineage-specific diversification",
+    "duplication_pattern": "Dispersed (7), Tandem (4), WGD/Segmental (2)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 45,
+    "number_of_genes_identified": 21,
+    "phylogenetic_structure": "5 distinct clades (I-V). AhDMP8A, AhDMP8B, AhDMP9A, and AhDMP9B clustered in Clade IV with known haploid induction genes (e. g., ZmDMP, AtDMP8/9)",
+    "duplication_pattern": "WGD/Segmental (17 pairs)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 46,
+    "number_of_genes_identified": 35,
+    "phylogenetic_structure": "Both families divided into 4 subfamilies (A, B, C, D). Group D is the largest for MAPKs. MAPKK numbers are highly conserved across plant species.",
+    "duplication_pattern": "Tandem, Segmental, Transposed",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 47,
+    "number_of_genes_identified": 9,
+    "phylogenetic_structure": "Classified into 4 groups (Groups I, III, IV, and V) based on comparison with Arabidopsis and rice. Group II was not represented in G. biloba.",
+    "duplication_pattern": "Dispersed (7), WGD/Segmental (2)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 48,
+    "number_of_genes_identified": 26,
+    "phylogenetic_structure": "Classified into 5 subfamilies (Groups I-V) based on phylogenetic analysis with Arabidopsis and three other Rosaceae species.",
+    "duplication_pattern": "Tandem (1), Segmental (2)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 49,
+    "number_of_genes_identified": 30,
+    "phylogenetic_structure": "Classified into 5 subfamilies (TPS-a to TPS-e). TPS-a was the most prevalent (18 genes), suggesting a major role in sesquiterpene biosynthesis for aromatic volatiles like safranal.",
+    "duplication_pattern": "Tandem",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 53,
+    "number_of_genes_identified": 81,
+    "phylogenetic_structure": "Divided into six groups (A-F)",
+    "duplication_pattern": "Segmental/WGD",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 54,
+    "number_of_genes_identified": 59,
+    "phylogenetic_structure": "Divided into three subfamilies: MEKK, Raf, and ZIK.",
+    "duplication_pattern": "Tandem (1)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 55,
+    "number_of_genes_identified": 121,
+    "phylogenetic_structure": "Divided into 15 subgroups (A-L), with some subgroups further divided (e. g., A1, A2, B1, B2, F1, F2).",
+    "duplication_pattern": "Segmental (48), Tandem (5)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 56,
+    "number_of_genes_identified": 6,
+    "phylogenetic_structure": "GmSOS orthologs grouped closely with orthologs from other leguminous species like G. soja and V. radiata, showing a close evolutionary relationship.",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 57,
+    "number_of_genes_identified": 37,
+    "phylogenetic_structure": "Divided into two clades (Clade-A and Clade-B) and three distinct types (Type-I, Type-II, and Type-III).",
+    "duplication_pattern": "Dispersed (37)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 59,
+    "number_of_genes_identified": 27,
+    "phylogenetic_structure": "CBL genes classified into 3 subfamilies; CIPK genes classified into 4 subfamilies",
+    "duplication_pattern": "Tandem",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 60,
+    "number_of_genes_identified": 34,
+    "phylogenetic_structure": "4 groups (Group 1, 2, 3, 4)",
+    "duplication_pattern": "Segmental, Triplication",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 61,
+    "number_of_genes_identified": 136,
+    "phylogenetic_structure": "5 groups (ERF, DREB, AP2, RAV subfamilies and a soloist group)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 63,
+    "number_of_genes_identified": 89,
+    "phylogenetic_structure": "MAPK into 4 groups (A-D), MKK into 4 groups (A-D), MAPKKK into MEKK-like, Raf-like, and ZIK subfamilies with multiple clades",
+    "duplication_pattern": "Tandem",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 64,
+    "number_of_genes_identified": 38,
+    "phylogenetic_structure": "7 subfamilies (C, CP, MT, ER, PX, ACD, and unclassified); C subfamily further divided into CI-CIV",
+    "duplication_pattern": "Tandem/Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 65,
+    "number_of_genes_identified": 18,
+    "phylogenetic_structure": "3 subfamilies (A, B, and C)",
+    "duplication_pattern": "Duplication (number not specified)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 66,
+    "number_of_genes_identified": 17,
+    "phylogenetic_structure": "3 clades (ancient, intermediate, modern/WUS)",
+    "duplication_pattern": "WGD (8 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 67,
+    "number_of_genes_identified": 14,
+    "phylogenetic_structure": "3 groups (I, II, III)",
+    "duplication_pattern": "Segmental (4), Tandem (1)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 68,
+    "number_of_genes_identified": 26,
+    "phylogenetic_structure": "3 groups (I, II, III)",
+    "duplication_pattern": "Segmental (8), Tandem (1)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 69,
+    "number_of_genes_identified": 84,
+    "phylogenetic_structure": "4 subfamilies (Class I, II, III, IV)",
+    "duplication_pattern": "Segmental (40), Tandem (1)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 70,
+    "number_of_genes_identified": 14,
+    "phylogenetic_structure": "11 groups (Group 1-11)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 71,
+    "number_of_genes_identified": 53,
+    "phylogenetic_structure": "8 subfamilies (Tau, Phi, Lambda, Zeta, TCHQD, DHAR, EF1By, Theta)",
+    "duplication_pattern": "Tandem (12), Segmental (1)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 72,
+    "number_of_genes_identified": 26,
+    "phylogenetic_structure": "10 families (ALDH2, 3, 5, 6, 7, 10, 11, 12, 18, 22)",
+    "duplication_pattern": "Segmental (13), Tandem (2)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 73,
+    "number_of_genes_identified": 26,
+    "phylogenetic_structure": "2 subfamilies (PI-PLC and NPC)",
+    "duplication_pattern": "Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 74,
+    "number_of_genes_identified": 13,
+    "phylogenetic_structure": "4 groups (I, II, III, IV)",
+    "duplication_pattern": "Segmental (8)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 75,
+    "number_of_genes_identified": 27,
+    "phylogenetic_structure": "8 groups (G1-G8)",
+    "duplication_pattern": "Tandem (19), Segmental (1)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 76,
+    "number_of_genes_identified": 117,
+    "phylogenetic_structure": "4 major groups (A, B, C, D) and 9 subgroups (A, B1, B2, C1, C2. 1, C2. 2, C3, D1, D2)",
+    "duplication_pattern": "Segmental (85), Tandem (3), Dispersed (26), Proximal (1)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 77,
+    "number_of_genes_identified": 39,
+    "phylogenetic_structure": "5 families (HAK/KUP/KT, HKT, KEA, Shaker, TPK)",
+    "duplication_pattern": "Tandem, Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 78,
+    "number_of_genes_identified": 101,
+    "phylogenetic_structure": "4 groups (Group 1, 2, 3, 4)",
+    "duplication_pattern": "Tandem (11), Segmental (9)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 79,
+    "number_of_genes_identified": 32,
+    "phylogenetic_structure": "5 groups (I-V), 3 clades (I-III)",
+    "duplication_pattern": "Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 80,
+    "number_of_genes_identified": 53,
+    "phylogenetic_structure": "4 main groups (I, II, III, IV)",
+    "duplication_pattern": "Tandem (2)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 81,
+    "number_of_genes_identified": 9,
+    "phylogenetic_structure": "6 subfamilies (subfamily I-VI)",
+    "duplication_pattern": "Segmental (8)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 82,
+    "number_of_genes_identified": 15,
+    "phylogenetic_structure": "6 groups (Group I-VI)",
+    "duplication_pattern": "Segmental/WGD",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 83,
+    "number_of_genes_identified": 145,
+    "phylogenetic_structure": "13 subfamilies (A-M)",
+    "duplication_pattern": "Segmental (124)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 84,
+    "number_of_genes_identified": 255,
+    "phylogenetic_structure": "7 groups (Group I-VII)",
+    "duplication_pattern": "Segmental (181)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 85,
+    "number_of_genes_identified": 26,
+    "phylogenetic_structure": "3 groups (Group 1, 2, 3) with 7 subgroups (WNK1/9, WNK2, WNK3, WNK4, WNK5, WNK6/7, WNK8/10, WNK-like)",
+    "duplication_pattern": "Segmental (15 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 86,
+    "number_of_genes_identified": 7,
+    "phylogenetic_structure": "3 subfamilies (Type I, II, III)",
+    "duplication_pattern": "Tandem (1), Segmental (1)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 87,
+    "number_of_genes_identified": 6,
+    "phylogenetic_structure": "3 groups (I, II, III) with 4 subgroups based on function (HXK1-3, HKL1-3)",
+    "duplication_pattern": "Segmental (2)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 88,
+    "number_of_genes_identified": 22,
+    "phylogenetic_structure": "3 groups (HsfA, HsfB, HsfC)",
+    "duplication_pattern": "Segmental (7 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 89,
+    "number_of_genes_identified": 279,
+    "phylogenetic_structure": "7 subfamilies (Group I-VII)",
+    "duplication_pattern": "Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 90,
+    "number_of_genes_identified": 10,
+    "phylogenetic_structure": "4 clades (based on orthology with AtDREB1 genes)",
+    "duplication_pattern": "Genome triplication (9)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 91,
+    "number_of_genes_identified": 15,
+    "phylogenetic_structure": "8 subfamilies (I-VIII)",
+    "duplication_pattern": "Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 92,
+    "number_of_genes_identified": 18,
+    "phylogenetic_structure": "4 groups (Group I, II, III, IV)",
+    "duplication_pattern": "Tandem (1), Segmental (4)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 93,
+    "number_of_genes_identified": 111,
+    "phylogenetic_structure": "6 clades (I-VI)",
+    "duplication_pattern": "Segmental (7)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 94,
+    "number_of_genes_identified": 114,
+    "phylogenetic_structure": "6 groups (G1-G6)",
+    "duplication_pattern": "Tandem, Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 95,
+    "number_of_genes_identified": 15,
+    "phylogenetic_structure": "8 subfamilies (I-VIII)",
+    "duplication_pattern": "Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 96,
+    "number_of_genes_identified": 71,
+    "phylogenetic_structure": "3 major classes (HSFA, HSFB, HSFC) and 15 subgroups (A1-A9, B1-B4, C1)",
+    "duplication_pattern": "Segmental (63)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 97,
+    "number_of_genes_identified": 34,
+    "phylogenetic_structure": "9 subfamilies (I-IX)",
+    "duplication_pattern": "Segmental (2), Tandem (1)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 99,
+    "number_of_genes_identified": 8,
+    "phylogenetic_structure": "4 subfamilies (Dnmt1-like/MET, Dnmt2-like, CMT, Dnmt3-like/DRM)",
+    "duplication_pattern": "Segmental (2), Tandem (1)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 100,
+    "number_of_genes_identified": 119,
+    "phylogenetic_structure": "11 groups (I-XI) based on tomato classification",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 101,
+    "number_of_genes_identified": 15,
+    "phylogenetic_structure": "2 groups (Type IIA and Type IIB)",
+    "duplication_pattern": "Tandem (1), Segmental (1)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 102,
+    "number_of_genes_identified": 22,
+    "phylogenetic_structure": "4 groups (A, B, C, D)",
+    "duplication_pattern": "Segmental (5), Tandem (1)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 103,
+    "number_of_genes_identified": 39,
+    "phylogenetic_structure": "2 major groups (A and B) and 10 subgroups (A1-A5, B1-B5)",
+    "duplication_pattern": "Tandem/Segmental (18 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 104,
+    "number_of_genes_identified": 17,
+    "phylogenetic_structure": "7 subfamilies (BNM2-like, USP-like, RD22-like, PG1?-like, BURP V, BURP VI, BURP VII)",
+    "duplication_pattern": "Tandem, Segmental",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 105,
+    "number_of_genes_identified": 30,
+    "phylogenetic_structure": "4 subfamilies (EXPA, EXPB, EXLA, EXLB) and 17 subgroups",
+    "duplication_pattern": "Tandem",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 106,
+    "number_of_genes_identified": 18,
+    "phylogenetic_structure": "6 distinct groups (I-VI)",
+    "duplication_pattern": "Segmental (2)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 107,
+    "number_of_genes_identified": 116,
+    "phylogenetic_structure": "8 groups (IN, IC, IIa, IIb, IIc, IId, IIe, III)",
+    "duplication_pattern": "Tandem, Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 108,
+    "number_of_genes_identified": 41,
+    "phylogenetic_structure": "5 sub-families (PIP, TIP, NIP, SIP, XIP)",
+    "duplication_pattern": "Tandem",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 109,
+    "number_of_genes_identified": 64,
+    "phylogenetic_structure": "5 groups (I, II, III, IV, V)",
+    "duplication_pattern": "Tandem, Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 110,
+    "number_of_genes_identified": 6848,
+    "phylogenetic_structure": "Not specified",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 111,
+    "number_of_genes_identified": 54,
+    "phylogenetic_structure": "6 arbitrary groups (Group 1 to 6)",
+    "duplication_pattern": "Segmental (9)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 112,
+    "number_of_genes_identified": 41,
+    "phylogenetic_structure": "5 Groups",
+    "duplication_pattern": "Paralogous (14 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 113,
+    "number_of_genes_identified": 9,
+    "phylogenetic_structure": "2 Types (I and II)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 114,
+    "number_of_genes_identified": 151,
+    "phylogenetic_structure": "5 Clades (Aux/IAA), 6 Clades (ARF)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 115,
+    "number_of_genes_identified": 25,
+    "phylogenetic_structure": "3 Groups (A, B, C)",
+    "duplication_pattern": "Segmental (11), Tandem (1)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 116,
+    "number_of_genes_identified": 25,
+    "phylogenetic_structure": "4 Groups (A, B, C, D)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 117,
+    "number_of_genes_identified": 35,
+    "phylogenetic_structure": "3 Classes (A, B, C) with further subclasses",
+    "duplication_pattern": "Duplication (9 groups)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 118,
+    "number_of_genes_identified": 7,
+    "phylogenetic_structure": "3 Groups (I, II, III)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 119,
+    "number_of_genes_identified": 48,
+    "phylogenetic_structure": "2 Classes (I and II), Class II further divided into CYC/TB1 and CIN",
+    "duplication_pattern": "Segmental (34)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 120,
+    "number_of_genes_identified": 47,
+    "phylogenetic_structure": "5 Subfamilies (TPS-a, -b, -c, -e/f, -g)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 121,
+    "number_of_genes_identified": 36,
+    "phylogenetic_structure": "4 Clades (A, B, C, D)",
+    "duplication_pattern": "Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 122,
+    "number_of_genes_identified": 184,
+    "phylogenetic_structure": "4 Subfamilies (DREB, ERF, AP2, RAV) with further groups",
+    "duplication_pattern": "Tandem, Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 123,
+    "number_of_genes_identified": 28,
+    "phylogenetic_structure": "3 Major Clusters",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 124,
+    "number_of_genes_identified": 164,
+    "phylogenetic_structure": "8 Subfamilies (ABCA, B, C, D, E, F, G, I)",
+    "duplication_pattern": "Dispersed (34. 76%), Tandem (28. 05%), Proximal (20. 12%), WGD (11. 59%), Segmental (5. 49%)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 125,
+    "number_of_genes_identified": 12,
+    "phylogenetic_structure": "4 Groups (based on protein alignment)",
+    "duplication_pattern": "WGD, Transposed, Dispersed",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 127,
+    "number_of_genes_identified": 14,
+    "phylogenetic_structure": "3 Major Groups (I, II, III)",
+    "duplication_pattern": "Tandem (8)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 128,
+    "number_of_genes_identified": 39,
+    "phylogenetic_structure": "4 Clades (A, B, C, D)",
+    "duplication_pattern": "Segmental/WGD (27 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 130,
+    "number_of_genes_identified": 31,
+    "phylogenetic_structure": "7 Subfamilies",
+    "duplication_pattern": "Tandem, Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 131,
+    "number_of_genes_identified": 28,
+    "phylogenetic_structure": "4 Subgroups (A1, A2, B1, B2) with 6 clusters",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 132,
+    "number_of_genes_identified": 27,
+    "phylogenetic_structure": "4 Major Clusters (I, II, III, IV)",
+    "duplication_pattern": "Tandem (1), Segmental (7)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 133,
+    "number_of_genes_identified": 38,
+    "phylogenetic_structure": "3 Major Clusters (A, B, C)",
+    "duplication_pattern": "Segmental (5), Tandem (9)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 134,
+    "number_of_genes_identified": 61,
+    "phylogenetic_structure": "6 Groups (1 to 6)",
+    "duplication_pattern": "Tandem (7), Segmental (4)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 135,
+    "number_of_genes_identified": 19,
+    "phylogenetic_structure": "5 Classes",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 136,
+    "number_of_genes_identified": 8,
+    "phylogenetic_structure": "3 Groups (A, B, C)",
+    "duplication_pattern": "Segmental (4 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 137,
+    "number_of_genes_identified": 80,
+    "phylogenetic_structure": "2 Major phylogenetic groups (LysM-containing and without LysM)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 138,
+    "number_of_genes_identified": 36,
+    "phylogenetic_structure": "3 Sub-groups (I, II, III)",
+    "duplication_pattern": "Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 139,
+    "number_of_genes_identified": 91,
+    "phylogenetic_structure": "7 Groups (I-VII)",
+    "duplication_pattern": "Tandem, Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 140,
+    "number_of_genes_identified": 10,
+    "phylogenetic_structure": "4 Types (I, II, III, IV) corresponding to subgroups (Kn, YnSKn, SKn, KnS, SKS)",
+    "duplication_pattern": "Tandem, Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 141,
+    "number_of_genes_identified": 36,
+    "phylogenetic_structure": "6 Groups (G1-G6)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 142,
+    "number_of_genes_identified": 21,
+    "phylogenetic_structure": "3 Subfamilies (NCED, CCD, CCDL)",
+    "duplication_pattern": "Tandem, Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 143,
+    "number_of_genes_identified": 67,
+    "phylogenetic_structure": "5 Clusters (I-V)",
+    "duplication_pattern": "Tandem, Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 144,
+    "number_of_genes_identified": 17,
+    "phylogenetic_structure": "4 Clades (I, II, III, IV)",
+    "duplication_pattern": "Tandem (2)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 145,
+    "number_of_genes_identified": 18,
+    "phylogenetic_structure": "3 Major Groups (A, B, C)",
+    "duplication_pattern": "Segmental (2 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 146,
+    "number_of_genes_identified": 71,
+    "phylogenetic_structure": "13 Groups (I-XIII)",
+    "duplication_pattern": "Segmental (19), Tandem (2)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 149,
+    "number_of_genes_identified": 8,
+    "phylogenetic_structure": "4 Groups",
+    "duplication_pattern": "Tandem (1), Segmental (2)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 150,
+    "number_of_genes_identified": 43,
+    "phylogenetic_structure": "6 Subfamilies",
+    "duplication_pattern": "Tandem",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 151,
+    "number_of_genes_identified": 6,
+    "phylogenetic_structure": "2 Groups",
+    "duplication_pattern": "Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 152,
+    "number_of_genes_identified": 30,
+    "phylogenetic_structure": "6 Groups",
+    "duplication_pattern": "Duplication (4 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 153,
+    "number_of_genes_identified": 106,
+    "phylogenetic_structure": "8 Groups",
+    "duplication_pattern": "Tandem",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 154,
+    "number_of_genes_identified": 33,
+    "phylogenetic_structure": "3 Clusters (one for each subunit type)",
+    "duplication_pattern": "Segmental (8 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 155,
+    "number_of_genes_identified": 100,
+    "phylogenetic_structure": "15 Groups",
+    "duplication_pattern": "Tandem (2), Segmental (2)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 156,
+    "number_of_genes_identified": 12,
+    "phylogenetic_structure": "2 main Clades",
+    "duplication_pattern": "Segmental (3)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 157,
+    "number_of_genes_identified": 155,
+    "phylogenetic_structure": "46 Clades",
+    "duplication_pattern": "Tandem (30), Segmental (21)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 158,
+    "number_of_genes_identified": 242,
+    "phylogenetic_structure": "8 Groups",
+    "duplication_pattern": "Tandem (46), Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 159,
+    "number_of_genes_identified": 29,
+    "phylogenetic_structure": "5 Subgroups",
+    "duplication_pattern": "Fragment/WGD (35 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 160,
+    "number_of_genes_identified": 71,
+    "phylogenetic_structure": "9 Groups",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 161,
+    "number_of_genes_identified": 79,
+    "phylogenetic_structure": "4 groups (MAPK), 4 groups (MAPKK), 3 subfamilies (MAPKKK: MEKK, Raf, ZIK)",
+    "duplication_pattern": "Segmental (9)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 162,
+    "number_of_genes_identified": 12,
+    "phylogenetic_structure": "4 groups based on motifs and gene structure (Ia, Ib, II, III); 3 major clades (Cu/Zn, Mn, Fe)",
+    "duplication_pattern": "Tandem, Segmental, WGD",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 163,
+    "number_of_genes_identified": 155,
+    "phylogenetic_structure": "3 subfamilies (MEKK, Raf, ZIK)",
+    "duplication_pattern": "Tandem (3), Segmental (22)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 164,
+    "number_of_genes_identified": 17,
+    "phylogenetic_structure": "9 subfamilies (PIN1-PIN9)",
+    "duplication_pattern": "Segmental, Dispersed",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 165,
+    "number_of_genes_identified": 32,
+    "phylogenetic_structure": "11 groups",
+    "duplication_pattern": "Segmental (17)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 166,
+    "number_of_genes_identified": 48,
+    "phylogenetic_structure": "12 subfamilies (CI-CVII, MI, MII, P, Po, ER)",
+    "duplication_pattern": "Tandem (19), Segmental (1)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 167,
+    "number_of_genes_identified": 24,
+    "phylogenetic_structure": "2 main groups (I and II), further into 6 subclasses",
+    "duplication_pattern": "Segmental (12)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 168,
+    "number_of_genes_identified": 173,
+    "phylogenetic_structure": "4 groups (AP2, RAV, ERF, Soloist)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 169,
+    "number_of_genes_identified": 241,
+    "phylogenetic_structure": "3 subfamilies (EXPA, EXPB, EXLA)",
+    "duplication_pattern": "Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 170,
+    "number_of_genes_identified": 29,
+    "phylogenetic_structure": "3 groups (CSD, MSD, FSD)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 171,
+    "number_of_genes_identified": 94,
+    "phylogenetic_structure": "5 major clades (GT-1, GT-2, SIP1, SH4, GTy)",
+    "duplication_pattern": "Tandem (5), Segmental (3)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 172,
+    "number_of_genes_identified": 19,
+    "phylogenetic_structure": "3 subfamilies (JARID1/KDM5, JHDM3/KDM4, JHDM2/KDM3)",
+    "duplication_pattern": "Segmental (2), Tandem (2)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 173,
+    "number_of_genes_identified": 78,
+    "phylogenetic_structure": "3 classes (A, B, C), with further subclasses",
+    "duplication_pattern": "Segmental (14), Tandem (3)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 174,
+    "number_of_genes_identified": 182,
+    "phylogenetic_structure": "MAPK (TEY/TDY), MAPKK (4 groups), MAPKKK (MEKK, Raf, ZIK)",
+    "duplication_pattern": "Segmental (5), Tandem (8)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 175,
+    "number_of_genes_identified": 592,
+    "phylogenetic_structure": "17 subfamilies based on C-terminal domains",
+    "duplication_pattern": "WGD, Tandem, Proximal, Transposed",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 176,
+    "number_of_genes_identified": 330,
+    "phylogenetic_structure": "8 classes (tau, phi, theta, lambda, zeta, DHAR, TCHQD, EF1G)",
+    "duplication_pattern": "Tandem (43), Segmental (171)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 177,
+    "number_of_genes_identified": 13,
+    "phylogenetic_structure": "3 subfamilies",
+    "duplication_pattern": "Tandem, Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 178,
+    "number_of_genes_identified": 31,
+    "phylogenetic_structure": "6 classes (HAC, HAG1, HAG2, HAG3, HAF, HAM)",
+    "duplication_pattern": "Paralogous (21 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 179,
+    "number_of_genes_identified": 11,
+    "phylogenetic_structure": "Not specified",
+    "duplication_pattern": "Tandem, Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 180,
+    "number_of_genes_identified": 17,
+    "phylogenetic_structure": "7 subgroups (A-G) based on phylogeny with Arabidopsis",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 181,
+    "number_of_genes_identified": 32,
+    "phylogenetic_structure": "4 subgroups",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 182,
+    "number_of_genes_identified": 16,
+    "phylogenetic_structure": "Groups A, B, C, D",
+    "duplication_pattern": "Segmental (3)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 184,
+    "number_of_genes_identified": 55,
+    "phylogenetic_structure": "3 major groups (I, II, III), Group II with 5 subgroups (IIa-e)",
+    "duplication_pattern": "Tandem (3), Segmental (17)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 185,
+    "number_of_genes_identified": 8,
+    "phylogenetic_structure": "3 groups (I, II, III)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 186,
+    "number_of_genes_identified": 114,
+    "phylogenetic_structure": "6 subgroups",
+    "duplication_pattern": "Fragment",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 187,
+    "number_of_genes_identified": 142,
+    "phylogenetic_structure": "15 subfamilies (A-O)",
+    "duplication_pattern": "Tandem (1), Segmental (42)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 188,
+    "number_of_genes_identified": 10,
+    "phylogenetic_structure": "2 major groups (CHS and CHS-like)",
+    "duplication_pattern": "Segmental (6)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 189,
+    "number_of_genes_identified": 253,
+    "phylogenetic_structure": "3 major groups (I-III), Group II with 5 subgroups (IIa-e)",
+    "duplication_pattern": "Tandem (4), Segmental (232)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 190,
+    "number_of_genes_identified": 152,
+    "phylogenetic_structure": "6 major groups (I-VI)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 191,
+    "number_of_genes_identified": 27,
+    "phylogenetic_structure": "4 subgroups",
+    "duplication_pattern": "Segmental (6)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 192,
+    "number_of_genes_identified": 24,
+    "phylogenetic_structure": "5 groups (I-V)",
+    "duplication_pattern": "Segmental (7)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 193,
+    "number_of_genes_identified": 19,
+    "phylogenetic_structure": "4 subfamilies (I, II, III, IV)",
+    "duplication_pattern": "Fragment (17 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 194,
+    "number_of_genes_identified": 45,
+    "phylogenetic_structure": "3 subfamilies (MEKK, ZIK, RAF)",
+    "duplication_pattern": "Genome fusion (16), Tandem (2)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 195,
+    "number_of_genes_identified": 53,
+    "phylogenetic_structure": "13 subfamilies",
+    "duplication_pattern": "Tandem (15)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 196,
+    "number_of_genes_identified": 11,
+    "phylogenetic_structure": "4 clades (I, II, III, IV)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 197,
+    "number_of_genes_identified": 108,
+    "phylogenetic_structure": "7 subfamilies (CsIA, CsIC, CsID, CsIE, CsIF, CsIH, CsIJ)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 198,
+    "number_of_genes_identified": 23,
+    "phylogenetic_structure": "3 functional groups (E2F, DP, DEL)",
+    "duplication_pattern": "Paralogous (12 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 199,
+    "number_of_genes_identified": 671,
+    "phylogenetic_structure": "8 clades",
+    "duplication_pattern": "Tandem, Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 200,
+    "number_of_genes_identified": 6,
+    "phylogenetic_structure": "3 groups (I, II, III)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 201,
+    "number_of_genes_identified": 24,
+    "phylogenetic_structure": "4 groups (PPIP5K, IP5-2K, ITPK1, IPK superfamily)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 202,
+    "number_of_genes_identified": 20,
+    "phylogenetic_structure": "3 major sub-families (MnMTPs, Zn/Fe-MTPs, and Zn-MTPs) and 7 groups (1-4, 5, 6, 7, 8, 9, 12)",
+    "duplication_pattern": "Tandem (15), Segmental (2)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 203,
+    "number_of_genes_identified": 25,
+    "phylogenetic_structure": "4 clades (I-IV)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 204,
+    "number_of_genes_identified": 10,
+    "phylogenetic_structure": "7 subfamilies (3 NCED, 3 CCD, 1 CCD-like)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 205,
+    "number_of_genes_identified": 93,
+    "phylogenetic_structure": "13 E2 groups and 1 UEV group",
+    "duplication_pattern": "Segmental (65)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 206,
+    "number_of_genes_identified": 249,
+    "phylogenetic_structure": "18 distinct subgroups",
+    "duplication_pattern": "Tandem (21), Segmental (66)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 207,
+    "number_of_genes_identified": 25,
+    "phylogenetic_structure": "6 groups (Groups I-VI)",
+    "duplication_pattern": "Tandem (64%), Segmental (32%)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 208,
+    "number_of_genes_identified": 104,
+    "phylogenetic_structure": "4 subfamilies (MATE), 5 clades (ALMT)",
+    "duplication_pattern": "Tandem (64. 77%), Proximal (25%), Dispersed (10. 23%)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 209,
+    "number_of_genes_identified": 18,
+    "phylogenetic_structure": "4 subfamilies (I, II, III, IV)",
+    "duplication_pattern": "Fragment (3)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 210,
+    "number_of_genes_identified": 25,
+    "phylogenetic_structure": "3 main classes (Vac-class, Endo-class, PM-class) based on AtNHX homology",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 211,
+    "number_of_genes_identified": 40,
+    "phylogenetic_structure": "9 groups (I to IX)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 212,
+    "number_of_genes_identified": 37,
+    "phylogenetic_structure": "5 subfamilies",
+    "duplication_pattern": "Duplication",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 213,
+    "number_of_genes_identified": 180,
+    "phylogenetic_structure": "15 Classes (Class 1 to Class 15)",
+    "duplication_pattern": "Segmental (111), Tandem (7)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 214,
+    "number_of_genes_identified": 81,
+    "phylogenetic_structure": "4 clades (C1-C4)",
+    "duplication_pattern": "Tandem (2), Segmental (8)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 215,
+    "number_of_genes_identified": 268,
+    "phylogenetic_structure": "6 distinct lineages (GEDS1-I to GEDS1-VI)",
+    "duplication_pattern": "WGD/Segmental (70), Dispersed (19)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 216,
+    "number_of_genes_identified": 19,
+    "phylogenetic_structure": "7 groups",
+    "duplication_pattern": "Segmental (5 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 217,
+    "number_of_genes_identified": 69,
+    "phylogenetic_structure": "6 groups",
+    "duplication_pattern": "Duplication",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 218,
+    "number_of_genes_identified": 6,
+    "phylogenetic_structure": "5 groups",
+    "duplication_pattern": "Segmental (1), Tandem (1)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 219,
+    "number_of_genes_identified": 26,
+    "phylogenetic_structure": "2 clades (Type-I, Type-II/III)",
+    "duplication_pattern": "Paralogous (8 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 220,
+    "number_of_genes_identified": 35,
+    "phylogenetic_structure": "7 subfamilies",
+    "duplication_pattern": "Tandem (6 clusters)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 221,
+    "number_of_genes_identified": 55,
+    "phylogenetic_structure": "5 groups",
+    "duplication_pattern": "Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 222,
+    "number_of_genes_identified": 267,
+    "phylogenetic_structure": "3 groups (I, II, III)",
+    "duplication_pattern": "Duplication",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 223,
+    "number_of_genes_identified": 73,
+    "phylogenetic_structure": "11 groups",
+    "duplication_pattern": "Segmental, Proximal, Tandem",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 224,
+    "number_of_genes_identified": 12,
+    "phylogenetic_structure": "4 subfamilies",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 225,
+    "number_of_genes_identified": 70,
+    "phylogenetic_structure": "3 major groups (I, II, III), II with 5 sub-groups",
+    "duplication_pattern": "Segmental (21), Tandem (1)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 226,
+    "number_of_genes_identified": 37,
+    "phylogenetic_structure": "6 subfamilies (GT-1, GT-2, SH4, SIP1, GT?, GT?)",
+    "duplication_pattern": "Segmental",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 227,
+    "number_of_genes_identified": 46,
+    "phylogenetic_structure": "5 subfamilies (PIP, TIP, NIP, SIP, XIP)",
+    "duplication_pattern": "Tandem, Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 228,
+    "number_of_genes_identified": 4,
+    "phylogenetic_structure": "4 clades",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 229,
+    "number_of_genes_identified": 57,
+    "phylogenetic_structure": "7 subfamilies",
+    "duplication_pattern": "Segmental (25), Tandem (3)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 230,
+    "number_of_genes_identified": 57,
+    "phylogenetic_structure": "2 (KEA), 55 (NHX)",
+    "duplication_pattern": "Tandem, Segmental",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 231,
+    "number_of_genes_identified": 2,
+    "phylogenetic_structure": "2 groups",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 233,
+    "number_of_genes_identified": 30,
+    "phylogenetic_structure": "5 groups (I-V)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 234,
+    "number_of_genes_identified": 505,
+    "phylogenetic_structure": "12 gene families",
+    "duplication_pattern": "Duplication (1262 events)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 235,
+    "number_of_genes_identified": 21,
+    "phylogenetic_structure": "5 subfamilies (FIL/YAB3, YAB2, CRC, INO, YAB5)",
+    "duplication_pattern": "Fragment (24), Tandem (11)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 236,
+    "number_of_genes_identified": 113,
+    "phylogenetic_structure": "9 subclasses",
+    "duplication_pattern": "Tandem (5), Dispersed (3)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 237,
+    "number_of_genes_identified": 85,
+    "phylogenetic_structure": "10 classes",
+    "duplication_pattern": "Tandem, Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 239,
+    "number_of_genes_identified": 62,
+    "phylogenetic_structure": "4 classes",
+    "duplication_pattern": "Duplication (10 events)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 240,
+    "number_of_genes_identified": 11,
+    "phylogenetic_structure": "4 groups (A, B, C, D)",
+    "duplication_pattern": "Orthologous (22 pairs)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 241,
+    "number_of_genes_identified": 52,
+    "phylogenetic_structure": "12 subfamilies (A-J, S, X)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 242,
+    "number_of_genes_identified": 13,
+    "phylogenetic_structure": "2 major clusters",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 243,
+    "number_of_genes_identified": 315,
+    "phylogenetic_structure": "11 subgroups",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 244,
+    "number_of_genes_identified": 150,
+    "phylogenetic_structure": "3 subfamilies, grouped into two major groups (for DEAD)",
+    "duplication_pattern": "Paralogous (15 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 245,
+    "number_of_genes_identified": 412,
+    "phylogenetic_structure": "8 subfamilies (for NPF), 6 groups (for CLC), 4 subclades (for SLAC1/SLAH)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 246,
+    "number_of_genes_identified": 40,
+    "phylogenetic_structure": "5 classes (I-V) within 2 families (GH-19, GH-18)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 247,
+    "number_of_genes_identified": 10,
+    "phylogenetic_structure": "4 subfamilies (I-IV)",
+    "duplication_pattern": "Segmental (8)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 248,
+    "number_of_genes_identified": 177,
+    "phylogenetic_structure": "14 subfamilies",
+    "duplication_pattern": "Tandem, Segmental (60 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 249,
+    "number_of_genes_identified": 55,
+    "phylogenetic_structure": "4 subfamilies (I-IV)",
+    "duplication_pattern": "Segmental (4), Tandem (1)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 250,
+    "number_of_genes_identified": 70,
+    "phylogenetic_structure": "6 subfamilies (A-F)",
+    "duplication_pattern": "Tandem, Segmental (19 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 251,
+    "number_of_genes_identified": 6,
+    "phylogenetic_structure": "3 groups (A, B, C)",
+    "duplication_pattern": "Tandem (3), Segmental (1)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 252,
+    "number_of_genes_identified": 1,
+    "phylogenetic_structure": "Not Specified",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 253,
+    "number_of_genes_identified": 84,
+    "phylogenetic_structure": "Not Specified",
+    "duplication_pattern": "Tandem (5), Segmental (12)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 254,
+    "number_of_genes_identified": 23,
+    "phylogenetic_structure": "5 clades (PHT1-4, PHO1)",
+    "duplication_pattern": "Duplication (7 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 255,
+    "number_of_genes_identified": 23,
+    "phylogenetic_structure": "4 clades (PERK-A, B, C, D)",
+    "duplication_pattern": "Segmental (8), Tandem (1)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 256,
+    "number_of_genes_identified": 5,
+    "phylogenetic_structure": "4 groups (TIR1/AFB1, AFB2/3, AFB4/5, AFB6)",
+    "duplication_pattern": "Segmental (1)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 257,
+    "number_of_genes_identified": 59,
+    "phylogenetic_structure": "4 groups (I, II, III, IV) with 5 subgroups (IIa-e)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 258,
+    "number_of_genes_identified": 13,
+    "phylogenetic_structure": "2 major classes (A, B) further into 3 subclasses each, 4 classes (I-IV) based on maize-only tree",
+    "duplication_pattern": "Paralogous (5 pairs)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 259,
+    "number_of_genes_identified": 10,
+    "phylogenetic_structure": "6 groups (based on phylogeny with AtPIN and OsPIN)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 260,
+    "number_of_genes_identified": 23,
+    "phylogenetic_structure": "4 groups (I-IV)",
+    "duplication_pattern": "Tandem (4), Segmental (120)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 261,
+    "number_of_genes_identified": 7,
+    "phylogenetic_structure": "7 sub-groups",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 262,
+    "number_of_genes_identified": 5,
+    "phylogenetic_structure": "3 subgroups",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 263,
+    "number_of_genes_identified": 21,
+    "phylogenetic_structure": "3 groups",
+    "duplication_pattern": "Tandem (2), WGD/Segmental (6)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 264,
+    "number_of_genes_identified": 7,
+    "phylogenetic_structure": "3 clades",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 265,
+    "number_of_genes_identified": 36,
+    "phylogenetic_structure": "4 major classes, 7 subclasses",
+    "duplication_pattern": "Tandem, Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 266,
+    "number_of_genes_identified": 17,
+    "phylogenetic_structure": "8 subfamilies",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 267,
+    "number_of_genes_identified": 27,
+    "phylogenetic_structure": "3 subgroups",
+    "duplication_pattern": "WGD/Segmental",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 268,
+    "number_of_genes_identified": 54,
+    "phylogenetic_structure": "3 groups with subgroups",
+    "duplication_pattern": "Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 269,
+    "number_of_genes_identified": 13,
+    "phylogenetic_structure": "4 clades",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 270,
+    "number_of_genes_identified": 36,
+    "phylogenetic_structure": "4 classes, 7 subclasses",
+    "duplication_pattern": "Tandem, Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 271,
+    "number_of_genes_identified": 16,
+    "phylogenetic_structure": "4 clades",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 272,
+    "number_of_genes_identified": 15,
+    "phylogenetic_structure": "3 groups",
+    "duplication_pattern": "Segmental",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 274,
+    "number_of_genes_identified": 18,
+    "phylogenetic_structure": "9 subgroups",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 275,
+    "number_of_genes_identified": 162,
+    "phylogenetic_structure": "7 distinct major groups",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 276,
+    "number_of_genes_identified": 7,
+    "phylogenetic_structure": "2 groups (VvHsp90. 1 and VvHsp90. 2)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 278,
+    "number_of_genes_identified": 261,
+    "phylogenetic_structure": "8 subfamilies",
+    "duplication_pattern": "Segmental/WGD, Tandem",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 279,
+    "number_of_genes_identified": 18,
+    "phylogenetic_structure": "3 subfamilies",
+    "duplication_pattern": "Tandem, Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 280,
+    "number_of_genes_identified": 44,
+    "phylogenetic_structure": "2 families, 7 subfamilies",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 281,
+    "number_of_genes_identified": 14,
+    "phylogenetic_structure": "6 clades",
+    "duplication_pattern": "Tandem, Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 282,
+    "number_of_genes_identified": 180,
+    "phylogenetic_structure": "4 subfamilies, multiple subgroups",
+    "duplication_pattern": "Tandem, Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 284,
+    "number_of_genes_identified": 18,
+    "phylogenetic_structure": "5 subfamilies",
+    "duplication_pattern": "Segmental",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 285,
+    "number_of_genes_identified": 12,
+    "phylogenetic_structure": "7 groups",
+    "duplication_pattern": "Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 286,
+    "number_of_genes_identified": 14,
+    "phylogenetic_structure": "4 subfamilies",
+    "duplication_pattern": "Tandem, Segmental/WGD",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 287,
+    "number_of_genes_identified": 18,
+    "phylogenetic_structure": "3 subfamilies",
+    "duplication_pattern": "Tandem, Segmental",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 288,
+    "number_of_genes_identified": 42,
+    "phylogenetic_structure": "6 groups",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 289,
+    "number_of_genes_identified": 15,
+    "phylogenetic_structure": "3 sub-clades",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 291,
+    "number_of_genes_identified": 80,
+    "phylogenetic_structure": "3 groups with subgroups",
+    "duplication_pattern": "Tandem, Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 292,
+    "number_of_genes_identified": 63,
+    "phylogenetic_structure": "4 subfamilies",
+    "duplication_pattern": "Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 293,
+    "number_of_genes_identified": 88,
+    "phylogenetic_structure": "4 subfamilies",
+    "duplication_pattern": "Tandem, Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 294,
+    "number_of_genes_identified": 31,
+    "phylogenetic_structure": "9 groups",
+    "duplication_pattern": "Tandem, Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 295,
+    "number_of_genes_identified": 90,
+    "phylogenetic_structure": "10 classes",
+    "duplication_pattern": "Segmental (8)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 296,
+    "number_of_genes_identified": 92,
+    "phylogenetic_structure": "3 subfamilies (EXPA, EXPB, EXPLA)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 297,
+    "number_of_genes_identified": 15,
+    "phylogenetic_structure": "2 groups (5 subgroups)",
+    "duplication_pattern": "Segmental (1)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 298,
+    "number_of_genes_identified": 14,
+    "phylogenetic_structure": "2 groups (? and non-? group)",
+    "duplication_pattern": "Segmental (6)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 299,
+    "number_of_genes_identified": 24,
+    "phylogenetic_structure": "2 subfamilies (2 clades each)",
+    "duplication_pattern": "Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 300,
+    "number_of_genes_identified": 180,
+    "phylogenetic_structure": "5 classes (M?, M?, M?, M?, and MIKC)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 301,
+    "number_of_genes_identified": 58,
+    "phylogenetic_structure": "2 Classes (I and II), Class I is further divided into 9 subclasses, and Class II is divided into 2 subclasses)",
+    "duplication_pattern": "Segmental (21)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 302,
+    "number_of_genes_identified": 19,
+    "phylogenetic_structure": "5 Classes (I, II, III, IV, and V)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 303,
+    "number_of_genes_identified": 33,
+    "phylogenetic_structure": "4 groups (I to IV)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 304,
+    "number_of_genes_identified": 42,
+    "phylogenetic_structure": "17 subfamilies (CI, CII, CIII, CIV, CV, CVI, CVII, CVIII, CIX, CX, CXI, CXII, P, Px, ER, MI, MII)",
+    "duplication_pattern": "Tandem, Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 305,
+    "number_of_genes_identified": 9,
+    "phylogenetic_structure": "3 Classes (A, B, C) with A further divided (A1, A2, A3, A4)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 306,
+    "number_of_genes_identified": 46,
+    "phylogenetic_structure": "3 Groups (FRO I, FRO II, NOX)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 307,
+    "number_of_genes_identified": 8,
+    "phylogenetic_structure": "Not specified",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 308,
+    "number_of_genes_identified": 125,
+    "phylogenetic_structure": "Not specified",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 309,
+    "number_of_genes_identified": 194,
+    "phylogenetic_structure": "11 subfamilies (A-K)",
+    "duplication_pattern": "WGD/Segmental, Tandem",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 310,
+    "number_of_genes_identified": 28,
+    "phylogenetic_structure": "2 Groups (I and II)",
+    "duplication_pattern": "Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 311,
+    "number_of_genes_identified": 124,
+    "phylogenetic_structure": "Not specified",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 312,
+    "number_of_genes_identified": 105,
+    "phylogenetic_structure": "8 Groups (1-8)",
+    "duplication_pattern": "Segmental, Tandem (1)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 313,
+    "number_of_genes_identified": 9,
+    "phylogenetic_structure": "2 subfamilies (CSD, MSD, and FSD)",
+    "duplication_pattern": "Segmental (2)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 314,
+    "number_of_genes_identified": 50,
+    "phylogenetic_structure": "8 groups (I-VII)",
+    "duplication_pattern": "Segmental (36)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 315,
+    "number_of_genes_identified": 32,
+    "phylogenetic_structure": "2 Classes (I, II)",
+    "duplication_pattern": "Tandem",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 316,
+    "number_of_genes_identified": 48,
+    "phylogenetic_structure": "8 subtypes (F, H, M, O, X, Y, Z, NRX), 17 homoeologous groups",
+    "duplication_pattern": "Tandem (2), Segmental (14)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 317,
+    "number_of_genes_identified": 58,
+    "phylogenetic_structure": "5 categories (A1, A2, A4, A5, A6)",
+    "duplication_pattern": "Tandem (8), Segmental (7)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 318,
+    "number_of_genes_identified": 53,
+    "phylogenetic_structure": "6 groups (Group 1-6)",
+    "duplication_pattern": "Tandem (22), Segmental (22)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 319,
+    "number_of_genes_identified": 149,
+    "phylogenetic_structure": "15 major groups (A-O), J, K, N absent",
+    "duplication_pattern": "Segmental (61)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 320,
+    "number_of_genes_identified": 16,
+    "phylogenetic_structure": "3 subgroups (NCEDs, CCDs, CCD-like)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 321,
+    "number_of_genes_identified": 16,
+    "phylogenetic_structure": "4 distinct subfamilies (I-IV)",
+    "duplication_pattern": "Tandem (2), WGD/Segmental (8)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 322,
+    "number_of_genes_identified": 11,
+    "phylogenetic_structure": "3 subfamilies (EDS1, PAD4, SAG101)",
+    "duplication_pattern": "Fragment (7), Tandem",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 324,
+    "number_of_genes_identified": 56,
+    "phylogenetic_structure": "2 subfamilies (Group I/II and Group III)",
+    "duplication_pattern": "Tandem (8 pairs)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 325,
+    "number_of_genes_identified": 19,
+    "phylogenetic_structure": "11 groups (I-XI) in 4 clades",
+    "duplication_pattern": "Segmental (3)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 326,
+    "number_of_genes_identified": 116,
+    "phylogenetic_structure": "23 subgroups (based on Arabidopsis)",
+    "duplication_pattern": "Tandem (4), Segmental (33)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 327,
+    "number_of_genes_identified": 7,
+    "phylogenetic_structure": "5 subgroups (INO, YAB2, YAB5, AFO, CRC)",
+    "duplication_pattern": "Segmental (3)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 328,
+    "number_of_genes_identified": 11,
+    "phylogenetic_structure": "4 groups (KCS1-like, FAE1 like, FDH-like, and CER6) 8 subgroups (?, ?, ?, ?, ?, ?, ?, and ?)",
+    "duplication_pattern": "Not specified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 329,
+    "number_of_genes_identified": 1927,
+    "phylogenetic_structure": "10 distinct clades",
+    "duplication_pattern": "WGD (89. 71%), Proximal (4. 41%), Tandem (3. 92%)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 494,
+    "number_of_genes_identified": 51,
+    "phylogenetic_structure": "Three major classes: HKs (six subgroups: cytokinin receptor, AHK1?like, CKI1?like, CKI2?like, ethylene receptor, phytochrome), HPs (true, pseudo), RRs (type?A, type?B [B1, B2, B3], type?C, pseudo?RRs [clock?associated, type?B PRRs])",
+    "duplication_pattern": "Primarily segmental; 5 tandemly duplicated gene pairs",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 495,
+    "number_of_genes_identified": 15,
+    "phylogenetic_structure": "Two main groups (NCED, CCD) with six subgroups (CCD1, CCD4, CCD8, NCED1, NCED2, NCED3)",
+    "duplication_pattern": "Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 496,
+    "number_of_genes_identified": 57,
+    "phylogenetic_structure": "Seven subtypes: type A, B?I, B?II, B?IV, C, B?PRR, Clock PRR",
+    "duplication_pattern": "Segmental (26 inter?chromosomal, 2 intra?chromosomal)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 497,
+    "number_of_genes_identified": 15,
+    "phylogenetic_structure": "Three groups (I, II, III) based on joint Arabidopsis/tomato tree",
+    "duplication_pattern": "Not analyzed",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 498,
+    "number_of_genes_identified": 246,
+    "phylogenetic_structure": "L?type: 4 subgroups; G?type: 4 subgroups",
+    "duplication_pattern": "Tandem duplication predicted",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 499,
+    "number_of_genes_identified": 36,
+    "phylogenetic_structure": "7 groups based on Arabidopsis functional subgroups",
+    "duplication_pattern": "Not analyzed",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 500,
+    "number_of_genes_identified": 30,
+    "phylogenetic_structure": "5 subfamilies (I V)",
+    "duplication_pattern": "Segmental (no tandem)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 501,
+    "number_of_genes_identified": 16,
+    "phylogenetic_structure": "Four groups (A, B, C, D)",
+    "duplication_pattern": "Not identified (no tandem duplication)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 502,
+    "number_of_genes_identified": 12,
+    "phylogenetic_structure": "Cucurbit subclade within dicot clade",
+    "duplication_pattern": "Tandem duplication (two clusters on chr4 and chr7)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 503,
+    "number_of_genes_identified": 3,
+    "phylogenetic_structure": "SmPAL1/3 in one dicot subclade, SmPAL2 in another; overall plant PALs divided into dicot, monocot, gymnosperm, fungal clades",
+    "duplication_pattern": "Not analyzed",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 504,
+    "number_of_genes_identified": 145,
+    "phylogenetic_structure": "18 subfamilies (NAC?a to NAC?s)",
+    "duplication_pattern": "Tandem and segmental duplications",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 505,
+    "number_of_genes_identified": 10,
+    "phylogenetic_structure": "Two major groups (I and II) with subgroups Ia, Ib, IIa, IIb",
+    "duplication_pattern": "Segmental duplication (PtHsp90?5a/5b)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 506,
+    "number_of_genes_identified": 106,
+    "phylogenetic_structure": "Two classes (Type I: M?, M?, M?; Type II: MIKC^c, MIKC^*) with multiple subfamilies",
+    "duplication_pattern": "Tandem (45) and segmental (17) duplications",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 507,
+    "number_of_genes_identified": 38,
+    "phylogenetic_structure": "Five groups (I V), Group II subdivided into IIa, IIb, IIc",
+    "duplication_pattern": "Not analyzed",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 508,
+    "number_of_genes_identified": 106,
+    "phylogenetic_structure": "Two classes (Type I: M?, M?, M?; Type II: MIKC^c, MIKC^*) with multiple subfamilies",
+    "duplication_pattern": "Tandem (45) and segmental (17) duplications",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 509,
+    "number_of_genes_identified": 51,
+    "phylogenetic_structure": "15 subfamilies (CI, CII, CIII, CIV, CV, CVI, CIX, CXI, MI, MII, P, ER, Px, orphan groups)",
+    "duplication_pattern": "Segmental (5) and additional duplications (total 23)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 510,
+    "number_of_genes_identified": 51,
+    "phylogenetic_structure": "15 subfamilies (CI, CII, CIII, CIV, CV, CVI, CIX, CXI, MI, MII, P, ER, Px, orphan groups)",
+    "duplication_pattern": "Segmental (5) and additional duplications (total 23)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 511,
+    "number_of_genes_identified": 110,
+    "phylogenetic_structure": "12 subgroups (potato); 18 subgroups (NAC?a to NAC?r) with Arabidopsis/rice",
+    "duplication_pattern": "Tandem, segmental, proximal, dispersed",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 512,
+    "number_of_genes_identified": 147,
+    "phylogenetic_structure": "11 subfamilies (I XI)",
+    "duplication_pattern": "Tandem duplications mainly; no segmental",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 513,
+    "number_of_genes_identified": 147,
+    "phylogenetic_structure": "Two families (TNL and CNL), multiple clades",
+    "duplication_pattern": "Not analyzed",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 514,
+    "number_of_genes_identified": 66,
+    "phylogenetic_structure": "Five subfamilies (PIP, TIP, NIP, SIP, XIP)",
+    "duplication_pattern": "Not explicitly analyzed",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 515,
+    "number_of_genes_identified": 32,
+    "phylogenetic_structure": "Six subfamilies (I VI)",
+    "duplication_pattern": "Not analyzed",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 516,
+    "number_of_genes_identified": 40,
+    "phylogenetic_structure": "Four groups (I IV)",
+    "duplication_pattern": "Segmental (10) and tandem (4) duplications",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 517,
+    "number_of_genes_identified": 8,
+    "phylogenetic_structure": "Two types (H?caleosin and L?caleosin)",
+    "duplication_pattern": "Segmental and tandem duplications",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 518,
+    "number_of_genes_identified": 96,
+    "phylogenetic_structure": "Five subfamilies (I V)",
+    "duplication_pattern": "Tandem and segmental duplications",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 519,
+    "number_of_genes_identified": 38,
+    "phylogenetic_structure": "Six subgroups (A1 A6)",
+    "duplication_pattern": "Not analyzed",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 520,
+    "number_of_genes_identified": 21,
+    "phylogenetic_structure": "Eight clades (I VIII); Rosaceae?specific clades VII and VIII",
+    "duplication_pattern": "Tandem and segmental duplications",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 521,
+    "number_of_genes_identified": 171,
+    "phylogenetic_structure": "Six groups (I VI)",
+    "duplication_pattern": "Tandem (12 pairs) and segmental (22 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 522,
+    "number_of_genes_identified": 8,
+    "phylogenetic_structure": "Six groups (I VI)",
+    "duplication_pattern": "Segmental (no tandem)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 523,
+    "number_of_genes_identified": 57,
+    "phylogenetic_structure": "Four clades (I IV)",
+    "duplication_pattern": "Segmental (26) and tandem (7)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 524,
+    "number_of_genes_identified": 37,
+    "phylogenetic_structure": "Seven clades",
+    "duplication_pattern": "Segmental (19 pairs)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 525,
+    "number_of_genes_identified": 39,
+    "phylogenetic_structure": "10 subfamilies",
+    "duplication_pattern": "Collinear pairs (segmental)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 526,
+    "number_of_genes_identified": 29,
+    "phylogenetic_structure": "Nine subgroups (I IX)",
+    "duplication_pattern": "Segmental (4 events)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 527,
+    "number_of_genes_identified": 14,
+    "phylogenetic_structure": "Not explicitly grouped into subfamilies",
+    "duplication_pattern": "Tandem (31 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 528,
+    "number_of_genes_identified": 11,
+    "phylogenetic_structure": "Three clades (A, B, C)",
+    "duplication_pattern": "Tandem (4 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 529,
+    "number_of_genes_identified": 158,
+    "phylogenetic_structure": "Five subfamilies (PHT1 PHT5)",
+    "duplication_pattern": "Tandem (18 pairs)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 530,
+    "number_of_genes_identified": 47,
+    "phylogenetic_structure": "Transporters (HKT, KEA, KUP/HAK/KT); channels (Shaker, TPK, Kir?like, SKOR)",
+    "duplication_pattern": "Segmental and tandem",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 531,
+    "number_of_genes_identified": 24,
+    "phylogenetic_structure": "Three clades (I III) in peanut; four clades (I IV) with Arabidopsis",
+    "duplication_pattern": "WGD/segmental (18) and tandem (4)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 532,
+    "number_of_genes_identified": 15,
+    "phylogenetic_structure": "Five clades (I V); rice lacks clade II",
+    "duplication_pattern": "Tandem (1 pair) and segmental (3 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 534,
+    "number_of_genes_identified": 30,
+    "phylogenetic_structure": "Seven subfamilies (FAB2, ADS, SLD, DES, FAD6, FAD2, FAD3/7/8)",
+    "duplication_pattern": "Segmental (29 pairs) and tandem (1 pair)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 537,
+    "number_of_genes_identified": 24,
+    "phylogenetic_structure": "Four groups (I IV)",
+    "duplication_pattern": "Dispersed duplication and WGD (1 WGD, 3 dispersed)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 538,
+    "number_of_genes_identified": 8,
+    "phylogenetic_structure": "Three groups (Vac, Endo, PM)",
+    "duplication_pattern": "Segmental (2 paralog pairs)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 539,
+    "number_of_genes_identified": 40,
+    "phylogenetic_structure": "Three subgroups (C19?I, C19?II, C20)",
+    "duplication_pattern": "Tandem and segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 540,
+    "number_of_genes_identified": 6,
+    "phylogenetic_structure": "Two clades (Clade 1 and Clade 2); three clades across species",
+    "duplication_pattern": "Tandem (1 pair) and segmental (8 pairs)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 541,
+    "number_of_genes_identified": 7,
+    "phylogenetic_structure": "Four subgroups (I, II, III, IV)",
+    "duplication_pattern": "Segmental (three fragment repeat pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 542,
+    "number_of_genes_identified": 14,
+    "phylogenetic_structure": "ACS: I, IIA, IIB, III; ACO: I-III; ETO1: I-III",
+    "duplication_pattern": "Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 543,
+    "number_of_genes_identified": 46,
+    "phylogenetic_structure": "Five groups (A, B, C, D, E)",
+    "duplication_pattern": "Segmental and tandem (20 dup. pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 544,
+    "number_of_genes_identified": 11,
+    "phylogenetic_structure": "Three sub-branches (A, B, C)",
+    "duplication_pattern": "Segmental (one segmental dup.)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 545,
+    "number_of_genes_identified": 69,
+    "phylogenetic_structure": "Four subfamilies",
+    "duplication_pattern": "Tandem and segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 546,
+    "number_of_genes_identified": 13,
+    "phylogenetic_structure": "Three groups (I, II, III)",
+    "duplication_pattern": "Tandem and segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 547,
+    "number_of_genes_identified": 28,
+    "phylogenetic_structure": "Four groups (I, II, III, IV)",
+    "duplication_pattern": "Segmental and tandem (collinearity)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 548,
+    "number_of_genes_identified": 166,
+    "phylogenetic_structure": "Six subfamilies (A1-A6)",
+    "duplication_pattern": "Tandem (18 pairs) and segmental (21 fragment pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 549,
+    "number_of_genes_identified": 8,
+    "phylogenetic_structure": "Five groups in cassava (I, II, III, V, VI)",
+    "duplication_pattern": "Segmental (8 homologous pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 550,
+    "number_of_genes_identified": 73,
+    "phylogenetic_structure": "Groups I, II (IIa-IIe), III",
+    "duplication_pattern": "Segmental (7 collinear gene pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 551,
+    "number_of_genes_identified": 48,
+    "phylogenetic_structure": "Type I (M?, M?, M?) and Type II (MIKC)",
+    "duplication_pattern": "Not analyzed",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 552,
+    "number_of_genes_identified": 21,
+    "phylogenetic_structure": "Three subfamilies (CCDL, CCD, NCED)",
+    "duplication_pattern": "Tandem and segmental (73 paralogous pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 553,
+    "number_of_genes_identified": 3,
+    "phylogenetic_structure": "Not performed",
+    "duplication_pattern": "Not analyzed",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 554,
+    "number_of_genes_identified": 30,
+    "phylogenetic_structure": "Four major clusters of orthologous genes (MCOGs)",
+    "duplication_pattern": "Segmental (in Arabidopsis)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 555,
+    "number_of_genes_identified": 16,
+    "phylogenetic_structure": "Three classes (I, II, III)",
+    "duplication_pattern": "Not analyzed",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 557,
+    "number_of_genes_identified": 51,
+    "phylogenetic_structure": "Three subfamilies (NF-YA, B, C)",
+    "duplication_pattern": "Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 558,
+    "number_of_genes_identified": 6,
+    "phylogenetic_structure": "Three groups (cytosolic, P1, P2)",
+    "duplication_pattern": "Not analyzed",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 559,
+    "number_of_genes_identified": 12,
+    "phylogenetic_structure": "Two groups (I and II)",
+    "duplication_pattern": "Segmental (sister pairs)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 560,
+    "number_of_genes_identified": 31,
+    "phylogenetic_structure": "Two groups (A and B)",
+    "duplication_pattern": "Segmental (chromosomal block duplications)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 561,
+    "number_of_genes_identified": 29,
+    "phylogenetic_structure": "Four subfamilies (Reyes et al.) and seven expression clades",
+    "duplication_pattern": "Not analyzed",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 562,
+    "number_of_genes_identified": 31,
+    "phylogenetic_structure": "Four groups (I IV)",
+    "duplication_pattern": "Segmental",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 563,
+    "number_of_genes_identified": 35,
+    "phylogenetic_structure": "Phylogenetic subgroups",
+    "duplication_pattern": "Segmental and Tandem",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 564,
+    "number_of_genes_identified": 103,
+    "phylogenetic_structure": "Four groups (I IV)",
+    "duplication_pattern": "Tandem and Segmental",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 565,
+    "number_of_genes_identified": 450,
+    "phylogenetic_structure": "Subclasses P, PLS, E, DYW",
+    "duplication_pattern": "Not analyzed",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 566,
+    "number_of_genes_identified": 11,
+    "phylogenetic_structure": "Three groups (I III)",
+    "duplication_pattern": "Not determined",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 567,
+    "number_of_genes_identified": 52,
+    "phylogenetic_structure": "Nine types (I IX)",
+    "duplication_pattern": "Tandem",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 568,
+    "number_of_genes_identified": 6,
+    "phylogenetic_structure": "Four subfamilies (I IV)",
+    "duplication_pattern": "Not analyzed",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 569,
+    "number_of_genes_identified": 19,
+    "phylogenetic_structure": "Eight clades (A H)",
+    "duplication_pattern": "Not analyzed",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 571,
+    "number_of_genes_identified": 379,
+    "phylogenetic_structure": "Six major clades",
+    "duplication_pattern": "Tandem and Segmental",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 572,
+    "number_of_genes_identified": 20,
+    "phylogenetic_structure": "Four groups (I IV)",
+    "duplication_pattern": "Segmental",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 573,
+    "number_of_genes_identified": 8,
+    "phylogenetic_structure": "AGO: four subgroups; DCL/RDR phylogenetic",
+    "duplication_pattern": "Tandem and Segmental",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 574,
+    "number_of_genes_identified": 54,
+    "phylogenetic_structure": "Three groups (I III)",
+    "duplication_pattern": "Tandem and Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 575,
+    "number_of_genes_identified": 7,
+    "phylogenetic_structure": "Cu/ZnSODs and Fe-MnSODs, subgroups",
+    "duplication_pattern": "None identified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 576,
+    "number_of_genes_identified": 29,
+    "phylogenetic_structure": "Eight groups (I VIII)",
+    "duplication_pattern": "Segmental and Tandem",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 577,
+    "number_of_genes_identified": 85,
+    "phylogenetic_structure": "Three groups (1 3), subgroups",
+    "duplication_pattern": "Not analyzed",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 578,
+    "number_of_genes_identified": 16,
+    "phylogenetic_structure": "Six clades (I III, V VII)",
+    "duplication_pattern": "Not analyzed",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 579,
+    "number_of_genes_identified": 19,
+    "phylogenetic_structure": "Five subfamilies (GROUP1 5)",
+    "duplication_pattern": "Tandem and Segmental",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 580,
+    "number_of_genes_identified": 7,
+    "phylogenetic_structure": "? and non-? groups, four non-? subgroups",
+    "duplication_pattern": "Segmental (few tandem)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 581,
+    "number_of_genes_identified": 42,
+    "phylogenetic_structure": "Five clusters (PHO, PHT1, PHT2, PHT3, PHT4)",
+    "duplication_pattern": "Regional duplications suggested, not formally analyzed",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 582,
+    "number_of_genes_identified": 7,
+    "phylogenetic_structure": "Orthologous clusters with Arabidopsis and rice; no named subgroups",
+    "duplication_pattern": "Not analyzed",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 583,
+    "number_of_genes_identified": 70,
+    "phylogenetic_structure": "HAK: I V groups; Shaker: Kin/Ksilent/Kweak/Kout; TPK/KCO: two groups; HKT: subfamily 1; KEA: three clades",
+    "duplication_pattern": "Tandem and segmental duplications identified",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 584,
+    "number_of_genes_identified": 47,
+    "phylogenetic_structure": "Four groups (I IV) with subgroups IVa/IVb",
+    "duplication_pattern": "Not analyzed",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 585,
+    "number_of_genes_identified": 37,
+    "phylogenetic_structure": "Five groups: HAK, HKT, KEA, TPK, Shaker",
+    "duplication_pattern": "Not analyzed",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 586,
+    "number_of_genes_identified": 21,
+    "phylogenetic_structure": "Two clades (I and II); clade I with three subgroups",
+    "duplication_pattern": "Discussed, not systematically analyzed",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 587,
+    "number_of_genes_identified": 37,
+    "phylogenetic_structure": "NLP and RKD clades",
+    "duplication_pattern": "Tandem and segmental duplications",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 588,
+    "number_of_genes_identified": 20,
+    "phylogenetic_structure": "Four subgroups (I IV)",
+    "duplication_pattern": "Tandem and segmental (WGD dominant)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 589,
+    "number_of_genes_identified": 168,
+    "phylogenetic_structure": "Eight groups (NAC-a to NAC-h)",
+    "duplication_pattern": "Not analyzed",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 590,
+    "number_of_genes_identified": 318,
+    "phylogenetic_structure": "Five subfamilies (AP2, DREB, ERF, RAV, Soloist); DREB/ERF subgroups",
+    "duplication_pattern": "Segmental (400 pairs) and tandem (13 pairs)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 591,
+    "number_of_genes_identified": 104,
+    "phylogenetic_structure": "TNL and non-TNL families; NBS-domain clades",
+    "duplication_pattern": "Tandem and segmental (74 duplication events, 21 clusters)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 592,
+    "number_of_genes_identified": 33,
+    "phylogenetic_structure": "LAX: two subfamilies; PIN: five subfamilies; ABCB: three subfamilies",
+    "duplication_pattern": "Tandem (1 pair) and segmental",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 593,
+    "number_of_genes_identified": 86,
+    "phylogenetic_structure": "13 subgroups (A M)",
+    "duplication_pattern": "Segmental (22 pairs), no tandem",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 594,
+    "number_of_genes_identified": 300,
+    "phylogenetic_structure": "16 groups (I XVI)",
+    "duplication_pattern": "Tandem and segmental (clusters)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 595,
+    "number_of_genes_identified": 34,
+    "phylogenetic_structure": "NF-YA, NF-YB, NF-YC subunits",
+    "duplication_pattern": "Not analyzed",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 596,
+    "number_of_genes_identified": 26,
+    "phylogenetic_structure": "Classes A, B, C",
+    "duplication_pattern": "Not analyzed",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 597,
+    "number_of_genes_identified": 8,
+    "phylogenetic_structure": "Four groups (I IV)",
+    "duplication_pattern": "Not analyzed",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 598,
+    "number_of_genes_identified": 80,
+    "phylogenetic_structure": "13 subfamilies (A M) in Arabidopsis",
+    "duplication_pattern": "Tandem and segmental",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 599,
+    "number_of_genes_identified": 132,
+    "phylogenetic_structure": "PP2C subdivided into 11 subfamilies (A K)",
+    "duplication_pattern": "Tandem (10 genes, 5 pairs) and segmental (42 genes)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 600,
+    "number_of_genes_identified": 21,
+    "phylogenetic_structure": "Three major groups; five clades in plants",
+    "duplication_pattern": "Not systematically analyzed",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 601,
+    "number_of_genes_identified": 237,
+    "phylogenetic_structure": "12 major clades, lineage?specific expansion, clustering of A and B subgenomes",
+    "duplication_pattern": "Tandem, Segmental, Whole Genome Duplication",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 602,
+    "number_of_genes_identified": 31,
+    "phylogenetic_structure": "Six classes (I VI) based on Bayesian phylogeny with Arabidopsis and rice",
+    "duplication_pattern": "Segmental duplication (ancient tetraploid ancestry)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 603,
+    "number_of_genes_identified": 108,
+    "phylogenetic_structure": "Expanded clades for anthocyanin and tannin?related MYBs; conserved gene structure",
+    "duplication_pattern": "Tandem duplication (anthocyanin cluster), possible segmental duplications",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 604,
+    "number_of_genes_identified": 15,
+    "phylogenetic_structure": "Three classes (I, II, III); Class I lignin?associated, II and III possibly defense",
+    "duplication_pattern": "Tandem and segmental duplications",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 605,
+    "number_of_genes_identified": 163,
+    "phylogenetic_structure": "18 subfamilies (NAC?a to NAC?r); also 10 subfamilies in Populus?only tree",
+    "duplication_pattern": "Segmental (73% retained) and tandem (limited)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 606,
+    "number_of_genes_identified": 12,
+    "phylogenetic_structure": "Not shown; identified 12 VvMPKs",
+    "duplication_pattern": "Segmental duplication (stated in text)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 607,
+    "number_of_genes_identified": 5035,
+    "phylogenetic_structure": "Not applicable (census of all TF families)",
+    "duplication_pattern": "Tandem and segmental (intra? and inter?chromosomal duplications analyzed)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 608,
+    "number_of_genes_identified": 152,
+    "phylogenetic_structure": "Grouped into stress?related clades (III, IV, V, VI)",
+    "duplication_pattern": "Tandem (some indicated)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 609,
+    "number_of_genes_identified": 149,
+    "phylogenetic_structure": "Nine groups (1 9)",
+    "duplication_pattern": "Segmental and tandem duplications (in Arabidopsis, rice, poplar)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 610,
+    "number_of_genes_identified": 36,
+    "phylogenetic_structure": "Phylogenetic tree with Arabidopsis and rice, distinct clades",
+    "duplication_pattern": "Not analyzed",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 611,
+    "number_of_genes_identified": 5,
+    "phylogenetic_structure": "Two groups (I and II)",
+    "duplication_pattern": "Segmental duplications (no tandem found)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 612,
+    "number_of_genes_identified": 29,
+    "phylogenetic_structure": "Seven subfamilies plus one unclassified",
+    "duplication_pattern": "Not analyzed (transcriptome data)",
+    "expression_analysis": "Yes"
+  },
+  {
+    "paper_id": 613,
+    "number_of_genes_identified": 35,
+    "phylogenetic_structure": "Four classes (I IV)",
+    "duplication_pattern": "Segmental duplication (12 sister pairs)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 614,
+    "number_of_genes_identified": 31,
+    "phylogenetic_structure": "Four groups (IIB ATPases, exchangers, channels, IIA ATPases)",
+    "duplication_pattern": "Not analyzed (syntenic relationships shown)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 615,
+    "number_of_genes_identified": 4,
+    "phylogenetic_structure": "Not performed",
+    "duplication_pattern": "Not analyzed",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 616,
+    "number_of_genes_identified": 18,
+    "phylogenetic_structure": "Groups: 13?LOX, 9?LOX, outlier VvLOXD",
+    "duplication_pattern": "Not directly analyzed (inferred genome duplications)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 617,
+    "number_of_genes_identified": 25,
+    "phylogenetic_structure": "Three classes (A, B, C)",
+    "duplication_pattern": "Segmental duplication (six HSFs)",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 618,
+    "number_of_genes_identified": 333,
+    "phylogenetic_structure": "17 CNL clades and 8 TNL clades",
+    "duplication_pattern": "Segmental, ectopic translocations, tandem clusters",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 619,
+    "number_of_genes_identified": 2,
+    "phylogenetic_structure": "Various subfamilies, novel Solanaceae?specific clades (e. g., TNACs)",
+    "duplication_pattern": "Not analyzed",
+    "expression_analysis": "No"
+  },
+  {
+    "paper_id": 620,
+    "number_of_genes_identified": 89,
+    "phylogenetic_structure": "10 clades (A J)",
+    "duplication_pattern": "Segmental duplications (no tandem)",
+    "expression_analysis": "No"
+  }
+]

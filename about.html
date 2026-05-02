@@ -1,0 +1,230 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>About & Methods | PGF-Explorer: An Interactive Database for Plant Gene Family Meta-Analysis</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+
+<body>
+  <nav class="topnav">
+    <div class="topnav__inner">
+      <a class="topnav__brand" href="./index.html">
+        <span class="topnav__brand-mark" aria-hidden="true">
+          <span class="brand-orbit"></span>
+          <span class="brand-core"></span>
+          <span class="brand-leaf"></span>
+        </span>
+        <span class="topnav__brand-text">PGF-Explorer</span>
+      </a>
+      <div class="topnav__links">
+        <a class="topnav__link" href="./index.html">Explorer</a>
+        <a class="topnav__link" href="./resources.html">Resources</a>
+        <a class="topnav__link is-active" href="./about.html">About</a>
+      </div>
+    </div>
+  </nav>
+
+  <header class="hero hero--compact">
+    <div class="hero__content">
+      <h1>About PGF-Explorer</h1>
+      <p class="eyebrow">An Interactive Database for Plant Gene Family Meta-Analysis</p>
+    </div>
+  </header>
+
+  <main class="page about-page">
+    <section class="panel panel--wide prose-card">
+      <h2>1. Purpose of This Database</h2>
+      <p>
+        The platform is an interactive research environment for curated plant genome-wide gene family studies.
+        It is designed to support literature exploration, evidence tracking, cross-study comparison, and export-ready
+        synthesis for academic writing and downstream analysis.
+      </p>
+      <p>
+        The Explorer is filter-first and evidence-oriented: every view can be narrowed by organism, gene family,
+        year, journal, country, and validation evidence. Paper-level records remain linked to primary metadata and PDF
+        access.
+      </p>
+    </section>
+
+    <section class="panel panel--wide prose-card">
+      <h2>2. Current Application Modules</h2>
+      <div class="about-grid">
+        <div class="detail-card">
+          <strong>Explorer</strong>
+          <div class="detail-text">
+            Main interface for filtering, ranking, trend inspection, and paper review. Includes advanced query controls,
+            compact/detailed views, and CSV export from the active filtered set.
+          </div>
+        </div>
+        <div class="detail-card">
+          <strong>Comparison Workspace</strong>
+          <div class="detail-text">
+            Select multiple papers and compare metadata side-by-side with shared-family, shared-organism, and
+            shared-tool summaries.
+          </div>
+        </div>
+        <div class="detail-card">
+          <strong>Dataset Assistant</strong>
+          <div class="detail-text">
+            Bottom-corner agent-style assistant. It is grounded in the current filtered dataset view and returns
+            evidence-backed answers with paper IDs.
+          </div>
+        </div>
+        <div class="detail-card">
+          <strong>Resources</strong>
+          <div class="detail-text">
+            Separate page for (i) all-paper BibTeX export, (ii) reproducibility package export, and
+            (iii) database citation text for future publication release.
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel panel--wide prose-card">
+      <h2>3. Data Pipeline and Structure</h2>
+      <p>
+        Source metadata are maintained in CSV and transformed into normalized JSON plus search-ready bundles for the web
+        interface.
+        The builder script materializes linked entities and denormalized search rows for fast browser-side interaction.
+      </p>
+      <div class="about-grid">
+        <div class="detail-card">
+          <strong>Primary Input</strong>
+          <div class="detail-text"><code>database/Data.csv</code> (build source)</div>
+        </div>
+        <div class="detail-card">
+          <strong>Derived Web Data</strong>
+          <div class="detail-text"><code>interactive_database_academic/data/*.json</code> and <code>bundle.js</code>
+          </div>
+        </div>
+        <div class="detail-card">
+          <strong>Runtime PDF Library</strong>
+          <div class="detail-text"><code>interactive_database_academic/database/&lt;PaperID&gt;.pdf</code></div>
+        </div>
+        <div class="detail-card">
+          <strong>Build Script</strong>
+          <div class="detail-text"><code>interactive_database_academic/scripts/build-database.mjs</code></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel panel--wide prose-card">
+      <h2>4. Filtering, Evidence, and Ranking Logic</h2>
+      <p>
+        Records are filtered by direct field constraints and advanced controls (year range, evidence threshold, and
+        keyword match mode).
+        Ranking supports Paper ID sequence, chronology, title order, and gene-count prioritization.
+      </p>
+      <p>
+        Validation context is exposed at both card and detail level, with explicit flags for RNA-seq and RT-qPCR.
+        Comparisons and assistant answers are derived from the same active filtered subset to keep interpretation
+        consistent.
+      </p>
+    </section>
+
+    <section class="panel panel--wide prose-card">
+      <h2>5. Chat Assistant Scope and Limitations</h2>
+      <p>
+        The assistant is designed as a dataset-native copilot, not a general internet chatbot. It answers from
+        currently loaded records and filtered context only, then provides evidence snippets.
+      </p>
+      <div class="about-grid">
+        <div class="detail-card">
+          <strong>What it does well</strong>
+          <div class="detail-text">
+            Counts, summaries, top entities, high-evidence retrieval, recent-paper retrieval, and grounded synthesis
+            from matched papers.
+          </div>
+        </div>
+        <div class="detail-card">
+          <strong>What it does not do</strong>
+          <div class="detail-text">
+            It does not query external databases or infer facts outside the current dataset. Unknown or unsupported
+            queries are reported explicitly.
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel panel--wide prose-card">
+      <h2>6. Reproducibility and Citation Practice</h2>
+      <p>
+        Use the Resources page for export workflows:
+      </p>
+      <div class="about-grid">
+        <div class="detail-card">
+          <strong>Citations for all papers</strong>
+          <div class="detail-text">Export full BibTeX for all included records.</div>
+        </div>
+        <div class="detail-card">
+          <strong>Reproducibility package</strong>
+          <div class="detail-text">Export metadata + full data snapshot + citation bundle.</div>
+        </div>
+        <div class="detail-card">
+          <strong>Database citation</strong>
+          <div class="detail-text">Use the database-citation block after formal online release and manuscript
+            publication.</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel panel--wide prose-card">
+      <h2>7. Recommended Use in Academic Work</h2>
+      <p>
+        For rigorous reporting, keep both the applied filter context and exported evidence identifiers (paper IDs) in
+        your notes.
+        When generating figures/tables, cite the export date and module used (Explorer filters, compare tray, or
+        Resources package).
+      </p>
+      <p>
+        This resource is intended to accelerate synthesis and transparency, not replace full-text methodological review.
+      </p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer__glow site-footer__glow--left"></div>
+    <div class="site-footer__glow site-footer__glow--right"></div>
+    <div class="site-footer__inner">
+      <section class="footer-hero-card">
+        <p class="footer-kicker">Developed by</p>
+        <div class="footer-hero-layout">
+          <div>
+            <h2>Muhammad Haris</h2>
+            <p class="footer-lead">
+              <strong>Research Assistant</strong>
+              <br>Functional Genomics and Tissue Culture Lab, Department of Bioinformatics and Biotechnology
+              <br>Government College University Faisalabad, Pakistan
+            </p>
+            <div class="footer-pills">
+              <a href="https://mharis01862.github.io/" target="_blank" rel="noreferrer"
+                class="footer-pill">Portfolio</a>
+              <a href="mailto:mharis.202101862@gcuf.edu.pk" class="footer-pill">Email</a>
+              <a href="https://orcid.org/0009-0005-5162-052X" target="_blank" rel="noreferrer"
+                class="footer-pill">ORCID</a>
+              <a href="https://github.com/mharis01862" target="_blank" rel="noreferrer" class="footer-pill">GitHub</a>
+            </div>
+          </div>
+          <div class="author-badge-card">
+            <div class="author-badge">MH</div>
+            <div class="author-badge__meta">
+              <strong>Muhammad Haris</strong>
+              <span>Research Assistant</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <div class="footer-bottom">
+        <p>&copy; 2026 Muhammad Haris. All rights reserved.</p>
+        <p>This platform presents a curated scholarly dataset for literature exploration, synthesis, and reuse in academic work.</p>
+        <p style="margin-top: 8px;"><strong>License:</strong> The software code is licensed under the <a href="https://opensource.org/licenses/MIT" target="_blank" style="color: inherit; text-decoration: underline;">MIT License</a>. The dataset and curated content are licensed under the <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" style="color: inherit; text-decoration: underline;">CC BY 4.0 License</a>.</p>
+      </div>
+    </div>
+  </footer>
+</body>
+
+</html>

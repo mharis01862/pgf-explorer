@@ -1,0 +1,1212 @@
+[
+  {
+    "id": 1,
+    "name": "AP2/ERF",
+    "slug": "ap2-erf"
+  },
+  {
+    "id": 2,
+    "name": "MSL",
+    "slug": "msl"
+  },
+  {
+    "id": 3,
+    "name": "TPL/TPR",
+    "slug": "tpl-tpr"
+  },
+  {
+    "id": 4,
+    "name": "PAL",
+    "slug": "pal"
+  },
+  {
+    "id": 5,
+    "name": "LecRLK",
+    "slug": "lecrlk"
+  },
+  {
+    "id": 6,
+    "name": "Trihelix",
+    "slug": "trihelix"
+  },
+  {
+    "id": 7,
+    "name": "Aquaporin",
+    "slug": "aquaporin"
+  },
+  {
+    "id": 8,
+    "name": "LIM",
+    "slug": "lim"
+  },
+  {
+    "id": 9,
+    "name": "BBX",
+    "slug": "bbx"
+  },
+  {
+    "id": 10,
+    "name": "WRKY",
+    "slug": "wrky"
+  },
+  {
+    "id": 11,
+    "name": "AHL",
+    "slug": "ahl"
+  },
+  {
+    "id": 12,
+    "name": "MAPKKK",
+    "slug": "mapkkk"
+  },
+  {
+    "id": 13,
+    "name": "F-box",
+    "slug": "f-box"
+  },
+  {
+    "id": 14,
+    "name": "STP",
+    "slug": "stp"
+  },
+  {
+    "id": 15,
+    "name": "UDP-D-glucuronic acid 4-epimerase (UGlcAE/GAE) gene family",
+    "slug": "udp-d-glucuronic-acid-4-epimerase-uglcae-gae-gene-family"
+  },
+  {
+    "id": 16,
+    "name": "HAK/KUP/KT",
+    "slug": "hak-kup-kt"
+  },
+  {
+    "id": 17,
+    "name": "PERKs",
+    "slug": "perks"
+  },
+  {
+    "id": 18,
+    "name": "RING finger gene family",
+    "slug": "ring-finger-gene-family"
+  },
+  {
+    "id": 19,
+    "name": "NPR1-like gene family",
+    "slug": "npr1-like-gene-family"
+  },
+  {
+    "id": 20,
+    "name": "WOX",
+    "slug": "wox"
+  },
+  {
+    "id": 21,
+    "name": "Brassinazole-resistant",
+    "slug": "brassinazole-resistant"
+  },
+  {
+    "id": 22,
+    "name": "CYP450",
+    "slug": "cyp450"
+  },
+  {
+    "id": 23,
+    "name": "SBP",
+    "slug": "sbp"
+  },
+  {
+    "id": 24,
+    "name": "PG",
+    "slug": "pg"
+  },
+  {
+    "id": 25,
+    "name": "DUF506",
+    "slug": "duf506"
+  },
+  {
+    "id": 26,
+    "name": "OSCA",
+    "slug": "osca"
+  },
+  {
+    "id": 27,
+    "name": "14-3-5",
+    "slug": "14-3-5"
+  },
+  {
+    "id": 28,
+    "name": "FKBP",
+    "slug": "fkbp"
+  },
+  {
+    "id": 29,
+    "name": "PLATZ",
+    "slug": "platz"
+  },
+  {
+    "id": 30,
+    "name": "SWEET",
+    "slug": "sweet"
+  },
+  {
+    "id": 31,
+    "name": "MYB",
+    "slug": "myb"
+  },
+  {
+    "id": 32,
+    "name": "DCL, AGO, RDR",
+    "slug": "dcl-ago-rdr"
+  },
+  {
+    "id": 33,
+    "name": "DIR",
+    "slug": "dir"
+  },
+  {
+    "id": 34,
+    "name": "TPS",
+    "slug": "tps"
+  },
+  {
+    "id": 35,
+    "name": "GAPDH",
+    "slug": "gapdh"
+  },
+  {
+    "id": 36,
+    "name": "COL",
+    "slug": "col"
+  },
+  {
+    "id": 37,
+    "name": "TCP",
+    "slug": "tcp"
+  },
+  {
+    "id": 38,
+    "name": "Mediator Complex Subunit",
+    "slug": "mediator-complex-subunit"
+  },
+  {
+    "id": 39,
+    "name": "m6A regulatory gene family",
+    "slug": "m6a-regulatory-gene-family"
+  },
+  {
+    "id": 40,
+    "name": "CPA",
+    "slug": "cpa"
+  },
+  {
+    "id": 41,
+    "name": "SPL",
+    "slug": "spl"
+  },
+  {
+    "id": 42,
+    "name": "DUF679",
+    "slug": "duf679"
+  },
+  {
+    "id": 43,
+    "name": "MAPK, MAPKK",
+    "slug": "mapk-mapkk"
+  },
+  {
+    "id": 44,
+    "name": "KAN",
+    "slug": "kan"
+  },
+  {
+    "id": 45,
+    "name": "MIOX",
+    "slug": "miox"
+  },
+  {
+    "id": 46,
+    "name": "PP2C",
+    "slug": "pp2c"
+  },
+  {
+    "id": 47,
+    "name": "SOS",
+    "slug": "sos"
+  },
+  {
+    "id": 48,
+    "name": "CBL, CIPK",
+    "slug": "cbl-cipk"
+  },
+  {
+    "id": 49,
+    "name": "AP2/EREBP",
+    "slug": "ap2-erebp"
+  },
+  {
+    "id": 50,
+    "name": "MAPK, MAPKK, MAPKKK",
+    "slug": "mapk-mapkk-mapkkk"
+  },
+  {
+    "id": 51,
+    "name": "Hsp20",
+    "slug": "hsp20"
+  },
+  {
+    "id": 52,
+    "name": "GRF",
+    "slug": "grf"
+  },
+  {
+    "id": 53,
+    "name": "PYL",
+    "slug": "pyl"
+  },
+  {
+    "id": 54,
+    "name": "AP2",
+    "slug": "ap2"
+  },
+  {
+    "id": 55,
+    "name": "CDPK",
+    "slug": "cdpk"
+  },
+  {
+    "id": 56,
+    "name": "FBN (Fibrillin)",
+    "slug": "fbn-fibrillin"
+  },
+  {
+    "id": 57,
+    "name": "GST",
+    "slug": "gst"
+  },
+  {
+    "id": 58,
+    "name": "ALDH",
+    "slug": "aldh"
+  },
+  {
+    "id": 59,
+    "name": "PLC",
+    "slug": "plc"
+  },
+  {
+    "id": 60,
+    "name": "Serpin",
+    "slug": "serpin"
+  },
+  {
+    "id": 61,
+    "name": "DOF",
+    "slug": "dof"
+  },
+  {
+    "id": 62,
+    "name": "Potassium transport-related genes (HAK/KUP/KT, HKT, KEA, Shaker, TPK)",
+    "slug": "potassium-transport-related-genes-hak-kup-kt-hkt-kea-shaker-tpk"
+  },
+  {
+    "id": 63,
+    "name": "LTP",
+    "slug": "ltp"
+  },
+  {
+    "id": 64,
+    "name": "JAZ",
+    "slug": "jaz"
+  },
+  {
+    "id": 65,
+    "name": "WAK, WAKL",
+    "slug": "wak-wakl"
+  },
+  {
+    "id": 66,
+    "name": "SRS",
+    "slug": "srs"
+  },
+  {
+    "id": 67,
+    "name": "ACO (Aconitase)",
+    "slug": "aco-aconitase"
+  },
+  {
+    "id": 68,
+    "name": "SBT",
+    "slug": "sbt"
+  },
+  {
+    "id": 69,
+    "name": "WNK",
+    "slug": "wnk"
+  },
+  {
+    "id": 70,
+    "name": "HXK",
+    "slug": "hxk"
+  },
+  {
+    "id": 71,
+    "name": "HSF",
+    "slug": "hsf"
+  },
+  {
+    "id": 72,
+    "name": "NAC",
+    "slug": "nac"
+  },
+  {
+    "id": 73,
+    "name": "CBF/DREB1",
+    "slug": "cbf-dreb1"
+  },
+  {
+    "id": 74,
+    "name": "GATA",
+    "slug": "gata"
+  },
+  {
+    "id": 75,
+    "name": "VDAC",
+    "slug": "vdac"
+  },
+  {
+    "id": 76,
+    "name": "vWA",
+    "slug": "vwa"
+  },
+  {
+    "id": 77,
+    "name": "CCCH",
+    "slug": "ccch"
+  },
+  {
+    "id": 78,
+    "name": "DNA methyltransferase",
+    "slug": "dna-methyltransferase"
+  },
+  {
+    "id": 79,
+    "name": "ERF",
+    "slug": "erf"
+  },
+  {
+    "id": 80,
+    "name": "P-type II Ca2+ ATPases",
+    "slug": "p-type-ii-ca2-atpases"
+  },
+  {
+    "id": 81,
+    "name": "Aux/IAA",
+    "slug": "aux-iaa"
+  },
+  {
+    "id": 82,
+    "name": "BURP",
+    "slug": "burp"
+  },
+  {
+    "id": 83,
+    "name": "Expansin",
+    "slug": "expansin"
+  },
+  {
+    "id": 84,
+    "name": "SAP",
+    "slug": "sap"
+  },
+  {
+    "id": 85,
+    "name": "Flowering-related genes (e. g., MADS, NAC, LTP, SPL)",
+    "slug": "flowering-related-genes-e-g-mads-nac-ltp-spl"
+  },
+  {
+    "id": 86,
+    "name": "Laccase",
+    "slug": "laccase"
+  },
+  {
+    "id": 87,
+    "name": "SBP/SPL",
+    "slug": "sbp-spl"
+  },
+  {
+    "id": 88,
+    "name": "Metacaspase",
+    "slug": "metacaspase"
+  },
+  {
+    "id": 89,
+    "name": "Aux/IAA, ARF",
+    "slug": "aux-iaa-arf"
+  },
+  {
+    "id": 90,
+    "name": "Beta-GAL",
+    "slug": "beta-gal"
+  },
+  {
+    "id": 91,
+    "name": "MAPK",
+    "slug": "mapk"
+  },
+  {
+    "id": 92,
+    "name": "CAMTA",
+    "slug": "camta"
+  },
+  {
+    "id": 93,
+    "name": "RCI2/PMP3",
+    "slug": "rci2-pmp3"
+  },
+  {
+    "id": 94,
+    "name": "MLO",
+    "slug": "mlo"
+  },
+  {
+    "id": 95,
+    "name": "ABC",
+    "slug": "abc"
+  },
+  {
+    "id": 96,
+    "name": "DUF221",
+    "slug": "duf221"
+  },
+  {
+    "id": 97,
+    "name": "CHS",
+    "slug": "chs"
+  },
+  {
+    "id": 98,
+    "name": "HVA22",
+    "slug": "hva22"
+  },
+  {
+    "id": 99,
+    "name": "Hsp70",
+    "slug": "hsp70"
+  },
+  {
+    "id": 100,
+    "name": "LysM-RLK",
+    "slug": "lysm-rlk"
+  },
+  {
+    "id": 101,
+    "name": "GH3",
+    "slug": "gh3"
+  },
+  {
+    "id": 102,
+    "name": "C3HC4-type RING finger",
+    "slug": "c3hc4-type-ring-finger"
+  },
+  {
+    "id": 103,
+    "name": "DHN",
+    "slug": "dhn"
+  },
+  {
+    "id": 104,
+    "name": "CCO",
+    "slug": "cco"
+  },
+  {
+    "id": 105,
+    "name": "CrRLK1L",
+    "slug": "crrlk1l"
+  },
+  {
+    "id": 106,
+    "name": "SABATH",
+    "slug": "sabath"
+  },
+  {
+    "id": 107,
+    "name": "TIDS",
+    "slug": "tids"
+  },
+  {
+    "id": 108,
+    "name": "LHC",
+    "slug": "lhc"
+  },
+  {
+    "id": 109,
+    "name": "SRO",
+    "slug": "sro"
+  },
+  {
+    "id": 110,
+    "name": "LEA",
+    "slug": "lea"
+  },
+  {
+    "id": 111,
+    "name": "NF-Y",
+    "slug": "nf-y"
+  },
+  {
+    "id": 112,
+    "name": "bHLH",
+    "slug": "bhlh"
+  },
+  {
+    "id": 113,
+    "name": "TPP",
+    "slug": "tpp"
+  },
+  {
+    "id": 114,
+    "name": "R2R3-MYB",
+    "slug": "r2r3-myb"
+  },
+  {
+    "id": 115,
+    "name": "PEBP",
+    "slug": "pebp"
+  },
+  {
+    "id": 116,
+    "name": "bZIP",
+    "slug": "bzip"
+  },
+  {
+    "id": 117,
+    "name": "SOD",
+    "slug": "sod"
+  },
+  {
+    "id": 118,
+    "name": "PIN",
+    "slug": "pin"
+  },
+  {
+    "id": 119,
+    "name": "PDI",
+    "slug": "pdi"
+  },
+  {
+    "id": 120,
+    "name": "ARF",
+    "slug": "arf"
+  },
+  {
+    "id": 121,
+    "name": "JmjC",
+    "slug": "jmjc"
+  },
+  {
+    "id": 122,
+    "name": "PYR/PYL/RCAR",
+    "slug": "pyr-pyl-rcar"
+  },
+  {
+    "id": 123,
+    "name": "HAT",
+    "slug": "hat"
+  },
+  {
+    "id": 124,
+    "name": "CKX",
+    "slug": "ckx"
+  },
+  {
+    "id": 125,
+    "name": "DUF668",
+    "slug": "duf668"
+  },
+  {
+    "id": 126,
+    "name": "DUF568",
+    "slug": "duf568"
+  },
+  {
+    "id": 127,
+    "name": "BES1",
+    "slug": "bes1"
+  },
+  {
+    "id": 128,
+    "name": "GRAS",
+    "slug": "gras"
+  },
+  {
+    "id": 129,
+    "name": "Csl",
+    "slug": "csl"
+  },
+  {
+    "id": 130,
+    "name": "E2F/DP",
+    "slug": "e2f-dp"
+  },
+  {
+    "id": 131,
+    "name": "BZR",
+    "slug": "bzr"
+  },
+  {
+    "id": 132,
+    "name": "IPK",
+    "slug": "ipk"
+  },
+  {
+    "id": 133,
+    "name": "MTP",
+    "slug": "mtp"
+  },
+  {
+    "id": 134,
+    "name": "UBC",
+    "slug": "ubc"
+  },
+  {
+    "id": 135,
+    "name": "UGT",
+    "slug": "ugt"
+  },
+  {
+    "id": 136,
+    "name": "MATE, ALMT",
+    "slug": "mate-almt"
+  },
+  {
+    "id": 137,
+    "name": "NHX",
+    "slug": "nhx"
+  },
+  {
+    "id": 138,
+    "name": "CPP",
+    "slug": "cpp"
+  },
+  {
+    "id": 139,
+    "name": "NRT/NPF",
+    "slug": "nrt-npf"
+  },
+  {
+    "id": 140,
+    "name": "EDS1",
+    "slug": "eds1"
+  },
+  {
+    "id": 141,
+    "name": "GPX",
+    "slug": "gpx"
+  },
+  {
+    "id": 142,
+    "name": "SOT",
+    "slug": "sot"
+  },
+  {
+    "id": 143,
+    "name": "FAD",
+    "slug": "fad"
+  },
+  {
+    "id": 144,
+    "name": "KEA, NHX",
+    "slug": "kea-nhx"
+  },
+  {
+    "id": 145,
+    "name": "MBF1",
+    "slug": "mbf1"
+  },
+  {
+    "id": 146,
+    "name": "EXP, YLD, XTH, EGL, EXL, GGL, PGL, GL, PL, PME, PAE",
+    "slug": "exp-yld-xth-egl-exl-ggl-pgl-gl-pl-pme-pae"
+  },
+  {
+    "id": 147,
+    "name": "YABBY",
+    "slug": "yabby"
+  },
+  {
+    "id": 148,
+    "name": "HB",
+    "slug": "hb"
+  },
+  {
+    "id": 149,
+    "name": "U-box",
+    "slug": "u-box"
+  },
+  {
+    "id": 150,
+    "name": "BAG",
+    "slug": "bag"
+  },
+  {
+    "id": 151,
+    "name": "WD40",
+    "slug": "wd40"
+  },
+  {
+    "id": 152,
+    "name": "RNA helicase (DEAD, DEAH, DExD/H)",
+    "slug": "rna-helicase-dead-deah-dexd-h"
+  },
+  {
+    "id": 153,
+    "name": "NPF, NRT2, CLC, SLAC1/SLAH",
+    "slug": "npf-nrt2-clc-slac1-slah"
+  },
+  {
+    "id": 154,
+    "name": "Chitinase",
+    "slug": "chitinase"
+  },
+  {
+    "id": 155,
+    "name": "WHY",
+    "slug": "why"
+  },
+  {
+    "id": 156,
+    "name": "HD-ZIP",
+    "slug": "hd-zip"
+  },
+  {
+    "id": 157,
+    "name": "GLO",
+    "slug": "glo"
+  },
+  {
+    "id": 158,
+    "name": "BAS",
+    "slug": "bas"
+  },
+  {
+    "id": 159,
+    "name": "PHT",
+    "slug": "pht"
+  },
+  {
+    "id": 160,
+    "name": "PERK",
+    "slug": "perk"
+  },
+  {
+    "id": 161,
+    "name": "TIR1/AFB",
+    "slug": "tir1-afb"
+  },
+  {
+    "id": 162,
+    "name": "RAV",
+    "slug": "rav"
+  },
+  {
+    "id": 163,
+    "name": "DCL",
+    "slug": "dcl"
+  },
+  {
+    "id": 164,
+    "name": "TALE",
+    "slug": "tale"
+  },
+  {
+    "id": 165,
+    "name": "PEPC",
+    "slug": "pepc"
+  },
+  {
+    "id": 166,
+    "name": "TCS",
+    "slug": "tcs"
+  },
+  {
+    "id": 167,
+    "name": "ANP (Arabidopsis NPK1-related protein kinase)",
+    "slug": "anp-arabidopsis-npk1-related-protein-kinase"
+  },
+  {
+    "id": 168,
+    "name": "BAM",
+    "slug": "bam"
+  },
+  {
+    "id": 169,
+    "name": "SnRK",
+    "slug": "snrk"
+  },
+  {
+    "id": 170,
+    "name": "ANK (Ankyrin repeats)",
+    "slug": "ank-ankyrin-repeats"
+  },
+  {
+    "id": 171,
+    "name": "Hsp90",
+    "slug": "hsp90"
+  },
+  {
+    "id": 172,
+    "name": "MATE",
+    "slug": "mate"
+  },
+  {
+    "id": 173,
+    "name": "KNOX",
+    "slug": "knox"
+  },
+  {
+    "id": 174,
+    "name": "TIFY",
+    "slug": "tify"
+  },
+  {
+    "id": 175,
+    "name": "GASA",
+    "slug": "gasa"
+  },
+  {
+    "id": 176,
+    "name": "Trx",
+    "slug": "trx"
+  },
+  {
+    "id": 177,
+    "name": "RPK1",
+    "slug": "rpk1"
+  },
+  {
+    "id": 178,
+    "name": "mTERF",
+    "slug": "mterf"
+  },
+  {
+    "id": 179,
+    "name": "14-3-4",
+    "slug": "14-3-4"
+  },
+  {
+    "id": 180,
+    "name": "Invertase",
+    "slug": "invertase"
+  },
+  {
+    "id": 181,
+    "name": "MADS-box",
+    "slug": "mads-box"
+  },
+  {
+    "id": 182,
+    "name": "LBD",
+    "slug": "lbd"
+  },
+  {
+    "id": 183,
+    "name": "TLP",
+    "slug": "tlp"
+  },
+  {
+    "id": 184,
+    "name": "NOX",
+    "slug": "nox"
+  },
+  {
+    "id": 185,
+    "name": "Oleosin",
+    "slug": "oleosin"
+  },
+  {
+    "id": 186,
+    "name": "GDSL (GELP)",
+    "slug": "gdsl-gelp"
+  },
+  {
+    "id": 187,
+    "name": "DUF966",
+    "slug": "duf966"
+  },
+  {
+    "id": 188,
+    "name": "CCHC",
+    "slug": "cchc"
+  },
+  {
+    "id": 189,
+    "name": "DREB",
+    "slug": "dreb"
+  },
+  {
+    "id": 190,
+    "name": "Family-1 UDP-glycosyltransferases (UGTs)",
+    "slug": "family-1-udp-glycosyltransferases-ugts"
+  },
+  {
+    "id": 191,
+    "name": "FRI, FRL",
+    "slug": "fri-frl"
+  },
+  {
+    "id": 192,
+    "name": "XTH",
+    "slug": "xth"
+  },
+  {
+    "id": 193,
+    "name": "KCS",
+    "slug": "kcs"
+  },
+  {
+    "id": 194,
+    "name": "ABI3",
+    "slug": "abi3"
+  },
+  {
+    "id": 195,
+    "name": "TCS (two?component system)",
+    "slug": "tcs-two-component-system"
+  },
+  {
+    "id": 196,
+    "name": "RR (Response Regulator)",
+    "slug": "rr-response-regulator"
+  },
+  {
+    "id": 197,
+    "name": "NBS?LRR",
+    "slug": "nbs-lrr"
+  },
+  {
+    "id": 198,
+    "name": "MIP",
+    "slug": "mip"
+  },
+  {
+    "id": 199,
+    "name": "Caleosin",
+    "slug": "caleosin"
+  },
+  {
+    "id": 200,
+    "name": "USP",
+    "slug": "usp"
+  },
+  {
+    "id": 201,
+    "name": "VIT",
+    "slug": "vit"
+  },
+  {
+    "id": 202,
+    "name": "K+ transporters/channels (PTS)",
+    "slug": "k-transporters-channels-pts"
+  },
+  {
+    "id": 203,
+    "name": "RALF",
+    "slug": "ralf"
+  },
+  {
+    "id": 204,
+    "name": "GA2ox",
+    "slug": "ga2ox"
+  },
+  {
+    "id": 205,
+    "name": "NRAMP",
+    "slug": "nramp"
+  },
+  {
+    "id": 206,
+    "name": "Hexokinase (HXK)",
+    "slug": "hexokinase-hxk"
+  },
+  {
+    "id": 207,
+    "name": "ACS, ACO, ETO1 (Ethylene biosynthesis)",
+    "slug": "acs-aco-eto1-ethylene-biosynthesis"
+  },
+  {
+    "id": 208,
+    "name": "FORMIN (GhFH)",
+    "slug": "formin-ghfh"
+  },
+  {
+    "id": 209,
+    "name": "Callose Synthase (CalS)",
+    "slug": "callose-synthase-cals"
+  },
+  {
+    "id": 210,
+    "name": "POD",
+    "slug": "pod"
+  },
+  {
+    "id": 211,
+    "name": "Annexin",
+    "slug": "annexin"
+  },
+  {
+    "id": 212,
+    "name": "RPP13 (CC-NBS-LRR)",
+    "slug": "rpp13-cc-nbs-lrr"
+  },
+  {
+    "id": 213,
+    "name": "NCED",
+    "slug": "nced"
+  },
+  {
+    "id": 214,
+    "name": "Defensin",
+    "slug": "defensin"
+  },
+  {
+    "id": 215,
+    "name": "G6PDH",
+    "slug": "g6pdh"
+  },
+  {
+    "id": 216,
+    "name": "GATA transcription factor",
+    "slug": "gata-transcription-factor"
+  },
+  {
+    "id": 217,
+    "name": "PPR",
+    "slug": "ppr"
+  },
+  {
+    "id": 218,
+    "name": "SnRK2",
+    "slug": "snrk2"
+  },
+  {
+    "id": 219,
+    "name": "nsLTP",
+    "slug": "nsltp"
+  },
+  {
+    "id": 220,
+    "name": "PRA1",
+    "slug": "pra1"
+  },
+  {
+    "id": 221,
+    "name": "RLCK",
+    "slug": "rlck"
+  },
+  {
+    "id": 222,
+    "name": "14-3-3",
+    "slug": "14-3-3"
+  },
+  {
+    "id": 223,
+    "name": "PHT (PHT1, PHT2, PHT3, PHT4, PHO)",
+    "slug": "pht-pht1-pht2-pht3-pht4-pho"
+  },
+  {
+    "id": 224,
+    "name": "ZIP",
+    "slug": "zip"
+  },
+  {
+    "id": 225,
+    "name": "HAK/KT/KUP, Shaker, TPK/KCO, HKT, KEA",
+    "slug": "hak-kt-kup-shaker-tpk-kco-hkt-kea"
+  },
+  {
+    "id": 226,
+    "name": "CNGC",
+    "slug": "cngc"
+  },
+  {
+    "id": 227,
+    "name": "HAK, HKT, KEA, TPK, Shaker (AKT/KAT/GORK/SKOR)",
+    "slug": "hak-hkt-kea-tpk-shaker-akt-kat-gork-skor"
+  },
+  {
+    "id": 228,
+    "name": "NAS",
+    "slug": "nas"
+  },
+  {
+    "id": 229,
+    "name": "RWP-RK (NLP, RKD)",
+    "slug": "rwp-rk-nlp-rkd"
+  },
+  {
+    "id": 230,
+    "name": "GSK (Glycogen Synthase Kinase 3)",
+    "slug": "gsk-glycogen-synthase-kinase-3"
+  },
+  {
+    "id": 231,
+    "name": "LAX, PIN, ABCB",
+    "slug": "lax-pin-abcb"
+  },
+  {
+    "id": 232,
+    "name": "LRR-RLK",
+    "slug": "lrr-rlk"
+  },
+  {
+    "id": 233,
+    "name": "PP (PP2A, PP2C, DSP, PTP, LMWP)",
+    "slug": "pp-pp2a-pp2c-dsp-ptp-lmwp"
+  },
+  {
+    "id": 234,
+    "name": "Germin-like (GLP)",
+    "slug": "germin-like-glp"
+  },
+  {
+    "id": 235,
+    "name": "SAUR",
+    "slug": "saur"
+  },
+  {
+    "id": 236,
+    "name": "CAD",
+    "slug": "cad"
+  },
+  {
+    "id": 237,
+    "name": "All TF families (61 families)",
+    "slug": "all-tf-families-61-families"
+  },
+  {
+    "id": 238,
+    "name": "TPR (CC?TPR)",
+    "slug": "tpr-cc-tpr"
+  },
+  {
+    "id": 239,
+    "name": "SINA",
+    "slug": "sina"
+  },
+  {
+    "id": 240,
+    "name": "Ca ? transporter",
+    "slug": "ca-transporter"
+  },
+  {
+    "id": 241,
+    "name": "LOX",
+    "slug": "lox"
+  },
+  {
+    "id": 242,
+    "name": "All TF families (64 families)",
+    "slug": "all-tf-families-64-families"
+  }
+]

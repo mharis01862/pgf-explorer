@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Resources | PGF-Explorer: An Interactive Database for Plant Gene Family Meta-Analysis</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+
+<body>
+  <nav class="topnav">
+    <div class="topnav__inner">
+      <a class="topnav__brand" href="./index.html">
+        <span class="topnav__brand-mark" aria-hidden="true">
+          <span class="brand-orbit"></span>
+          <span class="brand-core"></span>
+          <span class="brand-leaf"></span>
+        </span>
+        <span class="topnav__brand-text">PGF-Explorer</span>
+      </a>
+      <div class="topnav__links">
+        <a class="topnav__link" href="./index.html">Explorer</a>
+        <a class="topnav__link is-active" href="./resources.html">Resources</a>
+        <a class="topnav__link" href="./about.html">About</a>
+      </div>
+    </div>
+  </nav>
+
+  <main class="page">
+    <section class="panel panel--wide">
+      <div class="panel__header">
+        <h2>Citations for all papers in the dataset</h2>
+      </div>
+      <p class="summary">Download all included-paper citations in BibTeX format.</p>
+      <div class="hero-actions">
+        <button id="exportFullBibtex" class="button button--primary" type="button">Export Full BibTeX</button>
+      </div>
+    </section>
+
+    <section class="panel panel--wide" style="margin-top:12px;">
+      <div class="panel__header">
+        <h2>Download reproducibility package</h2>
+      </div>
+      <p class="summary">Export full reproducibility assets from the current academic database build.</p>
+      <div class="hero-actions">
+        <button id="exportFullPackage" class="button button--primary" type="button">Export Reproducibility
+          Package</button>
+      </div>
+    </section>
+
+    <section class="panel panel--wide" style="margin-top:12px;">
+      <div class="panel__header">
+        <h2>Cite this database</h2>
+      </div>
+
+      <pre id="dbCitation"
+        class="footer-citation">Haris, M., et al. (Year). PGF-Explorer: An Interactive Database for Plant Gene Family Meta-Analysis. Journal Name, Volume(Issue), Pages. url</pre>
+      <div class="hero-actions">
+        <button id="copyDbCitation" class="button button--primary" type="button">Copy Database Citation</button>
+      </div>
+    </section>
+  </main>
+
+  <script src="./resources.js" type="module"></script>
+</body>
+
+</html>

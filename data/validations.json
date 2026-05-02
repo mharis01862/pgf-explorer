@@ -1,0 +1,4313 @@
+[
+  {
+    "paper_id": 1,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 2,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 3,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 4,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": [
+      "PF00221"
+    ]
+  },
+  {
+    "paper_id": 5,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00139",
+      "PF00069",
+      "PF07714",
+      "PF00059",
+      "PF01453",
+      "PF00954"
+    ]
+  },
+  {
+    "paper_id": 6,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 8,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 9,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 10,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF00643"
+    ]
+  },
+  {
+    "paper_id": 11,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 12,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 13,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 14,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 15,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": [
+      "PF00646"
+    ]
+  },
+  {
+    "paper_id": 16,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00083"
+    ]
+  },
+  {
+    "paper_id": 17,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF01370"
+    ]
+  },
+  {
+    "paper_id": 18,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF02705"
+    ]
+  },
+  {
+    "paper_id": 19,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 20,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00097",
+      "PF12906",
+      "PF13639",
+      "PF13923",
+      "PF13920",
+      "PF15227"
+    ]
+  },
+  {
+    "paper_id": 21,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 22,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 23,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 24,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 25,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 26,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 27,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 28,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 29,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 30,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF03106"
+    ]
+  },
+  {
+    "paper_id": 31,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF00254"
+    ]
+  },
+  {
+    "paper_id": 32,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": [
+      "PF04640"
+    ]
+  },
+  {
+    "paper_id": 33,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": [
+      "PF03083"
+    ]
+  },
+  {
+    "paper_id": 34,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00249"
+    ]
+  },
+  {
+    "paper_id": 35,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 36,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF03018"
+    ]
+  },
+  {
+    "paper_id": 37,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF03936",
+      "PF19086"
+    ]
+  },
+  {
+    "paper_id": 38,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00044",
+      "PF02800"
+    ]
+  },
+  {
+    "paper_id": 39,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": [
+      "PF06203",
+      "PF00643"
+    ]
+  },
+  {
+    "paper_id": 40,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF03634"
+    ]
+  },
+  {
+    "paper_id": 41,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 42,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF05063",
+      "PF13532",
+      "PF15912"
+    ]
+  },
+  {
+    "paper_id": 43,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 44,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF03110"
+    ]
+  },
+  {
+    "paper_id": 45,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF05078"
+    ]
+  },
+  {
+    "paper_id": 46,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-3",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 47,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF00643"
+    ]
+  },
+  {
+    "paper_id": 48,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 49,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF01397",
+      "PF03936"
+    ]
+  },
+  {
+    "paper_id": 53,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-3",
+    "pfam_ids": [
+      "PF05153"
+    ]
+  },
+  {
+    "paper_id": 54,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF00069"
+    ]
+  },
+  {
+    "paper_id": 55,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": [
+      "PF00481"
+    ]
+  },
+  {
+    "paper_id": 56,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 57,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF03479"
+    ]
+  },
+  {
+    "paper_id": 59,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": [
+      "PF00069",
+      "PF03822"
+    ]
+  },
+  {
+    "paper_id": 60,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 61,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 63,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 64,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00011"
+    ]
+  },
+  {
+    "paper_id": 65,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF08880",
+      "PF08879"
+    ]
+  },
+  {
+    "paper_id": 66,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 67,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": [
+      "PF10604"
+    ]
+  },
+  {
+    "paper_id": 68,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 69,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00036",
+      "PF07714"
+    ]
+  },
+  {
+    "paper_id": 70,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF04755"
+    ]
+  },
+  {
+    "paper_id": 71,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": [
+      "PF02798",
+      "PF00043"
+    ]
+  },
+  {
+    "paper_id": 72,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00171"
+    ]
+  },
+  {
+    "paper_id": 73,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00388",
+      "PF00387",
+      "PF00168",
+      "PF04185"
+    ]
+  },
+  {
+    "paper_id": 74,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 75,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 76,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 77,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 78,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-3",
+    "pfam_ids": [
+      "PF00234"
+    ]
+  },
+  {
+    "paper_id": 79,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF06200",
+      "PF09425"
+    ]
+  },
+  {
+    "paper_id": 80,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 81,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 82,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 83,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 84,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00082"
+    ]
+  },
+  {
+    "paper_id": 85,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 86,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 87,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 88,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00447"
+    ]
+  },
+  {
+    "paper_id": 89,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF02365"
+    ]
+  },
+  {
+    "paper_id": 90,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 91,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 92,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00320"
+    ]
+  },
+  {
+    "paper_id": 93,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 94,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 95,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 96,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": [
+      "PF00447"
+    ]
+  },
+  {
+    "paper_id": 97,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-3",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 99,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00145"
+    ]
+  },
+  {
+    "paper_id": 100,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-3",
+    "pfam_ids": [
+      "PF00847"
+    ]
+  },
+  {
+    "paper_id": 101,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 102,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 103,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF02309"
+    ]
+  },
+  {
+    "paper_id": 104,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF03181"
+    ]
+  },
+  {
+    "paper_id": 105,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 106,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 107,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 108,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 109,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": [
+      "PF00643"
+    ]
+  },
+  {
+    "paper_id": 110,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 111,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 112,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF03110"
+    ]
+  },
+  {
+    "paper_id": 113,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 114,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF02309",
+      "PF06507"
+    ]
+  },
+  {
+    "paper_id": 115,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF01301",
+      "PF02140",
+      "PF02449",
+      "PF02929",
+      "PF13364"
+    ]
+  },
+  {
+    "paper_id": 116,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 117,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 118,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 119,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 120,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF01397",
+      "PF03936"
+    ]
+  },
+  {
+    "paper_id": 121,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 122,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 123,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 124,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF00005"
+    ]
+  },
+  {
+    "paper_id": 125,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF03181"
+    ]
+  },
+  {
+    "paper_id": 127,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00195",
+      "PF02797"
+    ]
+  },
+  {
+    "paper_id": 128,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF03134"
+    ]
+  },
+  {
+    "paper_id": 130,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": [
+      "PF02309"
+    ]
+  },
+  {
+    "paper_id": 131,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 132,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 133,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 134,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": [
+      "PF00012"
+    ]
+  },
+  {
+    "paper_id": 135,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 136,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF03859",
+      "PF01833",
+      "PF12796",
+      "PF00612"
+    ]
+  },
+  {
+    "paper_id": 137,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF01476"
+    ]
+  },
+  {
+    "paper_id": 138,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF03321"
+    ]
+  },
+  {
+    "paper_id": 139,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00097"
+    ]
+  },
+  {
+    "paper_id": 140,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": [
+      "PF00257"
+    ]
+  },
+  {
+    "paper_id": 141,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 142,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF03055"
+    ]
+  },
+  {
+    "paper_id": 143,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 144,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 145,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF03492"
+    ]
+  },
+  {
+    "paper_id": 146,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 149,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00348"
+    ]
+  },
+  {
+    "paper_id": 150,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 151,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00644",
+      "PF12174"
+    ]
+  },
+  {
+    "paper_id": 152,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 153,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 154,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00644",
+      "PF12174"
+    ]
+  },
+  {
+    "paper_id": 155,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00010"
+    ]
+  },
+  {
+    "paper_id": 156,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 157,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 158,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 159,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 160,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 161,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": [
+      "PF00069"
+    ]
+  },
+  {
+    "paper_id": 162,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 163,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF00069"
+    ]
+  },
+  {
+    "paper_id": 164,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 165,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 166,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-3",
+    "pfam_ids": [
+      "PF00011"
+    ]
+  },
+  {
+    "paper_id": 167,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 168,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 169,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 170,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00080",
+      "PF02777",
+      "PF00081"
+    ]
+  },
+  {
+    "paper_id": 171,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF13837"
+    ]
+  },
+  {
+    "paper_id": 172,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 173,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 174,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF00069"
+    ]
+  },
+  {
+    "paper_id": 175,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 176,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 177,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 178,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 179,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 180,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 181,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF05003"
+    ]
+  },
+  {
+    "paper_id": 182,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 184,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF03106"
+    ]
+  },
+  {
+    "paper_id": 185,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF04526"
+    ]
+  },
+  {
+    "paper_id": 186,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-20",
+    "pfam_ids": [
+      "PF00171"
+    ]
+  },
+  {
+    "paper_id": 187,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00010"
+    ]
+  },
+  {
+    "paper_id": 188,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 189,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 190,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF02365"
+    ]
+  },
+  {
+    "paper_id": 191,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00320"
+    ]
+  },
+  {
+    "paper_id": 192,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 193,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF05687"
+    ]
+  },
+  {
+    "paper_id": 194,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 195,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 196,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 197,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": [
+      "PF00535",
+      "PF03552"
+    ]
+  },
+  {
+    "paper_id": 198,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-6",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 199,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF00847"
+    ]
+  },
+  {
+    "paper_id": 200,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": [
+      "PF05687"
+    ]
+  },
+  {
+    "paper_id": 201,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 202,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": [
+      "PF01545"
+    ]
+  },
+  {
+    "paper_id": 203,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 204,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 205,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00179"
+    ]
+  },
+  {
+    "paper_id": 206,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 207,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 208,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-7",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 209,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 210,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 211,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00642"
+    ]
+  },
+  {
+    "paper_id": 212,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 213,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00179"
+    ]
+  },
+  {
+    "paper_id": 214,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF00854",
+      "PF07690"
+    ]
+  },
+  {
+    "paper_id": 215,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-20",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 216,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF03110"
+    ]
+  },
+  {
+    "paper_id": 217,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 218,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00255"
+    ]
+  },
+  {
+    "paper_id": 219,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 220,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 221,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 222,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF03106"
+    ]
+  },
+  {
+    "paper_id": 223,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 224,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF01161"
+    ]
+  },
+  {
+    "paper_id": 225,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 226,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF13837"
+    ]
+  },
+  {
+    "paper_id": 227,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00230"
+    ]
+  },
+  {
+    "paper_id": 228,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF01679"
+    ]
+  },
+  {
+    "paper_id": 229,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 230,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 231,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-20",
+    "pfam_ids": [
+      "PF08523",
+      "PF01381"
+    ]
+  },
+  {
+    "paper_id": 233,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 234,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 235,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF04690"
+    ]
+  },
+  {
+    "paper_id": 236,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-4",
+    "pfam_ids": [
+      "PF00046"
+    ]
+  },
+  {
+    "paper_id": 237,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 239,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF04564"
+    ]
+  },
+  {
+    "paper_id": 240,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-6",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 241,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00170"
+    ]
+  },
+  {
+    "paper_id": 242,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 243,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": [
+      "PF00400"
+    ]
+  },
+  {
+    "paper_id": 244,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-4",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 245,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 246,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": [
+      "PF00704",
+      "PF00182"
+    ]
+  },
+  {
+    "paper_id": 247,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 248,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF03514"
+    ]
+  },
+  {
+    "paper_id": 249,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00046",
+      "PF02183"
+    ]
+  },
+  {
+    "paper_id": 250,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF00170"
+    ]
+  },
+  {
+    "paper_id": 251,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 252,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 253,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 254,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 255,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 256,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 257,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-6",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 258,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 259,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 260,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF00012"
+    ]
+  },
+  {
+    "paper_id": 261,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 262,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 263,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF03083"
+    ]
+  },
+  {
+    "paper_id": 264,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 265,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 266,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF00046"
+    ]
+  },
+  {
+    "paper_id": 267,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF00311"
+    ]
+  },
+  {
+    "paper_id": 268,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 269,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 270,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 271,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF01373"
+    ]
+  },
+  {
+    "paper_id": 272,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": [
+      "PF00255"
+    ]
+  },
+  {
+    "paper_id": 274,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 275,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": [
+      "PF00023"
+    ]
+  },
+  {
+    "paper_id": 276,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 278,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00005",
+      "PF01061",
+      "PF00664",
+      "PF01458",
+      "PF02470"
+    ]
+  },
+  {
+    "paper_id": 279,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF06200",
+      "PF09425"
+    ]
+  },
+  {
+    "paper_id": 280,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 281,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 282,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 284,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 285,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF16916",
+      "PF01545"
+    ]
+  },
+  {
+    "paper_id": 286,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF06200"
+    ]
+  },
+  {
+    "paper_id": 287,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF02704"
+    ]
+  },
+  {
+    "paper_id": 288,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF00085"
+    ]
+  },
+  {
+    "paper_id": 289,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 291,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF00512",
+      "PF00072",
+      "PF00027",
+      "PF08447",
+      "PF02518"
+    ]
+  },
+  {
+    "paper_id": 292,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 293,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 294,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF02636"
+    ]
+  },
+  {
+    "paper_id": 295,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": [
+      "PF02798",
+      "PF00043"
+    ]
+  },
+  {
+    "paper_id": 296,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": [
+      "PF01357"
+    ]
+  },
+  {
+    "paper_id": 297,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 298,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 299,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 300,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF00319"
+    ]
+  },
+  {
+    "paper_id": 301,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-3",
+    "pfam_ids": [
+      "PF03195"
+    ]
+  },
+  {
+    "paper_id": 302,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 303,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": [
+      "PF02701"
+    ]
+  },
+  {
+    "paper_id": 304,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF00011"
+    ]
+  },
+  {
+    "paper_id": 305,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": [
+      "PF01167"
+    ]
+  },
+  {
+    "paper_id": 306,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 307,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 308,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 309,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-20",
+    "pfam_ids": [
+      "PF00657"
+    ]
+  },
+  {
+    "paper_id": 310,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 311,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 312,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF01167"
+    ]
+  },
+  {
+    "paper_id": 313,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 314,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00098"
+    ]
+  },
+  {
+    "paper_id": 315,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF05920",
+      "PF03790",
+      "PF03791",
+      "PF03789"
+    ]
+  },
+  {
+    "paper_id": 316,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00085"
+    ]
+  },
+  {
+    "paper_id": 317,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 318,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 319,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 320,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 321,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF07899"
+    ]
+  },
+  {
+    "paper_id": 322,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF01764",
+      "PF18117"
+    ]
+  },
+  {
+    "paper_id": 324,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-10",
+    "pfam_ids": [
+      "PF00722",
+      "PF06955"
+    ]
+  },
+  {
+    "paper_id": 325,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 326,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 327,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 328,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 329,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF02362"
+    ]
+  },
+  {
+    "paper_id": 494,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "E < 1e?10",
+    "pfam_ids": [
+      "PF00512",
+      "PF01627",
+      "PF00072",
+      "PF00249",
+      "PF06203"
+    ]
+  },
+  {
+    "paper_id": 495,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 496,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": "HMMER?based identification; BLAST 1e?10 in MCScanX",
+    "pfam_ids": [
+      "PF00072"
+    ]
+  },
+  {
+    "paper_id": 497,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": "score ?100, E ?1e?10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 498,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "e?value ?0. 1",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 499,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": "E ?10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 500,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "E < 10",
+    "pfam_ids": [
+      "PF00643"
+    ]
+  },
+  {
+    "paper_id": 501,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": "TBLASTN",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 502,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": "tBLASTn, default",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 503,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "E < 1e?5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 504,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "E ? 1e?2",
+    "pfam_ids": [
+      "PF02365"
+    ]
+  },
+  {
+    "paper_id": 505,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "default",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 506,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "similarity >85%",
+    "pfam_ids": [
+      "PF00319"
+    ]
+  },
+  {
+    "paper_id": 507,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": "HMMER used",
+    "pfam_ids": [
+      "PF13947",
+      "PF00008",
+      "PF00069"
+    ]
+  },
+  {
+    "paper_id": 508,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "similarity >85%",
+    "pfam_ids": [
+      "PF00319"
+    ]
+  },
+  {
+    "paper_id": 509,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": "HMMER",
+    "pfam_ids": [
+      "PF00011"
+    ]
+  },
+  {
+    "paper_id": 510,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": "HMMER",
+    "pfam_ids": [
+      "PF00011"
+    ]
+  },
+  {
+    "paper_id": 511,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "E < 1e?5",
+    "pfam_ids": [
+      "PF02365"
+    ]
+  },
+  {
+    "paper_id": 512,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "default",
+    "pfam_ids": [
+      "PF02365"
+    ]
+  },
+  {
+    "paper_id": 513,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "E ? 1e?15",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 514,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": "default",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 515,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 516,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "default",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 517,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF05042"
+    ]
+  },
+  {
+    "paper_id": 518,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 519,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "1e?3",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 520,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "default",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 521,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "E < 1e?5",
+    "pfam_ids": [
+      "PF00847"
+    ]
+  },
+  {
+    "paper_id": 522,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": "HMMER?based",
+    "pfam_ids": [
+      "PF08879",
+      "PF08880"
+    ]
+  },
+  {
+    "paper_id": 523,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 524,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 525,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "E < 1e?10",
+    "pfam_ids": [
+      "PF00171"
+    ]
+  },
+  {
+    "paper_id": 526,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00582"
+    ]
+  },
+  {
+    "paper_id": 527,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 528,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF01988"
+    ]
+  },
+  {
+    "paper_id": 529,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "E ? 1e?5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 530,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "default",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 531,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "E 1e?5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 532,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF04640"
+    ]
+  },
+  {
+    "paper_id": 534,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00487",
+      "PF03405",
+      "PF10520"
+    ]
+  },
+  {
+    "paper_id": 537,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00069",
+      "PF13499"
+    ]
+  },
+  {
+    "paper_id": 538,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "default",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 539,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "E 1e?5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 540,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": "retrieved from databases",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 541,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 542,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 543,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "threshold -1, unclear",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 544,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 545,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 546,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "E-value 1e-4",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 547,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "E-value 1e-3",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 548,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00847"
+    ]
+  },
+  {
+    "paper_id": 549,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 550,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": "HMMER used",
+    "pfam_ids": [
+      "PF03106"
+    ]
+  },
+  {
+    "paper_id": 551,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": "HMMER used",
+    "pfam_ids": [
+      "PF00319"
+    ]
+  },
+  {
+    "paper_id": 552,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF03055"
+    ]
+  },
+  {
+    "paper_id": 553,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 554,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 555,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "E-value 1e-4",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 557,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "E-value 1e-5",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 558,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 559,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 560,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 561,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 562,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 563,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 564,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 565,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 566,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 567,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 568,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF03859",
+      "PF00023",
+      "PF12796",
+      "PF00612"
+    ]
+  },
+  {
+    "paper_id": 569,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF03208"
+    ]
+  },
+  {
+    "paper_id": 571,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 572,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 573,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 574,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF03106"
+    ]
+  },
+  {
+    "paper_id": 575,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 576,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF03110"
+    ]
+  },
+  {
+    "paper_id": 577,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF03106"
+    ]
+  },
+  {
+    "paper_id": 578,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 579,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF00643"
+    ]
+  },
+  {
+    "paper_id": 580,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": "?1E-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 581,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 582,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": "1e-5 all-to-all BLAST",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 583,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 584,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF00027",
+      "PF00520"
+    ]
+  },
+  {
+    "paper_id": 585,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": "1e-10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 586,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 587,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 588,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": "1e-5",
+    "pfam_ids": [
+      "PF00069"
+    ]
+  },
+  {
+    "paper_id": 589,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 590,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": "HMMER for identification",
+    "pfam_ids": [
+      "PF00847"
+    ]
+  },
+  {
+    "paper_id": 591,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": "1e-4",
+    "pfam_ids": [
+      "PF00931"
+    ]
+  },
+  {
+    "paper_id": 592,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 593,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 594,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 595,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 596,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 597,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": "EST database",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 598,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": "1e-3",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 599,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 600,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": "e-value 10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 601,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "e?value 10?",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 602,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "no E?value specified",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 603,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": "similar to BLAST, no cut?off",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 604,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "no E?value specified",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 605,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": [
+      "PF02365"
+    ]
+  },
+  {
+    "paper_id": 606,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "no E?value specified",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 607,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": "HMMER used for identification",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 608,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": null,
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 609,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": "database annotation search, not BLAST",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 610,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "no E?value specified, for redundancy removal",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 611,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "no E?value specified",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 612,
+    "rna_seq_used": true,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "E?value <1e?5",
+    "pfam_ids": [
+      "PF03514"
+    ]
+  },
+  {
+    "paper_id": 613,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "P=0. 001",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 614,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "no cut?off",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 615,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": "mutant?based",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 616,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "no E?value",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 617,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": true,
+    "blast_threshold": "no cut?off",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 618,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": false,
+    "hmm_used": true,
+    "blast_used": true,
+    "blast_threshold": "E?value 1e?20",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 619,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": false,
+    "blast_used": false,
+    "blast_threshold": "E?value 10",
+    "pfam_ids": []
+  },
+  {
+    "paper_id": 620,
+    "rna_seq_used": false,
+    "experimental_validation_qpcr": true,
+    "hmm_used": true,
+    "blast_used": false,
+    "blast_threshold": "HMMER used",
+    "pfam_ids": []
+  }
+]

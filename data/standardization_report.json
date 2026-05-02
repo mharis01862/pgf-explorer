@@ -1,0 +1,1316 @@
+{
+  "countries": [
+    {
+      "change": "Error reading PDF => Unknown",
+      "count": 1
+    }
+  ],
+  "journals": [
+    {
+      "change": "PLoS ONE => PLOS ONE",
+      "count": 10
+    },
+    {
+      "change": "PloS ONE => PLOS ONE",
+      "count": 4
+    }
+  ],
+  "organisms": [
+    {
+      "change": "Oryza sativa => Oryza sativa L.",
+      "count": 220
+    },
+    {
+      "change": "Zea mays => Zea mays L.",
+      "count": 72
+    },
+    {
+      "change": "Glycine max => Glycine max L.",
+      "count": 49
+    },
+    {
+      "change": "Solanum lycopersicum => Solanum lycopersicum L.",
+      "count": 40
+    },
+    {
+      "change": "Vitis vinifera => Vitis vinifera L.",
+      "count": 27
+    },
+    {
+      "change": "Hordeum vulgare => Hordeum vulgare L.",
+      "count": 14
+    },
+    {
+      "change": "Brassica rapa => Brassica rapa L.",
+      "count": 13
+    },
+    {
+      "change": "Triticum aestivum => Triticum aestivum L.",
+      "count": 13
+    },
+    {
+      "change": "Phaseolus vulgaris => Phaseolus vulgaris L.",
+      "count": 6
+    },
+    {
+      "change": "Capsicum annuum => Capsicum annuum L.",
+      "count": 4
+    },
+    {
+      "change": "Citrus sinensis => Citrus sinensis L.",
+      "count": 4
+    },
+    {
+      "change": "Spinacia oleracea => Spinacia oleracea L.",
+      "count": 4
+    },
+    {
+      "change": "Arachis hypogaea => Arachis hypogaea L.",
+      "count": 3
+    },
+    {
+      "change": "G. raimondii => Gossypium raimondii",
+      "count": 3
+    },
+    {
+      "change": "23 other species => [filtered]",
+      "count": 2
+    },
+    {
+      "change": "G. arboreum => Gossypium arboreum",
+      "count": 2
+    },
+    {
+      "change": "G. barbadense => Gossypium barbadense",
+      "count": 2
+    },
+    {
+      "change": "Hordium vulgare => Hordeum vulgare L.",
+      "count": 2
+    },
+    {
+      "change": "12 other legume species including Medicago truncatula => [filtered]",
+      "count": 1
+    },
+    {
+      "change": "23 other plant species => [filtered]",
+      "count": 1
+    },
+    {
+      "change": "A. lyrata => Arabidopsis lyrata",
+      "count": 1
+    },
+    {
+      "change": "A. sinensis => [filtered]",
+      "count": 1
+    },
+    {
+      "change": "apple => Malus domestica",
+      "count": 1
+    },
+    {
+      "change": "B. napus => Brassica napus",
+      "count": 1
+    },
+    {
+      "change": "B. nigra => [filtered]",
+      "count": 1
+    },
+    {
+      "change": "B. oleracea => Brassica oleracea",
+      "count": 1
+    },
+    {
+      "change": "B. rapa => [filtered]",
+      "count": 1
+    },
+    {
+      "change": "C. annuum glabriusculum) => [filtered]",
+      "count": 1
+    },
+    {
+      "change": "Capsicum annum => Capsicum annuum L.",
+      "count": 1
+    },
+    {
+      "change": "chickpea => Cicer arietinum",
+      "count": 1
+    },
+    {
+      "change": "Coffee arabica => Coffea arabica",
+      "count": 1
+    },
+    {
+      "change": "G. darwinii => Gossypium darwinii",
+      "count": 1
+    },
+    {
+      "change": "G. herbaceum => Gossypium herbaceum",
+      "count": 1
+    },
+    {
+      "change": "G. hirsutum => Gossypium hirsutum L.",
+      "count": 1
+    },
+    {
+      "change": "G. mustelinum => Gossypium mustelinum",
+      "count": 1
+    },
+    {
+      "change": "G. thurberi => Gossypium thurberi",
+      "count": 1
+    },
+    {
+      "change": "G. tomentosum => Gossypium tomentosum",
+      "count": 1
+    },
+    {
+      "change": "G. turneri => Gossypium turneri",
+      "count": 1
+    },
+    {
+      "change": "Gossypium arboretum => Gossypium arboreum",
+      "count": 1
+    },
+    {
+      "change": "Gossypium ramondii => Gossypium raimondii",
+      "count": 1
+    },
+    {
+      "change": "Hordeum Vulgare => Hordeum vulgare L.",
+      "count": 1
+    },
+    {
+      "change": "M. balbisiana => Musa balbisiana",
+      "count": 1
+    },
+    {
+      "change": "M. cavendish) => [filtered]",
+      "count": 1
+    },
+    {
+      "change": "M. itinerans => [filtered]",
+      "count": 1
+    },
+    {
+      "change": "M. schizocarpa => [filtered]",
+      "count": 1
+    },
+    {
+      "change": "M. textilis => [filtered]",
+      "count": 1
+    },
+    {
+      "change": "Musa acuminate => Musa acuminata",
+      "count": 1
+    },
+    {
+      "change": "Oryza Sativa => Oryza sativa L.",
+      "count": 1
+    },
+    {
+      "change": "Oryza sativa L. ssp. Indica => Oryza sativa L. ssp. indica",
+      "count": 1
+    },
+    {
+      "change": "other Capsicum varieties (cv. CM334 => [filtered]",
+      "count": 1
+    },
+    {
+      "change": "other plants => [filtered]",
+      "count": 1
+    },
+    {
+      "change": "other Solanaceae => [filtered]",
+      "count": 1
+    },
+    {
+      "change": "S. lycopersicum => [filtered]",
+      "count": 1
+    },
+    {
+      "change": "Selaginella moellendorffi => Selaginella moellendorffii",
+      "count": 1
+    },
+    {
+      "change": "Sesamum indicum sesame => Sesamum indicum",
+      "count": 1
+    },
+    {
+      "change": "Titicum urartu => Triticum urartu",
+      "count": 1
+    }
+  ],
+  "genome_sources": [
+    {
+      "change": "Phytozome v13 => Phytozome",
+      "count": 11
+    },
+    {
+      "change": "Sol Genomics Network (SGN) => Sol Genomics Network",
+      "count": 6
+    },
+    {
+      "change": "TAIR10 => TAIR",
+      "count": 5
+    },
+    {
+      "change": "SGN => Sol Genomics Network",
+      "count": 4
+    },
+    {
+      "change": "banana genome database => Banana Genome Database",
+      "count": 3
+    },
+    {
+      "change": "Phytozome (soybean genome) => Phytozome",
+      "count": 3
+    },
+    {
+      "change": "Phytozome v11 => Phytozome",
+      "count": 3
+    },
+    {
+      "change": "Phytozome v12 => Phytozome",
+      "count": 3
+    },
+    {
+      "change": "Phytozome v12. 1 => Phytozome",
+      "count": 3
+    },
+    {
+      "change": "Phytozome v13. 0 => Phytozome",
+      "count": 3
+    },
+    {
+      "change": "Phytozome v9. 1 => Phytozome",
+      "count": 3
+    },
+    {
+      "change": "Ensembl Plants (IWGSC) => Ensembl Plants",
+      "count": 2
+    },
+    {
+      "change": "Phytozome v. 13 => Phytozome",
+      "count": 2
+    },
+    {
+      "change": "Phytozome v8. 0 (soybean genome) => Phytozome",
+      "count": 2
+    },
+    {
+      "change": "TAIR (Arabidopsis) => TAIR",
+      "count": 2
+    },
+    {
+      "change": "2021) => [filtered]",
+      "count": 1
+    },
+    {
+      "change": "2022) => [filtered]",
+      "count": 1
+    },
+    {
+      "change": "2024) => [filtered]",
+      "count": 1
+    },
+    {
+      "change": "annotation files) => [filtered]",
+      "count": 1
+    },
+    {
+      "change": "but data from previous reports [2 => [filtered]",
+      "count": 1
+    },
+    {
+      "change": "Cited Literature => [filtered]",
+      "count": 1
+    },
+    {
+      "change": "Citrus sinensis Annotation Project (CAP) => Citrus sinensis Annotation Project",
+      "count": 1
+    },
+    {
+      "change": "Ensembl Plants (12 genome) => Ensembl Plants",
+      "count": 1
+    },
+    {
+      "change": "Ensembl Plants (B. juncea) => Ensembl Plants",
+      "count": 1
+    },
+    {
+      "change": "Ensembl Plants (Brana_Dar_V5) => Ensembl Plants",
+      "count": 1
+    },
+    {
+      "change": "Ensembl Plants (D. carota v2. 0) => Ensembl Plants",
+      "count": 1
+    },
+    {
+      "change": "Ensembl Plants (Hordeum_vulgare. IBSC_v2) => Ensembl Plants",
+      "count": 1
+    },
+    {
+      "change": "Ensembl Plants (IWGSC RefSeqv1. 1) => Ensembl Plants",
+      "count": 1
+    },
+    {
+      "change": "Ensembl Plants (IWGSC v2. 1) => Ensembl Plants",
+      "count": 1
+    },
+    {
+      "change": "Ensembl Plants (IWGSCRefSeq_v1. 0) => Ensembl Plants",
+      "count": 1
+    },
+    {
+      "change": "Ensembl Plants 42. 0 (IWGSC) => Ensembl Plants",
+      "count": 1
+    },
+    {
+      "change": "Ensembl Plants v60 => Ensembl Plants",
+      "count": 1
+    },
+    {
+      "change": "Gramene database => Gramene",
+      "count": 1
+    },
+    {
+      "change": "Ice plant genome (not specified => [filtered]",
+      "count": 1
+    },
+    {
+      "change": "MSU Rice Genome Annotation Project (RGAP) Release 7 => Rice Genome Annotation Project",
+      "count": 1
+    },
+    {
+      "change": "NCBI (A. hypogaea genome) => NCBI",
+      "count": 1
+    },
+    {
+      "change": "NCBI (ASM286412v1) => NCBI",
+      "count": 1
+    },
+    {
+      "change": "NCBI (Cannabis sativa genome database) => NCBI",
+      "count": 1
+    },
+    {
+      "change": "NCBI (Dongzao reference genome sequence version 1. 1 => NCBI",
+      "count": 1
+    },
+    {
+      "change": "NCBI (for C. cajan genome and protein sequences) => NCBI",
+      "count": 1
+    },
+    {
+      "change": "NCBI (for R. chinensis genome and protein data) => NCBI",
+      "count": 1
+    },
+    {
+      "change": "NCBI (H. annuus v. 2. 0 genome => NCBI",
+      "count": 1
+    },
+    {
+      "change": "NCBI (PRJNA310678 => NCBI",
+      "count": 1
+    },
+    {
+      "change": "NCBI (RJC1_Hi-C => NCBI",
+      "count": 1
+    },
+    {
+      "change": "NCBI (Solanum lycopersicum genome database) => NCBI",
+      "count": 1
+    },
+    {
+      "change": "NCBI (Sorghum_bicolor_NCBIv3) => NCBI",
+      "count": 1
+    },
+    {
+      "change": "NCBI (SRA accession SRP148865) => NCBI",
+      "count": 1
+    },
+    {
+      "change": "NCBI (TSA => NCBI",
+      "count": 1
+    },
+    {
+      "change": "NCBI (WGS and nr/nt) => NCBI",
+      "count": 1
+    },
+    {
+      "change": "NCBI and Ensembl Plants => NCBI",
+      "count": 1
+    },
+    {
+      "change": "NCBI BioProject (PRJNA487154) => NCBI",
+      "count": 1
+    },
+    {
+      "change": "NCBI dbEST => NCBI",
+      "count": 1
+    },
+    {
+      "change": "NCBI GenBank => NCBI",
+      "count": 1
+    },
+    {
+      "change": "NCBI Protein Database => NCBI",
+      "count": 1
+    },
+    {
+      "change": "NCBI RefSeq (assembly ASM33114v1) => NCBI",
+      "count": 1
+    },
+    {
+      "change": "NCBI tobacco EST database => NCBI",
+      "count": 1
+    },
+    {
+      "change": "NCBI Unigene Database => NCBI",
+      "count": 1
+    },
+    {
+      "change": "NCBI WGS => NCBI",
+      "count": 1
+    },
+    {
+      "change": "Phytozome (apple => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Phytozome (Eucalyptus grandis genome v2. 0) => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Phytozome (G. max genome release 1. 0) => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Phytozome (Glycine max Wm82. a2. v1) => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Phytozome (Hannuus_r1_2) => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Phytozome (Lens culinaris CDC Redberry Genome 2. 0) => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Phytozome (Malus domestica) => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Phytozome (mango genome) => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Phytozome (Musa acuminata) => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Phytozome (P. trichocarpa genome release 3. 0) => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Phytozome (P. trichocarpa genome release v2. 1) => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Phytozome (Setaria italica) => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "PHYTOZOME (Setaria italica) => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Phytozome (v3. 0) => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Phytozome (various cotton genomes) => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Phytozome (via OrthoVenn) => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Phytozome (Wm82. a4. v1) => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Phytozome v10. 0 (Wm82. a2. v1) => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Phytozome v10. 1 => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Phytozome v10. 3 (Wm82) => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Phytozome v10. 3 => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Phytozome v11. 0 (P. trichocarpa v3. 0) => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Phytozome v12 (Glycine max Wm82. a2. v1) => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Phytozome v12. 0 => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Phytozome v13 (G. hirsutum v3. 1) => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Phytozome v13 (P. vulgaris v2. 1) => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Phytozome v13 (S. lycopersicum ITAG4. 0) => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Phytozome v13 (Wm82. a4. v1) => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Phytozome V13 => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Phytozome v8. 0 => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "PHYTOZOME v8. 0 => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Phytozome) => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "Poplar Genome Database (Phytozome v3. 0) => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "proteome => [filtered]",
+      "count": 1
+    },
+    {
+      "change": "rice genome annotation database => Rice Genome Annotation Project",
+      "count": 1
+    },
+    {
+      "change": "Rice Genome Annotation project (RAP) database => Rice Genome Annotation Project",
+      "count": 1
+    },
+    {
+      "change": "Rice Genome Annotation Project (RGAP) => Rice Genome Annotation Project",
+      "count": 1
+    },
+    {
+      "change": "Rice Genome Annotation Project Database => Rice Genome Annotation Project",
+      "count": 1
+    },
+    {
+      "change": "S. baicalensis genome assembly (lab data => [filtered]",
+      "count": 1
+    },
+    {
+      "change": "Sol Genomics Network (ITAG release 2. 40 => Sol Genomics Network",
+      "count": 1
+    },
+    {
+      "change": "Sol Genomics Network (N. benthamiana genome) => Sol Genomics Network",
+      "count": 1
+    },
+    {
+      "change": "Sol Genomics Network (SGN => Sol Genomics Network",
+      "count": 1
+    },
+    {
+      "change": "Sol Genomics Network (SL4. 0) => Sol Genomics Network",
+      "count": 1
+    },
+    {
+      "change": "Sol Genomics Network Database => Sol Genomics Network",
+      "count": 1
+    },
+    {
+      "change": "Soybean whole proteome database (Wm82. a2. v1) from Phytozome 10 => Phytozome",
+      "count": 1
+    },
+    {
+      "change": "TAIR (Arabidopsis thaliana) => TAIR",
+      "count": 1
+    },
+    {
+      "change": "TIGR (Rice Genome Annotation Project) => Rice Genome Annotation Project",
+      "count": 1
+    },
+    {
+      "change": "unpublished) => [filtered]",
+      "count": 1
+    }
+  ],
+  "tools": [
+    {
+      "change": "Clustal X => ClustalX",
+      "count": 15
+    },
+    {
+      "change": "PlantCare => PlantCARE",
+      "count": 13
+    },
+    {
+      "change": "Gene Structure Display Server (GSDS) => Gene Structure Display Server",
+      "count": 11
+    },
+    {
+      "change": "Tbtools => TBtools",
+      "count": 11
+    },
+    {
+      "change": "PlantCARE (cis-element analysis) => PlantCARE",
+      "count": 10
+    },
+    {
+      "change": "GSDS (Gene Structure Display Server) => GSDS",
+      "count": 9
+    },
+    {
+      "change": "ExPASY => ExPASy",
+      "count": 8
+    },
+    {
+      "change": "String => STRING",
+      "count": 8
+    },
+    {
+      "change": "WoLF PSORT (subcellular localization) => WoLF PSORT",
+      "count": 6
+    },
+    {
+      "change": "BLAST2GO => Blast2GO",
+      "count": 5
+    },
+    {
+      "change": "INTERPROSCAN => InterProScan",
+      "count": 5
+    },
+    {
+      "change": "PLANTCARE => PlantCARE",
+      "count": 5
+    },
+    {
+      "change": "ProtParam (physicochemical properties) => ProtParam",
+      "count": 5
+    },
+    {
+      "change": "Wolf PSORT => WoLF PSORT",
+      "count": 5
+    },
+    {
+      "change": "WOLF PSORT => WoLF PSORT",
+      "count": 5
+    },
+    {
+      "change": "Clustal W => ClustalW",
+      "count": 4
+    },
+    {
+      "change": "ExPASy (ProtParam) => ExPASy",
+      "count": 4
+    },
+    {
+      "change": "WoLFPSORT => WoLF PSORT",
+      "count": 4
+    },
+    {
+      "change": "BioXM (primer design) => BioXM",
+      "count": 3
+    },
+    {
+      "change": "Compute pI/Mw tool (ExPASy) => Compute pI/Mw tool",
+      "count": 3
+    },
+    {
+      "change": "Expasy => ExPASy",
+      "count": 3
+    },
+    {
+      "change": "Swiss-Model => SWISS-MODEL",
+      "count": 3
+    },
+    {
+      "change": "Wheat Expression Browser (expVIP) => Wheat Expression Browser",
+      "count": 3
+    },
+    {
+      "change": "BLAST2GO (GO annotation) => Blast2GO",
+      "count": 2
+    },
+    {
+      "change": "ClustalW (sequence alignment) => ClustalW",
+      "count": 2
+    },
+    {
+      "change": "CLUSTALX => ClustalX",
+      "count": 2
+    },
+    {
+      "change": "ExPASy (for physicochemical properties) => ExPASy",
+      "count": 2
+    },
+    {
+      "change": "ExPasy => ExPASy",
+      "count": 2
+    },
+    {
+      "change": "ExPASy ProtParam (physicochemical properties) => ExPASy ProtParam",
+      "count": 2
+    },
+    {
+      "change": "ITOL => iTOL",
+      "count": 2
+    },
+    {
+      "change": "PlantCARE (for cis-element analysis) => PlantCARE",
+      "count": 2
+    },
+    {
+      "change": "ProtParam (physicochemical analysis) => ProtParam",
+      "count": 2
+    },
+    {
+      "change": "STRING (protein-protein interaction) => STRING",
+      "count": 2
+    },
+    {
+      "change": "SWISS-MODEL (3D modeling) => SWISS-MODEL",
+      "count": 2
+    },
+    {
+      "change": "5'-Full RACE kit (TaKaRa) => 5'-Full RACE kit",
+      "count": 1
+    },
+    {
+      "change": "Barley stripe mosaic virus (BSMV) system => Barley stripe mosaic virus system",
+      "count": 1
+    },
+    {
+      "change": "BiNGO (Cytoscape) => BiNGO",
+      "count": 1
+    },
+    {
+      "change": "Blast2GO (Gene Ontology) => Blast2GO",
+      "count": 1
+    },
+    {
+      "change": "Blast2GO (OmicsBox) => Blast2GO",
+      "count": 1
+    },
+    {
+      "change": "Blast2Go => Blast2GO",
+      "count": 1
+    },
+    {
+      "change": "ccNET & (co-expression and enrichment analysis) => ccNET &",
+      "count": 1
+    },
+    {
+      "change": "CDD (NCBI) => CDD",
+      "count": 1
+    },
+    {
+      "change": "Cell-PLoc (for subcellular localization prediction) => Cell-PLoc",
+      "count": 1
+    },
+    {
+      "change": "Cell-PLoc (subcellular localization) => Cell-PLoc",
+      "count": 1
+    },
+    {
+      "change": "Chromosomal block duplication analysis (Wei et al. 2007) => Chromosomal block duplication analysis",
+      "count": 1
+    },
+    {
+      "change": "ClustalW (aligning protein and CDS sequences) => ClustalW",
+      "count": 1
+    },
+    {
+      "change": "ClustalW (alignment) => ClustalW",
+      "count": 1
+    },
+    {
+      "change": "ClustalW (for sequence alignment) => ClustalW",
+      "count": 1
+    },
+    {
+      "change": "ClustalW (implied for alignment) => ClustalW",
+      "count": 1
+    },
+    {
+      "change": "ClustalW (implied for MSA) => ClustalW",
+      "count": 1
+    },
+    {
+      "change": "ClustalX (alignment) => ClustalX",
+      "count": 1
+    },
+    {
+      "change": "COLOR MUSE SE (color measurement) => COLOR MUSE SE",
+      "count": 1
+    },
+    {
+      "change": "confocal microscopy (subcellular localization) => confocal microscopy",
+      "count": 1
+    },
+    {
+      "change": "confocal microscopy (Zeiss LSM 780) => confocal microscopy",
+      "count": 1
+    },
+    {
+      "change": "Cufflinks (for RNA-seq analysis) => Cufflinks",
+      "count": 1
+    },
+    {
+      "change": "Cufflinks (for transcriptome data analysis) => Cufflinks",
+      "count": 1
+    },
+    {
+      "change": "CViT (Chromosome Visualization Tool) => CViT",
+      "count": 1
+    },
+    {
+      "change": "cytoscape => Cytoscape",
+      "count": 1
+    },
+    {
+      "change": "DNAsp (Ka/Ks) => DNAsp",
+      "count": 1
+    },
+    {
+      "change": "Duplicated blocks from Tuskan et al. (2006) and manual => Duplicated blocks from Tuskan et al. and manual",
+      "count": 1
+    },
+    {
+      "change": "Eggnog & WEGO (GO annotation) => Eggnog & WEGO",
+      "count": 1
+    },
+    {
+      "change": "eggNOG-mapper (GO functional annotation) => eggNOG-mapper",
+      "count": 1
+    },
+    {
+      "change": "ExPASy (Compute pI/Mw) => ExPASy",
+      "count": 1
+    },
+    {
+      "change": "ExPASy (protein properties) => ExPASy",
+      "count": 1
+    },
+    {
+      "change": "EXPASy => ExPASy",
+      "count": 1
+    },
+    {
+      "change": "EXPASY => ExPASy",
+      "count": 1
+    },
+    {
+      "change": "ExPASy ProtParam (for physicochemical properties) => ExPASy ProtParam",
+      "count": 1
+    },
+    {
+      "change": "ExPASy ProtParam (physiochemical properties) => ExPASy ProtParam",
+      "count": 1
+    },
+    {
+      "change": "Expasy ProtParam => ExPASy ProtParam",
+      "count": 1
+    },
+    {
+      "change": "ExPASy Protparam => ExPASy ProtParam",
+      "count": 1
+    },
+    {
+      "change": "ExPASY ProtParam => ExPASy ProtParam",
+      "count": 1
+    },
+    {
+      "change": "ExPASy Server (for physico-chemical properties) => ExPASy Server",
+      "count": 1
+    },
+    {
+      "change": "Expsay ProtParam => ExPASy ProtParam",
+      "count": 1
+    },
+    {
+      "change": "fastp (read QC) => fastp",
+      "count": 1
+    },
+    {
+      "change": "featureCounts (RNA-seq quantification) => featureCounts",
+      "count": 1
+    },
+    {
+      "change": "Gene Structure Display Service (GSDS) => Gene Structure Display Service",
+      "count": 1
+    },
+    {
+      "change": "Geneious Prime (for phylogeny) => Geneious Prime",
+      "count": 1
+    },
+    {
+      "change": "GraphPad Prism (data visualization/statistics) => GraphPad Prism",
+      "count": 1
+    },
+    {
+      "change": "GSDS (Gene Structure Display Server program) => GSDS",
+      "count": 1
+    },
+    {
+      "change": "HISAT2 (alignment) => HISAT2",
+      "count": 1
+    },
+    {
+      "change": "Hisat2 (RNA-seq alignment) => Hisat2",
+      "count": 1
+    },
+    {
+      "change": "IBS (Illustrator for Biological Sequences) => IBS",
+      "count": 1
+    },
+    {
+      "change": "Illustrator for Biological Sequences (IBS) => Illustrator for Biological Sequences",
+      "count": 1
+    },
+    {
+      "change": "iTOL (tree visualization) => iTOL",
+      "count": 1
+    },
+    {
+      "change": "IToL => iTOL",
+      "count": 1
+    },
+    {
+      "change": "KaKs_Calculator (selection pressure analysis) => KaKs_Calculator",
+      "count": 1
+    },
+    {
+      "change": "laser confocal fluorescence microscopy (ZEISS LSM 880) => laser confocal fluorescence microscopy",
+      "count": 1
+    },
+    {
+      "change": "Manual duplication analysis (Gu et al. 1998 criteria) => Manual duplication analysis",
+      "count": 1
+    },
+    {
+      "change": "Map Gene 2 chromosome (MG2C) => Map Gene 2 chromosome",
+      "count": 1
+    },
+    {
+      "change": "Map GeneChromosome (MG2C) => Map GeneChromosome",
+      "count": 1
+    },
+    {
+      "change": "Map Tool (Oryzabase) => Map Tool",
+      "count": 1
+    },
+    {
+      "change": "MapGene2Chrom (chromosomal mapping) => MapGene2Chrom",
+      "count": 1
+    },
+    {
+      "change": "MapGene2Chrom Webserver (MG2C) => MapGene2Chrom Webserver",
+      "count": 1
+    },
+    {
+      "change": "MapGene2chromosome web (MG2C) => MapGene2chromosome web",
+      "count": 1
+    },
+    {
+      "change": "MeV (MultiExperiment Viewer) => MeV",
+      "count": 1
+    },
+    {
+      "change": "MeV (TIGR MeV) => MeV",
+      "count": 1
+    },
+    {
+      "change": "MG2C (chromosome mapping) => MG2C",
+      "count": 1
+    },
+    {
+      "change": "MG2C (MapGene2Chrom) => MG2C",
+      "count": 1
+    },
+    {
+      "change": "MG2C (MapGene2Chromosome) => MG2C",
+      "count": 1
+    },
+    {
+      "change": "MUSCLE (alignment) => MUSCLE",
+      "count": 1
+    },
+    {
+      "change": "Muscle (for sequence alignment) => Muscle",
+      "count": 1
+    },
+    {
+      "change": "Muscle (multiple sequence alignment) => Muscle",
+      "count": 1
+    },
+    {
+      "change": "MUSCLE (sequence alignment) => MUSCLE",
+      "count": 1
+    },
+    {
+      "change": "ngLOC (subcellular localization) => ngLOC",
+      "count": 1
+    },
+    {
+      "change": "Non-invasive Micro-test Technology (NMT) for ion flux measurement => Non-invasive Micro-test Technology for ion flux measurement",
+      "count": 1
+    },
+    {
+      "change": "Online duplication tool (http://chibba. agtec. uga. edu/duplication/) => Online duplication tool",
+      "count": 1
+    },
+    {
+      "change": "PAL2NAL & PAML CODEML (Ka/Ks calculation) => PAL2NAL & PAML CODEML",
+      "count": 1
+    },
+    {
+      "change": "PAML (CODEML) => PAML",
+      "count": 1
+    },
+    {
+      "change": "PAML (PAL2NAL) => PAML",
+      "count": 1
+    },
+    {
+      "change": "pCAMBIA1300-eGFP vector (subcellular localization) => pCAMBIA1300-eGFP vector",
+      "count": 1
+    },
+    {
+      "change": "Pfam (PF02365) => Pfam",
+      "count": 1
+    },
+    {
+      "change": "Pfam (via HMMER) => Pfam",
+      "count": 1
+    },
+    {
+      "change": "Pfam (via InterProScan) => Pfam",
+      "count": 1
+    },
+    {
+      "change": "PLACE database (cis-element analysis) => PLACE database",
+      "count": 1
+    },
+    {
+      "change": "Plant Subcellular Localization Integrator - PSI (subcellular localization) => Plant Subcellular Localization Integrator - PSI",
+      "count": 1
+    },
+    {
+      "change": "Plant transformation (Agrobacterium) => Plant transformation",
+      "count": 1
+    },
+    {
+      "change": "Plant-mPLoc & WoLF PSORT (subcellular localization) => Plant-mPLoc & WoLF PSORT",
+      "count": 1
+    },
+    {
+      "change": "PlantCARE (cis-element prediction) => PlantCARE",
+      "count": 1
+    },
+    {
+      "change": "PlantCARE (for cis-element prediction); Primer3 for primer design; CFX Manager for qPCR data => PlantCARE ; Primer3 for primer design; CFX Manager for qPCR data",
+      "count": 1
+    },
+    {
+      "change": "PlantCARE (promoter analysis) => PlantCARE",
+      "count": 1
+    },
+    {
+      "change": "PlantCARE (promoter cis-element analysis) => PlantCARE",
+      "count": 1
+    },
+    {
+      "change": "plantCARE => PlantCARE",
+      "count": 1
+    },
+    {
+      "change": "Primer Premier (for primer design) => Primer Premier",
+      "count": 1
+    },
+    {
+      "change": "PSI (plant subcellular localization integrative predictor) => PSI",
+      "count": 1
+    },
+    {
+      "change": "PSI (Plant Subcellular Localization Integrative Predictor) => PSI",
+      "count": 1
+    },
+    {
+      "change": "psRNATarget (for miR156 target prediction) => psRNATarget",
+      "count": 1
+    },
+    {
+      "change": "psRNATarget (for miRNA target prediction) => psRNATarget",
+      "count": 1
+    },
+    {
+      "change": "psRNATarget (miRNA prediction) => psRNATarget",
+      "count": 1
+    },
+    {
+      "change": "pYES2 vector (yeast heterologous expression) => pYES2 vector",
+      "count": 1
+    },
+    {
+      "change": "RSEM (FPKM calculation) => RSEM",
+      "count": 1
+    },
+    {
+      "change": "seqfinder (R package for filtering longest transcripts) => seqfinder",
+      "count": 1
+    },
+    {
+      "change": "SeqKit (sequence extraction) => SeqKit",
+      "count": 1
+    },
+    {
+      "change": "SoftBerry (FGENESH) => SoftBerry",
+      "count": 1
+    },
+    {
+      "change": "SPSS (statistics) => SPSS",
+      "count": 1
+    },
+    {
+      "change": "STRING (for PPI networks) => STRING",
+      "count": 1
+    },
+    {
+      "change": "STRING (PPI network) => STRING",
+      "count": 1
+    },
+    {
+      "change": "StringTie (transcript assembly) => StringTie",
+      "count": 1
+    },
+    {
+      "change": "Subcellular localization (confocal microscopy) => Subcellular localization",
+      "count": 1
+    },
+    {
+      "change": "SWISS MODEL (3D structure prediction) => SWISS MODEL",
+      "count": 1
+    },
+    {
+      "change": "TBtools (Circos module) => TBtools",
+      "count": 1
+    },
+    {
+      "change": "TBtools (collinearity analysis) => TBtools",
+      "count": 1
+    },
+    {
+      "change": "TBtools (collinearity with other species) => TBtools",
+      "count": 1
+    },
+    {
+      "change": "TBtools (collinearity) => TBtools",
+      "count": 1
+    },
+    {
+      "change": "TBtools (Ka/Ks calculator) => TBtools",
+      "count": 1
+    },
+    {
+      "change": "TBtools (Multiple Synteny Plot) => TBtools",
+      "count": 1
+    },
+    {
+      "change": "TBtools (synteny plotting) => TBtools",
+      "count": 1
+    },
+    {
+      "change": "TMHHM (transmembrane prediction) => TMHHM",
+      "count": 1
+    },
+    {
+      "change": "TMHMM (transmembrane domains) => TMHMM",
+      "count": 1
+    },
+    {
+      "change": "TMPRED (transmembrane) => TMPRED",
+      "count": 1
+    },
+    {
+      "change": "Triticeae?GeneTribe (collinearity) => Triticeae?GeneTribe",
+      "count": 1
+    },
+    {
+      "change": "UPLC-MS/MS (enzyme assay) => UPLC-MS/MS",
+      "count": 1
+    },
+    {
+      "change": "various online servers for physicochemical properties (ExPASy implied) => various online servers for physicochemical properties",
+      "count": 1
+    },
+    {
+      "change": "WEBLOGO (sequence logos) => WEBLOGO",
+      "count": 1
+    },
+    {
+      "change": "WoLF PSORT (for subcellular localization) => WoLF PSORT",
+      "count": 1
+    },
+    {
+      "change": "WOLF PSORT (for subcellular localization) => WoLF PSORT",
+      "count": 1
+    },
+    {
+      "change": "WOLF PSORT (subcellular localization) => WoLF PSORT",
+      "count": 1
+    },
+    {
+      "change": "Wolf Psort => WoLF PSORT",
+      "count": 1
+    },
+    {
+      "change": "Wolfpsort (subcellular localization) => WoLF PSORT",
+      "count": 1
+    },
+    {
+      "change": "Wolfpsort => WoLF PSORT",
+      "count": 1
+    },
+    {
+      "change": "WOLFPSORT => WoLF PSORT",
+      "count": 1
+    },
+    {
+      "change": "YLoc (subcellular localization) => YLoc",
+      "count": 1
+    }
+  ]
+}
