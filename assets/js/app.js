@@ -64,7 +64,12 @@ const elements = {
   countUps: [...document.querySelectorAll(".count-up")],
   focusFilters: document.getElementById("focusFilters"),
   filtersPanel: document.getElementById("filtersPanel"),
+  menuToggle: document.getElementById("menuToggle"),
+  topnavLinks: document.getElementById("topnavLinks"),
+  mobileFilterToggle: document.getElementById("mobileFilterToggle"),
 };
+
+const isMobile = window.innerWidth <= 768;
 
 const state = {
   search: "",
@@ -81,8 +86,8 @@ const state = {
   qPCRonly: false,
   pdfOnly: true,
   sort: "paper-asc",
-  pageSize: 30,
-  visibleCount: 30,
+  pageSize: isMobile ? 5 : 30,
+  visibleCount: isMobile ? 5 : 30,
   view: "detailed",
   chartFocus: "all",
   compareIds: [],
@@ -1147,6 +1152,11 @@ function bind() {
 
   if (elements.focusFilters) {
     elements.focusFilters.addEventListener("click", () => {
+      // On mobile, the filters are in a drawer, so we need to open it
+      if (window.innerWidth <= 768 && elements.filtersPanel) {
+        elements.filtersPanel.classList.add("is-active");
+        if (elements.drawerOverlay) elements.drawerOverlay.hidden = false;
+      }
       elements.filtersPanel?.scrollIntoView({ behavior: "smooth", block: "start" });
       elements.searchInput?.focus();
     });
@@ -1195,19 +1205,6 @@ function bind() {
       closeAgent();
     });
   }
-
-  document.addEventListener("click", (event) => {
-    const target = event.target;
-    if (!(target instanceof Element)) return;
-    if (target.id === "agentClose") {
-      event.preventDefault();
-      closeAgent();
-    }
-    if (target.id === "agentFab") {
-      event.preventDefault();
-      openAgent();
-    }
-  });
 
   document.addEventListener("keydown", (event) => {
     if (event.key === "Escape" && elements.agentWindow && !elements.agentWindow.hidden) {
@@ -1271,9 +1268,65 @@ function runChatbotSelfTest() {
   return { pass, total: tests.length, pct: Math.round((pass / tests.length) * 100) };
 }
 
+function bindMobileToggles() {
+  if (elements.menuToggle && elements.topnavLinks) {
+    elements.menuToggle.addEventListener("click", () => {
+      elements.menuToggle.classList.toggle("is-active");
+      elements.topnavLinks.classList.toggle("is-active");
+    });
+
+    // Close menu when clicking a link
+    elements.topnavLinks.querySelectorAll(".topnav__link").forEach(link => {
+      link.addEventListener("click", () => {
+        elements.menuToggle.classList.remove("is-active");
+        elements.topnavLinks.classList.remove("is-active");
+      });
+    });
+  }
+
+  if (elements.mobileFilterToggle && elements.filtersPanel) {
+    elements.mobileFilterToggle.addEventListener("click", () => {
+      elements.filtersPanel.classList.add("is-active");
+      if (elements.drawerOverlay) elements.drawerOverlay.hidden = false;
+    });
+
+    // Reuse drawer overlay to close filters
+    if (elements.drawerOverlay) {
+      elements.drawerOverlay.addEventListener("click", () => {
+        elements.filtersPanel.classList.remove("is-active");
+        // Only hide if the main paper drawer is not also open
+        if (elements.paperDialog && !elements.paperDialog.classList.contains("is-open")) {
+          elements.drawerOverlay.hidden = true;
+        }
+      });
+    }
+
+    // Add a close button inside filters for mobile if it doesn't exist
+    if (!document.getElementById("closeFiltersMobile")) {
+      const closeBtn = document.createElement("button");
+      closeBtn.id = "closeFiltersMobile";
+      closeBtn.className = "button button--primary";
+      closeBtn.style.width = "100%";
+      closeBtn.style.marginTop = "24px";
+      closeBtn.style.padding = "14px";
+      closeBtn.textContent = "Apply & Close";
+      closeBtn.type = "button";
+      closeBtn.addEventListener("click", () => {
+        elements.filtersPanel.classList.remove("is-active");
+        if (elements.drawerOverlay) elements.drawerOverlay.hidden = true;
+      });
+      elements.filtersPanel.appendChild(closeBtn);
+    }
+  }
+}
+
 renderMetrics();
 animateCounters();
 bind();
+if (elements.pageSizeSelect) {
+  elements.pageSizeSelect.value = state.pageSize;
+}
+bindMobileToggles();
 render();
 const evalScore = runChatbotSelfTest();
 appendChat(

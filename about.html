@@ -5,7 +5,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>About & Methods | PGF-Explorer: An Interactive Database for Plant Gene Family Meta-Analysis</title>
-  <link rel="stylesheet" href="./assets/css/styles.css" />
+  <link rel="stylesheet" href="./assets/css/styles.css?v=1.0.1" />
 </head>
 
 <body>
@@ -19,11 +19,14 @@
         </span>
         <span class="topnav__brand-text">PGF-Explorer</span>
       </a>
-      <div class="topnav__links">
+      <div class="topnav__links" id="topnavLinks">
         <a class="topnav__link" href="./index.html">Explorer</a>
         <a class="topnav__link" href="./resources.html">Resources</a>
         <a class="topnav__link is-active" href="./about.html">About</a>
       </div>
+      <button class="topnav__menu-toggle" id="menuToggle" aria-label="Toggle menu" type="button">
+        <span class="hamburger"></span>
+      </button>
     </div>
   </nav>
 
@@ -219,9 +222,22 @@
       </section>
 
       <div class="footer-bottom">
-        <p>&copy; 2026 Muhammad Haris. All rights reserved.</p>
-        <p>This platform presents a curated scholarly dataset for literature exploration, synthesis, and reuse in academic work.</p>
-        <p style="margin-top: 8px;"><strong>License:</strong> The software code is licensed under the <a href="https://opensource.org/licenses/MIT" target="_blank" style="color: inherit; text-decoration: underline;">MIT License</a>. The dataset and curated content are licensed under the <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" style="color: inherit; text-decoration: underline;">CC BY 4.0 License</a>.</p>
+        <span class="copyright-tag">&copy; 2026 Muhammad Haris. All rights reserved.</span>
+        
+        <p class="legal-disclaimer">
+          This platform presents a curated scholarly dataset for literature exploration, synthesis, and reuse in academic work.
+        </p>
+
+        <div class="license-strip">
+          <div class="license-pill">
+            <span class="license-pill__type">Code</span>
+            <a href="https://opensource.org/licenses/MIT" target="_blank" class="license-pill__link">MIT License</a>
+          </div>
+          <div class="license-pill">
+            <span class="license-pill__type">Data</span>
+            <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" class="license-pill__link">CC BY 4.0</a>
+          </div>
+        </div>
       </div>
     </div>
   </footer>

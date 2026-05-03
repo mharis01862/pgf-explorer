@@ -5,7 +5,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Resources | PGF-Explorer: An Interactive Database for Plant Gene Family Meta-Analysis</title>
-  <link rel="stylesheet" href="./assets/css/styles.css" />
+  <link rel="stylesheet" href="./assets/css/styles.css?v=1.0.1" />
 </head>
 
 <body>
@@ -19,13 +19,23 @@
         </span>
         <span class="topnav__brand-text">PGF-Explorer</span>
       </a>
-      <div class="topnav__links">
+      <div class="topnav__links" id="topnavLinks">
         <a class="topnav__link" href="./index.html">Explorer</a>
         <a class="topnav__link is-active" href="./resources.html">Resources</a>
         <a class="topnav__link" href="./about.html">About</a>
       </div>
+      <button class="topnav__menu-toggle" id="menuToggle" aria-label="Toggle menu" type="button">
+        <span class="hamburger"></span>
+      </button>
     </div>
   </nav>
+
+  <header class="hero hero--compact">
+    <div class="hero__content">
+      <h1>Research Resources</h1>
+      <p class="eyebrow">Export Dataset Citations and Reproducibility Packages</p>
+    </div>
+  </header>
 
   <main class="page">
     <section class="panel panel--wide">
@@ -61,6 +71,60 @@
       </div>
     </section>
   </main>
+
+  <footer class="site-footer">
+    <div class="site-footer__glow site-footer__glow--left"></div>
+    <div class="site-footer__glow site-footer__glow--right"></div>
+    <div class="site-footer__inner">
+      <section class="footer-hero-card">
+        <p class="footer-kicker">Developed by</p>
+        <div class="footer-hero-layout">
+          <div>
+            <h2>Muhammad Haris</h2>
+            <p class="footer-lead">
+              <strong>Research Assistant</strong>
+              <br>Functional Genomics and Tissue Culture Lab, Department of Bioinformatics and Biotechnology
+              <br>Government College University Faisalabad, Pakistan
+            </p>
+            <div class="footer-pills">
+              <a href="https://mharis01862.github.io/" target="_blank" rel="noreferrer"
+                class="footer-pill">Portfolio</a>
+              <a href="mailto:mharis.202101862@gcuf.edu.pk" class="footer-pill">Email</a>
+              <a href="https://orcid.org/0009-0005-5162-052X" target="_blank" rel="noreferrer"
+                class="footer-pill">ORCID</a>
+              <a href="https://github.com/mharis01862" target="_blank" rel="noreferrer" class="footer-pill">GitHub</a>
+            </div>
+          </div>
+          <div class="author-badge-card">
+            <div class="author-badge">MH</div>
+            <div class="author-badge__meta">
+              <strong>Muhammad Haris</strong>
+              <span>Research Assistant</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <div class="footer-bottom">
+        <span class="copyright-tag">&copy; 2026 Muhammad Haris. All rights reserved.</span>
+        
+        <p class="legal-disclaimer">
+          This platform presents a curated scholarly dataset for literature exploration, synthesis, and reuse in academic work.
+        </p>
+
+        <div class="license-strip">
+          <div class="license-pill">
+            <span class="license-pill__type">Code</span>
+            <a href="https://opensource.org/licenses/MIT" target="_blank" class="license-pill__link">MIT License</a>
+          </div>
+          <div class="license-pill">
+            <span class="license-pill__type">Data</span>
+            <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" class="license-pill__link">CC BY 4.0</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
 
   <script src="./assets/js/resources.js" type="module"></script>
 </body>
