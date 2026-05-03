@@ -4,5 +4,4 @@ Thumbs.db
 *.log
 .env
 
-# Ignore large PDFs to allow GitHub hosting
-database/*.pdf
+# Note: database/*.pdf is intentionally NOT ignored based on user preference to keep PDFs in the repo.

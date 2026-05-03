@@ -4,10 +4,10 @@ import { fileURLToPath } from "node:url";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const rootDir = path.resolve(__dirname, "..", "..");
-const rawCsvPath = path.join(rootDir, "database", "Data.csv");
+const rootDir = path.resolve(__dirname, "..");
+const rawCsvPath = path.join(rootDir, "raw_data", "Data.csv");
 const pdfDir = path.join(rootDir, "database");
-const outDir = path.resolve(__dirname, "..", "data");
+const outDir = path.join(rootDir, "data");
 
 fs.mkdirSync(outDir, { recursive: true });
 

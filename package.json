@@ -1,0 +1,12 @@
+{
+  "name": "pgf-explorer",
+  "version": "1.0.0",
+  "description": "Interactive Database for Plant Gene Family Meta-Analysis",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/serve-local.mjs",
+    "build": "node scripts/build-database.mjs"
+  },
+  "author": "Muhammad Haris",
+  "license": "MIT"
+}
